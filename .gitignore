@@ -13,8 +13,12 @@ build/
 # Output files
 jobs.json
 indeed_jobs.json
+gsg_jobs.json
 page_debug.html
 indeed_debug.html
+gsg_debug.html
+gsg_debug.png
+gsg_api_debug.json
 
 # IDE
 .vscode/
