@@ -98,51 +98,39 @@ def scrape_acc_resources(headless=True):
 
             # Check if there's a next page (footable pagination)
             try:
-                # Look for the next button (›) in footable pagination
-                next_button = page.query_selector('ul.pagination a[data-page="next"]:not(.disabled), ul.pagination li.next:not(.disabled) a')
+                # Determine total pages on first iteration
+                if current_page == 1:
+                    # Get all page number links to find total pages
+                    page_numbers = page.query_selector_all('ul.pagination li:not(.footable-page-nav) a, ul.pagination li:not(.footable-page-nav) span')
+                    max_page = 0
+                    for pn in page_numbers:
+                        text = pn.inner_text().strip()
+                        if text.isdigit():
+                            max_page = max(max_page, int(text))
+                    if max_page > 0:
+                        total_pages = max_page
+                        print(f"Total pages detected: {total_pages}")
 
-                # If no explicit next button, try to find the next page number
-                if not next_button or not next_button.is_visible():
-                    # Find the current active page
-                    active_page = page.query_selector('ul.pagination li.active a, ul.pagination li.active span')
-                    if active_page:
-                        current_page_text = active_page.inner_text().strip()
-                        if current_page_text.isdigit():
-                            next_page_num = str(int(current_page_text) + 1)
-                            # Find and click the next page number
-                            pagination_links = page.query_selector_all('ul.pagination li:not(.disabled):not(.active) a')
-                            for link in pagination_links:
-                                link_text = link.inner_text().strip()
-                                if link_text == next_page_num:
-                                    next_button = link
-                                    break
+                # Look for the next button (›) - use simple selector
+                next_button = page.query_selector('ul.pagination a:has-text("›")')
 
-                if next_button and next_button.is_visible():
-                    # Determine total pages if we haven't yet
-                    if not total_pages:
-                        # Get all page number links
-                        page_numbers = page.query_selector_all('ul.pagination li:not(.disabled):not(.prev):not(.next):not(.first):not(.last) a')
-                        if page_numbers:
-                            # Look for the highest page number visible
-                            max_visible = 0
-                            for pn in page_numbers:
-                                text = pn.inner_text().strip()
-                                if text.isdigit():
-                                    max_visible = max(max_visible, int(text))
-                            if max_visible > 0:
-                                # Check if there's a "..." which indicates more pages
-                                if page.query_selector('ul.pagination li:has-text("...")'):
-                                    print(f"Multiple pages detected (at least {max_visible}+)")
-                                else:
-                                    total_pages = max_visible
-                                    print(f"Total pages detected: {total_pages}")
+                # Check if next button is disabled by checking parent li
+                if next_button:
+                    is_disabled = page.evaluate('''(btn) => {
+                        const li = btn.closest('li');
+                        return li && li.classList.contains('disabled');
+                    }''', next_button)
 
-                    print(f"Navigating to page {current_page + 1}...")
-                    next_button.click()
-                    current_page += 1
-                    time.sleep(3)  # Wait for new page to load
+                    if not is_disabled:
+                        print(f"Navigating to page {current_page + 1}...")
+                        next_button.click()
+                        current_page += 1
+                        time.sleep(3)  # Wait for new page to load
+                    else:
+                        print(f"\nReached last page ({current_page} of {total_pages if total_pages else 'unknown'})")
+                        break
                 else:
-                    print("\nNo more pages found.")
+                    print("\nNo next button found.")
                     break
 
             except Exception as e:
