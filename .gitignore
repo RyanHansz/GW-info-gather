@@ -14,6 +14,7 @@ build/
 jobs.json
 indeed_jobs.json
 gsg_jobs.json
+acc_resources.json
 page_debug.html
 indeed_debug.html
 gsg_debug.html
