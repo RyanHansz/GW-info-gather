@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Output files
+jobs.json
+indeed_jobs.json
+page_debug.html
+indeed_debug.html
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
