@@ -68,11 +68,19 @@ def extract_job_details(page, job_url):
     return details
 
 
-def scrape_indeed_jobs(headless=True):
+def scrape_indeed_jobs(headless=True, use_company_page=True):
     """
     Scrapes Goodwill Central Texas job postings from Indeed with detailed information
+
+    Args:
+        headless: Whether to run browser in headless mode
+        use_company_page: If True, scrape from company page; if False, use search results
     """
-    url = "https://www.indeed.com/q-goodwill-central-texas-l-austin,-tx-jobs.html?vjk=1db5c23c9b0ed3dc"
+    if use_company_page:
+        url = "https://www.indeed.com/cmp/Goodwill-Central-Texas/jobs"
+    else:
+        url = "https://www.indeed.com/q-goodwill-central-texas-l-austin,-tx-jobs.html?vjk=1db5c23c9b0ed3dc"
+
     jobs = []
 
     with sync_playwright() as p:
@@ -139,25 +147,35 @@ def scrape_indeed_jobs(headless=True):
             try:
                 job_data = {}
 
-                # Extract job title
+                # Extract job title - try multiple selectors
                 title_elem = card.query_selector('h2.jobTitle a span')
                 if not title_elem:
                     title_elem = card.query_selector('h2.jobTitle span[title]')
+                if not title_elem:
+                    title_elem = card.query_selector('h2.jobTitle a')
+                if not title_elem:
+                    title_elem = card.query_selector('a[data-jk]')  # Company page format
                 if title_elem:
                     job_data['title'] = title_elem.inner_text().strip()
 
-                # Extract company name
+                # Extract company name - company pages may not show it
                 company_elem = card.query_selector('span[data-testid="company-name"]')
                 if company_elem:
                     job_data['company'] = company_elem.inner_text().strip()
+                elif use_company_page:
+                    job_data['company'] = 'Goodwill Industries of Central Texas'
 
                 # Extract location
                 location_elem = card.query_selector('div[data-testid="text-location"]')
+                if not location_elem:
+                    location_elem = card.query_selector('div.companyLocation')  # Company page format
                 if location_elem:
                     job_data['location'] = location_elem.inner_text().strip()
 
                 # Extract salary if available
                 salary_elem = card.query_selector('div[data-testid="attribute_snippet_testid"]')
+                if not salary_elem:
+                    salary_elem = card.query_selector('div.salary-snippet')
                 if salary_elem:
                     salary_text = salary_elem.inner_text().strip()
                     if salary_text:
@@ -165,32 +183,56 @@ def scrape_indeed_jobs(headless=True):
 
                 # Extract job snippet/description
                 snippet_elem = card.query_selector('div.underShelfFooter ul li')
+                if not snippet_elem:
+                    snippet_elem = card.query_selector('div.job-snippet')
                 if snippet_elem:
                     job_data['snippet'] = snippet_elem.inner_text().strip()
 
-                # Extract job URL
+                # Extract job URL - handle both search and company page formats
                 link_elem = card.query_selector('h2.jobTitle a')
+                if not link_elem:
+                    link_elem = card.query_selector('a[data-jk]')  # Company page format
                 if link_elem:
                     href = link_elem.get_attribute('href')
-                    if href:
+                    if href and href != '#':
                         if href.startswith('/'):
                             job_data['url'] = f"https://www.indeed.com{href}"
-                        else:
+                        elif href.startswith('http'):
                             job_data['url'] = href
+                        else:
+                            job_data['url'] = f"https://www.indeed.com/viewjob?jk={href}"
 
-                        # Extract job key from URL
+                        # Extract job key from URL or data attribute
                         if 'jk=' in href:
                             job_key = href.split('jk=')[1].split('&')[0]
                             job_data['job_key'] = job_key
+                        else:
+                            # Try to get from data-jk attribute
+                            data_jk = link_elem.get_attribute('data-jk')
+                            if data_jk:
+                                job_data['job_key'] = data_jk
+                                if 'url' not in job_data:
+                                    job_data['url'] = f"https://www.indeed.com/viewjob?jk={data_jk}"
 
                 # Extract posted date
                 date_elem = card.query_selector('span[data-testid="myJobsStateDate"]')
+                if not date_elem:
+                    date_elem = card.query_selector('span.date')
                 if date_elem:
                     job_data['posted_date'] = date_elem.inner_text().strip()
 
                 if job_data and job_data.get('title'):
-                    jobs.append(job_data)
-                    print(f"  ✓ {idx}. {job_data.get('title')} - {job_data.get('company', 'N/A')}")
+                    # Check for duplicates based on title and location
+                    is_duplicate = any(
+                        j.get('title') == job_data.get('title') and
+                        j.get('location') == job_data.get('location')
+                        for j in jobs
+                    )
+                    if not is_duplicate:
+                        jobs.append(job_data)
+                        print(f"  ✓ {idx}. {job_data.get('title')} - {job_data.get('company', 'N/A')}")
+                    else:
+                        print(f"  ⚠ {idx}. {job_data.get('title')} - Duplicate, skipping")
 
             except Exception as e:
                 print(f"  ✗ Error extracting job {idx}: {e}")

@@ -164,7 +164,7 @@ All JSON output files are stored here:
 
 ### Scraped Data (JSON)
 - `jobs.json` - Goodwill Central Texas jobs (92 current postings)
-- `indeed_jobs.json` - Indeed job postings (5 listings)
+- `indeed_jobs.json` - Indeed job postings (3 listings from company page)
 - `gsg_jobs.json` - GSG Talent Solutions jobs (15 current postings)
 - `acc_resources.json` - ACC community resources (371 resources)
 - `housing_properties.json` - Austin affordable housing properties (571 properties)
