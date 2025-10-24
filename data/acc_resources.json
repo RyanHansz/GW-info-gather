@@ -1,0 +1,3342 @@
+{
+  "scraped_at": "2025-10-24T10:21:55.873106",
+  "source": "Austin Community College - Basic Needs Resources",
+  "url": "https://students.austincc.edu/social-support/",
+  "total_resources": 371,
+  "resources": [
+    {
+      "type": "Legal",
+      "name": "ACC's Notary Service",
+      "description": "Free on-campus notary services for students needing help with ACC-specific documents, provided by faculty and staff.",
+      "website": "https://docs.google.com/spreadsheets/d/1X9MN58n4J8DPzVIihxyO38TZxXGFAiUxv8lzADejIXk/edit?usp=sharing",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "COA Cold Weather Shelter Activation Information",
+      "description": "Hotel vouchers will be provided to families with children and unaccompanied minors seeking shelter during activation periods. The vouchers will cover the cost of lodging for a designated period, with extensions available as needed based on availability.",
+      "website": "https://www.austintexas.gov/alerts#:~:text=Support%20for%20Families%20with%20Children%C2%A0",
+      "website_text": "Visit Website",
+      "phone": "512-972-5056",
+      "county": "Travis"
+    },
+    {
+      "type": "Income",
+      "name": "Austin Chamber Job Board",
+      "description": "Up-to-date lists of available job opportunities in Austin by company.",
+      "website": "https://www.austinchamber.com/jobs",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "City of Austin Cooling Centers",
+      "description": "Due to extreme heat, Travis County Community Centers, Austin Public Libraries, and Community Recreation Centers will serve as Cooling Centers during operating hours. They offer a place to cool down, refill water bottles, and use restrooms. Service animals are allowed.",
+      "website": "https://www.austintexas.gov/alerts",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "City of Austin Pools and Splash Pads",
+      "description": "The City of Austin offers pools and splash pads with different schedules and fees (many are free) by location.",
+      "website": "https://www.austintexas.gov/pools-splashpads",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Southside Community Center",
+      "description": "The Southside Community Cooling Center is open during heat waves and provides water and snacks to vistors along with a free meal served daily at 4 PM.",
+      "website": "https://www.southsidecommunitycenter.org/coolingcenter",
+      "website_text": "Visit Website",
+      "phone": "512-392-6694",
+      "county": "Hays"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "City of Kyle Pools and Splash Pads",
+      "description": "The City of Kyle has 1 pool and 2 splash pads that can be used to stay cool during heat waves. Pool hours and admission rates vary, but the splash pads are free and open daily from 8 AM - 9 PM.",
+      "website": "https://www.cityofkyle.com/recreation/page/aquatics-james-adkins-pool",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Hays"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Kyle Cooling Center",
+      "description": "In the event of extreme heat, Kyle Public Library will serve as a Cooling Center during normal operating hours. It offers a place to get cool, refill water bottles and use restroom facilities. Service animals are permitted inside.",
+      "website": "https://www.cityofkyle.com/library",
+      "website_text": "Visit Website",
+      "phone": "512-268-7411",
+      "county": "Hays"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Williamson County Splash Pads",
+      "description": "The Quarry Splash Pad is open from Wed - Sun from 10 AM - 6 PM during the summer season. It provides a way to stay cool in hot weather. A standard $2 fee is required for entry.",
+      "website": "https://www.wilcotx.gov/1484/Quarry-Splash-Pad",
+      "website_text": "Visit Website",
+      "phone": "512-943-1920",
+      "county": "Williamson, Bastrop"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Bastrop Public Library",
+      "description": "The Bastrop Public Library is not an official Cooling Center, but individuals are welcome to visit during normal operating hours and use library facilities to cool down, refill water bottles, and use the restroom. Operating hours vary.",
+      "website": "https://www.cityofbastrop.org/page/lib.home",
+      "website_text": "Visit Website",
+      "phone": "512-332-8880",
+      "county": "Bastrop"
+    },
+    {
+      "type": "Child Care",
+      "name": "ACC's Resources for Child Care",
+      "description": "Help finding child care services during the day or evening, offering affordable rates for low-income families or child care scholarships. Some services are offered at a sliding scale, and Spanish services are provided.",
+      "website": "https://students.austincc.edu/personal-resources/child-care-for-college-students/",
+      "website_text": "Visit Website",
+      "phone": "512-223-5200",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Child Care",
+      "name": "ACC's Student Advocacy Center",
+      "description": "Specialized assistance and referrals to students who would benefit from additional assistance to overcome challenges and complete their education, including child care scholarships and textbook loan/purchase assistance programs.",
+      "website": "https://www.austincc.edu/students/student-advocacy-center",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Child Care",
+      "name": "AISD Head Start",
+      "description": "The tuition-free, full-day, AISD Head Start Pre-K3 Program offers a child care program that provides free food at no cost to parents.",
+      "website": "https://www.austinisd.org/early-childhood/head-start",
+      "website_text": "Visit Website",
+      "phone": "512-414-4752",
+      "county": "Travis"
+    },
+    {
+      "type": "Child Care",
+      "name": "Austin After School Programs",
+      "description": "Find after-school programs and apply for financial aid for free lunches and low-cost registration for youth programs and services.",
+      "website": "https://www.austintexas.gov/department/after-school-programs",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Child Care",
+      "name": "Search Texas Child Care",
+      "description": "Search a child care database to find daycare providers and support for adoption or foster care. Bilingual services available.",
+      "website": "https://www.dfps.texas.gov/Child_Care/Search_Texas_Child_Care/default.asp",
+      "website_text": "Visit Website - English",
+      "phone": "512-834-3426",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Child Care",
+      "name": "Texas Child Care Availability Portal",
+      "description": "Find child care to meet specific family needs with additional resources like after-school programs, bilingual resources, adoption, and more.",
+      "website": "https://find.childcare.texas.gov/welcome",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Child Care",
+      "name": "Workforce Solutions Capital Area",
+      "description": "Subsidized multilingual child care services and family resources. This resource is also available in Spanish.",
+      "website": "https://www.wfscapitalarea.com//our-services/childcare/",
+      "website_text": "Visit Website",
+      "phone": "512-549-4967",
+      "county": "Travis"
+    },
+    {
+      "type": "Child Care",
+      "name": "Workforce Solutions Rural Capital Area",
+      "description": "Subsidized child care assistance available to families with low or moderate incomes.",
+      "website": "https://workforcesolutionsrca.com/childcare",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "ACC's Mental Health Counseling",
+      "description": "ACC students can schedule a free therapy appointment or be referred to a counselor who will provide guidance and mental health support through District Clinical Counseling: Submit a service request",
+      "website": "https://students.austincc.edu/mental-health-counseling/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "ACC's Title IX - Sexual Misconduct Assistance",
+      "description": "Addressing concerns or inquiries regarding discrimination on the basis of sex, including sexual harassment, sexual assault, dating violence, domestic violence, stalking, and gender-based harassment.",
+      "website": "https://www.austincc.edu/offices/equal-opportunity-compliance/title-ix",
+      "website_text": "Visit Website",
+      "phone": "512-223-7964",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Affordable Counseling in Austin",
+      "description": "A comprehensive guide to affordable sliding scale therapy and mental health services available in the Austin area for individuals experiencing low income. No insurance required.",
+      "website": "https://justmind.org/affordable-counseling-in-austin/",
+      "website_text": "Visit Website",
+      "phone": "512-729-5022",
+      "county": "Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Bluebonnet Trails Community Services",
+      "description": "Income-based sliding scale behavioral health, mental health, and IDD services. No insurance is required and Spanish services are provided.",
+      "website": "http://bbtrails.org/behavioral-health-services/",
+      "website_text": "Visit Website",
+      "phone": "844-309-6385",
+      "county": "Bastrop, Burnet, Caldwell, Lee, Williamson"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Call Blackline",
+      "description": "Peer support and counseling for marginalized peoples. Blackline uplifts the LGBTQIA+ BIPOC populations, however, all are welcome.",
+      "website": "https://www.callblackline.com/",
+      "website_text": "Visit Website",
+      "phone": "800-604-5841",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Capital Area Counseling",
+      "description": "Income-based affordable mental health & counseling services. No insurance is required and a sliding scale is available.",
+      "website": "https://cacaustin.org/",
+      "website_text": "Visit Website",
+      "phone": "512-302-1000",
+      "county": "Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "CommUnityCare Clinics",
+      "description": "Walk-in primary care with 28 locations in Travis County and 1 in Bastrop.",
+      "website": "https://communitycaretx.org/locations/",
+      "website_text": "Visit Website",
+      "phone": "512-978-9015",
+      "county": "Travis, Bastrop"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Hand to Hold",
+      "description": "Counseling for NICU parents looking to process their birth experience or seek treatment for possible perinatal mood and anxiety disorders.",
+      "website": "https://handtohold.org/counseling/",
+      "website_text": "Visit Website",
+      "phone": "855-424-6428",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Lifeworks",
+      "description": "Affordable mental health support via counseling, shared psychiatric services, resolution services, and child counseling. No insurance is required and services are offered in Spanish.",
+      "website": "https://www.lifeworksaustin.org/counseling",
+      "website_text": "Visit Website",
+      "phone": "512-735-2100",
+      "county": "Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Lone Star Circle of Care",
+      "description": "Affordable sliding scale mental health support via therapy. Services are offered in Spanish and ASL.",
+      "website": "https://lonestarcares.org/service/behavioral-mental-health/",
+      "website_text": "Visit Website",
+      "phone": "877-800-5722",
+      "county": "Williamson, Burnet, Travis, Bastrop"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "SAFE Alliance",
+      "description": "Free peer support, counseling, shelter, forensic nursing exams, and legal services for those fleeing a variety of abuse. 24/7 hotline support is available via call, text, or online chat.",
+      "website": "https://www.safeaustin.org/get-help/",
+      "website_text": "Visit Website - English",
+      "phone": "Call: 512-267-7233 Text: 737-888-7233",
+      "county": "Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Samaritan Center Healthy Community",
+      "description": "Free and low-cost counseling for families or individuals who meet income-based or financial hardship eligibility.",
+      "website": "https://samaritan-center.org/healthy-community/",
+      "website_text": "Visit Website - English",
+      "phone": "512-451-7337",
+      "county": "Hays, Travis, Williamson"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "St. Edward’s Community Counseling Clinic",
+      "description": "Low-cost individual, relationship, and family counseling. Mental health services can be provided via virtual connection or in person.",
+      "website": "https://www.stedwards.edu/communityclinic",
+      "website_text": "Visit Website",
+      "phone": "512-317-2416",
+      "county": "Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "The Christi Center",
+      "description": "Free grief support via mental health services for any children, families, or individuals processing the death of a loved ones Central Texas.",
+      "website": "https://christicenter.org/",
+      "website_text": "Visit Website - English",
+      "phone": "512-467-2600",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "The Mental Wellness Network",
+      "description": "Directory of low cost/free mental health service providers.",
+      "website": "https://thementalwellnessnetwork.org/what-we-do/directory-of-mental-health-service-providers/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "The Trevor Project",
+      "description": "Information and support to LGBTQIA+ young people 24/7 call or text 678-678.",
+      "website": "https://www.thetrevorproject.org/",
+      "website_text": "Visit Website",
+      "phone": "866-488-7386",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Waterloo Counseling Center",
+      "description": "Provides affordable individual, group, and couples counseling for a sliding scale fee for low-income people. Specializes in LBGTQ issues.",
+      "website": "https://www.waterloocounseling.org/",
+      "website_text": "Visit Website",
+      "phone": "512-444-9922",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Youth Advocate Programs, Inc. Behavioral Health Services",
+      "description": "Behavioral health support to children and adolescents (ages 3-20) through crisis intervention, skills training, case management, psych evals, and more.",
+      "website": "https://www.yapinc.org/Locations/TXBH#TXBHref",
+      "website_text": "Visit Website",
+      "phone": "512-394-7249",
+      "county": "Travis, Williamson"
+    },
+    {
+      "type": "Dental",
+      "name": "ACC's Dental Hygiene Services",
+      "description": "Patients 6 yrs and older can get heavily discounted dental hygiene care by students.",
+      "website": "https://sites.austincc.edu/health/dhyg/patient-info/",
+      "website_text": "Visit Website",
+      "phone": "512-223-5710",
+      "county": "Travis"
+    },
+    {
+      "type": "Dental",
+      "name": "Bluebonnet Trails Community Services",
+      "description": "Affordable dental health care including routine dental exams, cleanings, fillings, crowns, dentures as well as periodontal cleaning and treatment.",
+      "website": "https://bbtrails.org/primary-care/",
+      "website_text": "Visit Website",
+      "phone": "512-321-7137",
+      "county": "Bastrop"
+    },
+    {
+      "type": "Dental",
+      "name": "CommuniCare",
+      "description": "Adult and children dental services. A discount program with a sliding scale is offered to low-income households.",
+      "website": "https://communicaresa.org/healthcare-services/dental-care/",
+      "website_text": "Visit Website",
+      "phone": "512-268-8900",
+      "county": "Hays"
+    },
+    {
+      "type": "Dental",
+      "name": "CommUnityCare Clinics",
+      "description": "Dental health services for MAP, Medicaid, and patients with no insurance. General and emergency services are available to uninsured patients with low-income.",
+      "website": "https://communitycaretx.org/services/dental-health/",
+      "website_text": "Visit Website",
+      "phone": "512-978-9015",
+      "county": "Travis"
+    },
+    {
+      "type": "Dental",
+      "name": "Lone Star Circle of Care",
+      "description": "Sliding Fee Discount Program dental services for patients with no insurance and low-income.",
+      "website": "https://lonestarcares.org/service/dentistry/",
+      "website_text": "Visit Website",
+      "phone": "877-800-5722",
+      "county": "Williamson, Bastrop"
+    },
+    {
+      "type": "Dental",
+      "name": "Manos de Cristo Dental Center",
+      "description": "Dental services at a reduced fee for children and adults.",
+      "website": "http://manosdecristo.org/need-our-help/dental-clinic/",
+      "website_text": "Visit Website",
+      "phone": "512-477-2319",
+      "county": "Travis"
+    },
+    {
+      "type": "Family",
+      "name": "ACC's Resources for Child Care",
+      "description": "Help finding child care services during the day or evening, offering affordable rates for low-income families or child care scholarships. Some services are offered at a sliding scale, and spanish services are provided.",
+      "website": "https://www.austincc.edu/students/child-care",
+      "website_text": "Visit Website",
+      "phone": "512-223-5200",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Family",
+      "name": "AISD Family Support Line",
+      "description": "Family support line available weekdays from 7am-5pm.",
+      "website": "",
+      "phone": "512-414-9187",
+      "county": "Travis"
+    },
+    {
+      "type": "Family",
+      "name": "AISD Head Start",
+      "description": "The tuition-free, full-day, AISD Head Start Pre-K3 Program offers a child care program that provides free food at no cost to parents.",
+      "website": "https://www.austinisd.org/early-childhood/head-start",
+      "website_text": "Visit Website",
+      "phone": "512-414-4752",
+      "county": "Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Any Baby Can",
+      "description": "Parent education and support, child development, and family health resources.",
+      "website": "https://anybabycan.org/",
+      "website_text": "Visit Website - English",
+      "phone": "512-454-3743",
+      "county": "Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Austin After School Programs",
+      "description": "Find after-school programs and apply for financial aid for free lunches and low-cost registration for youth programs and services.",
+      "website": "https://www.austintexas.gov/department/after-school-programs",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Austin Child Guidance Center",
+      "description": "Walk-in counseling sessions for children and parents.",
+      "website": "https://www.austinchildguidance.org/what-we-do/our-services/walk-in-clinic.html",
+      "website_text": "Visit Website - English",
+      "phone": "512-451-2242",
+      "county": "Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Austin Diaper Bank",
+      "description": "Search zip code to find diapers and other essential services through ConnectATX",
+      "website": "https://www.austindiapers.org/",
+      "website_text": "Visit Website",
+      "phone": "512-710-7232",
+      "county": "Travis, Williamson"
+    },
+    {
+      "type": "Family",
+      "name": "Aware Central Texas",
+      "description": "24/7 hotline and resources for those who have experienced abuse and trauma in Central Texas.",
+      "website": "https://www.awarecentraltexas.org/",
+      "website_text": "Visit Website",
+      "phone": "254-813-0968",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Family",
+      "name": "CHIP/Medicaid",
+      "description": "Medicaid and the Children's Health Insurance Program (CHIP) provides health coverage for low-income children, families, seniors, and people with disabilities.",
+      "website": "https://www.hhs.texas.gov/services/health/medicaid-chip",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Every Body Texas",
+      "description": "Find family planning providers, emergency contraception (like Plan B), sexual & reproductive healthcare information, and birth control.",
+      "website": "https://www.everybodytexas.org/",
+      "website_text": "Visit Website",
+      "phone": "512-448-4857",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Farmers Market Nutrition Program (FMNP)",
+      "description": "Fresh and locally grown produce (fruits and vegetables) for WIC participants. Eligible WIC participants are issued FMNP coupons in addition to their regular WIC benefits to be used at farmers' markets or roadside stands.",
+      "website": "https://www.fns.usda.gov/fmnp/overview",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Family",
+      "name": "Hand to Hold",
+      "description": "Counseling for NICU parents looking to process their birth experience or seek treatment for possible perinatal mood and anxiety disorders.",
+      "website": "https://handtohold.org/counseling/",
+      "website_text": "Visit Website",
+      "phone": "855-424-6428",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Hays-Caldwell Women's Center",
+      "description": "Providing information, violence prevention services, and crisis intervention to victims of family violence, dating violence, sexual assault and child abuse.",
+      "website": "http://www.hcwc.org/",
+      "website_text": "Visit Website",
+      "phone": "512-396-4357",
+      "county": "Hays, Caldwell"
+    },
+    {
+      "type": "Family",
+      "name": "Healthy Texas Women",
+      "description": "Women's health care and family planning services at no cost to eligible women in Texas with no insurance.",
+      "website": "https://www.healthytexaswomen.org/",
+      "website_text": "Visit Website - English",
+      "phone": "2-1-1 or 877-541-7905",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Hill Country Community Ministries",
+      "description": "Help with clothing, eye exams/glasses, diapers, and a job referral program with additional employment resources.",
+      "website": "https://hccm.org/get-help/other-assistance.html",
+      "website_text": "Visit Website",
+      "phone": "512-259-0360",
+      "county": "Williamson"
+    },
+    {
+      "type": "Family",
+      "name": "Lone Star Family Market",
+      "description": "An easy way for WIC participants to receive WIC-approved groceries.",
+      "website": "https://www.lonestarfamilymarket.com/",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Travis, Williamson, Hays"
+    },
+    {
+      "type": "Family",
+      "name": "Maternal Mental Health Hotline",
+      "description": "The hotline is accessible by phone or text at 1-833-9-HELP4MOMS (1-833-943-5746) in English and Spanish.",
+      "website": "https://mchb.hrsa.gov/national-maternal-mental-health-hotline",
+      "website_text": "Visit Website",
+      "phone": "833-943-5746",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Family",
+      "name": "T-Mobile Project 10Million",
+      "description": "Project 10Million offers free internet/data, free mobile hotspots, and access to low-cost laptops and tablets to K-12 eligible students participating in the National School Lunch Program (NSLP).",
+      "website": "https://www.t-mobile.com/business/education/project-10-million?icid=MGPO_TMO_U_20TENMM_N5ZH1361JIX6NMJ922748",
+      "website_text": "View Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Women Infants and Children (WIC)",
+      "description": "A benefits program for pregnant women or mothers of young children that provides healthy food (groceries), counseling, nutritionists, and other support.",
+      "website": "https://texaswic.org/about-wic",
+      "website_text": "View Website - English",
+      "phone": "800-942-3678",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "ACC's Money Management",
+      "description": "SMMO helps students manage their money by providing free financial coaching to help pay for college and other expenses, including but not limited to rent, utilities, groceries, tuition, textbooks, and loans.",
+      "website": "http://sites.austincc.edu/money/",
+      "website_text": "Visit Website",
+      "phone": "512-223-9331",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "ACC's Scholarships",
+      "description": "The ACC Foundation offers hundreds of scholarships to help pay for college. Only one application needs to be considered to receive tuition and textbook money. Visit the ACCelerators to speak with a Strategic Programs Specialist for help with the scholarship application. Submit application",
+      "website": "https://students.austincc.edu/scholarships/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "ACC's Student Advocacy Center",
+      "description": "Specialized assistance and referrals to students who would benefit from additional assistance to overcome challenges and complete their education, including child care scholarships and textbook loan/purchase assistance programs.",
+      "website": "https://www.austincc.edu/students/student-advocacy-center",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "ACC's Student Emergency Fund",
+      "description": "Helps pay for unexpected expenses such as housing, rent, utilities, transportation issues, child care, or tuition payment plan assistance.",
+      "website": "https://students.austincc.edu/student-emergency-fund/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Catholic Charities of Central Texas",
+      "description": "This resource offers rent, mortgage, and utility assistance.",
+      "website": "https://www.ccctx.org/financial-stability/",
+      "website_text": "Visit Website",
+      "phone": "512-651-6100",
+      "county": "Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Comprehensive Energy Assistance Program",
+      "description": "Help with paying electricity bill costs for low-income residents. This resource offers Spanish and multilingual services.",
+      "website": "https://www.communityaction.com/utilityassistance",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Caldwell, Hays, Blanco"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Opportunities for Williamson and Burnet Counties",
+      "description": "Financial assistance with electricity bill costs for low-income residents.",
+      "website": "https://www.owbc-tx.org/community-services/",
+      "website_text": "Visit Website",
+      "phone": "512-763-1400",
+      "county": "Williamson, Burnet"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Dripping Springs Helping Hands",
+      "description": "Offering emergency support to help pay for rent, utilities, or bills.",
+      "website": "https://www.helpinghands-drippingsprings.org/",
+      "website_text": "Visit Website",
+      "phone": "512-820-0476",
+      "county": "Hays"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Neighborhood Centers",
+      "description": "Help paying rent, utilities, or bills in an emergency. They accept phone calls only. This service is available in Spanish and multilingual.",
+      "website": "http://www.austintexas.gov/department/neighborhood-centers",
+      "website_text": "Visit Website",
+      "phone": "512-972-5780",
+      "county": "Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Operation Homefront",
+      "description": "The Critical Financial Assistance Program provides financial help for military/veteran families whose service member meets certain criteria to help pay for emergency expenses.",
+      "website": "https://operationhomefront.org/critical-financial-assistance/",
+      "website_text": "Visit Website",
+      "phone": "877-264-3968",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Prosper Centers",
+      "description": "Free financial coaching to help pay off loans, debt, and more. Bilingual staff is available.",
+      "website": "https://foundcom.org/financial-wellness/#:~:text=and%20Utility%20Assistance-,Financial%20Coaching,-One%2Don%2Done",
+      "website_text": "Visit Website",
+      "phone": "737-717-4000",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Round Rock Area Serving Center",
+      "description": "Help paying for rent, utilities, or bills. They also offer Spanish and multilingual services.",
+      "website": "https://www.rrasc.org/",
+      "website_text": "Visit Website",
+      "phone": "512-244-2431",
+      "county": "Williamson"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Salvation Army Williamson County Service Center",
+      "description": "Help paying for emergency rent and utility bills.",
+      "website": "https://salvationarmyaustin.org/texas-austin/williamson-county-service-center/",
+      "website_text": "Visit Website",
+      "phone": "512-943-8421",
+      "county": "Williamson"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "The Caring Place",
+      "description": "Financial Assistance for those in their service area includes rent, mortgage, housing deposit, utilities, transportation, and emergency dental and prescription assistance.",
+      "website": "https://www.caringplacetx.org",
+      "website_text": "Visit Website",
+      "phone": "512-943-0700",
+      "county": "Williamson"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Trans Lifeline",
+      "description": "Microgrants provide trans and nonbinary people with low-barrier funds and support to correct names and/or gender markers on identifying legal documents, fund gender-affirming permanent hair removal, and supply necessities for our trans siblings behind bars.",
+      "website": "https://translifeline.org/microgrants/",
+      "website_text": "Visit Website - English",
+      "phone": "877-565-8860",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Travis County Burial Service",
+      "description": "Help paying for funeral costs for individuals and families with low income to cover the cost of a burial or cremation. They also offer Spanish and multilingual services.",
+      "website": "https://www.traviscountytx.gov/health-human-services/burial",
+      "website_text": "Visit Website",
+      "phone": "512-854-1440",
+      "county": "Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Travis County Community Centers",
+      "description": "Rent, utilities, and mortgage bill payment assistance. They also offer Spanish and multilingual services.",
+      "website": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "ACC's Prohibition of Discrimination & Harassment",
+      "description": "ACC Administrative Rules (policy and procedures) provide information that helps students in addressing discrimination and harassment matters. Free support is offered but not limited to topics such as stalking, sexual assault, retaliation, title 9, domestic violence, and more.",
+      "website": "https://www.austincc.edu/offices/equal-opportunity-compliance/prohibition-of-discrimination-and-harassment",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Austin Family Institute",
+      "description": "A mental health resource offering affordable sliding scale therapy resources for individuals, couples, families, and group counseling. No insurance is required.",
+      "website": "http://www.austinfamilyinstitute.org/",
+      "website_text": "Visit Website",
+      "phone": "512-329-6611",
+      "county": "Travis"
+    },
+    {
+      "type": "Food",
+      "name": "2-1-1 Texas",
+      "description": "Search for food and other essential resources for any zip code in the state.",
+      "website": "https://www.211texas.org/",
+      "website_text": "Visit Website",
+      "phone": "211",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "ACC's Student Life",
+      "description": "Student Life maintains small food pantries on each campus that are free and available to all ACC students along with providing access to other community resources.",
+      "website": "https://sites.austincc.edu/sl/",
+      "website_text": "Visit Website",
+      "phone": "512-223-3114",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Angie's Discount Grocery",
+      "description": "A discount grocery store in Round Rock.",
+      "website": "https://angiesdiscountgrocery.com/",
+      "website_text": "Visit Website",
+      "phone": "512-502-5286",
+      "county": "Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "Caldwell County Food Pantry",
+      "description": "Receive two baskets of food per month and daily fresh produce.",
+      "website": "https://www.caldwellfoodpantry.com/",
+      "website_text": "Visit Website",
+      "phone": "512-376-6661",
+      "county": "Caldwell"
+    },
+    {
+      "type": "Food",
+      "name": "Central Texas Food Bank (CTFB)",
+      "description": "Monthly downloadable food access calendars and a search by zip code feature.",
+      "website": "https://www.centraltexasfoodbank.org/get-help",
+      "website_text": "Visit Website",
+      "phone": "512-684-2559",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "Double Up Food Bucks",
+      "description": "Double Up Food Bucks are extra food benefits (up to $30) for SNAP and WIC participants. SNAP can receive $1 for $1 at participating farmers’ markets, (SFC), farm stands, mobile markets (Farmshare Mobile Markets), and grocery stores across Texas.",
+      "website": "https://doubleuptexas.org/",
+      "website_text": "Website - English",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Dripping Springs Helping Hands",
+      "description": "Visit food pantry once weekly on Wednesday or Thursday and call about financial assistance opportunities.",
+      "website": "https://www.helpinghands-drippingsprings.org/",
+      "website_text": "Visit Website",
+      "phone": "512-820-0476",
+      "county": "Hays"
+    },
+    {
+      "type": "Food",
+      "name": "El Buen Samaritano",
+      "description": "Drive-thru food pantry with automatic qualification for assistance with SNAP, TANF, or Medicaid.",
+      "website": "https://elbuen.org/wellness/food-pantry/",
+      "website_text": "Visit Website",
+      "phone": "512-439-8900",
+      "county": "Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Farmers Market Nutrition Program (FMNP)",
+      "description": "Fresh and locally grown produce (fruits and vegetables) for WIC participants. Eligible WIC participants are issued FMNP coupons in addition to their regular WIC benefits to be used at farmers' markets or roadside stands.",
+      "website": "https://www.fns.usda.gov/fmnp/overview",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "Farmshare Mobile Markets",
+      "description": "Low-cost weekly fresh produce and groceries market that accepts SNAP.",
+      "website": "https://www.farmshareaustin.org/mobile-markets",
+      "website_text": "Visit Website",
+      "phone": "512-337-2211",
+      "county": "Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Fresh Food For All",
+      "description": "Fresh produce, eggs, bread and more distributed to anyone throughout the area. Monthly distributions at ACC's San Gabriel and Cypress Creek campuses.",
+      "website": "https://hccm.org/get-help/fresh-food-for-all.html",
+      "website_text": "Visit Website",
+      "phone": "512-259-0360",
+      "county": "Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "Lone Star Family Market",
+      "description": "An easy way for WIC participants to receive WIC-approved groceries.",
+      "website": "https://www.lonestarfamilymarket.com/",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Travis, Williamson, Hays"
+    },
+    {
+      "type": "Food",
+      "name": "Neighborhood Centers",
+      "description": "Food assistance to help low and moderate-income families along with basic needs services.",
+      "website": "http://www.austintexas.gov/department/neighborhood-centers",
+      "website_text": "Visit Website",
+      "phone": "311",
+      "county": "Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Operation Liberty Hill",
+      "description": "Food pantry services for residents of the Liberty Hill Independent School District.",
+      "website": "https://operationlh.org",
+      "website_text": "Visit Website",
+      "phone": "512-778-5077",
+      "county": "Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "Round Rock Area Serving Center",
+      "description": "Food staples, fresh produce (from 30+ gardens) and more.",
+      "website": "https://www.rrasc.org",
+      "website_text": "Visit Website",
+      "phone": "512-244-2431",
+      "county": "Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "SNAP - Supplemental Nutrition Assistance Program",
+      "description": "Assists low-income families purchase food at grocery stores. Visit our SNAP Benefits website to learn more about SNAP for students and families.",
+      "website": "https://hhs.texas.gov/services/food/snap-food-benefits",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "Southside Community Center",
+      "description": "Serving healthy dinner everyday to anybody needing a meal.",
+      "website": "https://www.southsidecommunitycenter.org/food",
+      "website_text": "Visit Website",
+      "phone": "512-392-6694",
+      "county": "Hays"
+    },
+    {
+      "type": "Food",
+      "name": "Texas Simplified Application Project (TSAP) for SNAP Food Benefits",
+      "description": "TSAP provides a simplified option for SNAP food benefits to Texas households where all household members are either older adults (age 60 and older) or people with disabilities.",
+      "website": "https://www.hhs.texas.gov/services/food/snap-food-benefits/texas-simplified-application-project-tsap-snap-food-benefits",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "The Caring Place",
+      "description": "Supplemental groceries and fresh food with no documentation required.",
+      "website": "https://www.caringplacetx.org",
+      "website_text": "Visit Website",
+      "phone": "512-943-0700",
+      "county": "Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "Travis County Community Centers",
+      "description": "Food pantry appointments at centers in Austin, Del Valle, Manor, Jonestown, Oak HIll and Pflugerville.",
+      "website": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Food",
+      "name": "USDA National Hunger Hotline",
+      "description": "Find food resources by calling 1-866-3-HUNGRY OR 1-877-8-HAMBRE OR text \"97779\"",
+      "website": "https://www.fns.usda.gov/partnerships/national-hunger-clearinghouse",
+      "website_text": "Visit Website",
+      "phone": "866-348-6479",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "Westover Helps",
+      "description": "Bags of food, basic supplies, and diapers.",
+      "website": "https://www.westover.org/food",
+      "website_text": "Visit Website",
+      "phone": "512-345-6386",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "Wimberley Crisis Bread Basket",
+      "description": "Food distributions, check website or call for info.",
+      "website": "https://crisisbreadbasket.org/",
+      "website_text": "Visit Website",
+      "phone": "512-847-5323",
+      "county": "Hays"
+    },
+    {
+      "type": "Food",
+      "name": "Women Infants and Children (WIC)",
+      "description": "A benefits program for pregnant women or mothers of young children that provides healthy food (groceries), counseling, nutritionists, and other support.",
+      "website": "https://texaswic.org/about-wic",
+      "website_text": "Visit Website - English",
+      "phone": "800-942-3678",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Bluebonnet Trails Community Services",
+      "description": "Medical and dental healthcare services.",
+      "website": "https://bbtrails.org/primary-care/",
+      "website_text": "Visit Website",
+      "phone": "512-321-7137",
+      "county": "Bastrop, Burnet, Caldwell, Lee, Williamson"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "CHIP, Medicaid, WIC & more",
+      "description": "Health benefits through a variety of state programs.",
+      "website": "https://www.hhs.texas.gov/services",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Food",
+      "name": "ACC's Food Access Calendar",
+      "description": "Find scheduled community food distributions on our Google calendar. Changes occur frequently, so please call resource to confirm when possible.",
+      "website": "Visit Website.",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "CHIP/Medicaid",
+      "description": "Medicaid and the Children's Health Insurance Program (CHIP) provide health coverage for low-income children, families, seniors and people with disabilities.",
+      "website": "https://www.hhs.texas.gov/services/health/medicaid-chip",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Angel House",
+      "description": "Sack breakfast and coffee 9:30-10. Sack lunch and soup 11-12:30. Anyone is welcome.",
+      "website": "",
+      "phone": "512-643-2327",
+      "county": "Travis"
+    },
+    {
+      "type": "Food",
+      "name": "ConnectATX",
+      "description": "Updated food access and other resources, searchable by ZIP code.",
+      "website": "https://www.unitedwayaustin.org/connectatx/",
+      "website_text": "Visit Website",
+      "phone": "833-512-2289",
+      "county": "Travis"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "County Indigent Health Care Program",
+      "description": "The County Indigent Health Care Program helps low-income Texas residents who don’t qualify for other state or federal health care programs have access to health care services.",
+      "website": "https://www.hhs.texas.gov/services/health/medicaid-chip",
+      "website_text": "Visit Website - English",
+      "phone": "800-222-3986, Ext. 6467",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Free Food",
+      "description": "A limited wiki-style list of food pantries across Texas.",
+      "website": "https://www.freefood.org/s/texas",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Every Texan Guide to Health Insurance Coverage",
+      "description": "A guide for young adults for accessing health and food resources in Texas.",
+      "website": "https://everytexan.org/our-work/policy-areas/health-care/guide-to-healthy-adulting-for-young-texans/?eType=EmailBlastContent&eId=3d2323a7-74f4-412a-976a-1ab85891203b",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Hays County Food Bank",
+      "description": "Regular weekly grocery distributions in Hays county for those with limited or disrupted incomes.",
+      "website": "https://www.haysfoodbank.org/get-help/",
+      "website_text": "Visit Website",
+      "phone": "512-392-8300",
+      "county": "Hays"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Hays County Indigent Health Care Program",
+      "description": "Health coverage for people living in Hays county who are ineligible for Medicaid and meet income requirements.",
+      "website": "https://www.hayscountytx.gov/indigent-heath",
+      "website_text": "Visit Website",
+      "phone": "512-393-5520",
+      "county": "Hays"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Health Alliance for Austin Musicians",
+      "description": "Provides access to affordable healthcare for Austin’s working musicians.",
+      "website": "https://www.myhaam.org/",
+      "website_text": "Visit Website",
+      "phone": "512-541-4226",
+      "county": "Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Home Delivery Program",
+      "description": "Participants enrolled in the program will receive a monthly box of shelf stable groceries, delivered in a contactless method directly to their home. All groceries and delivery are free of charge.",
+      "website": "https://www.centraltexasfoodbank.org/home-delivery-program",
+      "website_text": "Visit Website",
+      "phone": "512-972-6740",
+      "county": "Travis, Williamson"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Prescription Hope",
+      "description": "Save money on expensive medications.",
+      "website": "https://prescriptionhope.com/",
+      "website_text": "Visit Website",
+      "phone": "877-296-4673",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Healthcare.gov",
+      "description": "Get health coverage during the annual enrollment period or after a life change like losing a job, marriage, or birth.",
+      "website": "https://www.healthcare.gov/get-coverage/",
+      "website_text": "Visit Website - English",
+      "phone": "800-318-2596",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Patient Assistance Programs for Rx Drugs in Texas",
+      "description": "Savings on medications for all Texans.",
+      "website": "https://www.staterxplans.us/texas.html",
+      "website_text": "Visit Website",
+      "phone": "855-469-8979",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Healthy Texas Women",
+      "description": "Women's health care and family planning services at no cost to eligible women in Texas with no insurance.",
+      "website": "https://www.healthytexaswomen.org/",
+      "website_text": "Visit Website - English",
+      "phone": "2-1-1 or 877-541-7905",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Insure-A-Kid",
+      "description": "Receive assistance applying for low-cost health insurance through Medicaid and CHIP (Children's health insurance).",
+      "website": "https://www.dellchildrens.net/services-and-programs/insurance-options/insure-a-kid/",
+      "website_text": "Visit Website - English",
+      "phone": "512-324-0000 ext. 86703",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Medical Access Program (MAP)",
+      "description": "MAP provides health care coverage for Travis County residents with low income, who are not eligible for or enrolled in Medicaid or Medicare and do not have private insurance.",
+      "website": "https://www.centralhealth.net/map/",
+      "website_text": "Visit Website - English",
+      "phone": "512-979-8130",
+      "county": "Travis"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Lone Star Circle of Care",
+      "description": "Lone Star Circle of Care can help find health coverage for those who don't have it through their job, Medicare, Medicaid, CHIP, or another source that provides qualifying coverage.",
+      "website": "https://lonestarcares.org/patients/financial-billing-information/find-health-coverage/",
+      "website_text": "Visit Website",
+      "phone": "877-800-5722",
+      "county": "Williamson, Burnet, Travis, Bastrop"
+    },
+    {
+      "type": "Income",
+      "name": "ACC's Career Services",
+      "description": "Job search assistance, career guidance and programs, community resources, and more.",
+      "website": "https://students.austincc.edu/career-services/",
+      "website_text": "Visit Website",
+      "phone": "512-223-0399",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Austin ECHO",
+      "description": "ECHO (Ending Community Homelessness Coalition) offers assessments and housing options for people experiencing homelessness.",
+      "website": "https://www.austinecho.org/get-help/experiencing-homelessness/",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Austin Public Library: Social Services",
+      "description": "The Social Services tab has a list of shelter sites and affordable housing resources.",
+      "website": "https://library.austintexas.libguides.com/socialservices/shelter",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Income",
+      "name": "ACC's Money Management",
+      "description": "SMMO helps students manage their money by providing free financial coaching to help pay for college and other expenses, including but not limited to rent, utilities, groceries, tuition, textbooks, and loans.",
+      "website": "http://sites.austincc.edu/money/",
+      "website_text": "Visit Website",
+      "phone": "512-223-9331",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Income",
+      "name": "ACC's Scholarships",
+      "description": "The ACC Foundation offers hundreds of scholarships to help pay for college. Only one application needs to be considered to receive tuition and textbook money. Visit the ACCelerators to speak with a Strategic Programs Specialist for help with the scholarship application. Submit Application",
+      "website": "https://students.austincc.edu/scholarships/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Income",
+      "name": "ACC's TRIO Student Support Services",
+      "description": "A program that provides scholarship opportunities, personal support, career support, mentoring and tutoring support services.",
+      "website": "https://www.austincc.edu/students/triosss",
+      "website_text": "Visit Website",
+      "phone": "512-766-9234",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Austin Shelter for Women and Children",
+      "description": "Temporary shelter with support services for women with children.",
+      "website": "https://salvationarmyaustin.org/texas-austin/womenshelter/",
+      "website_text": "Visit Website",
+      "phone": "512-933-0600",
+      "county": "Travis"
+    },
+    {
+      "type": "Income",
+      "name": "ACC's Work Study",
+      "description": "The College Work-Study Program provides eligible ACC students with the opportunity to work part-time in a community service position or a field related to their area of study.",
+      "website": "https://students.austincc.edu/financial-aid/explore-your-financial-aid/work-study/",
+      "website_text": "Visit Website",
+      "phone": "512-223-4636",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Best Single Source Plus (BSS+) Reference Sheet",
+      "description": "The phone numbers on the sheet are intake numbers for housing-related case management and direct financial assistance. LifeWorks, Goodwill, or Catholic Charities might be the best agencies for students to contact.",
+      "website": "https://drive.google.com/file/d/1yiC_t5cyLIz-ZfZrf5jDfpTqfhGLVmLW/view?usp=sharing",
+      "website_text": "View Guide - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Income",
+      "name": "Austin Employment Assistance Centers",
+      "description": "The City's Human Resources Department offers members of the community employment assistance at several locations across the city.",
+      "website": "https://www.austintexas.gov/department/employment-assistance-centers",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Income",
+      "name": "Easterseals",
+      "description": "Job opportunities for people living with disabilities.",
+      "website": "https://www.easterseals.com/centraltx/",
+      "website_text": "Visit Website",
+      "phone": "512-615-6800",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Community First! Village",
+      "description": "Permanent and supportive housing community for people coming out of homelessness.",
+      "website": "https://mlf.org/community-first/",
+      "website_text": "Visit Website",
+      "phone": "512-328-7299",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Emergency Shelter and Transitional Living Programs",
+      "description": "Housing and homelessness programs with basic needs support for ages 18-26.",
+      "website": "https://www.lifeworksaustin.org/housing",
+      "website_text": "Visit Website",
+      "phone": "512-735-2100",
+      "county": "Travis"
+    },
+    {
+      "type": "Income",
+      "name": "Get Your Refund",
+      "description": "Tax filing help and stimulus check assistance.",
+      "website": "https://www.getyourrefund.org/en",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Income",
+      "name": "MyFreeTaxes",
+      "description": "Online self-preparation software for tax returns with less than $62,000 of income.",
+      "website": "http://www.unitedway.org/myfreetaxes/",
+      "website_text": "Visit Website",
+      "phone": "866-698-9435",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Front Steps",
+      "description": "Basic needs services and resources.",
+      "website": "https://frontsteps.org/",
+      "website_text": "Visit Website",
+      "phone": "512-696-1484",
+      "county": "Travis"
+    },
+    {
+      "type": "Income",
+      "name": "PowerPay",
+      "description": "Debt reduction tool to help people pay off their debts.",
+      "website": "https://extension.usu.edu/powerpay/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Income",
+      "name": "Prosper Centers",
+      "description": "Tax services for anyone able to travel to Austin.",
+      "website": "https://foundcom.org/prosper-centers/austin-tax-help/",
+      "website_text": "Visit Website",
+      "phone": "512-610-7374",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Income",
+      "name": "Skillpoint Alliance",
+      "description": "Free fast training programs in a skilled trade.",
+      "website": "https://skillpointalliance.org/",
+      "website_text": "Visit Website",
+      "phone": "512-323-6773",
+      "county": "Travis, Williamson, Hays"
+    },
+    {
+      "type": "Income",
+      "name": "Texas Workforce Commision",
+      "description": "Information regarding how to apply for unemployment income for those who have lost work. Also has other workforce resources such as job opportunities listed.",
+      "website": "https://www.twc.texas.gov/jobseekers/unemployment-benefits-services#applyForBenefits",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Income",
+      "name": "Vocational Rehabilitation Services",
+      "description": "Supports people with disabilities to prepare for, obtain, maintain and advance in meaningful employment by providing a range of services based on an individual’s employment goals.",
+      "website": "https://www.twc.texas.gov/jobseekers/vocational-rehabilitation-services",
+      "website_text": "Visit Website - English",
+      "phone": "512-936-6400",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Income",
+      "name": "Workforce Solutions Capital Area",
+      "description": "Job search assistance and employment-related services.",
+      "website": "https://www.wfscapitalarea.com/our-services/job-search-training/#adult",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Income",
+      "name": "Workforce Solutions Rural Capital Area",
+      "description": "Job search assistance and employment-related services.",
+      "website": "https://workforcesolutionsrca.com/jobs-now",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson"
+    },
+    {
+      "type": "Income",
+      "name": "Your Texas Benefits",
+      "description": "Information and enrollment for ongoing financial assistance for groceries, health care, essential needs, and support for pregnant women/mothers. Spanish resource:",
+      "website": "https://www.yourtexasbenefits.com/Learn/Home",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Prosper Health Coverage",
+      "description": "Help with finding, enrolling in, and using health coverage.",
+      "website": "https://foundcom.org/prosper-centers/health-coverage/",
+      "website_text": "Visit Website",
+      "phone": "512-381-4520",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "True Heart Hospice",
+      "description": "Can assist in applying for Texas Medicaid, any financial and assistance applications, wills, trusts surrogates MOST forms, end of life planning including funeral arrangements.",
+      "website": "https://www.truehearthospice.com/",
+      "website_text": "Visit Website",
+      "phone": "512-649-2274",
+      "county": "Travis"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Williamson County Indigent Health Care Program (WilCo Care)",
+      "description": "Healthcare Helpline for uninsured who may qualify for a medical program or low cost primary care in Williamson County.",
+      "website": "https://www.wcchd.org/services/program_eligibility_and_social_services/index.php",
+      "website_text": "Visit Website",
+      "phone": "512-248-3252",
+      "county": "Williamson"
+    },
+    {
+      "type": "Legal",
+      "name": "ACC's District Police and Victim Assistance",
+      "description": "Provides assistance with reporting crimes and more.",
+      "website": "https://www.austincc.edu/offices/district-police/",
+      "website_text": "Visit Website",
+      "phone": "512-223-1231",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "ACC's Prohibition of Discrimination & Harassment",
+      "description": "ACC Administrative Rules (policy and procedures) provide information that help students in addressing discrimination and harassment matters. Free support is offered but not limited to topics such as stalking, sexual assault, retaliation, title 9, domestic violence, and more.",
+      "website": "https://www.austincc.edu/offices/equal-opportunity-compliance/prohibition-of-discrimination-and-harassment",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "ACC's Title IX - Sexual Misconduct Assistance",
+      "description": "Addressing concerns or inquiries regarding discrimination on the basis of sex, including sexual harassment, sexual assault, dating violence, domestic violence, stalking, and gender-based harassment.",
+      "website": "https://www.austincc.edu/offices/equal-opportunity-compliance/title-ix",
+      "website_text": "Visit Website",
+      "phone": "512-223-7964",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Austin Tenants Council",
+      "description": "Free counseling to assist with rental housing concerns and disputes.",
+      "website": "https://www.trla.org/atc",
+      "website_text": "View Website",
+      "phone": "512-474-1961",
+      "county": "Travis, Williamson"
+    },
+    {
+      "type": "Legal",
+      "name": "Lawyer Referral Service of Central Texas",
+      "description": "Assistance finding qualified lawyers, legal resources and community services.",
+      "website": "https://austinlrs.com/",
+      "website_text": "Visit Website - English",
+      "phone": "866-303-8303",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Principles of Participatory Defense Program",
+      "description": "Equipping people with the tools needed to represent themselves and/or family members, assist attorneys when needed, understand basic court procedures and impact the outcome of their cases. Submit Intake form",
+      "website": "https://docs.google.com/document/d/1TSpjibpyqX7esYhAJpMppiTu9mH21DEtVuwbAWY0I3U/edit",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Refugee and Immigrant Center for Education and Legal Services (RAICES)",
+      "description": "Provides free and low-cost legal services to underserved immigrant children, families, and refugees.",
+      "website": "https://www.raicestexas.org/",
+      "website_text": "Visit Website - English",
+      "phone": "800-437-3071",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "SAFE Alliance",
+      "description": "Community-based peer support, counseling, disability services, shelter/housing, transitional living programs, forensic nursing exams, legal services, and more for those fleeing abuse and domestic/partner/family violence.",
+      "website": "https://www.safeaustin.org/get-help/",
+      "website_text": "Visit Website - English",
+      "phone": "Call: 512-267-7233 Text: 737-888-7233",
+      "county": "Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "State Bar of Texas Lawyer Referral Service",
+      "description": "Online lawyer referral service with an initial 30 minute consultation that will cost no more than $20.",
+      "website": "https://www.texasbar.com/Content/NavigationMenu/ForThePublic/DoYouNeedaLawyer/LRISOnlineAttorneyReferral/default.htm",
+      "website_text": "Visit Website",
+      "phone": "800-252-9690",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Texas Advocacy Project",
+      "description": "Free legal services for people experiencing domestic violence, sexual assault, and stalking.",
+      "website": "https://www.texasadvocacyproject.org/",
+      "website_text": "Visit Website - English",
+      "phone": "800-374-4673",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Texas RioGrande Legal Aid (TRLA)",
+      "description": "Civil legal services and housing resources, such as, appealing an eviction. Spanish resource:",
+      "website": "https://www.trla.org",
+      "website_text": "Visit Website - English",
+      "phone": "956-447-4800",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Trans Lifeline",
+      "description": "Offering a library of resources on ID change for trans people.",
+      "website": "https://translifeline.org/resources/id-change-library/",
+      "website_text": "Visit Website - English",
+      "phone": "877-565-8860",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Workers Defense Project",
+      "description": "Helps low-wage workers directly address serious workplace problems through legal services and direct action.",
+      "website": "https://www.workersdefense.org/",
+      "website_text": "Visit Website - English",
+      "phone": "512-391-2305",
+      "county": "Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "American Gateways",
+      "description": "Immigration legal services at no or low cost.",
+      "website": "https://americangateways.org/",
+      "website_text": "Visit Website",
+      "phone": "512-478-0546 ext. 200",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Legal",
+      "name": "Disability Rights Texas",
+      "description": "Legal help for persons with a disability that are experiencing a legal problem or are having difficulty obtaining disability services.",
+      "website": "https://www.disabilityrightstx.org/en/getting-help/how-to-apply-for-services/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "TexasLawHelp.org",
+      "description": "Legal information and court forms for a slew of issues, includes immigration info/rights. Spanish resource:",
+      "website": "https://texaslawhelp.org",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Texas Legal Services Center",
+      "description": "TLSC's legal advice, education, and representation are provided at no cost.",
+      "website": "https://www.tlsc.org/",
+      "website_text": "Visit Website - English",
+      "phone": "888-343-4414",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Travis County Law Library & Self-Help Center",
+      "description": "Resources for Travis county regarding housing, eviction, lawyers, and more.",
+      "website": "https://lawlibrary.traviscountytx.gov/#legalAid",
+      "website_text": "Visit Website",
+      "phone": "512-854-8677",
+      "county": "Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Volunteer Legal Services",
+      "description": "Provides help to individuals and families for legal matters.",
+      "website": "http://www.vlsoct.org/get-help/",
+      "website_text": "Visit Website - English",
+      "phone": "512-476-5550",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "LifeWorks Housing",
+      "description": "LifeWorks offers short- and longer-term housing and support for youth experiencing housing instability along with programming to assist young adults in living independently and self sufficiently.",
+      "website": "https://www.lifeworksaustin.org/housing/",
+      "website_text": "Visit Website",
+      "phone": "512-735-2100",
+      "county": "Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Vivent Health HIV & STI Testing Services",
+      "description": "Vivent Health offers comprehensive health care for individuals with HIV/AIDS. Their services include a full-service HIV pharmacy, financial assistance for care, prevention, HIV & STI testing and more.",
+      "website": "https://viventhealth.org/prevention-testing/",
+      "website_text": "Visit Website",
+      "phone": "512-458-2437",
+      "county": "Travis, Bastrop, Caldwell, Hays, Williamson"
+    },
+    {
+      "type": "Transportation",
+      "name": "PickUp (CapMetro)",
+      "description": "On-demand rideshare option with CapMetro in service zones. This service is available at no cost with ACC's \"Green Pass\" (CapMetro transit pass). Get Green Pass \nSpanish resource",
+      "website": "https://www.capmetro.org/pickup",
+      "website_text": "Visit Website",
+      "phone": "512-369-6200",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Mobile Loaves and Fishes",
+      "description": "Meal truck deliveries for anyone experiencing homelessness.",
+      "website": "https://mlf.org/truck-schedules/",
+      "website_text": "Visit Website",
+      "phone": "512-328-7299",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Posada Esperanza",
+      "description": "Temporary shelter, transitional housing, support for immigrants and refugees.",
+      "website": "https://www.casamarianella.org/",
+      "website_text": "Visit Website",
+      "phone": "512-385-5571",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Rapid Rehousing Program",
+      "description": "Homeless prevention and shelter resources including helping people with the initial expenses needed to get into a new home.",
+      "website": "https://www.advocacyoutreach.org/Colorado%20Valley%20Homeless%20Coalition.pdf",
+      "website_text": "Visit Website",
+      "phone": "512-281-4180",
+      "county": "Bastrop, Lee"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Rathgeber Center for Families",
+      "description": "Temporary shelter for families experiencing homelessness.",
+      "website": "https://salvationarmyaustin.org/texas-austin/rathgeber-center-for-families",
+      "website_text": "Visit Website",
+      "phone": "737-256-6926",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "The Other Ones Foundation (TOOF)",
+      "description": "Day Shelter, low barrier employment, basic needs.",
+      "website": "http://toofound.org",
+      "website_text": "Visit Website",
+      "phone": "512-568-7557",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Trinity Center",
+      "description": "Resources for homeless including food, financial assistance, hygiene, bus passes and more.",
+      "website": "https://www.trinitycenteraustin.org/programs",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Violet KeepSafe Storage (VKS) Program",
+      "description": "The VKS Program provides individuals experiencing homelessness a safe and secure place to store their belongings.",
+      "website": "https://www.austintexas.gov/department/community-court",
+      "website_text": "Visit Website",
+      "phone": "512-974-4879",
+      "county": "Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "Accessible Housing Austin!",
+      "description": "Housing for members of the disability community to ensure that housing is accessible, affordable, and integrated.",
+      "website": "https://ahaustin.org/apply-for-housing/",
+      "website_text": "Visit Website",
+      "phone": "512-640-7781",
+      "county": "Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "AffordableHousing.com",
+      "description": "Search for affordable, income restricted, and low income homes/apartments.",
+      "website": "https://www.affordablehousing.com/",
+      "website_text": "Visit Website",
+      "phone": "561-416-5255",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "Austin Affordable Housing Map",
+      "description": "A searchable map for affordable, low-income homes/apartments.",
+      "website": "https://www.atxaffordablehousing.net/",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "Austin ECHO",
+      "description": "Performing coordinated assessments and exploring housing options for people experiencing homelessness.",
+      "website": "https://www.austinecho.org/get-help/experiencing-homelessness/",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "Austin Tenants Council",
+      "description": "Free help with rental housing/apartment concerns and disputes, such as eviction, discrimination, housing repair, and more.",
+      "website": "https://www.trla.org/atc",
+      "website_text": "Visit Website",
+      "phone": "512-474-1961",
+      "county": "Travis, Williamson"
+    },
+    {
+      "type": "Housing",
+      "name": "BASTA Tenant Resources",
+      "description": "Eviction resources and tenant (renters) rights.",
+      "website": "https://www.bastaaustin.org/",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "College Housing (cooperatives)",
+      "description": "Affordable shared student housing near UT Austin and Austin Community College.",
+      "website": "https://collegehouses.org/",
+      "website_text": "Visit Website",
+      "phone": "512-476-5678",
+      "county": "Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "Eviction Solidarity Network",
+      "description": "Eviction resources, tenant's (renter's) rights, and solidarity.",
+      "website": "https://evictionisnotacure.com/",
+      "website_text": "Visit Website - English",
+      "phone": "512-348-7920",
+      "county": "Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "Foundation Communities Housing",
+      "description": "Affordable housing/apartment assistance for low to moderate-income individuals and families. Services available in Spanish.",
+      "website": "https://foundcom.org/housing/",
+      "website_text": "Visit Website",
+      "phone": "512-610-4010",
+      "county": "Travis, Williamson"
+    },
+    {
+      "type": "Housing",
+      "name": "Housing Authority of the City of Austin Resources",
+      "description": "Find information on affordable low-income housing and how to apply for public and section 8 housing.",
+      "website": "https://www.hacanet.org/resident/",
+      "website_text": "Visit Website",
+      "phone": "512-477-4488",
+      "county": "Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "LifeWorks Housing",
+      "description": "LifeWorks offers housing and support for youth experiencing housing instability along with programming to assist young adults in living independently and self sufficiently.",
+      "website": "https://www.lifeworksaustin.org/housing/",
+      "website_text": "Visit Website",
+      "phone": "512-735-2100",
+      "county": "Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "Support Services for Veteran Families (SSVF)",
+      "description": "Rapid rehousing assistance with case management for low-income veteran families to obtain stable permanent housing through locating affordable rentals, employment, and applying for public benefits.",
+      "website": "https://frontsteps.org/veteran-services/",
+      "website_text": "Visit Website",
+      "phone": "512-305-4100",
+      "county": "Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "Texas RioGrande Legal Aid (TRLA)",
+      "description": "Legal assistance and housing resources for tenants (renters) and homeowners, such as appealing an eviction and more.",
+      "website": "https://www.trla.org/housing",
+      "website_text": "Visit Website - English",
+      "phone": "956-447-4800",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "Transitional Living Services Division",
+      "description": "The Housing Program provides information to help youth (18-24) transitioning from foster care to successful adulthood, including housing and rental assistance options.",
+      "website": "http://www.dfps.state.tx.us/Child_Protection/Youth_and_Young_Adults/Transitional_Living/youth_housing.asp",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "ACC's STI and HIV Testing",
+      "description": "Each semester Student Life brings Vivent Health to ACC campuses to provide free STI and HIV testing to ACC students. Visit your campus Student Life Office for testing times and dates.",
+      "website": "https://sites.austincc.edu/sl/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Austin Drug & Alcohol Abuse Program",
+      "description": "Rehab center for people experiencing drug and alcohol addictions (substance abuse).",
+      "website": "http://www.adaap.com/",
+      "website_text": "Visit Website",
+      "phone": "512-454-8180",
+      "county": "Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Austin Public Health Immunizations",
+      "description": "Provides low-cost to free immunizations (vaccines) for adults and children.",
+      "website": "https://www.austintexas.gov/department/immunizations",
+      "website_text": "Visit Website",
+      "phone": "512-972-5520",
+      "county": "Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Talk About it (TAI) ACC",
+      "description": "Talk About It ACC offers young Texans access to sexual health education, contraception, and resources both on and off campus. Students receive accurate information and are connected to healthcare providers for their sexual and reproductive health needs. Contact: talk-about-it-acc@austincc.edu",
+      "website": "https://students.austincc.edu/student-advocacy-center/talk-about-it-acc/",
+      "website_text": "Visit Website",
+      "phone": "512-827-9032",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Bluebonnet Trails Community Services",
+      "description": "Medical care and preventative care focusing on overall well-being including general medical services, pediatric care, and women’s wellness (obgyn) clinic. Financial assistance towards payments available.",
+      "website": "https://bbtrails.org/primary-care/",
+      "website_text": "Visit Website",
+      "phone": "512-321-7137",
+      "county": "Bastrop, Burnet, Caldwell, Lee, Williamson"
+    },
+    {
+      "type": "Medical Care",
+      "name": "CommuniCare",
+      "description": "Clinic for insured and uninsured (no insurance). A sliding scale discount program is available for low-income people.",
+      "website": "https://communicaresa.org/",
+      "website_text": "Visit Website",
+      "phone": "512-268-8900",
+      "county": "Hays"
+    },
+    {
+      "type": "Medical Care",
+      "name": "CommunityCare Clinics",
+      "description": "Walk-in primary care clinic with 28 locations in Travis County and 1 in Bastrop that offers sliding scale discount program for people with no insurance.",
+      "website": "https://communitycaretx.org/locations/",
+      "website_text": "Visit Website",
+      "phone": "512-978-9015",
+      "county": "Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "El Buen Samaritano",
+      "description": "Health equity model with promotoras, bilingual staff.",
+      "website": "https://elbuen.org/about/",
+      "website_text": "Visit Website",
+      "phone": "512-439-8900",
+      "county": "Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Every Body Texas",
+      "description": "Find family planning providers, emergency contraception (like Plan B), sexual & reproductive healthcare information, and birth control.",
+      "website": "https://www.everybodytexas.org/",
+      "website_text": "Visit Website",
+      "phone": "512-448-4857",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Hope Medical Clinic",
+      "description": "A primary care clinic serving the needs of any person with no health insurance in the Austin area.",
+      "website": "https://www.hopeclinicaustin.org/our-services",
+      "website_text": "Visit Website",
+      "phone": "512-766-9979",
+      "county": "Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Kind Clinic",
+      "description": "Free access to sexual health services including STI, HIV, and other testing.",
+      "website": "https://kindclinic.org/services-offered-kind-clinic/",
+      "website_text": "Visit Website - English",
+      "phone": "833-937-5463",
+      "county": "Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "People’s Community Clinic",
+      "description": "Sliding scale affordable healthcare for people with no health insurance including dental, prenatal, and family planning.",
+      "website": "https://www.austinpcc.org",
+      "website_text": "Visit Website",
+      "phone": "512-478-4939",
+      "county": "Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Sacred Heart Clinic",
+      "description": "Clinic services for people with no insurance or low income.",
+      "website": "http://sacredheartclinic.org/patient-information/",
+      "website_text": "Visit Website",
+      "phone": "512-716-3929",
+      "county": "Williamson"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Samaritan Health",
+      "description": "A clinic for patients with no insurance that provides medical, dental, pharmaceutical, women's health, and mental health services.",
+      "website": "https://www.theshm.org/",
+      "website_text": "Visit Website",
+      "phone": "512-331-5828",
+      "county": "Travis, Williamson"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Volunteer Healthcare Clinic",
+      "description": "Specialty and walk-in clinic services for people with no insurance and low income.",
+      "website": "http://www.volclinic.org/other-resources.html",
+      "website_text": "Visit Website",
+      "phone": "512-459-6002",
+      "county": "Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "ACC's Mental Health Counseling",
+      "description": "ACC students can schedule a free therapy appointment or be referred to a counselor who will provide guidance and mental health support through District Clinical Counseling: Submit a service request",
+      "website": "https://students.austincc.edu/mental-health-counseling/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Austin Drug & Alcohol Abuse Program",
+      "description": "Rehab center for people experiencing substance use, abuse, or addiction to drug and alcohol.",
+      "website": "http://www.adaap.com/",
+      "website_text": "Visit Website",
+      "phone": "512-454-8180",
+      "county": "Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Aware Central Texas",
+      "description": "24/7 hotline and resources for those who have experienced abuse and trauma in Central Texas.",
+      "website": "https://www.awarecentraltexas.org/",
+      "website_text": "Visit Website",
+      "phone": "254-813-0968",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Call Blackline",
+      "description": "Peer support and counseling for marginalized peoples. Blackline uplifts the LGBTQIA+ BIPOC populations, however, all are welcome.",
+      "website": "https://www.callblackline.com/",
+      "website_text": "Visit Website",
+      "phone": "800-604-5841",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "DESI LGBTQ+ Helpline for South Asians",
+      "description": "Support and resources for South Asian LGBTQIA+",
+      "website": "https://www.deqh.org/",
+      "website_text": "Visit Website",
+      "phone": "908-367-3374",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Disaster Distress Helpline",
+      "description": "Free 24/7 national hotline providing immediate crisis counseling for people who are experiencing emotional distress related to any natural or human-caused disaster.",
+      "website": "https://www.samhsa.gov/find-help/disaster-distress-helpline",
+      "website_text": "Visit Website - English",
+      "phone": "800-985-5990",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Family Crisis Center",
+      "description": "Safe space for individuals facing domestic violence, sexual abuse, harassment, or stalking with a 24/7 hotline.",
+      "website": "https://family-crisis-center.org/",
+      "website_text": "Visit Website",
+      "phone": "512-303-7755",
+      "county": "Bastrop, Lee"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Hays-Caldwell Women's Center",
+      "description": "Providing information, violence prevention services, and crisis intervention to victims of family violence, dating violence, sexual assault, and child abuse.",
+      "website": "http://www.hcwc.org",
+      "website_text": "Visit Website",
+      "phone": "512-396-4357",
+      "county": "Hays, Caldwell"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Integral Care Adult Services",
+      "description": "Helps adults living with mental illness and substance use disorder (addiction) rebuild and maintain their mental and physical health.",
+      "website": "https://integralcare.org/en/adult-service/",
+      "website_text": "Visit Website - English",
+      "phone": "512-472-4357",
+      "county": "Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "LGBT National Help Center",
+      "description": "Hotlines and peer support with local resources.",
+      "website": "http://www.glnh.org/",
+      "website_text": "Visit Website",
+      "phone": "888-843-4564",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Maternal Mental Health Hotline",
+      "description": "The hotline is accessible by phone or text at 1-833-9-HELP4MOMS (1-833-943-5746) in English and Spanish.",
+      "website": "https://mchb.hrsa.gov/national-maternal-mental-health-hotline",
+      "website_text": "Visit Website",
+      "phone": "833-943-5746",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "NAMI: Identity and Cultural Dimensions",
+      "description": "Mental health resources tailored to individuals' identity, culture, and lived experience (Asian American and Pacific Islander (AAPI), Black/African American, Hispanic/Latinx, Indigenous, LGBTQI, People with Disabilities, BIPOC).",
+      "website": "https://www.nami.org/Your-Journey/Identity-and-Cultural-Dimensions",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "The Trevor Project",
+      "description": "Information and support to LGBTQIA+ young people 24/7 call or text 678-678.",
+      "website": "https://www.thetrevorproject.org/",
+      "website_text": "Visit Website",
+      "phone": "866-488-7386",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Trans Lifeline",
+      "description": "Trans Lifeline is run by and for trans people and offers a hotline and financial support.",
+      "website": "https://translifeline.org/hotline/",
+      "website_text": "Visit Website - English",
+      "phone": "877-565-8860",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Veterans Crisis Line",
+      "description": "Free, 24/7, confidential support that can help even if you’re not enrolled in VA benefits or health care. Chat online, call, or text 838-255.",
+      "website": "https://www.veteranscrisisline.net/get-help-now/chat/?mc_cid=7ad49fd2d8&mc_eid=6ea5935d9c",
+      "website_text": "Visit Website - English",
+      "phone": "800-273-8255",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Youth Advocate Programs, Inc. Behavioral Health Services",
+      "description": "Behavioral health support to children and adolescents (ages 3-20) through crisis intervention, skills training, case management, psych evals, and more.",
+      "website": "https://www.yapinc.org/Locations/TXBH#TXBHref",
+      "website_text": "Visit Website",
+      "phone": "512-394-7249",
+      "county": "Travis, Williamson"
+    },
+    {
+      "type": "Mental Health",
+      "name": "1in6",
+      "description": "24-hour helpline confidential chat and anonymous support groups for male victims of sexual abuse or assault.",
+      "website": "https://1in6.org/",
+      "website_text": "Visit Website",
+      "phone": "800-656-4673",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "ACC's LGBT eQuity",
+      "description": "Offering support resources for LGBTQIA+ community.",
+      "website": "https://sites.google.com/austincc.edu/acc-lgbt-equity/home",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Asian Family Support Services of Austin",
+      "description": "Support for survivors of domestic violence (abuse) & sexual assault with free, confidential services.",
+      "website": "https://www.afssaustin.org/",
+      "website_text": "Visit Website",
+      "phone": "877-281-8371",
+      "county": "Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Bluebonnet Trails Crisis Hotline",
+      "description": "Bluebonnet Trails offers many crisis services including a hotline available 24/7 with trained staff to assist with any mental health situation. Call to access their programs: Mobile Crisis Outreach Team, Youth Respite Program, Diversion Center, Crisis Respite and 911 Mental Health Dispatch.",
+      "website": "https://bbtrails.org/crisis-services/",
+      "website_text": "Visit Website",
+      "phone": "800-841-1255",
+      "county": "Bastrop, Burnet, Caldwell, Lee, Williamson"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Crisis Text Line",
+      "description": "Text HOME 741741 to connect with a free Crisis Counselor 24/7.",
+      "website": "https://www.crisistextline.org/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Hill Country MHDD Center",
+      "description": "Services for adult and child behavioral health, intellectual developmental disability, substance abuse (addiction), crisis care, and justice involved services.",
+      "website": "https://www.hillcountry.org/",
+      "website_text": "Visit Website",
+      "phone": "877-466-0660",
+      "county": "Hays"
+    },
+    {
+      "type": "Mental Health",
+      "name": "HOPE Alliance",
+      "description": "Resource center and emergency shelter for those affected by family and sexual violence (abuse).",
+      "website": "https://www.hopealliancetx.org/",
+      "website_text": "Visit Website",
+      "phone": "800-460-7233",
+      "county": "Williamson"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Integral Care",
+      "description": "Supporting adults and children living with mental illness, substance use disorder (addiction) and intellectual and developmental disabilities in Travis County.",
+      "website": "https://integralcare.org/en/home/",
+      "website_text": "Visit Website - English",
+      "phone": "512-472-4357",
+      "county": "Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "love is respect",
+      "description": "24/7 information, support, and advocacy to young people between the ages of 13 and 26 who have questions or concerns about their romantic relationships. Call, chat online, or text \"loveis\" to 22522. Spanish resource: https://espanol.loveisrespect.org/",
+      "website": "https://www.loveisrespect.org/",
+      "website_text": "Visit Website - English",
+      "phone": "866-331-9474",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Mental Health America Warm Line",
+      "description": "Warmlines offered M-F 1pm-5pm along with information, resources, and a free and confidential mental health screening.",
+      "website": "https://screening.mhanational.org/",
+      "website_text": "Visit Website",
+      "phone": "817-546-7826",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Mental Health and Substance Use Resources",
+      "description": "Several programs for anyone who experiences mental health or behavioral health issues across Texas.",
+      "website": "https://hhs.texas.gov/services/mental-health-substance-use/mental-health-substance-use-resources",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "National Alliance on Mental Illness (NAMI) Central Texas",
+      "description": "24/7 access to immediate assessments, referral resources, and crisis intervention. Helpline Resource Directory",
+      "website": "https://namicentraltx.org/crisis/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis, Williamson, Hays, Bastrop, Burnet, Caldwell"
+    },
+    {
+      "type": "Mental Health",
+      "name": "National Domestic Violence Hotline",
+      "description": "24/7 free confidential domestic violence (abuse) support. Call, live chat online, or text “start” to 88788.",
+      "website": "https://www.thehotline.org/",
+      "website_text": "Visit Website - English",
+      "phone": "800-799-7233",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "National Suicide Prevention Lifeline",
+      "description": "Suicide prevention network available 24/7 to anyone in crisis.",
+      "website": "https://suicidepreventionlifeline.org/",
+      "website_text": "Visit Website - English",
+      "phone": "English: 800-273-8255 Spanish: 888-628-9454",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "RAINN - National Sexual Assault Hotline",
+      "description": "24/7 free confidential sexual assault (abuse) helpline with programs that prevent sexual violence, help survivors, and ensure that perpetrators are brought to justice. Call or chat online. Spanish resource: https://www.rainn.org/es",
+      "website": "https://www.rainn.org/",
+      "website_text": "Visit Website - English",
+      "phone": "800-656-4673",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "SAMHSA Warm Line",
+      "description": "24/7 hotline support when you need to speak with someone via phone and text message: 435748 (HELP4U).",
+      "website": "https://www.samhsa.gov/find-help/national-helpline",
+      "website_text": "Visit Website - English",
+      "phone": "800-662-4357",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Texas Association Against Sexual Assault",
+      "description": "TAASA focuses on ending sexual violence (abuse) in Texas through education, prevention and advocacy.",
+      "website": "http://www.taasa.org/",
+      "website_text": "Visit Website - English",
+      "phone": "512-747-7190",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "Catholic Charities of Central Texas",
+      "description": "This resource offers rent, mortgage, and utility assistance.",
+      "website": "https://www.ccctx.org/financial-stability/",
+      "website_text": "Visit Website",
+      "phone": "512-651-6100",
+      "county": "Travis"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "City of Austin Utility Bill Discounts",
+      "description": "Low-income customers enrolled in federal or local assistance programs can be eligible to receive reduced electricity and water bill expenses through this discount program. The service is also offered in Spanish.",
+      "website": "https://coautilities.com/wps/wcm/connect/occ/coa/util/support/customer-assistance/utility-bill-discounts",
+      "website_text": "Visit Website",
+      "phone": "855-319-6630",
+      "county": "Travis"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "Comprehensive Energy Assistance Program",
+      "description": "Help with paying electricity bill costs for low-income residents. This resource offers Spanish and multilingual services.",
+      "website": "https://www.communityaction.com/utilityassistance",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Caldwell, Hays, Blanco"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "Neighborhood Centers",
+      "description": "Help paying rent, utilities, or bills in an emergency. They accept phone calls only. This service is available in Spanish and multilingual.",
+      "website": "http://www.austintexas.gov/department/neighborhood-centers",
+      "website_text": "Visit Website",
+      "phone": "512-972-5780",
+      "county": "Travis"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "Operation Homefront",
+      "description": "The Critical Financial Assistance Program provides financial help for military/veteran families whose service member meets certain criteria to help pay for emergency expenses.",
+      "website": "https://operationhomefront.org/critical-financial-assistance/",
+      "website_text": "Visit Website",
+      "phone": "877-264-3968",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "Opportunities for Williamson and Burnet Counties",
+      "description": "Financial assistance with electricity bill costs for low-income residents.",
+      "website": "https://owbc-tx.org/community-services/",
+      "website_text": "Visit Website",
+      "phone": "512-763-1400",
+      "county": "Williamson, Burnet"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "Round Rock Area Serving Center",
+      "description": "Help paying for rent, utilities, or bills. They also offer Spanish and multilingual services.",
+      "website": "https://www.rrasc.org/",
+      "website_text": "Visit Website",
+      "phone": "512-244-2431",
+      "county": "Williamson"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "Salvation Army Williamson County Service Center",
+      "description": "Help paying for emergency rent and utility bills.",
+      "website": "https://salvationarmyaustin.org/texas-austin/williamson-county-service-center/",
+      "website_text": "Visit Website",
+      "phone": "512-943-8421",
+      "county": "Williamson"
+    },
+    {
+      "type": "Technology",
+      "name": "ACC's Computer Access",
+      "description": "Access to technology at the ACCelerator centers, as well as, computer centers, Learning Labs, libraries, and campus wireless networks at each campus.",
+      "website": "https://students.austincc.edu/student-technology-access/",
+      "website_text": "Visit Website",
+      "phone": "512-223-4636",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Transportation",
+      "name": "Get There ATX",
+      "description": "Links to explore transit, biking, scooters, ride-sharing, and more.",
+      "website": "https://www.getthereatx.com/visitors/#options-around-town",
+      "website_text": "Visit Website: English",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Transportation",
+      "name": "CARTS",
+      "description": "Public regional transportation from the non-urbanized areas.",
+      "website": "http://www.ridecarts.com/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Transportation",
+      "name": "CapMetro Vanpool",
+      "description": "Vanpool to work to save time and money.",
+      "website": "https://www.capmetro.org/matchme",
+      "website_text": "Visit Website",
+      "phone": "512-477-7433",
+      "county": "Travis"
+    },
+    {
+      "type": "Transportation",
+      "name": "CapMetro",
+      "description": "Public transportation system around Austin. ACC credit students, Adult Education students, and faculty and staff can obtain a free pass (digital) each semester known as a \"green pass.\"",
+      "website": "https://www.capmetro.org/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis, Williamson"
+    },
+    {
+      "type": "Transportation",
+      "name": "Austin Yellow Bike",
+      "description": "Bike recycling and education facility where one can find an affordable bike, tools, parts, and learn how to fix their bike.",
+      "website": "https://austinyellowbike.org/",
+      "website_text": "Visit Website",
+      "phone": "512-524-5299",
+      "county": "Travis"
+    },
+    {
+      "type": "Transportation",
+      "name": "ACC's Transit \"Green Pass\"",
+      "description": "Capital Metro transit pass available to ACC credit students, Adult Education students, and faculty and staff to ride buses, train, and Pick-up (rideshare) at no cost.",
+      "website": "https://www.austincc.edu/offices/environmental-stewardship/transportation/green-pass",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Travis, Williamson"
+    },
+    {
+      "type": "Transportation",
+      "name": "ACC's Automotive Department Low-Cost Repair",
+      "description": "Automotive students perform limited car maintenance and repair services for a shop fee plus parts. There is no charge for labor.",
+      "website": "https://sites.austincc.edu/newsroom/2012/04/03/car-trouble-auto-tech-department-offers-low-cost-repair/",
+      "website_text": "Visit Website",
+      "phone": "512-223-6094",
+      "county": "Travis, Williamson, Hays"
+    },
+    {
+      "type": "Technology",
+      "name": "ACC's Technology Services",
+      "description": "Get technology help and borrow devices.",
+      "website": "https://www.austincc.edu/students/student-technology-services",
+      "website_text": "Visit Website",
+      "phone": "512-223-7564",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "ACC's Library Services",
+      "description": "Borrow laptops, tablets, calculators, textbooks, and more from the library.",
+      "website": "https://library.austincc.edu/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "EveryoneOn",
+      "description": "Find low-cost internet and affordable computers nearby.",
+      "website": "https://www.everyoneon.org/",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "Assurance Wireless",
+      "description": "Phone, minutes, texts, and data plans for low-income households.",
+      "website": "https://www.assurancewireless.com/lifeline-services/how-qualify",
+      "website_text": "Visit Website - English",
+      "phone": "888-898-4888",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "Austin Public Library: Public Computer and Internet Access",
+      "description": "The Austin Public Library offers free wireless Internet access along with computer and other technology access.",
+      "website": "https://library.austintexas.gov/computers-and-wifi",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "Freedompop",
+      "description": "Mobile phone services with no income restrictions.",
+      "website": "https://www.freedompop.com/plans",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "Austin Free-Net",
+      "description": "Connects people who receive SNAP, WIC, or MAP with free personal electronic devices. They also offer free computer labs and computer training.",
+      "website": "https://www.austinfree.net/learnandearn",
+      "website_text": "Visit Website - English",
+      "phone": "512-236-8225",
+      "county": "Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "human-I-T",
+      "description": "Low cost internet and technology for eligible low-income people.",
+      "website": "https://www.human-i-t.org/",
+      "website_text": "Visit Website",
+      "phone": "888-268-3921",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "ConnectAll",
+      "description": "Affordable computers and internet for low-income individuals.",
+      "website": "https://connectall.org/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "The ON IT Foundation",
+      "description": "Free computers, computer training and Internet to low-income families with students in grades K-12 that receive a free or reduced school lunch and attend a public school.",
+      "website": "https://theonitfoundation.org/faqs/",
+      "website_text": "Visit Website",
+      "phone": "305-244-6454",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "AT&T Access",
+      "description": "Low-cost wireline home Internet service to people who participate in SNAP/NSLP programs or by income.",
+      "website": "https://accessatt.solixcs.com/#/home",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "T-Mobile Project 10Million",
+      "description": "Project 10Million offers free internet/data, free mobile hotspots, and access to low-cost laptops and tablets to K-12 eligible students participating in the National School Lunch Program (NSLP).",
+      "website": "https://www.t-mobile.com/business/education/project-10-million?icid=MGPO_TMO_U_20TENMM_N5ZH1361JIX6NMJ922748",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "Spectrum Internet Assist",
+      "description": "Affordable internet for families participating in NSLP or SSI.",
+      "website": "https://www.spectrum.com/internet/spectrum-internet-assist",
+      "website_text": "Visit Website: English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "Texas Utility Help",
+      "description": "*Not accepting new energy or water applications as of January 29, 2024. Help paying utilities for homeowners and renters with low income. Eligible expenses include electricity, gas, propane, water, and wastewater. This service is available in Spanish.",
+      "website": "https://texasutilityhelp.com/",
+      "website_text": "Visit Website",
+      "phone": "855-566-2057",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "The Caring Place",
+      "description": "Financial Assistance for those in their service area includes rent, mortgage, housing deposit, utilities, transportation, and emergency dental and prescription assistance.",
+      "website": "https://www.caringplacetx.org",
+      "website_text": "Visit Website",
+      "phone": "512-943-0700",
+      "county": "Williamson"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "Travis County Community Centers",
+      "description": "Rent, utilities, and mortgage bill payment assistance. They also offer Spanish and multilingual services.",
+      "website": "https://www.traviscountytx.gov/health-human-services/community-centers",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "Austin Public Library: Social Services",
+      "description": "The Social Services tab has a list of shelter sites and affordable housing resources.",
+      "website": "https://library.austintexas.libguides.com/socialservices/shelter",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "Austin Shelter for Women and Children",
+      "description": "Temporary shelter with support services for women with children.",
+      "website": "https://salvationarmyaustin.org/texas-austin/womenshelter/",
+      "website_text": "Visit Website",
+      "phone": "512-933-0600",
+      "county": "Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "COA Cold Weather Shelter Activation Information",
+      "description": "Shelter for anyone seeking a warm place. Registration for shelter takes place between 6:00 p.m. and 8:00 p.m. at One Texas Center (OTC), 505 Barton Springs Rd when shelters are activated. Meals will be provided. Bus Lines: 1, 7, 10, 20, 30, 105, 142, 801\nReminder: Fares will not be required if taking CapMetro to OTC.",
+      "website": "https://www.austintexas.gov/news/cold-weather-shelter-activation-information",
+      "website_text": "Visit Website",
+      "phone": "512-972-5055",
+      "county": "Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "Cold Weather Shelter Hotline",
+      "description": "The City of Austin’s shelter hotline that will update when/if emergency temperature criteria have been met.",
+      "website": "",
+      "phone": "512-972-5055",
+      "county": "Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "Community First! Village",
+      "description": "Permanent and supportive housing community for people coming out of homelessness.",
+      "website": "https://mlf.org/community-first/",
+      "website_text": "Visit Website",
+      "phone": "512-328-7299",
+      "county": "Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "Emergency Shelter and Transitional Living Programs",
+      "description": "Housing and homelessness programs with basic needs support for ages 18-26.",
+      "website": "https://www.lifeworksaustin.org/housing",
+      "website_text": "Visit Website",
+      "phone": "512-735-2100",
+      "county": "Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "Posada Esperanza",
+      "description": "Temporary shelter, transitional housing, support for immigrants and refugees.",
+      "website": "https://www.casamarianella.org/",
+      "website_text": "Visit Website",
+      "phone": "512-385-5571",
+      "county": "Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "Rathgeber Center for Families",
+      "description": "Temporary shelter for families experiencing homelessness.",
+      "website": "https://salvationarmyaustin.org/texas-austin/rathgeber-center-for-families",
+      "website_text": "Visit Website",
+      "phone": "737-256-6926",
+      "county": "Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "SAFE Alliance",
+      "description": "Community-based peer support, counseling, disability services, shelter/housing, transitional living programs, forensic nursing exams, legal services, and more for those fleeing abuse and domestic/partner/family violence.",
+      "website": "https://www.safeaustin.org/get-help/",
+      "website_text": "Visit Website - English",
+      "phone": "Call: 512-267-7233 Text: 737-888-7233",
+      "county": "Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "ACC's Z-Degree",
+      "description": "Z-Degree classes use free materials and open educational resources (OER). Look for ‘ZTC’ and ‘OER’ when registering for classes.",
+      "website": "https://www.austincc.edu/academic-and-career-programs/z-degree?src=student-resources",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "Austin Public Library: Computer Training: Computer Basics",
+      "description": "Resources for learning computer basics.",
+      "website": "https://library.austintexas.libguides.com/computertraining/basics",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "Digital Literacy Program",
+      "description": "One-on-one assistance, workshops, and classes on digital literacy.",
+      "website": "https://www.austinfree.net/public-access-programs",
+      "website_text": "Visit Website",
+      "phone": "512-236-8225",
+      "county": "Travis"
+    },
+    {
+      "type": "Technology",
+      "name": "Active Emergency Information Hub",
+      "description": "During a disaster or emergency, visit this page to get up to date official information from the City of Austin and Travis County about the hazard impacting our community and immediate actions you should take to keep you and your loved ones safe.",
+      "website": "https://www.austintexas.gov/alerts",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Sunrise Homeless Navigation Center",
+      "description": "A starting point for homelessness in Austin offering whole person care services.",
+      "website": "https://sunrisenavigationcenter.org/get-help",
+      "website_text": "Visit Website",
+      "phone": "512-522-1097",
+      "county": "Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Neighborhood Centers",
+      "description": "Free health screenings and STI testing. For details, contact the nearest center.",
+      "website": "http://www.austintexas.gov/department/neighborhood-centers",
+      "website_text": "Visit Website",
+      "phone": "311",
+      "county": "Travis"
+    },
+    {
+      "type": "Family",
+      "name": "City of Austin Neighborhood Centers",
+      "description": "City of Austin Neighborhood Centers offer regular assistance with free food and groceries as well as health screenings, rent and utility supports and referrals for basic need supports and benefits. Many centers are close to ACC campuses and are available to students, employees and families.",
+      "website": "http://www.austintexas.gov/department/neighborhood-centers",
+      "website_text": "Visit Website",
+      "phone": "311",
+      "county": "Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Neighborhood Centers",
+      "description": "Emergency baby formula available at no cost. For details, contact the closest center.",
+      "website": "http://www.austintexas.gov/department/neighborhood-centers",
+      "website_text": "Visit Website",
+      "phone": "311",
+      "county": "Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Neighborhood Centers",
+      "description": "Emergency baby formula available at no cost. For details, contact the closest center.",
+      "website": "http://www.austintexas.gov/department/neighborhood-centers",
+      "website_text": "Visit Website",
+      "phone": "311",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Blanco Rover Regional Recovery Team",
+      "description": "Services for people that are homeless, at risk of experiencing homelessness or housing instability. Apply for assistance with rental deposits, utility deposits, and other fees.",
+      "website": "https://br3t.org/",
+      "website_text": "Visit Website",
+      "phone": "512-256-0269",
+      "county": "Blanco, Caldwell, Hays"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Austin Resource Recovery",
+      "description": "Essential services for community clean up like storm debris removal. Spanish and multilingual services available.",
+      "website": "https://www.austintexas.gov/department/austin-resource-recovery",
+      "website_text": "Visit Website",
+      "phone": "311",
+      "county": "Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Austin Disaster Relief Network",
+      "description": "Support with basic needs for when disasters or weather emergencies occur like house fires, floods, or storms.",
+      "website": "https://adrn.org/",
+      "website_text": "Visit Website",
+      "phone": "512-806-0800",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Blanco Rover Regional Recovery Team",
+      "description": "Support for residents to recover from weather emergencies like floods, fire, and more. Spanish services available.",
+      "website": "https://br3t.org/need-help/",
+      "website_text": "Visit Website",
+      "phone": "512-677-9701",
+      "county": "Blanco, Caldwell, Hays"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Catholic Charities of Central Texas",
+      "description": "Disaster response/weather emergency assistance program offering financial assistance, short-term emergency housing and rental assistance, and basic needs items. Spanish services available.",
+      "website": "https://ccctx.org/disaster-response/",
+      "website_text": "Visit Website",
+      "phone": "512-766-7111",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "COA Tips for Filing Insurance Claims",
+      "description": "PDF tips for filing insurance claims if there is home damage from broken pipes, downed tree limbs, or other storm damage from a weather emergency.",
+      "website": "https://www.austintexas.gov/sites/default/files/files/HSEM/insurance_claims_tips_v5%201.pdf",
+      "website_text": "Visit Website",
+      "phone": "311",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Housing & Planning Department Home Repair Programs",
+      "description": "Accessible home repairs for income eligible Austinites: disability adaptations, structural fixes, plumbing, sewer, and 0% safety loans. Spanish services offered.",
+      "website": "https://www.austintexas.gov/HomeRepairs",
+      "website_text": "Visit Website",
+      "phone": "512-974-3100",
+      "county": "Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Texas RioGrande Legal Aid (TRLA)",
+      "description": "Disaster/weather emergency legal resources. Tips for filing insurance claims, applying for FEMA Disaster Assistance, and accessing SBA Disaster Loans for individuals and businesses.",
+      "website": "https://www.trla.org/disaster",
+      "website_text": "Visit Website - English",
+      "phone": "833-329-8752",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "GAVA Disaster Flyer",
+      "description": "PDF with phone numbers, links, preparation tips, and recovery resources if a disaster/weather emergency happens.",
+      "website": "https://www.austintexas.gov/sites/default/files/images/Homeland_Security/Resilience/disaster-flyers.pdf",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Austin Resource and Information Centers",
+      "description": "Recovery and resilience resources from city departments, partner agencies, and community organizations in case of emergency. Spanish and multilingual services available.",
+      "website": "https://www.austintexas.gov/recovery",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Disaster Recovery/Inclement Weather",
+      "name": "Resources for Texans",
+      "description": "List of resources that may become available after a disaster such as basic needs and information from city departments and community organizations.",
+      "website": "https://www.tdem.texas.gov/recovery/resources-for-texas-citizens",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Family",
+      "name": "ACC's Student Advocacy Center",
+      "description": "Specialized assistance and referrals to students who would benefit from additional assistance to overcome challenges and complete their education, including child care scholarships and textbook loan/purchase assistance programs.",
+      "website": "https://www.austincc.edu/students/student-advocacy-center",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Texas Law Library",
+      "description": "Find legal aid, hotlines, clinics, lawyers, advocacy organizations, and legal information. You can also ask a librarian for help navigating through the resources that can help you represent yourself in court.",
+      "website": "https://www.sll.texas.gov/legal-help/#legal-aid",
+      "website_text": "Visit Website",
+      "phone": "844-829-2843",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Texas Disaster Legal Help",
+      "description": "Legal needs in emergencies.",
+      "website": "https://texasdisasterlegalhelp.org/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "ACC's Chosen Name Process",
+      "description": "ACC has created a process to allow students to request the use of a chosen first name and pronouns within the college's records and systems.",
+      "website": "https://admissions.austincc.edu/update-student-information/chosen-name/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Lambda Legal Help Desk",
+      "description": "Lambda Legal’s Help desk is a resource for general legal information and resources relating to LGBTQIA+ issues, discrimination based on sexual orientation, gender identity and gender expression, and HIV status.",
+      "website": "https://lambdalegal.org/helpdesk/#contact",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "LGBTQIA+ Students’ Rights Toolkit",
+      "description": "This toolkit is designed to help students, parents, guardians, and advocates seek full equality and dignity for LGBTQIA+ students in Texas schools.",
+      "website": "https://www.txtranskids.org/toolkit",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Out Youth",
+      "description": "Individual counseling for youth and young adults ages 12 to 23 who cannot afford private therapy or need help finding sexual orientation and gender-affirming therapists. Online Referral/Screening Form",
+      "website": "https://www.outyouth.org/counseling",
+      "website_text": "Visit Website",
+      "phone": "512-419-1233",
+      "county": "Travis"
+    },
+    {
+      "type": "Legal",
+      "name": "Texas Legal Services Center",
+      "description": "Legal advocacy for cases that involve civil rights and legal issues like discrimination, sexual harassment and assault, free speech, misconduct, and more.",
+      "website": "https://www.tlsc.org/socialjustice",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "El Buen Samaritano Vaccine Clinic",
+      "description": "Regular clinic offering TDAP, HPV, HEP A/B, Chickenpox, MMR, Influenza, and more vaccines. Available to those who are 19 years of age or older with no insurance. Spanish services available.",
+      "website": "https://elbuen.org/events/",
+      "website_text": "Visit Website",
+      "phone": "512-439-8900",
+      "county": "Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "ICC Austin (cooperatives)",
+      "description": "Affordable all-inclusive student houing.",
+      "website": "https://www.iccaustin.coop/",
+      "website_text": "Visit Website",
+      "phone": "512-476-1957",
+      "county": "Travis"
+    },
+    {
+      "type": "Income",
+      "name": "El Buen Samaritano Benefits Assistance",
+      "description": "Get help with application and renewal assistance for various benefits including SNAP, Medicaid, TANF, and more. Services in Spanish available.",
+      "website": "https://elbuen.org/benefits-assistance/",
+      "website_text": "Visit Website",
+      "phone": "512-439-8900",
+      "county": "Travis"
+    },
+    {
+      "type": "Income",
+      "name": "Foundation Communities Benefits Assistance Program",
+      "description": "Free on-site help with benefits applications and renewals for programs like Medicaid, SNAP, WIP, and more. Services in Spanish available.",
+      "website": "https://foundcom.org/financial-wellness/#:~:text=Make%20an%20Appointment-,Benefits%20Assistance,-Bringing%20benefits%20assistance",
+      "website_text": "View Website",
+      "phone": "737-249-6394",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "ACC's Housing Guidance",
+      "description": "Housing considerations, lease agreement precautions, and apartment locator services.",
+      "website": "https://admissions.austincc.edu/international-students/accepted-current-f-1-student-information/international-students-living-in-the-u-s/housing-agreements-locator-services/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Housing",
+      "name": "Austin Habitat New Home Construction Program",
+      "description": "Affordable housing for low-income individuals/families.",
+      "website": "https://austinhabitat.org/programs/apply/",
+      "website_text": "Visit Website",
+      "phone": "512-472-8788",
+      "county": "Travis"
+    },
+    {
+      "type": "Child Care",
+      "name": "Opportunities for Williamson and Burnet Counties Head Start",
+      "description": "Free child care for low-income families, children 0-5, including food and diapers. A family advocate assists families in need of resources once they are a part of the program.",
+      "website": "https://www.owbc-tx.org/head-start/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Williamson, Burnet"
+    },
+    {
+      "type": "Family",
+      "name": "Opportunities for Williamson and Burnet Counties Head Start",
+      "description": "Free child care for low-income families, children 0-5, including food and diapers. A family advocate assists families in need of resources once they are a part of the program.",
+      "website": "https://www.owbc-tx.org/head-start/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Williamson, Burnet"
+    },
+    {
+      "type": "Income",
+      "name": "ACC's GROW",
+      "description": "Helps connect students with employment opportunities on campus and\nprovides specialized coaching, training and development throughout the semester\nto help students become career ready.",
+      "website": "https://docs.google.com/forms/d/1UJ3pUH1RHUUYW7yzizhmpW0LkMm2iODPL9zJD2Dp01s/edit",
+      "website_text": "Visit Referral Form",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Food",
+      "name": "Map of Food Resources for ACC Round Rock",
+      "description": "A Google map of food resources within 5 to 10 miles of ACC Round Rock Campus. Check out the website of the listed resource for more information on how to sign up and eligibility.",
+      "website": "https://www.google.com/maps/d/u/0/viewer?mid=1953W71-fTZ_oXKnnj35XU4ehtFFyo7w&ll=30.626282800000016%2C-97.6843599&z=12",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Williamson"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "The Blanco River Regional Recovery Team",
+      "description": "Rental and utility deposit assistance for residents of San Marcos and other housing financial supports (rental app fees, temporary hotel stays) for those who are at risk of facing eviction. Spanish services available.",
+      "website": "https://br3t.org/hss/",
+      "website_text": "Visit Website",
+      "phone": "512-522-4453‬",
+      "county": "Hays, Blanco, Caldwell"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "The Blanco River Regional Recovery Team",
+      "description": "Rental and utility deposit assistance for residents of San Marcos and other housing financial supports (rental app fees, temporary hotel stays) for those who are at risk of facing eviction. Spanish services available",
+      "website": "https://br3t.org/hss/",
+      "website_text": "Visit Website",
+      "phone": "512-522-4453‬",
+      "county": "Hays, Blanco, Caldwell"
+    },
+    {
+      "type": "Housing",
+      "name": "The Blanco River Regional Recovery Team",
+      "description": "Rental and utility deposit assistance for residents of San Marcos and other housing financial supports (rental app fees, temporary hotel stays) for those who are at risk of facing eviction. Spanish services available",
+      "website": "https://br3t.org/hss/",
+      "website_text": "Visit Website",
+      "phone": "512-522-4453‬",
+      "county": "Hays, Blanco, Caldwell"
+    },
+    {
+      "type": "Family",
+      "name": "ACC's Resources for Parents and Families",
+      "description": "Information and resources for parents and families at ACC. ACC offers free parent and family orientation sessions and workshops every semester to help students get the best start to college.",
+      "website": "https://www.austincc.edu/resources-for-parents-and-families",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Text Message Notification System",
+      "description": "The City of Austin's Homeless Strategy Office (HSO) has a text message notification system for people experiencing homelessness. The notifications may include information about bad weather, pop-up resource events, cold weather shelter activation, and other topics of importance.",
+      "website": "http://bit.ly/alertsatx",
+      "website_text": "View Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Shelters/Temporary Housing",
+      "name": "City of Austin Warming Centers",
+      "description": "Map of locations to keep warm in during regular business hours. Please note these sites are Warming Centers and NOT Warming Shelters. Sites on this map are for temporary relief and are not intended for overnight sheltering.",
+      "website": "https://www.google.com/maps/d/viewer?mid=1FU5AKX5guhwM3OWJgKeftJaxwrThDME&femb=1&ll=30.31232313660322%2C-97.74581539999997&z=12",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "Hutto Resource Center",
+      "description": "Limited utility bill, cellphone bill, internet bill, medications, medical visits, and back to school supplies help for Hutto residents.",
+      "website": "https://huttoresourcecenter.org/financial-assistance/",
+      "website_text": "Visit Website",
+      "phone": "512-688-0162",
+      "county": "Williamson"
+    },
+    {
+      "type": "Food",
+      "name": "Hutto Resource Center",
+      "description": "Drive-thru food pantry on the 1st, 3rd, 5th Saturday of the month for Hutto residents.",
+      "website": "https://huttoresourcecenter.org/food-pantry/",
+      "website_text": "Visit Website",
+      "phone": "512-688-0162",
+      "county": "Williamson"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Harvest Trauma Recovery",
+      "description": "Comprehensive behavioral health services to survivors of recent violent crimes who are experiencing post-traumatic stress but are not receiving other mental health care. They will provide clients and their affected family members with stabilization support and assistance with other immediate needs such as housing, transportation, food,clothing, legal advocacy, trauma-informed counseling, and psychiatric care.",
+      "website": "https://harvesttrc.org/",
+      "website_text": "Visit Website",
+      "phone": "844-428-4872",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "Angel House",
+      "description": "Showers daily and men's clothing.",
+      "website": "",
+      "phone": "512-643-2327",
+      "county": "Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Mama Sana",
+      "description": "Free prenatal and postpartum support programs for BIPOC individuals, including childbirth workshops and birth companion support. They also provide additional resources such as midwifery and mental health support, as well as meal and childcare assistance.",
+      "website": "https://www.msvwatx.org/copy-of-programs",
+      "website_text": "Visit Website - English",
+      "phone": "512-710-5729",
+      "county": "Travis"
+    },
+    {
+      "type": "Homelessness",
+      "name": "The Charlie Center",
+      "description": "The navigation center helps move homeless individuals into housing. Services include ID assistance, meals, case management, coordinated assessments, and postage.",
+      "website": "https://www.thecharliecenter.org/need-help",
+      "website_text": "Visit Website",
+      "phone": "512-922-8954",
+      "county": "Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Black Men's Health Clinic",
+      "description": "Organization that helps individuals, particularly black men (but also anyone in need), access various resources: rent, documents, financial, mental health, doctor visits, health coverage, haircuts, vision and dental vouchers, and more.",
+      "website": "https://blackmenshealthclinic.org/",
+      "website_text": "",
+      "phone": "737-210-8446",
+      "county": "Travis, Williamson, Hays, Bastrop, Caldwell"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Black Men's Health Clinic",
+      "description": "Organization that helps individuals, particularly black men (but also anyone in need), access various resources: rent, documents, financial, mental health, doctor visits, health coverage, haircuts, vision and dental vouchers, and more.",
+      "website": "https://blackmenshealthclinic.org",
+      "website_text": "Visit Website - English",
+      "phone": "737-210-8446",
+      "county": "Travis, Williamson, Hays, Bastrop, Caldwell"
+    },
+    {
+      "type": "Legal",
+      "name": "Lambda Legal Help Desk",
+      "description": "Lambda Legal’s Help desk is a resource for general legal information and resources relating to discrimination based on sexual orientation, gender identity and gender expression, and HIV status.",
+      "website": "https://lambdalegal.org/helpdesk/#contact",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "ACC’s Chosen Name Process",
+      "description": "ACC has a process to request the use of a chosen first name and pronouns within the college's records and systems.",
+      "website": "https://www.austincc.edu/admissions/update-student-information/chosen-name",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "LGBTeQuity ALLY",
+      "description": "Connect with an ALLY on campus. Each ALLY at ACC has undergone training to assist the population of LGBTQIA+ students in connecting to internal and community support + resources.",
+      "website": "https://sites.google.com/austincc.edu/acc-lgbt-equity/home/allies?authuser=0",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "All Gender Restroom",
+      "description": "Each campus has at least one all-gender restroom.",
+      "website": "https://sites.google.com/austincc.edu/acc-lgbt-equity/home/all-gender-restrooms?authuser=0",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Non-ACC Affiliated LGTBQIA+ Scholarships",
+      "description": "List of scholarships for LGBTQIA+ folks.",
+      "website": "https://sites.google.com/austincc.edu/acc-lgbt-equity/home/resources?authuser=0",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "LGBT National Help Center",
+      "description": "Hotlines and peer support with local resources.",
+      "website": "http://www.glnh.org/",
+      "website_text": "Visit Website",
+      "phone": "888-843-4564",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "The Trevor Project",
+      "description": "Information and support to LGBTQIA+ young people 24/7 call or text 678-678.",
+      "website": "https://www.thetrevorproject.org/",
+      "website_text": "Visit Website",
+      "phone": "866-488-7386",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Waterloo Counseling Center",
+      "description": "Provides affordable individual, group and couples counseling for a sliding scale fee for low-income people. Specializes in LBGTQ issues.",
+      "website": "https://www.waterloocounseling.org/",
+      "website_text": "Visit Website",
+      "phone": "512-444-9922",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "National Queer & Trans Therapists of Color Network",
+      "description": "An interactive digital resource that helps QTBIPOC connect to QTBIPOC mental health practitioners.",
+      "website": "https://nqttcn.com/en/",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Call Blackline",
+      "description": "Peer support and counseling for marginalized peoples. Blackline uplifts the LGBTQIA+ BIPOC populations, however, all are welcome.",
+      "website": "https://www.callblackline.com/",
+      "website_text": "Visit Website",
+      "phone": "800-604-5841",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "DESI LGBTQ+ Helpline for South Asians",
+      "description": "Support and resources for South Asian LGBTQIA+",
+      "website": "https://www.deqh.org/",
+      "website_text": "Visit Website",
+      "phone": "908-367-3374",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Lambda Legal Help Desk",
+      "description": "Lambda Legal’s Help desk is a resource for general legal information and resources relating to discrimination based on sexual orientation, gender identity and gender expression, and HIV status.",
+      "website": "https://lambdalegal.org/helpdesk/#contact",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "LGBTQIA+ Students’ Rights Toolkit",
+      "description": "This toolkit is designed to help students, parents, guardians, and advocates seek full equality and dignity for LGBTQIA+ students in Texas schools.",
+      "website": "https://www.txtranskids.org/toolkit",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Trans Lifeline",
+      "description": "A library of resources on ID change for trans people.",
+      "website": "https://translifeline.org/resources/id-change-library/",
+      "website_text": "Visit Website - English",
+      "phone": "877-565-8860",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Texas Legal Services Center",
+      "description": "Legal advice, education, and representation are provided at no cost for discrimination and social justice.",
+      "website": "https://www.tlsc.org/socialjustice",
+      "website_text": "Visit Website - English",
+      "phone": "888-343-4414",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Texas RioGrande Legal Aid (TRLA)",
+      "description": "Help navigating various legal issues from name change, correcting gender marker to reflect ID, discrimination in the workplace, and more.",
+      "website": "https://www.trla.org/lgbtq",
+      "website_text": "Visit Website - English",
+      "phone": "833-329-8752",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "TexasLawHelp.org",
+      "description": "Guide on how to change name and gender marker in Texas.",
+      "website": "https://texaslawhelp.org/guide/texas-name-and-gender-marker-change-guide",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Trans Lifeline",
+      "description": "Trans Lifeline is run by and for trans people and offers a hotline and financial support.",
+      "website": "https://translifeline.org/hotline/",
+      "website_text": "Visit Website - English",
+      "phone": "877-565-8860",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Trans Lifeline Microgrants",
+      "description": "Microgrants provide trans and nonbinary people with low-barrier funds and support to correct names and/or gender markers on identifying legal documents, fund gender-affirming permanent hair removal, and supply necessities for our trans siblings behind bars.",
+      "website": "https://translifeline.org/microgrants/",
+      "website_text": "Visit Website - English",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Trans Lifeline Resource Library",
+      "description": "Resource library for trans and nonbinary communities.",
+      "website": "https://translifeline.org/resources/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Out Youth Counseling",
+      "description": "Individual counseling for youth and young adults ages 12 to 23 who cannot afford private therapy or need help finding sexual orientation and gender-affirming therapists. Online Referral/Screening Form",
+      "website": "https://www.outyouth.org/counseling",
+      "website_text": "Visit Website",
+      "phone": "512-419-1233",
+      "county": "Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Out Youth Resource Guide",
+      "description": "Resources guides for wellness, BIPOC, youth, jobs, and more.",
+      "website": "https://www.outyouth.org/resources/social-services",
+      "website_text": "Visit Website",
+      "phone": "512-419-1233",
+      "county": "Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Out Youth",
+      "description": "Many supports for youth, adults, and everyone like counseling, peer support, wellness, and more.",
+      "website": "https://www.outyouth.org/",
+      "website_text": "Visit Website",
+      "phone": "512-419-1233",
+      "county": "Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Gender Spectrum",
+      "description": "Free downloadable online resources for families, adolescents, allyship, and more.",
+      "website": "https://www.genderspectrum.org/resources",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "LGBTQIA+",
+      "name": "Straight for Equality",
+      "description": "Information and resources that help allies understand their role in supporting and advocating for LGBTQ+.",
+      "website": "https://straightforequality.org/topic/ally/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Family",
+      "name": "Foundation Communities Children's Home Initiative",
+      "description": "Case management program for low income families that provides supports like financial coaching, parent empowerment, and a pathway to housing.",
+      "website": "https://foundcom.org/housing/at-risk-homeless-families/",
+      "website_text": "Visit Website",
+      "phone": "512-610-7392",
+      "county": "Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "ACC's Students in Recovery",
+      "description": "The ACC Students in Recovery Program supports students in recovery by assisting in building connections with one another and fostering engagements with recovery and wellness related services and activities, in order to help achieve both sustained recovery and academic success.",
+      "website": "https://pss.austincc.edu/human-services/students-recovery-program/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "ACC's Mental Health Resources",
+      "description": "Mental health resources listed by region for outpatient, crisis assistance, and substance use treatment.",
+      "website": "https://students.austincc.edu/mental-health-counseling/mental-health-resources/",
+      "website_text": "Visit Website",
+      "phone": "",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Financial Assistance",
+      "name": "El Buen Samaritano",
+      "description": "The City of Austin and El Buen rental assistance applications are open the first week of each month. The program runs on a lottery, and applications don’t carry over, so reapply each month. Funds are limited – apply now!",
+      "website": "https://elbuen.org/financial-and-rental-assistance/",
+      "website_text": "Visit Website - English",
+      "phone": "737-214-7406",
+      "county": "Travis"
+    },
+    {
+      "type": "Rent/Utilities",
+      "name": "El Buen Samaritano",
+      "description": "The City of Austin and El Buen rental assistance applications are open the first week of each month. The program runs on a lottery, and applications don’t carry over, so reapply each month. Funds are limited – apply now!",
+      "website": "https://elbuen.org/financial-and-rental-assistance/",
+      "website_text": "Visit Website - English",
+      "phone": "737-214-7406",
+      "county": "Travis"
+    },
+    {
+      "type": "Mental Health",
+      "name": "Amplify Center",
+      "description": "The Amplify Center offers young adult-specific mental health support focused on improving overall psychological well-being ages 18-29. Services will be offered in face-to-face, phone, and virtual formats. To schedule an appointment, contact the Amplify Center at 833-882-2737 and select the \"psychiatry\" option to ask for Amplify services or complete this form.",
+      "website": "https://uthealthaustin.org/clinics/initiatives/amplify-center",
+      "website_text": "Visit Website",
+      "phone": "833-882-2737",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Counseling/Therapy",
+      "name": "Amplify Center",
+      "description": "The Amplify Center offers young adult-specific mental health support focused on improving overall psychological well-being ages 18-29. Services will be offered in face-to-face, phone, and virtual formats. To schedule an appointment, contact the Amplify Center at 833-882-2737 and select the \"psychiatry\" option to ask for Amplify services or complete this form.",
+      "website": "https://uthealthaustin.org/clinics/initiatives/amplify-center",
+      "website_text": "Visit Website",
+      "phone": "833-882-2737",
+      "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+    },
+    {
+      "type": "Medical Care",
+      "name": "Lirios Pediatrics",
+      "description": "Comprehensive free health care for uninsured children in Central Texas including immunizations, counseling, labs and well-checks. Call to make an appointment: 512-0502-5205",
+      "website": "https://www.liriospediatrics.org/",
+      "website_text": "Visit Website - English",
+      "phone": "512-502-5205",
+      "county": "Travis, Williamson, Hays, Bastrop, Caldwell"
+    },
+    {
+      "type": "Family",
+      "name": "Lirios Pediatrics",
+      "description": "Comprehensive free health care for uninsured children in Central Texas including immunizations, counseling, labs and well-checks. Call to make an appointment: 512-0502-5205",
+      "website": "https://www.liriospediatrics.org/",
+      "website_text": "Visit Website - English",
+      "phone": "512-502-5205",
+      "county": "Travis, Williamson, Hays, Bastrop, Caldwell"
+    },
+    {
+      "type": "Health Coverage",
+      "name": "Lirios Pediatrics",
+      "description": "Comprehensive free health care for uninsured children in Central Texas including immunizations, counseling, labs, and well-checks. Call to make an appointment: 512-0502-5205",
+      "website": "https://www.liriospediatrics.org/",
+      "website_text": "Visit Website - English",
+      "phone": "512-502-5205",
+      "county": "Travis, Williamson, Hays, Bastrop, Caldwell"
+    },
+    {
+      "type": "Transportation",
+      "name": "Round Rock Rides Program",
+      "description": "On-demand ride-sharing program that offers an affordable public transit option within the City of Round Rock service area.",
+      "website": "https://www.roundrocktexas.gov/city-departments/transportation/public-transportation/",
+      "website_text": "Visit Website",
+      "phone": "512-312-2124",
+      "county": "Williamson"
+    }
+  ]
+}

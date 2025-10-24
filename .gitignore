@@ -10,8 +10,7 @@ ENV/
 dist/
 build/
 
-# Output directories
-data/
+# Debug files only
 debug/
 
 # IDE
