@@ -192,7 +192,23 @@ def scrape_indeed_jobs(headless=True, use_company_page=True):
                 link_elem = card.query_selector('h2.jobTitle a')
                 if not link_elem:
                     link_elem = card.query_selector('a[data-jk]')  # Company page format
+                if not link_elem:
+                    link_elem = card.query_selector('a.jcs-JobTitle')  # Alternative format
+                if not link_elem:
+                    # Try to find any link with jobTitle
+                    link_elem = card.query_selector('a[href*="viewjob"]')
+
+                # Try to get data-jk first (most reliable on company pages)
+                data_jk = None
                 if link_elem:
+                    data_jk = link_elem.get_attribute('data-jk')
+
+                # If we found data-jk, construct URL from it
+                if data_jk:
+                    job_data['job_key'] = data_jk
+                    job_data['url'] = f"https://www.indeed.com/viewjob?jk={data_jk}"
+                elif link_elem:
+                    # Fallback to href attribute
                     href = link_elem.get_attribute('href')
                     if href and href != '#':
                         if href.startswith('/'):
@@ -202,17 +218,10 @@ def scrape_indeed_jobs(headless=True, use_company_page=True):
                         else:
                             job_data['url'] = f"https://www.indeed.com/viewjob?jk={href}"
 
-                        # Extract job key from URL or data attribute
+                        # Extract job key from URL
                         if 'jk=' in href:
                             job_key = href.split('jk=')[1].split('&')[0]
                             job_data['job_key'] = job_key
-                        else:
-                            # Try to get from data-jk attribute
-                            data_jk = link_elem.get_attribute('data-jk')
-                            if data_jk:
-                                job_data['job_key'] = data_jk
-                                if 'url' not in job_data:
-                                    job_data['url'] = f"https://www.indeed.com/viewjob?jk={data_jk}"
 
                 # Extract posted date
                 date_elem = card.query_selector('span[data-testid="myJobsStateDate"]')
