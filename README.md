@@ -1,6 +1,6 @@
 # GW Info Gather
 
-A collection of Python scrapers to gather job postings, affordable housing data, and community resources in the Austin, TX area.
+A collection of Python scrapers and reference data for workforce development in the Austin, TX area. Includes job postings, affordable housing data, community resources, and a comprehensive Texas professional credentials guide.
 
 ## Current Status
 
@@ -76,16 +76,35 @@ The scripts will:
 
 All scraped data is saved in the `data/` directory:
 
-- `data/jobs.json` - Goodwill Central Texas jobs
-- `data/indeed_jobs.json` - Indeed job postings
-- `data/gsg_jobs.json` - GSG Talent Solutions jobs
-- `data/acc_resources.json` - ACC community resources
-- `data/housing_properties.json` - Austin affordable housing properties
+### Scraped Data (JSON)
+- `data/jobs.json` - Goodwill Central Texas jobs (92 current postings)
+- `data/indeed_jobs.json` - Indeed job postings (3 listings)
+- `data/gsg_jobs.json` - GSG Talent Solutions jobs (15 current postings)
+- `data/acc_resources.json` - ACC community resources (371 resources)
+- `data/housing_properties.json` - Austin affordable housing properties (571 properties)
 
-Each file contains:
+Each JSON file contains:
 - `scraped_at`: Timestamp of when data was collected
 - `total_jobs` or `total_resources`: Number of items found
 - `jobs` or `resources`: Array of data objects
+
+### Reference Data (CSV)
+- `data/texas_creds_final.csv` - Texas Professional Credentials & Certifications Guide
+
+**77 credentials across 12 categories** including:
+- Healthcare & Allied Health (17 credentials): CNA, LVN, RN, EMT, Phlebotomy, Medical Assistant, etc.
+- Skilled Trades, Construction & Manufacturing (11 credentials): CDL, Electrician, HVAC/R, Plumber, Welding, OSHA, etc.
+- Trades & Service Industries (14 credentials): Cosmetology, Barbering, Esthetician, Massage Therapy, etc.
+- Real Estate, Insurance & Financial Services (7 credentials): Real Estate Agent/Broker, Insurance Agent, MLO, CPA, etc.
+- Business, Technology & Office (6 credentials): Microsoft Office Specialist, CompTIA, PMP, QuickBooks, etc.
+- And 7 more categories
+
+Each credential entry includes:
+- Credential name and issuing agency
+- Official government/certification body links
+- Whether Goodwill Central Texas offers training
+- Requirements and pathways
+- Austin-area training providers with links
 
 ## Future Enhancements
 

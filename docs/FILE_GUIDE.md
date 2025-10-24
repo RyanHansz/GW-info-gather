@@ -154,13 +154,49 @@ GW-info-gather/
 
 All JSON output files are stored here:
 
-- `jobs.json` - Goodwill Central Texas jobs
-- `indeed_jobs.json` - Indeed job postings
-- `gsg_jobs.json` - GSG Talent Solutions jobs
-- `acc_resources.json` - ACC community resources
+### Scraped Data (JSON)
+- `jobs.json` - Goodwill Central Texas jobs (92 current postings)
+- `indeed_jobs.json` - Indeed job postings (3 listings)
+- `gsg_jobs.json` - GSG Talent Solutions jobs (15 current postings)
+- `acc_resources.json` - ACC community resources (371 resources)
 - `housing_properties.json` - Austin affordable housing properties (571 properties)
 
-**Note:** This directory is git-ignored as it contains generated data.
+### Reference Data (CSV)
+- `texas_creds_final.csv` - **Texas Professional Credentials & Certifications Guide**
+
+**Purpose:** Comprehensive reference guide to professional credentials and certifications in Texas
+**Content:** 77 credentials across 12 career categories
+**Fields:**
+- Group (career category)
+- Credential name
+- Issuing agency
+- Official government/certification links
+- GCTA (Goodwill Central Texas) training availability
+- Requirements and key qualifications
+- Austin-area training providers with direct links
+
+**Categories Covered:**
+1. Healthcare & Allied Health (17) - CNA, LVN, RN, EMT, Phlebotomy, Medical Assistant, etc.
+2. Skilled Trades, Construction & Manufacturing (11) - CDL, Electrician, HVAC/R, Plumber, Welding, OSHA
+3. Trades & Service Industries (14) - Cosmetology, Barbering, Esthetician, Massage Therapy
+4. Real Estate, Insurance & Financial Services (7) - Real Estate Agent/Broker, Insurance, MLO, CPA
+5. Business, Technology & Office (6) - Microsoft Office, CompTIA, PMP, QuickBooks
+6. Hospitality, Food Service & Retail (3) - Food Manager, Food Handler, TABC
+7. Transportation, Logistics & Warehousing (2) - CLT, CPIM
+8. Childcare, Early Childhood & Education Support (3) - CDA, Educational Aide
+9. Green & Emerging Fields (5) - Solar NABCEP, HERS Rater, Water/Wastewater Operator
+10. Regulatory & Legal (4) - Notary, LPC, LMSW/LCSW
+11. Foundational & Soft Skills (2) - GED/TxCHSE, ACT WorkKeys NCRC
+12. Professional & Business (1) - Apartment Leasing Professional (CALP)
+
+**Use Cases:**
+- Career pathway planning
+- Training program research
+- Workforce development guidance
+- Connecting job seekers to certification opportunities
+- Identifying which credentials Goodwill Central Texas offers training for
+
+**Note:** The JSON files in this directory contain live scraped data and are included in the repository. The `debug/` directory is git-ignored.
 
 ## Debug Files (`debug/`)
 
