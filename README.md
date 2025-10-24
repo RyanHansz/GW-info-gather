@@ -53,9 +53,11 @@ See [docs/FILE_GUIDE.md](docs/FILE_GUIDE.md) for detailed explanation of each fi
 
 ## Usage
 
-Run the main Goodwill scraper:
+Run the Goodwill scraper (API version - **recommended**):
 ```bash
-python scrapers/goodwill/scraper.py
+python scrapers/goodwill/scraper_api.py              # Fast API-based scraper
+python scrapers/goodwill/scraper_api.py --no-details # Even faster (no descriptions)
+python scrapers/goodwill/scraper.py                  # Legacy DOM-based scraper
 ```
 
 Run other scrapers:
