@@ -78,7 +78,7 @@ All scraped data is saved in the `data/` directory:
 
 ### Scraped Data (JSON)
 - `data/jobs.json` - Goodwill Central Texas jobs (92 current postings)
-- `data/indeed_jobs.json` - Indeed job postings (3 listings)
+- `data/indeed_jobs.json` - Indeed job postings (5 listings)
 - `data/gsg_jobs.json` - GSG Talent Solutions jobs (15 current postings)
 - `data/acc_resources.json` - ACC community resources (371 resources)
 - `data/housing_properties.json` - Austin affordable housing properties (571 properties)
