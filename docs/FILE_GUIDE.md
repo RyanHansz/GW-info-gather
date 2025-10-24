@@ -62,16 +62,24 @@ GW-info-gather/
 ### Indeed Scraper (`scrapers/indeed/`)
 
 #### `scraper_indeed.py`
-**Purpose:** Scrapes Goodwill Central Texas job postings from Indeed.com
+**Purpose:** Scrapes Goodwill Central Texas job postings from Indeed.com with detailed information
 **Features:**
 - Searches Indeed for Goodwill Central Texas jobs in Austin, TX area
 - Handles multiple pages of results
 - Anti-detection measures (user agent spoofing, realistic browser settings)
 - Extracts job title, company, location, salary, snippets, and URLs
+- **Visits each job page to extract detailed information:**
+  - Full job description
+  - Job type details
+  - Benefits information
+  - Qualifications/requirements (when identifiable)
 - Duplicate detection across pages
+- Respectful scraping with delays between requests
 
 **Output:** `data/indeed_jobs.json`
 **Usage:** `python scrapers/indeed/scraper_indeed.py`
+
+**Note:** This scraper takes longer to run as it visits each job page individually to gather comprehensive details.
 
 ### GSG Talent Solutions Scraper (`scrapers/gsg/`)
 

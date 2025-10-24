@@ -10,9 +10,67 @@ from datetime import datetime
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
 
+def extract_job_details(page, job_url):
+    """
+    Extracts detailed information from a job page
+
+    Args:
+        page: Playwright page object
+        job_url: URL of the job to extract details from
+
+    Returns:
+        Dictionary with job details
+    """
+    details = {}
+
+    try:
+        print(f"    → Visiting job page...")
+        page.goto(job_url, wait_until="domcontentloaded", timeout=15000)
+        time.sleep(2)
+
+        # Extract full job description
+        desc_container = page.query_selector('div#jobDescriptionText')
+        if desc_container:
+            details['description'] = desc_container.inner_text().strip()
+
+        # Extract job type details
+        job_type_elem = page.query_selector('div[data-testid="job-details-job-type"]')
+        if job_type_elem:
+            details['job_type'] = job_type_elem.inner_text().strip()
+
+        # Extract benefits (if available)
+        benefits_section = page.query_selector('div[id*="benefits"], div[class*="benefits"]')
+        if benefits_section:
+            details['benefits'] = benefits_section.inner_text().strip()
+
+        # Try to extract qualifications/requirements section
+        # Look for sections with common headings
+        all_text = page.query_selector('div#jobDescriptionText')
+        if all_text:
+            full_text = all_text.inner_text()
+
+            # Try to identify qualifications section
+            if 'Qualifications' in full_text or 'Requirements' in full_text:
+                # Extract sections if identifiable
+                sections = full_text.split('\n\n')
+                for i, section in enumerate(sections):
+                    if 'Qualifications' in section or 'Requirements' in section:
+                        details['qualifications'] = section.strip()
+                        break
+
+        print(f"    ✓ Extracted job details")
+
+    except PlaywrightTimeoutError:
+        print(f"    ✗ Timeout loading job page")
+    except Exception as e:
+        print(f"    ✗ Error extracting job details: {str(e)[:50]}")
+
+    return details
+
+
 def scrape_indeed_jobs(headless=True):
     """
-    Scrapes Goodwill Central Texas job postings from Indeed
+    Scrapes Goodwill Central Texas job postings from Indeed with detailed information
     """
     url = "https://www.indeed.com/q-goodwill-central-texas-l-austin,-tx-jobs.html?vjk=1db5c23c9b0ed3dc"
     jobs = []
@@ -45,8 +103,12 @@ def scrape_indeed_jobs(headless=True):
         """)
 
         print(f"Navigating to {url}")
-        page.goto(url, wait_until="networkidle")
-        time.sleep(2)
+        try:
+            page.goto(url, wait_until="domcontentloaded", timeout=45000)
+        except PlaywrightTimeoutError:
+            # Try one more time with load instead
+            page.goto(url, wait_until="load", timeout=45000)
+        time.sleep(3)
 
         # Close any popups that might appear
         try:
@@ -222,6 +284,24 @@ def scrape_indeed_jobs(headless=True):
                 print(f"Error loading additional pages: {e}")
                 break
 
+        # Now visit each job page to get detailed information
+        print(f"\n{'=' * 60}")
+        print(f"Extracting detailed information from {len(jobs)} jobs...")
+        print(f"{'=' * 60}\n")
+
+        for idx, job in enumerate(jobs, 1):
+            if job.get('url'):
+                print(f"[{idx}/{len(jobs)}] {job.get('title', 'N/A')[:50]}")
+                try:
+                    details = extract_job_details(page, job['url'])
+                    job.update(details)
+                    time.sleep(2)  # Be respectful to the server
+                except Exception as e:
+                    print(f"    ✗ Error: {str(e)[:50]}")
+                    continue
+            else:
+                print(f"[{idx}/{len(jobs)}] {job.get('title', 'N/A')[:50]} - No URL available")
+
         context.close()
         browser.close()
 
@@ -250,7 +330,7 @@ def main():
     print("=" * 60)
     print()
 
-    jobs = scrape_indeed_jobs(headless=False)  # Use visible browser to avoid detection
+    jobs = scrape_indeed_jobs(headless=True)  # Headless mode often works better with timeouts
 
     if jobs:
         save_jobs(jobs)
@@ -265,8 +345,13 @@ def main():
             print(f"   Location: {job.get('location', 'N/A')}")
             if job.get('salary'):
                 print(f"   Salary: {job.get('salary')}")
+            if job.get('job_type'):
+                print(f"   Type: {job.get('job_type')}")
             if job.get('posted_date'):
                 print(f"   Posted: {job.get('posted_date')}")
+            if job.get('description'):
+                desc_preview = job.get('description')[:150].replace('\n', ' ')
+                print(f"   Description: {desc_preview}...")
             if job.get('url'):
                 print(f"   URL: {job.get('url')}")
     else:
