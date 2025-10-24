@@ -33,10 +33,42 @@ def extract_job_details(page, job_url):
         if desc_container:
             details['description'] = desc_container.inner_text().strip()
 
-        # Extract job type details
+        # Extract salary and employment type from detail page
+        salary_info_elem = page.query_selector('div#salaryInfoAndJobType')
+        if salary_info_elem:
+            salary_info_text = salary_info_elem.inner_text().strip()
+            # Parse the text like "$42,000 - $47,999 a year - Full-time"
+            if salary_info_text:
+                parts = salary_info_text.split(' - ')
+                # First part is usually salary (contains $ or numbers)
+                if len(parts) >= 1 and ('$' in parts[0] or 'hour' in parts[0].lower() or 'year' in parts[0].lower()):
+                    # Salary might be in first part or first two parts
+                    salary_part = parts[0]
+                    if len(parts) >= 2 and ('year' in parts[1].lower() or 'hour' in parts[1].lower() or 'month' in parts[1].lower()):
+                        salary_part = f"{parts[0]} - {parts[1]}"
+                        details['salary'] = salary_part.strip()
+                        # Employment type is the last part
+                        if len(parts) >= 3:
+                            details['employment_type'] = parts[-1].strip()
+                    else:
+                        details['salary'] = salary_part.strip()
+                        # Check if other parts contain employment type
+                        for part in parts[1:]:
+                            employment_types = ['Part-time', 'Full-time', 'Contract', 'Temporary', 'Internship', 'Seasonal']
+                            if any(emp_type.lower() in part.lower() for emp_type in employment_types):
+                                details['employment_type'] = part.strip()
+                                break
+
+        # Also check job-details-job-type selector
         job_type_elem = page.query_selector('div[data-testid="job-details-job-type"]')
-        if job_type_elem:
-            details['job_type'] = job_type_elem.inner_text().strip()
+        if job_type_elem and 'employment_type' not in details:
+            job_type_text = job_type_elem.inner_text().strip()
+            # Check if this is employment type
+            employment_types = ['Part-time', 'Full-time', 'Contract', 'Temporary', 'Internship', 'Seasonal']
+            if any(emp_type.lower() in job_type_text.lower() for emp_type in employment_types):
+                details['employment_type'] = job_type_text
+            else:
+                details['job_type'] = job_type_text
 
         # Extract benefits (if available)
         benefits_section = page.query_selector('div[id*="benefits"], div[class*="benefits"]')
@@ -172,10 +204,21 @@ def scrape_indeed_jobs(headless=True, use_company_page=True):
                 if location_elem:
                     job_data['location'] = location_elem.inner_text().strip()
 
-                # Extract salary if available
-                salary_elem = card.query_selector('div[data-testid="attribute_snippet_testid"]')
-                if not salary_elem:
-                    salary_elem = card.query_selector('div.salary-snippet')
+                # Extract salary/employment type - need to distinguish between the two
+                attribute_elem = card.query_selector('div[data-testid="attribute_snippet_testid"]')
+                if attribute_elem:
+                    attribute_text = attribute_elem.inner_text().strip()
+                    if attribute_text:
+                        # Check if it's employment type or actual salary
+                        employment_types = ['Part-time', 'Full-time', 'Contract', 'Temporary', 'Internship', 'Seasonal']
+                        if any(emp_type.lower() in attribute_text.lower() for emp_type in employment_types):
+                            job_data['employment_type'] = attribute_text
+                        else:
+                            # Likely actual salary (contains $, per hour, etc.)
+                            job_data['salary'] = attribute_text
+
+                # Also check salary-snippet for actual salary info
+                salary_elem = card.query_selector('div.salary-snippet')
                 if salary_elem:
                     salary_text = salary_elem.inner_text().strip()
                     if salary_text:
@@ -289,7 +332,20 @@ def scrape_indeed_jobs(headless=True, use_company_page=True):
                         if location_elem:
                             job_data['location'] = location_elem.inner_text().strip()
 
-                        salary_elem = card.query_selector('div[data-testid="attribute_snippet_testid"]')
+                        # Extract salary/employment type - need to distinguish between the two
+                        attribute_elem = card.query_selector('div[data-testid="attribute_snippet_testid"]')
+                        if attribute_elem:
+                            attribute_text = attribute_elem.inner_text().strip()
+                            if attribute_text:
+                                # Check if it's employment type or actual salary
+                                employment_types = ['Part-time', 'Full-time', 'Contract', 'Temporary', 'Internship', 'Seasonal']
+                                if any(emp_type.lower() in attribute_text.lower() for emp_type in employment_types):
+                                    job_data['employment_type'] = attribute_text
+                                else:
+                                    job_data['salary'] = attribute_text
+
+                        # Also check salary-snippet for actual salary info
+                        salary_elem = card.query_selector('div.salary-snippet')
                         if salary_elem:
                             salary_text = salary_elem.inner_text().strip()
                             if salary_text:
@@ -359,7 +415,7 @@ def scrape_indeed_jobs(headless=True, use_company_page=True):
     return jobs
 
 
-def save_jobs(jobs, filename='indeed_jobs.json'):
+def save_jobs(jobs, filename='data/indeed_jobs.json'):
     """Save jobs to JSON file"""
     output = {
         'scraped_at': datetime.now().isoformat(),
@@ -396,6 +452,8 @@ def main():
             print(f"   Location: {job.get('location', 'N/A')}")
             if job.get('salary'):
                 print(f"   Salary: {job.get('salary')}")
+            if job.get('employment_type'):
+                print(f"   Employment Type: {job.get('employment_type')}")
             if job.get('job_type'):
                 print(f"   Type: {job.get('job_type')}")
             if job.get('posted_date'):

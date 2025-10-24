@@ -123,15 +123,98 @@ To get full job descriptions and direct links, potential approaches:
 - Includes error handling and progress reporting
 - Saves structured JSON data with timestamp
 
-## Data Structure
+## Data Structures
 
-Example job entry:
+### Goodwill Central Texas Jobs (`data/jobs.json`)
+
+Basic job listing from ADP Workforce Now portal:
+
 ```json
 {
   "title": "Merchandise Processor",
   "location": "San Marcos Store, San Marcos, TX, US",
-  "posted_date": "Today",
+  "posted_date": "2 days ago",
   "job_type": "Full Time",
   "job_id": "job_item_view_main_div_9201772224883_1"
+}
+```
+
+### Indeed Jobs (`data/indeed_jobs.json`)
+
+Detailed job listings from Indeed with salary and full descriptions:
+
+```json
+{
+  "title": "Retail Assistant Manager",
+  "company": "Goodwill Industries of Central Texas",
+  "location": "Cedar Park, TX",
+  "salary": "$42,000 - $47,999 a year",
+  "employment_type": "Full-time",
+  "job_key": "1db5c23c9b0ed3dc",
+  "url": "https://www.indeed.com/viewjob?jk=1db5c23c9b0ed3dc",
+  "description": "Assistant Store Manager – Lead With Purpose...",
+  "benefits": "Benefits\nPaid parental leave\nHealth insurance...",
+  "qualifications": "High School diploma or equivalent..."
+}
+```
+
+### GSG Talent Solutions Jobs (`data/gsg_jobs.json`)
+
+Contract and permanent positions with pay rates:
+
+```json
+{
+  "title": "Risk Management Specialist IV, Expert",
+  "location": "Austin, TX",
+  "employment_type": "Contract",
+  "job_number": "51440554",
+  "category": "",
+  "posted_date": "10/23/25",
+  "url": "https://jobs.gsgtalentsolutions.com/?p=job%2F12850314",
+  "pay_rate": "$58.62 / hour"
+}
+```
+
+### ACC Community Resources (`data/acc_resources.json`)
+
+Community support resources from Austin Community College:
+
+```json
+{
+  "type": "Legal",
+  "name": "ACC's Notary Service",
+  "description": "Free on-campus notary services for students needing help with ACC-specific documents...",
+  "website": "https://docs.google.com/spreadsheets/...",
+  "website_text": "Visit Website",
+  "phone": "",
+  "county": "Bastrop, Blanco, Burnet, Caldwell, Hays, Lee, Williamson, Travis"
+}
+```
+
+### Austin Affordable Housing (`data/housing_properties.json`)
+
+Comprehensive property data from ATX Affordable Housing Portal:
+
+```json
+{
+  "id": 2854,
+  "property_name": "Green Doors",
+  "address": "1503 S IH35",
+  "city": "Austin",
+  "state": "TX",
+  "zipcode": "78741",
+  "lat": 30.24270058,
+  "longitude": -97.73490143,
+  "unit_type": "Single Family",
+  "council_district": 9,
+  "phone": "512-469-9130",
+  "total_units": 60,
+  "total_income_restricted_units": 60,
+  "accepts_section_8": null,
+  "num_units_mfi_30": 60,
+  "num_units_mfi_50": null,
+  "num_units_mfi_60": null,
+  "community_military": 1,
+  "community_served_descriptions": "Scattered housing for veterans experiencing poverty"
 }
 ```
