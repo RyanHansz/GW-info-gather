@@ -10,16 +10,9 @@ ENV/
 dist/
 build/
 
-# Output files
-jobs.json
-indeed_jobs.json
-gsg_jobs.json
-acc_resources.json
-page_debug.html
-indeed_debug.html
-gsg_debug.html
-gsg_debug.png
-gsg_api_debug.json
+# Output directories
+data/
+debug/
 
 # IDE
 .vscode/

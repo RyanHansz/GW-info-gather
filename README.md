@@ -1,6 +1,6 @@
-# Goodwill Central Texas Job Scraper
+# GW Info Gather
 
-A Python script to scrape job postings from Goodwill Central Texas careers page.
+A collection of Python scrapers to gather job postings, affordable housing data, and community resources in the Austin, TX area.
 
 ## Current Status
 
@@ -33,32 +33,59 @@ pip install -r requirements.txt
 playwright install chromium
 ```
 
-## Usage
+## Project Structure
 
-Run the scraper:
-```bash
-python scraper.py
+```
+GW-info-gather/
+├── scrapers/           # All web scraper scripts
+│   ├── goodwill/       # Goodwill Central Texas scrapers
+│   ├── indeed/         # Indeed job board scraper
+│   ├── gsg/            # GSG Talent Solutions scraper
+│   ├── housing/        # Affordable housing data scraper
+│   └── resources/      # Community resources scraper
+├── data/               # Generated data files (JSON)
+├── debug/              # Debug HTML dumps
+├── utils/              # Utility scripts
+└── docs/               # Documentation
 ```
 
-The script will:
+See [docs/FILE_GUIDE.md](docs/FILE_GUIDE.md) for detailed explanation of each file.
+
+## Usage
+
+Run the main Goodwill scraper:
+```bash
+python scrapers/goodwill/scraper.py
+```
+
+Run other scrapers:
+```bash
+python scrapers/indeed/scraper_indeed.py                # Indeed jobs
+python scrapers/gsg/scraper_gsg.py                      # GSG Talent Solutions
+python scrapers/resources/scraper_acc_resources.py      # ACC resources
+python scrapers/housing/scraper_atx_housing.py          # Austin housing (571 properties)
+```
+
+The scripts will:
 - Launch a headless browser
-- Navigate to the Goodwill careers page
-- Click "View all" to expand job listings
-- Scroll to load all 90 jobs
-- Extract job information
-- Save results to `jobs.json`
+- Navigate to the target careers page
+- Extract job/resource information
+- Save results to `data/` directory
 
 ## Output
 
-`jobs.json` contains:
+All scraped data is saved in the `data/` directory:
+
+- `data/jobs.json` - Goodwill Central Texas jobs
+- `data/indeed_jobs.json` - Indeed job postings
+- `data/gsg_jobs.json` - GSG Talent Solutions jobs
+- `data/acc_resources.json` - ACC community resources
+- `data/housing_properties.json` - Austin affordable housing properties
+
+Each file contains:
 - `scraped_at`: Timestamp of when data was collected
-- `total_jobs`: Number of jobs found
-- `jobs`: Array of job objects with:
-  - `title`: Job title
-  - `location`: Store/office location
-  - `job_type`: Employment type
-  - `posted_date`: When the job was posted
-  - `job_id`: Internal element ID
+- `total_jobs` or `total_resources`: Number of items found
+- `jobs` or `resources`: Array of data objects
 
 ## Future Enhancements
 

@@ -1,0 +1,236 @@
+# File Structure Guide
+
+This document explains the purpose of each file and directory in the project.
+
+## Directory Structure
+
+```
+GW-info-gather/
+├── scrapers/           # All web scraper scripts
+│   ├── goodwill/       # Goodwill Central Texas scrapers
+│   ├── indeed/         # Indeed job board scraper
+│   ├── gsg/            # GSG Talent Solutions scraper
+│   ├── housing/        # Affordable housing data scraper
+│   └── resources/      # Community resources scraper
+├── data/               # Generated data files (JSON)
+├── debug/              # Debug HTML dumps
+├── utils/              # Utility scripts
+├── docs/               # Documentation
+├── .gitignore          # Git ignore rules
+├── requirements.txt    # Python dependencies
+└── README.md           # Main project documentation
+```
+
+## Scraper Files
+
+### Goodwill Central Texas Scrapers (`scrapers/goodwill/`)
+
+#### `scraper.py`
+**Purpose:** Main production scraper for Goodwill Central Texas jobs
+**Features:**
+- Scrapes from ADP Workforce Now recruitment portal
+- Extracts full job details including descriptions
+- Handles infinite scroll pagination
+- Navigates to individual job pages to capture job IDs and URLs
+- Saves complete job data with metadata
+
+**Output:** `data/jobs.json`
+**Usage:** `python scrapers/goodwill/scraper.py`
+
+#### `scraper_simple.py`
+**Purpose:** Simplified version that only extracts basic job information
+**Features:**
+- Faster execution time
+- No navigation to individual job pages
+- Extracts: title, location, job type, posted date
+- Best for quick job listing snapshots
+
+**Output:** `data/jobs.json`
+**Usage:** `python scrapers/goodwill/scraper_simple.py`
+
+#### `scraper_js_approach.py`
+**Purpose:** Experimental scraper using JavaScript extraction
+**Features:**
+- Research/debugging tool
+- Attempts to extract job data via JavaScript evaluation
+- Runs in non-headless mode for observation
+- Useful for exploring page structure and data attributes
+
+**Output:** Console output only
+**Usage:** `python scrapers/goodwill/scraper_js_approach.py`
+
+### Indeed Scraper (`scrapers/indeed/`)
+
+#### `scraper_indeed.py`
+**Purpose:** Scrapes Goodwill Central Texas job postings from Indeed.com
+**Features:**
+- Searches Indeed for Goodwill Central Texas jobs in Austin, TX area
+- Handles multiple pages of results
+- Anti-detection measures (user agent spoofing, realistic browser settings)
+- Extracts job title, company, location, salary, snippets, and URLs
+- Duplicate detection across pages
+
+**Output:** `data/indeed_jobs.json`
+**Usage:** `python scrapers/indeed/scraper_indeed.py`
+
+### GSG Talent Solutions Scraper (`scrapers/gsg/`)
+
+#### `scraper_gsg.py`
+**Purpose:** Scrapes job postings from GSG Talent Solutions career site
+**Features:**
+- API-based approach (intercepts network responses)
+- More reliable than HTML parsing
+- Extracts comprehensive job data from JSON API
+- Includes pay rates, job numbers, categories
+- Constructs direct job URLs from API data
+
+**Output:** `data/gsg_jobs.json`
+**Usage:** `python scrapers/gsg/scraper_gsg.py`
+
+### ACC Resources Scraper (`scrapers/resources/`)
+
+#### `scraper_acc_resources.py`
+**Purpose:** Scrapes community support resources from Austin Community College
+**Features:**
+- Scrapes basic needs resources (food, housing, healthcare, etc.)
+- Handles paginated tables with Footable plugin
+- Extracts: resource type, name, description, website, phone, county
+- Complete pagination traversal
+- Groups resources by type in summary
+
+**Output:** `data/acc_resources.json`
+**Usage:** `python scrapers/resources/scraper_acc_resources.py`
+
+### Austin Affordable Housing Scraper (`scrapers/housing/`)
+
+#### `scraper_atx_housing.py`
+**Purpose:** Fetches affordable housing property data from ATX Affordable Housing Portal
+**Features:**
+- API-based scraper (no browser automation required)
+- Uses Python's built-in urllib for simple HTTP requests
+- Fetches comprehensive property data including units, affordability levels, amenities
+- Detailed statistics by council district
+- Analyzes property features (Section 8, pet-friendly, specialized communities)
+- Provides summary statistics on total units and income restrictions
+
+**Output:** `data/housing_properties.json`
+**Usage:** `python scrapers/housing/scraper_atx_housing.py`
+
+**Data Includes:**
+- Property name, address, and location details
+- Total units and income-restricted units
+- Affordability levels (30%, 40%, 50%, 60% MFI)
+- Council district information
+- Amenities (pool, playground, parking)
+- Pet policies and Section 8 acceptance
+- Contact information and websites
+- Tenant criteria (criminal history, eviction history, etc.)
+
+## Utility Scripts (`utils/`)
+
+#### `check_data.py`
+**Purpose:** Data validation and analysis tool
+**Features:**
+- Validates scraped job data completeness
+- Checks for presence of descriptions and URLs
+- Provides quick statistics on data quality
+- Sample output for spot-checking
+
+**Usage:** `python utils/check_data.py`
+**Input:** Reads from `data/jobs.json`
+
+#### `split_json.py`
+**Purpose:** Splits large JSON files into smaller chunks
+**Features:**
+- Handles both array and object-based JSON structures
+- Configurable number of output files
+- Preserves metadata across split files
+- Useful for processing large datasets
+- Automatically detects common wrapper keys (data, results, properties, etc.)
+
+**Usage:** Edit file to set input path and run: `python utils/split_json.py`
+
+## Data Files (`data/`)
+
+All JSON output files are stored here:
+
+- `jobs.json` - Goodwill Central Texas jobs
+- `indeed_jobs.json` - Indeed job postings
+- `gsg_jobs.json` - GSG Talent Solutions jobs
+- `acc_resources.json` - ACC community resources
+- `housing_properties.json` - Austin affordable housing properties (571 properties)
+
+**Note:** This directory is git-ignored as it contains generated data.
+
+## Debug Files (`debug/`)
+
+HTML snapshots saved during scraping for troubleshooting:
+
+- `page_debug.html` - Goodwill page snapshot when errors occur
+- `indeed_debug.html` - Indeed page snapshot for debugging selectors
+
+**Note:** This directory is git-ignored as these are temporary debug artifacts.
+
+## Configuration Files
+
+#### `requirements.txt`
+**Purpose:** Python package dependencies
+**Contents:**
+```
+playwright
+```
+
+**Installation:** `pip install -r requirements.txt`
+**Additional Setup:** `playwright install chromium`
+
+#### `.gitignore`
+**Purpose:** Specifies files/directories git should ignore
+**Key exclusions:**
+- Python cache files (`__pycache__/`, `*.pyc`)
+- Virtual environments (`venv/`, `env/`)
+- Generated data (`data/`)
+- Debug files (`debug/`)
+- IDE files (`.vscode/`, `.idea/`)
+
+## Documentation (`docs/`)
+
+#### `FILE_GUIDE.md` (this file)
+**Purpose:** Comprehensive guide to project file structure and purpose
+
+## Common Patterns
+
+### All Scrapers Follow This Pattern:
+1. **Launch browser** - Uses Playwright for browser automation
+2. **Navigate to target URL** - Handles dynamic content loading
+3. **Extract data** - Uses CSS selectors to parse page elements
+4. **Save to JSON** - Structured output with timestamps and metadata
+5. **Print summary** - Console output showing scrape results
+
+### Standard Output Format:
+```json
+{
+  "scraped_at": "ISO timestamp",
+  "source": "Data source name",
+  "total_jobs": 123,
+  "jobs": [...]
+}
+```
+
+## Quick Reference
+
+| Task | Command |
+|------|---------|
+| Scrape Goodwill jobs | `python scrapers/goodwill/scraper.py` |
+| Scrape Indeed jobs | `python scrapers/indeed/scraper_indeed.py` |
+| Scrape GSG jobs | `python scrapers/gsg/scraper_gsg.py` |
+| Scrape ACC resources | `python scrapers/resources/scraper_acc_resources.py` |
+| Scrape housing data | `python scrapers/housing/scraper_atx_housing.py` |
+| Check data quality | `python utils/check_data.py` |
+| Split large JSON | Edit `utils/split_json.py` then run |
+
+## Technology Stack
+
+- **Language:** Python 3
+- **Browser Automation:** Playwright
+- **Data Format:** JSON
+- **Version Control:** Git/GitHub
