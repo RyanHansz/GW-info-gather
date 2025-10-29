@@ -8,8 +8,22 @@ import json
 import time
 import urllib.request
 import urllib.error
+import re
 from datetime import datetime
 from taxonomy_mappings import map_services, map_amenities
+
+
+def strip_html(text):
+    """Remove HTML tags from text"""
+    if not text:
+        return ''
+    # Remove HTML tags
+    text = re.sub(r'<[^>]+>', '', text)
+    # Clean up whitespace
+    text = text.strip()
+    # Replace multiple spaces with single space
+    text = re.sub(r'\s+', ' ', text)
+    return text
 
 
 def fetch_locations_page(page_num):
@@ -130,7 +144,9 @@ def parse_location(location_data):
                 }
                 location['hours'].append(hour_info)
 
-    location['hours_text'] = location_data.get('field_hours_text', '')
+    # Strip HTML from hours text
+    hours_text_raw = location_data.get('field_hours_text', '')
+    location['hours_text'] = strip_html(hours_text_raw)
 
     # Other fields
     location['phone'] = location_data.get('field_phone', '')

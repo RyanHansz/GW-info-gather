@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-29T16:35:49.971697",
+  "scraped_at": "2025-10-29T16:50:52.642006",
   "source": "Central Texas Food Bank",
   "source_url": "https://www.centraltexasfoodbank.org/food-assistance/get-food-now",
   "api_endpoint": "https://www.centraltexasfoodbank.org/rest/node/location/{page}",
@@ -120,15 +120,11 @@
       "amenity_ids": [
         ""
       ],
-      "amenities": [
-        "Unknown Amenity ()"
-      ],
+      "amenities": [],
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours_text": "",
       "phone": "",
       "website": "",
@@ -165,7 +161,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>1st Friday:</strong> 9:00 am-10:30 am (Drive-Thru Distribution)</p>\n",
+      "hours_text": "1st Friday: 9:00 am-10:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -201,7 +197,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>2nd Friday: </strong>10:00 am-11:00 am (Drive-Thru Distribution)</p>\n",
+      "hours_text": "2nd Friday: 10:00 am-11:00 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -234,10 +230,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p><strong>4th Saturday:</strong> 9:00 am-10:30 am (Drive-Thru Distribution)</p>",
+      "services": [],
+      "hours_text": "4th Saturday: 9:00 am-10:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -264,15 +258,11 @@
       "amenity_ids": [
         ""
       ],
-      "amenities": [
-        "Unknown Amenity ()"
-      ],
+      "amenities": [],
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "6",
@@ -313,10 +303,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>4th Monday: 5:00 pm-6:00 pm</p>\n",
+      "services": [],
+      "hours_text": "4th Monday: 5:00 pm-6:00 pm",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -349,10 +337,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>2nd Saturday: 9:00 am-11:00am</p>\n",
+      "services": [],
+      "hours_text": "2nd Saturday: 9:00 am-11:00am",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -385,10 +371,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>2nd Monday: 5:30 pm-7:30 pm</p>\n",
+      "services": [],
+      "hours_text": "2nd Monday: 5:30 pm-7:30 pm",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -421,10 +405,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>1st Wednesday: 6:00 pm-7:30 pm</p>\n\n<p>3rd Wednesday: 6:00 pm-7:30 pm</p>\n",
+      "services": [],
+      "hours_text": "1st Wednesday: 6:00 pm-7:30 pm 3rd Wednesday: 6:00 pm-7:30 pm",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -457,9 +439,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "2",
@@ -505,9 +485,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "2",
@@ -553,9 +531,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "3",
@@ -563,7 +539,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p data-pm-slice=\"1 1 []\">Wednesday: 4:00 pm-6:00 pm (Appointment only)</p>\n",
+      "hours_text": "Wednesday: 4:00 pm-6:00 pm (Appointment only)",
       "phone": "512-375-5903",
       "website": "https://www.blackmamasvillage-atx.org/",
       "healthy_pantry": "",
@@ -596,9 +572,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "6",
@@ -639,10 +613,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>2nd Tuesday: 11:00 a.m-1:00 p.m.</p>\n\n<p>4th Tuesday: 11:00 a.m-1:00 p.m.</p>",
+      "services": [],
+      "hours_text": "2nd Tuesday: 11:00 a.m-1:00 p.m. 4th Tuesday: 11:00 a.m-1:00 p.m.",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -675,10 +647,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p><span><span>2nd Thursday: 2:00 p.m.-4:00 p.m.</span></span></p>\n\n<p><span><span>4th Thursday: 2:00 p.m.-4:00 p.m.</span></span></p>",
+      "services": [],
+      "hours_text": "2nd Thursday: 2:00 p.m.-4:00 p.m. 4th Thursday: 2:00 p.m.-4:00 p.m.",
       "phone": "(254) 876-2620",
       "website": "http://mart.churchofchrist.info/",
       "healthy_pantry": "",
@@ -764,7 +734,7 @@
           "end": "1300"
         }
       ],
-      "hours_text": "<p>Every other Friday 10:00 a.m. - 1:00 p.m.</p>\n",
+      "hours_text": "Every other Friday 10:00 a.m. - 1:00 p.m.",
       "phone": "(254) 547-4673",
       "website": "http://covehouse.org/",
       "healthy_pantry": "",
@@ -807,7 +777,7 @@
           "end": "1000"
         }
       ],
-      "hours_text": "<p>4th Saturday: 11:00 am-1:00 pm</p>\n\n<p>2nd Saturday: 11:00 am-1:00 pm</p>\n",
+      "hours_text": "4th Saturday: 11:00 am-1:00 pm 2nd Saturday: 11:00 am-1:00 pm",
       "phone": "",
       "website": "http://www.fivehillsag.org/",
       "healthy_pantry": "",
@@ -843,7 +813,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>1st Monday: 9:30 - 10:30 am (CSFP ONLY)</p>\n",
+      "hours_text": "1st Monday: 9:30 - 10:30 am (CSFP ONLY)",
       "phone": "512-990-2348",
       "website": "https://www.cambridgevillasseniorpflugerville.com/",
       "healthy_pantry": "",
@@ -1194,7 +1164,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st and 3rd Tuesday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:00 pm-5:00 pm (Kids Cafe ONLY)</p>\n",
+      "hours_text": "1st and 3rd Tuesday: 11:00 am-1:00 pm Monday - Friday: 3:00 pm-5:00 pm (Kids Cafe ONLY)",
       "phone": "(512) 381-4580",
       "website": "https://foundcom.org/housing/our-austin-communities/the-jordan-at-mueller/",
       "healthy_pantry": "",
@@ -1230,7 +1200,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd and 4th Monday: 4:30 pm-6:30 pm</p>\n\n<p>Monday - Friday: 3:00 pm-4:30 pm (Kids Cafe ONLY)</p>\n",
+      "hours_text": "2nd and 4th Monday: 4:30 pm-6:30 pm Monday - Friday: 3:00 pm-4:30 pm (Kids Cafe ONLY)",
       "phone": "512-735-1635",
       "website": "https://foundcom.org/housing/our-austin-communities/laurel-creek/",
       "healthy_pantry": "",
@@ -1306,9 +1276,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "4",
@@ -1316,7 +1284,7 @@
           "end": "1245"
         }
       ],
-      "hours_text": "<p>End times are based on food availability.</p>\n",
+      "hours_text": "End times are based on food availability.",
       "phone": "512-392-8300",
       "website": "https://www.haysfoodbank.org/",
       "healthy_pantry": "",
@@ -1349,10 +1317,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>1st Wednesday: 5:00 p.m.-5:45 p.m.</p>\n\n<p>Please Navigate to the Hays County Food Bank website for the most up-to-date distribution schedule.</p>\n",
+      "services": [],
+      "hours_text": "1st Wednesday: 5:00 p.m.-5:45 p.m. Please Navigate to the Hays County Food Bank website for the most up-to-date distribution schedule.",
       "phone": "512-392-8300",
       "website": "https://www.haysfoodbank.org/",
       "healthy_pantry": "",
@@ -1385,9 +1351,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "1",
@@ -1433,9 +1397,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "1",
@@ -1484,7 +1446,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>4th Sunday: 10:00 a.m. - 12:30 p.m. </p>\n\n<p>1st, 2nd, and 3rd Saturday: 10:30 a.m. - 12:30 p.m. </p>\n",
+      "hours_text": "4th Sunday: 10:00 a.m. - 12:30 p.m. 1st, 2nd, and 3rd Saturday: 10:30 a.m. - 12:30 p.m.",
       "phone": "512-300-9709",
       "website": "https://www.icnarelief.org/texas-austin/",
       "healthy_pantry": "",
@@ -1520,7 +1482,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>1st Thursday: 10:00 am-11:00 am (CSFP ONLY)</p>\n",
+      "hours_text": "1st Thursday: 10:00 am-11:00 am (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -1556,7 +1518,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>2nd Tuesday: 11:00 am-12:00 pm (CSFP ONLY)</p>\n",
+      "hours_text": "2nd Tuesday: 11:00 am-12:00 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -1592,7 +1554,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>1st Friday: 11:00 am-12:00 pm</p>\n",
+      "hours_text": "1st Friday: 11:00 am-12:00 pm",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -1628,7 +1590,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>2nd Wednesday: 11:30 am-12:30 pm (CSFP ONLY)</p>\n",
+      "hours_text": "2nd Wednesday: 11:30 am-12:30 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -1664,7 +1626,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>3rd Thursday: 10:00 am-11:00 am (CSFP ONLY)</p>\n",
+      "hours_text": "3rd Thursday: 10:00 am-11:00 am (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -1700,7 +1662,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>3rd Thursday: 11:30 am-12:30 pm (CSFP ONLY)</p>\n",
+      "hours_text": "3rd Thursday: 11:30 am-12:30 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -1736,7 +1698,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>2nd Tuesday: 9:30 am-10:30 am (CSFP ONLY)</p>\n",
+      "hours_text": "2nd Tuesday: 9:30 am-10:30 am (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -1772,7 +1734,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>2nd Saturday: (HOPE ONLY)<br />\n </p>\n",
+      "hours_text": "2nd Saturday: (HOPE ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -1835,7 +1797,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n\n<p> </p>\n",
+      "hours_text": "3rd Thursday: 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-5159",
       "website": "https://www.austintexas.gov/department/st-john-community-center",
       "healthy_pantry": "",
@@ -1898,7 +1860,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n\n<p> </p>\n",
+      "hours_text": "3rd Thursday: 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-5159",
       "website": "https://www.austintexas.gov/department/st-john-community-center",
       "healthy_pantry": "",
@@ -1961,7 +1923,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n\n<p> </p>\n",
+      "hours_text": "3rd Thursday: 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-5159",
       "website": "https://www.austintexas.gov/department/st-john-community-center",
       "healthy_pantry": "",
@@ -2024,7 +1986,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n\n<p> </p>\n",
+      "hours_text": "3rd Thursday: 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-5159",
       "website": "https://www.austintexas.gov/department/st-john-community-center",
       "healthy_pantry": "",
@@ -2087,7 +2049,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n\n<p> </p>\n",
+      "hours_text": "3rd Thursday: 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-5159",
       "website": "https://www.austintexas.gov/department/st-john-community-center",
       "healthy_pantry": "",
@@ -2123,7 +2085,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>1st Tuesday: 12:00 pm-1:00 pm (CSFP ONLY)</p>\n\n<p> </p>\n",
+      "hours_text": "1st Tuesday: 12:00 pm-1:00 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2159,7 +2121,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>4th Thursday: 10:00 am-11:00 am (CSFP ONLY)</p>\n<p>Monday - Friday: 3:30 pm-5:30 pm (Kids Cafe ONLY)</p>",
+      "hours_text": "4th Thursday: 10:00 am-11:00 am (CSFP ONLY) Monday - Friday: 3:30 pm-5:30 pm (Kids Cafe ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2195,7 +2157,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>3rd Wednesday: 12:00 pm-1:00 pm (CSFP ONLY)<br />\n </p>\n",
+      "hours_text": "3rd Wednesday: 12:00 pm-1:00 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2231,7 +2193,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>3rd Friday: 11:00 am-12:00 pm (CSFP ONLY)<br />\n </p>\n",
+      "hours_text": "3rd Friday: 11:00 am-12:00 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2267,7 +2229,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>1st Monday: 11:00 am-12:00 pm (CSFP ONLY)<br />\n </p>\n",
+      "hours_text": "1st Monday: 11:00 am-12:00 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2303,7 +2265,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>3rd Monday: 9:00 am-10:00 am (CSFP ONLY)</p>\n",
+      "hours_text": "3rd Monday: 9:00 am-10:00 am (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2339,7 +2301,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>3rd Monday: 11:30 am - 12:30 pm (CSFP ONLY)</p>\n",
+      "hours_text": "3rd Monday: 11:30 am - 12:30 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2375,7 +2337,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>2nd Monday: 10:30 am-11:30 am (CSFP ONLY)<br />\n </p>\n",
+      "hours_text": "2nd Monday: 10:30 am-11:30 am (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2411,7 +2373,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>2nd Monday: 9:00 am-10:00 am (CSFP ONLY)</p>\n",
+      "hours_text": "2nd Monday: 9:00 am-10:00 am (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2447,7 +2409,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>Monday after 2nd Thursday: 3:15 pm (CSFP ONLY)</p>\n",
+      "hours_text": "Monday after 2nd Thursday: 3:15 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2483,7 +2445,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>Monday after 2nd Thursday: 2:00 pm (CSFP ONLY)</p>\n",
+      "hours_text": "Monday after 2nd Thursday: 2:00 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2519,7 +2481,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>3rd Monday: 10:30 am-11:30 am</p>\n",
+      "hours_text": "3rd Monday: 10:30 am-11:30 am",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2555,7 +2517,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>2nd Saturday:</strong> 9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "2nd Saturday: 9:00 am-10:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2591,7 +2553,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Saturday:</strong> 9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span>Drive-Thru Distribution<span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "3rd Saturday: 9:00 am-10:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2627,7 +2589,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>4th Saturday: </strong>9:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "4th Saturday: 9:00 am-11:00 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2663,7 +2625,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "3rd Thursday: 9:00 am-10:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2699,7 +2661,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Wednesday: </strong>10:30 am-11:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "3rd Wednesday: 10:30 am-11:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2735,7 +2697,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>2nd Friday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p><strong>4th Friday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p> </p>",
+      "hours_text": "2nd Friday: 9:00 am-10:30 am (Drive-Thru Distribution) 4th Friday: 9:00 am-10:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2771,7 +2733,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>2nd Wednesday: </strong>10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "2nd Wednesday: 10:00 am-11:00 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2807,7 +2769,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Wednesday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "3rd Wednesday: 9:00 am-10:30 am (Market Style Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -2840,10 +2802,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>Drive-through distribution on some Mondays 10:30 a.m. - 12:30 p.m.</p>\n\n<p>Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.</p>\n",
+      "services": [],
+      "hours_text": "Drive-through distribution on some Mondays 10:30 a.m. - 12:30 p.m. Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.",
       "phone": "",
       "website": "https://www.austinvoices.org/",
       "healthy_pantry": "",
@@ -2876,10 +2836,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>Lunch, Monday-Friday: 11:30 a.m. - 12:30 p.m. (Line-up begins at 11:00 a.m.)<br />\nLunch, Sunday: 12:30-1:30pm (line-up begins at noon)<br />\nBreakfast, Saturday: 8:00 - 9:00 a.m. (line-up begins at 7:30 a.m.)<br />\nDinner, Tuesday: 5:30 - 6:00 p.m. (line-up begins at 5:00 p.m.)</p>\n",
+      "services": [],
+      "hours_text": "Lunch, Monday-Friday: 11:30 a.m. - 12:30 p.m. (Line-up begins at 11:00 a.m.) Lunch, Sunday: 12:30-1:30pm (line-up begins at noon) Breakfast, Saturday: 8:00 - 9:00 a.m. (line-up begins at 7:30 a.m.) Dinner, Tuesday: 5:30 - 6:00 p.m. (line-up begins at 5:00 p.m.)",
       "phone": "",
       "website": "http://www.feedmysheeptemple.org/services-provided.html",
       "healthy_pantry": "",
@@ -2922,7 +2880,7 @@
           "end": "1330"
         }
       ],
-      "hours_text": "<p>Please register <a href=\"https://austinblessings.org/\">here</a> for pickup during the service time hours.<br />\n<br />\nRegistration is required in order to receive food. The registration process is available on their website. During the registration process, you will selecting a time to arrive at the Harvest Blessing Check-In Lot from the drop-down. There are a limited number of sports available for each pick-up time slot.</p>\n\n<p>Please contact directly for individuals without a permanent address as there is a walk up service available. </p>\n\n<p> </p>\n",
+      "hours_text": "Please register here for pickup during the service time hours. Registration is required in order to receive food. The registration process is available on their website. During the registration process, you will selecting a time to arrive at the Harvest Blessing Check-In Lot from the drop-down. There are a limited number of sports available for each pick-up time slot. Please contact directly for individuals without a permanent address as there is a walk up service available.",
       "phone": "512-953-5974",
       "website": "https://austinblessings.org",
       "healthy_pantry": "",
@@ -2955,10 +2913,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>2nd &amp; last Tuesday 3:00 p.m. - 6:00 p.m.<br />\n </p>\n",
+      "services": [],
+      "hours_text": "2nd &amp; last Tuesday 3:00 p.m. - 6:00 p.m.",
       "phone": "903-276-0512",
       "website": "",
       "healthy_pantry": "",
@@ -2994,7 +2950,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>2nd Monday: 9:00 a.m. - 10:00 a.m. (Mobile Pantry) </p>\n\n<p>4th Tuesday: 10:30 a.m.-12:30 p.m. (CSFP ONLY) </p>\n",
+      "hours_text": "2nd Monday: 9:00 a.m. - 10:00 a.m. (Mobile Pantry) 4th Tuesday: 10:30 a.m.-12:30 p.m. (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3030,7 +2986,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>1st Wednesday:</strong> 10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "1st Wednesday: 10:00 am-11:00 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3066,7 +3022,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>4th Friday:</strong> 9:00 am-10:30 am (<span><span><span>Drive-Thru Distribution</span></span></span>)</p>\n",
+      "hours_text": "4th Friday: 9:00 am-10:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3102,7 +3058,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>1st Tuesday:</strong> 9:00 am-10:30 am <span><span><span><span><span>(</span></span>Drive-Thru Distribution<span><span>) </span></span></span></span></span></p>",
+      "hours_text": "1st Tuesday: 9:00 am-10:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3138,7 +3094,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>4th Tuesday: 9:00 am-11:00 am (CSFP ONLY)</p>\n",
+      "hours_text": "4th Tuesday: 9:00 am-11:00 am (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3174,7 +3130,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd and 4th Tuesdays from 11:00 am - 1:00 p.m.</p>\n",
+      "hours_text": "2nd and 4th Tuesdays from 11:00 am - 1:00 p.m.",
       "phone": "512-381-4590",
       "website": "",
       "healthy_pantry": "",
@@ -3210,7 +3166,7 @@
       "services": [
         "Delivered Grocery"
       ],
-      "hours_text": "<p>2nd &amp; 4th Wednesday 10:00 a.m. - 12:00 p.m.</p>\n",
+      "hours_text": "2nd &amp; 4th Wednesday 10:00 a.m. - 12:00 p.m.",
       "phone": "254-759-1800",
       "website": "",
       "healthy_pantry": "",
@@ -3246,7 +3202,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>2nd Friday: 2:00 pm-3:00 pm (HOPE ONLY)</p>\n",
+      "hours_text": "2nd Friday: 2:00 pm-3:00 pm (HOPE ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3279,10 +3235,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>4th Tuesday 9:30 a.m. - 11:30 a.m. (For seniors 55+ only)</p>\n",
+      "services": [],
+      "hours_text": "4th Tuesday 9:30 a.m. - 11:30 a.m. (For seniors 55+ only)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3318,7 +3272,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>1st Wednesday: 9:00 am-10:00 am&nbsp;(CSFP ONLY)</p>\n",
+      "hours_text": "1st Wednesday: 9:00 am-10:00 am&nbsp;(CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3351,10 +3305,8 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
-      "hours_text": "<p>2nd Wednesday 10:00 a.m. - 12:00 p.m. (For seniors 55+ only)</p>\n",
+      "services": [],
+      "hours_text": "2nd Wednesday 10:00 a.m. - 12:00 p.m. (For seniors 55+ only)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3390,7 +3342,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>2nd Tuesday: 2:00 pm-4:00 pm (HOPE ONLY)</p>\n",
+      "hours_text": "2nd Tuesday: 2:00 pm-4:00 pm (HOPE ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3426,7 +3378,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>1st Thursday after 2nd Tuesday: 9:00 am (HOPE ONLY)</p>\n",
+      "hours_text": "1st Thursday after 2nd Tuesday: 9:00 am (HOPE ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3484,7 +3436,7 @@
           "end": "1300"
         }
       ],
-      "hours_text": "<p>1st, 3rd Friday: 4:00 pm-7:00 pm<br />\n<br />\n4th Friday: 9:00 am&nbsp;(Produce Only)</p>\n\n<p>Tuesday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Wednesday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Thursday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Friday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p><i>HOPE ONLY Extended hours: 4:00 pm-7:00 pm</i></p>\n",
+      "hours_text": "1st, 3rd Friday: 4:00 pm-7:00 pm 4th Friday: 9:00 am&nbsp;(Produce Only) Tuesday: 9:00 am-1:00 pm (HOPE ONLY) Wednesday: 9:00 am-1:00 pm (HOPE ONLY) Thursday: 9:00 am-1:00 pm (HOPE ONLY) Friday: 9:00 am-1:00 pm (HOPE ONLY) HOPE ONLY Extended hours: 4:00 pm-7:00 pm",
       "phone": "",
       "website": "http://www.foodcare.org/contact.aspx",
       "healthy_pantry": "",
@@ -3542,7 +3494,7 @@
           "end": "1300"
         }
       ],
-      "hours_text": "<p>1st, 3rd Friday: 4:00 pm-7:00 pm<br />\n<br />\n4th Friday: 9:00 am&nbsp;(Produce Only)</p>\n\n<p>Tuesday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Wednesday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Thursday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Friday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p><i>HOPE ONLY Extended hours: 4:00 pm-7:00 pm</i></p>\n",
+      "hours_text": "1st, 3rd Friday: 4:00 pm-7:00 pm 4th Friday: 9:00 am&nbsp;(Produce Only) Tuesday: 9:00 am-1:00 pm (HOPE ONLY) Wednesday: 9:00 am-1:00 pm (HOPE ONLY) Thursday: 9:00 am-1:00 pm (HOPE ONLY) Friday: 9:00 am-1:00 pm (HOPE ONLY) HOPE ONLY Extended hours: 4:00 pm-7:00 pm",
       "phone": "",
       "website": "http://www.foodcare.org/contact.aspx",
       "healthy_pantry": "",
@@ -3600,7 +3552,7 @@
           "end": "1300"
         }
       ],
-      "hours_text": "<p>1st, 3rd Friday: 4:00 pm-7:00 pm<br />\n<br />\n4th Friday: 9:00 am&nbsp;(Produce Only)</p>\n\n<p>Tuesday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Wednesday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Thursday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Friday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p><i>HOPE ONLY Extended hours: 4:00 pm-7:00 pm</i></p>\n",
+      "hours_text": "1st, 3rd Friday: 4:00 pm-7:00 pm 4th Friday: 9:00 am&nbsp;(Produce Only) Tuesday: 9:00 am-1:00 pm (HOPE ONLY) Wednesday: 9:00 am-1:00 pm (HOPE ONLY) Thursday: 9:00 am-1:00 pm (HOPE ONLY) Friday: 9:00 am-1:00 pm (HOPE ONLY) HOPE ONLY Extended hours: 4:00 pm-7:00 pm",
       "phone": "",
       "website": "http://www.foodcare.org/contact.aspx",
       "healthy_pantry": "",
@@ -3658,7 +3610,7 @@
           "end": "1300"
         }
       ],
-      "hours_text": "<p>1st, 3rd Friday: 4:00 pm-7:00 pm<br />\n<br />\n4th Friday: 9:00 am&nbsp;(Produce Only)</p>\n\n<p>Tuesday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Wednesday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Thursday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p>Friday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n\n<p><i>HOPE ONLY Extended hours: 4:00 pm-7:00 pm</i></p>\n",
+      "hours_text": "1st, 3rd Friday: 4:00 pm-7:00 pm 4th Friday: 9:00 am&nbsp;(Produce Only) Tuesday: 9:00 am-1:00 pm (HOPE ONLY) Wednesday: 9:00 am-1:00 pm (HOPE ONLY) Thursday: 9:00 am-1:00 pm (HOPE ONLY) Friday: 9:00 am-1:00 pm (HOPE ONLY) HOPE ONLY Extended hours: 4:00 pm-7:00 pm",
       "phone": "",
       "website": "http://www.foodcare.org/contact.aspx",
       "healthy_pantry": "",
@@ -3694,7 +3646,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>3rd Friday: 12:30 pm-1:30 pm (CSFP ONLY)</p>\n\n",
+      "hours_text": "3rd Friday: 12:30 pm-1:30 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -3757,7 +3709,7 @@
           "end": "1330"
         }
       ],
-      "hours_text": "<p>2nd Tuesday: 8:30 am (HOPE ONLY)</p>\n",
+      "hours_text": "2nd Tuesday: 8:30 am (HOPE ONLY)",
       "phone": "",
       "website": "https://www.helpingcenter.org/#needhelp",
       "healthy_pantry": "",
@@ -3820,7 +3772,7 @@
           "end": "1330"
         }
       ],
-      "hours_text": "<p>2nd Tuesday: 8:30 am (HOPE ONLY)</p>\n",
+      "hours_text": "2nd Tuesday: 8:30 am (HOPE ONLY)",
       "phone": "",
       "website": "https://www.helpingcenter.org/#needhelp",
       "healthy_pantry": "",
@@ -3883,7 +3835,7 @@
           "end": "1330"
         }
       ],
-      "hours_text": "<p>2nd Tuesday: 8:30 am (HOPE ONLY)</p>\n",
+      "hours_text": "2nd Tuesday: 8:30 am (HOPE ONLY)",
       "phone": "",
       "website": "https://www.helpingcenter.org/#needhelp",
       "healthy_pantry": "",
@@ -3946,7 +3898,7 @@
           "end": "1330"
         }
       ],
-      "hours_text": "<p>2nd Tuesday: 8:30 am (HOPE ONLY)</p>\n",
+      "hours_text": "2nd Tuesday: 8:30 am (HOPE ONLY)",
       "phone": "",
       "website": "https://www.helpingcenter.org/#needhelp",
       "healthy_pantry": "",
@@ -4009,7 +3961,7 @@
           "end": "1330"
         }
       ],
-      "hours_text": "<p>2nd Tuesday: 8:30 am (HOPE ONLY)</p>\n",
+      "hours_text": "2nd Tuesday: 8:30 am (HOPE ONLY)",
       "phone": "",
       "website": "https://www.helpingcenter.org/#needhelp",
       "healthy_pantry": "",
@@ -4045,7 +3997,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>2nd Tuesday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p><strong>4th Tuesday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution)</span></span></span></p>",
+      "hours_text": "2nd Tuesday: 9:00 am-10:30 am (Drive-Thru Distribution) 4th Tuesday: 9:00 am-10:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4081,7 +4033,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>1st Tuesday: 10:30 am-11:30 am (CSFP ONLY)</p>\n",
+      "hours_text": "1st Tuesday: 10:30 am-11:30 am (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4117,7 +4069,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>4th Monday: 11:00 am-12:00 pm (CSFP ONLY)</p>\n",
+      "hours_text": "4th Monday: 11:00 am-12:00 pm (CSFP ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4150,9 +4102,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "1",
@@ -4213,9 +4163,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "1",
@@ -4276,9 +4224,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "1",
@@ -4339,9 +4285,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "1",
@@ -4402,9 +4346,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "1",
@@ -4468,7 +4410,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Brandon Grotesque Regular&quot;,sans-serif\">1<sup>st</sup> and 3<sup>rd</sup> Wednesday 4:00 pm - 6:00 pm</span></span></p>\n",
+      "hours_text": "1st and 3rd Wednesday 4:00 pm - 6:00 pm",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4504,7 +4446,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>4th Tuesday: </strong>9:30 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>) </span></span></span></span></span></span></span></span></p>",
+      "hours_text": "4th Tuesday: 9:30 am-11:00 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4540,7 +4482,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>4th Thursday:</strong> 10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "4th Thursday: 10:00 am-11:00 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4576,7 +4518,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Saturday: </strong>9:00 am-10:30 pm <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p> </p>",
+      "hours_text": "3rd Saturday: 9:00 am-10:30 pm (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4612,7 +4554,7 @@
       "services": [
         "Unknown Service (1779, 1445)"
       ],
-      "hours_text": "<p><strong>2nd Wednesday: </strong>10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p><strong>2nd Friday: </strong>2:00 pm-3:00 pm (HOPE ONLY)</p>",
+      "hours_text": "2nd Wednesday: 10:00 am-11:00 am (Market Style Distribution) 2nd Friday: 2:00 pm-3:00 pm (HOPE ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4688,9 +4630,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "2",
@@ -4698,7 +4638,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>Meals are served each Tuesday.</p>\n\n<p>Groceries available every 4th Saturday from 11:00 a.m. - 1:00 p.m.</p>\n",
+      "hours_text": "Meals are served each Tuesday. Groceries available every 4th Saturday from 11:00 a.m. - 1:00 p.m.",
       "phone": "512-565-2854",
       "website": "",
       "healthy_pantry": "",
@@ -4734,7 +4674,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Saturday:</strong> 10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "3rd Saturday: 10:00 am-11:00 am (Market Style Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4770,7 +4710,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Friday:</strong> 9:30 am-10:30 am (<span><span><span>Drive-Thru Distribution)</span></span></span></p>\n\n<p><strong>*For veteran households only.</strong></p>\n",
+      "hours_text": "3rd Friday: 9:30 am-10:30 am (Drive-Thru Distribution) *For veteran households only.",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4806,7 +4746,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>4th Thursday: </strong>9:00 am-10:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>) </span></span></span></span></span></span></span></span></p>",
+      "hours_text": "4th Thursday: 9:00 am-10:00 am (Market Style Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4842,7 +4782,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>4th Wednesday: </strong>10:00 am-11:00 am <span><span><span><span><span><span><span><span>(Mobile Food Pantry distribution.)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "4th Wednesday: 10:00 am-11:00 am (Mobile Food Pantry distribution.)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4878,7 +4818,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>4th Wednesday:</strong> 10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "4th Wednesday: 10:00 am-11:00 am (Market Style Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -4911,9 +4851,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "1",
@@ -4964,9 +4902,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "1",
@@ -5017,9 +4953,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "1",
@@ -5073,7 +5007,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Friday:</strong> 10:00 am–11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "3rd Friday: 10:00 am–11:00 am (Market Style Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5109,7 +5043,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>1st Tuesday:</strong> 10:00 am-11:00 am <span><span><span><span><span><span><span><span>(Market Style Distribution)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "1st Tuesday: 10:00 am-11:00 am (Market Style Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5145,7 +5079,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>1st Friday: </strong>10:00 am–11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "1st Friday: 10:00 am–11:00 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5181,7 +5115,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>1st Thursday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p><strong>3rd Thursday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "1st Thursday: 9:00 am-10:30 am (Market Style Distribution) 3rd Thursday: 9:00 am-10:30 am (Market Style Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5217,7 +5151,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>2nd Thursday:</strong> 9:30 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "2nd Thursday: 9:30 am-10:30 am (Market Style Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5253,7 +5187,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>2nd Thursday: </strong>9:30 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "2nd Thursday: 9:30 am-10:30 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5289,7 +5223,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>2nd Tuesday:</strong> 10:30 am-11:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution)</span></span></span></p>\n\n<p> </p>",
+      "hours_text": "2nd Tuesday: 10:30 am-11:30 am (Market Style Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5325,7 +5259,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>2nd Saturday: </strong>10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "2nd Saturday: 10:00 am-11:00 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5361,7 +5295,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Tuesday: </strong>9:00 am–10:00 am <span>(<span><span>Market Style Distribution</span></span>)</span></p>",
+      "hours_text": "3rd Tuesday: 9:00 am–10:00 am (Market Style Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5397,7 +5331,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Tuesday:</strong> 9:30 am-11:00 am (<span><span><span>Drive-Thru Distribution</span></span></span>)</p>\n",
+      "hours_text": "3rd Tuesday: 9:30 am-11:00 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5433,7 +5367,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>1st Saturday: </strong>9:00 am-10:00 am (<span><span><span>Drive-Thru Distribution</span></span></span>)</p>",
+      "hours_text": "1st Saturday: 9:00 am-10:00 am (Drive-Thru Distribution)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5469,7 +5403,7 @@
       "services": [
         "Senior Program"
       ],
-      "hours_text": "<p>4th Tuesday: 9:30 am-11:30 am (HOPE ONLY)</p>\n<p><i>HOPE ONLY late pickups of leftovers while supplies last - call ahead</i></p>",
+      "hours_text": "4th Tuesday: 9:30 am-11:30 am (HOPE ONLY) HOPE ONLY late pickups of leftovers while supplies last - call ahead",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5505,7 +5439,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>3rd Wednesday:</strong> 8:00 am–9:00 am <span><span><span><span><span><span><span><span>(Mobile Food Pantry distribution.)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "3rd Wednesday: 8:00 am–9:00 am (Mobile Food Pantry distribution.)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5773,7 +5707,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>Monday through Friday by appointment only, after 5:00 p.m.</p>\n\n<p>2nd and 4th Saturday every month, 9:00 a.m. - 12:00 p.m.</p>\n",
+      "hours_text": "Monday through Friday by appointment only, after 5:00 p.m. 2nd and 4th Saturday every month, 9:00 a.m. - 12:00 p.m.",
       "phone": "254-554-0973",
       "website": "https://killeenempower.org/",
       "healthy_pantry": "",
@@ -5809,7 +5743,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st and 3rd Monday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)</p>\n\n<p>Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.</p>\n",
+      "hours_text": "1st and 3rd Monday: 11:00 am-1:00 pm Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY) Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.",
       "phone": "512-610-2231",
       "website": "",
       "healthy_pantry": "",
@@ -5845,7 +5779,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd and 4th Monday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:00 pm-5:00 pm (Kids Cafe ONLY)</p>\n",
+      "hours_text": "2nd and 4th Monday: 11:00 am-1:00 pm Monday - Friday: 3:00 pm-5:00 pm (Kids Cafe ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5881,7 +5815,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st and 3rd Thursday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)</p>\n",
+      "hours_text": "1st and 3rd Thursday: 11:00 am-1:00 pm Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5917,7 +5851,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd and 4th Wednesday 4:30 pm - 6:30 pm</p>\n",
+      "hours_text": "2nd and 4th Wednesday 4:30 pm - 6:30 pm",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5953,7 +5887,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st and 3rd Friday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)</p>\n\n<p>Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.</p>\n",
+      "hours_text": "1st and 3rd Friday: 11:00 am-1:00 pm Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY) Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -5989,7 +5923,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd and 4th Thursday: 4:30 pm-6:30 pm</p>\n\n<p>Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)</p>\n\n<p>Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.</p>\n",
+      "hours_text": "2nd and 4th Thursday: 4:30 pm-6:30 pm Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY) Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -6032,7 +5966,7 @@
           "end": "1030"
         }
       ],
-      "hours_text": "<p>Impact Now Dove Springs does not operate on the 2nd Saturday of the month. </p>\n",
+      "hours_text": "Impact Now Dove Springs does not operate on the 2nd Saturday of the month.",
       "phone": "512-710-6009",
       "website": "",
       "healthy_pantry": "",
@@ -6068,7 +6002,7 @@
       "services": [
         "Unknown Service (2, 1445)"
       ],
-      "hours_text": "<p>Distributions are mobile, call for weekly location or emergency food assistance.</p>\n\n<p>Most often occurs on 3rd Saturday of the month 9:00 a.m. - 11:00 a.m.</p>\n",
+      "hours_text": "Distributions are mobile, call for weekly location or emergency food assistance. Most often occurs on 3rd Saturday of the month 9:00 a.m. - 11:00 a.m.",
       "phone": "254-547-6753 ",
       "website": "",
       "healthy_pantry": "",
@@ -6147,7 +6081,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>Every other Wednesday 6:00 p.m. - 8:00 p.m.</p>\n",
+      "hours_text": "Every other Wednesday 6:00 p.m. - 8:00 p.m.",
       "phone": "254-640-8916",
       "website": "",
       "healthy_pantry": "",
@@ -6190,7 +6124,7 @@
           "end": "1030"
         }
       ],
-      "hours_text": "<p>Offering delivery within Travis County. Text name and address to 512-931-4090.</p>\n\n<p>Ofrece entrega a domicilio dentro del condado de Travis. Envíe su nombre completo y dirección al 512-931-4090.</p>\n",
+      "hours_text": "Offering delivery within Travis County. Text name and address to 512-931-4090. Ofrece entrega a domicilio dentro del condado de Travis. Envíe su nombre completo y dirección al 512-931-4090.",
       "phone": "512-300-9709",
       "website": "https://www.icnarelief.org/texas-austin/",
       "healthy_pantry": "",
@@ -6226,7 +6160,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st and 3rd Wednesday: 4:30 pm-6:30 pm</p>\n\n<p>Monday - Friday: 3:30 pm-5:30 pm (Kids Cafe ONLY)</p>\n",
+      "hours_text": "1st and 3rd Wednesday: 4:30 pm-6:30 pm Monday - Friday: 3:30 pm-5:30 pm (Kids Cafe ONLY)",
       "phone": "512-933-1005",
       "website": "",
       "healthy_pantry": "",
@@ -6274,7 +6208,7 @@
           "end": "1300"
         }
       ],
-      "hours_text": "<p>Please register <a href=\"https://austinblessings.org/\">here</a> for pickup during the service time hours.</p>\n\n<p>Registration is required in order to receive food. The registration process is available on their website. During the registration process, you will selecting a time to arrive at the Harvest Blessing Check-In Lot from the drop-down. There are a limited number of sports available for each pick-up time slot.</p>\n\n<p>Please contact directly for individuals without a permanent address as there is a walk up service available. </p>\n",
+      "hours_text": "Please register here for pickup during the service time hours. Registration is required in order to receive food. The registration process is available on their website. During the registration process, you will selecting a time to arrive at the Harvest Blessing Check-In Lot from the drop-down. There are a limited number of sports available for each pick-up time slot. Please contact directly for individuals without a permanent address as there is a walk up service available.",
       "phone": "512-799-2961 ",
       "website": "https://austinblessings.org",
       "healthy_pantry": "",
@@ -6322,7 +6256,7 @@
           "end": "1300"
         }
       ],
-      "hours_text": "<p>Please register <a href=\"https://austinblessings.org/\">here</a> for pickup during the service time hours.</p>\n\n<p>Registration is required in order to receive food. The registration process is available on their website. During the registration process, you will selecting a time to arrive at the Harvest Blessing Check-In Lot from the drop-down. There are a limited number of sports available for each pick-up time slot.</p>\n\n<p>Please contact directly for individuals without a permanent address as there is a walk up service available. </p>\n",
+      "hours_text": "Please register here for pickup during the service time hours. Registration is required in order to receive food. The registration process is available on their website. During the registration process, you will selecting a time to arrive at the Harvest Blessing Check-In Lot from the drop-down. There are a limited number of sports available for each pick-up time slot. Please contact directly for individuals without a permanent address as there is a walk up service available.",
       "phone": "512-799-2961 ",
       "website": "https://austinblessings.org",
       "healthy_pantry": "",
@@ -6401,7 +6335,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd and 4th Friday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)</p>\n\n<p>Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.</p>\n",
+      "hours_text": "2nd and 4th Friday: 11:00 am-1:00 pm Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY) Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.",
       "phone": "512-617-3037",
       "website": "",
       "healthy_pantry": "",
@@ -6437,7 +6371,7 @@
       "services": [
         "Unknown Service (2, 1445)"
       ],
-      "hours_text": "<p>2nd Tuesday 9:30 a.m. - 11:30 a.m.</p>\n",
+      "hours_text": "2nd Tuesday 9:30 a.m. - 11:30 a.m.",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -6569,7 +6503,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd Saturday: 9:00 am-11:00 am</p>\n\n<p>4th Saturday: 9:00 am-11:00 am</p>\n",
+      "hours_text": "2nd Saturday: 9:00 am-11:00 am 4th Saturday: 9:00 am-11:00 am",
       "phone": "512-272-4043",
       "website": "",
       "healthy_pantry": "",
@@ -6764,7 +6698,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd and 4th Sunday from 12:00 p.m. – 2:00 p.m.</p>\n",
+      "hours_text": "2nd and 4th Sunday from 12:00 p.m. – 2:00 p.m.",
       "phone": "512-635-6125 ",
       "website": "",
       "healthy_pantry": "",
@@ -6800,7 +6734,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd &amp; 4th Wednesday, 10:00 a.m. - 11:00 a.m.<br />\nClosed 5th Tuesday</p>\n",
+      "hours_text": "2nd &amp; 4th Wednesday, 10:00 a.m. - 11:00 a.m. Closed 5th Tuesday",
       "phone": "325-451-0953",
       "website": "",
       "healthy_pantry": "",
@@ -6843,7 +6777,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>Closed on Federal Holidays.</strong></p>",
+      "hours_text": "Closed on Federal Holidays.",
       "phone": "512-446-5710",
       "website": "",
       "healthy_pantry": "",
@@ -6879,7 +6813,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st Thursday 3:00 p.m. - 8:00 p.m.</p>\n\n<p>3rd Thursday 3:00 p.m. - 8:00 p.m.</p>\n",
+      "hours_text": "1st Thursday 3:00 p.m. - 8:00 p.m. 3rd Thursday 3:00 p.m. - 8:00 p.m.",
       "phone": "254-857-4540",
       "website": "",
       "healthy_pantry": "",
@@ -6915,7 +6849,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p><strong>1st Saturday:</strong> 9:00 am-11:00 am</p>\n\n<p><strong>3rd Saturday: </strong>9:00 am-11:00 am</p>\n",
+      "hours_text": "1st Saturday: 9:00 am-11:00 am 3rd Saturday: 9:00 am-11:00 am",
       "phone": "254-307-7225",
       "website": "",
       "healthy_pantry": "",
@@ -6951,7 +6885,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd &amp; 4th Friday, 10:00 a.m. – 12:00 p.m. (and emergency)</p>\n",
+      "hours_text": "2nd &amp; 4th Friday, 10:00 a.m. – 12:00 p.m. (and emergency)",
       "phone": "254-722-9517",
       "website": "",
       "healthy_pantry": "",
@@ -6987,7 +6921,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd and 4th Thursday 2:00 p.m. - 4:00 p.m.</p>\n",
+      "hours_text": "2nd and 4th Thursday 2:00 p.m. - 4:00 p.m.",
       "phone": "254-799-3796",
       "website": "",
       "healthy_pantry": "",
@@ -7023,7 +6957,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st and 3rd Friday, 10:00am - 12:00pm </p>\n",
+      "hours_text": "1st and 3rd Friday, 10:00am - 12:00pm",
       "phone": "254-722-9517",
       "website": "",
       "healthy_pantry": "",
@@ -7374,7 +7308,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>3rd Tuesday, 10:30 a.m. - 4:30 p.m.<br />\nFresh Food for Families 3rd Tuesday 2:00 p.m. - 5:00 p.m. </p>\n",
+      "hours_text": "3rd Tuesday, 10:30 a.m. - 4:30 p.m. Fresh Food for Families 3rd Tuesday 2:00 p.m. - 5:00 p.m.",
       "phone": "254-752-2293",
       "website": "",
       "healthy_pantry": "",
@@ -7558,7 +7492,7 @@
           "end": "1445"
         }
       ],
-      "hours_text": "<p>Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)</p><p>Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY)</p>\n<p>Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY) Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)",
       "phone": "254-753-4593",
       "website": "http://www.caritas-waco.org/emergency_assistance.aspx",
       "healthy_pantry": "",
@@ -7646,7 +7580,7 @@
           "end": "1445"
         }
       ],
-      "hours_text": "<p>Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)</p><p>Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY)</p>\n<p>Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY) Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)",
       "phone": "254-753-4593",
       "website": "http://www.caritas-waco.org/emergency_assistance.aspx",
       "healthy_pantry": "",
@@ -7734,7 +7668,7 @@
           "end": "1445"
         }
       ],
-      "hours_text": "<p>Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)</p><p>Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY)</p>\n<p>Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY) Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)",
       "phone": "254-753-4593",
       "website": "http://www.caritas-waco.org/emergency_assistance.aspx",
       "healthy_pantry": "",
@@ -7822,7 +7756,7 @@
           "end": "1445"
         }
       ],
-      "hours_text": "<p>Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)</p><p>Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY)</p>\n<p>Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY) Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)",
       "phone": "254-753-4593",
       "website": "http://www.caritas-waco.org/emergency_assistance.aspx",
       "healthy_pantry": "",
@@ -7910,7 +7844,7 @@
           "end": "1445"
         }
       ],
-      "hours_text": "<p>Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)</p><p>Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY)</p>\n<p>Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY) Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)",
       "phone": "254-753-4593",
       "website": "http://www.caritas-waco.org/emergency_assistance.aspx",
       "healthy_pantry": "",
@@ -7998,7 +7932,7 @@
           "end": "1445"
         }
       ],
-      "hours_text": "<p>Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)</p><p>Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY)</p>\n<p>Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY) Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)",
       "phone": "254-753-4593",
       "website": "http://www.caritas-waco.org/emergency_assistance.aspx",
       "healthy_pantry": "",
@@ -8086,7 +8020,7 @@
           "end": "1445"
         }
       ],
-      "hours_text": "<p>Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)</p><p>Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY)</p>\n<p>Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY) Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)",
       "phone": "254-753-4593",
       "website": "http://www.caritas-waco.org/emergency_assistance.aspx",
       "healthy_pantry": "",
@@ -8174,7 +8108,7 @@
           "end": "1445"
         }
       ],
-      "hours_text": "<p>Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)</p><p>Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY)</p>\n<p>Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY) Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)",
       "phone": "254-753-4593",
       "website": "http://www.caritas-waco.org/emergency_assistance.aspx",
       "healthy_pantry": "",
@@ -8262,7 +8196,7 @@
           "end": "1445"
         }
       ],
-      "hours_text": "<p>Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)</p><p>Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY)</p>\n<p>Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY) Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)",
       "phone": "254-753-4593",
       "website": "http://www.caritas-waco.org/emergency_assistance.aspx",
       "healthy_pantry": "",
@@ -8350,7 +8284,7 @@
           "end": "1445"
         }
       ],
-      "hours_text": "<p>Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)</p><p>Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY)</p>\n<p>Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>\n<p>Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Monday: 8:30 am-11:00 am, 1:00 pm-2:45 pm (CSFP ONLY)Tuesday: 8:30 am-11:00 am, 1:00 pm-2:45 (CSFP ONLY) Wednesday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Thursday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY) Friday: 8:30 am-11:00 am, 1:00 pm-2:00 pm (CSFP ONLY)",
       "phone": "254-753-4593",
       "website": "http://www.caritas-waco.org/emergency_assistance.aspx",
       "healthy_pantry": "",
@@ -8429,7 +8363,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st Friday: 9:00 a.m.-12:00 p.m.</p>\n\n<p>3rd Friday: 9:00 a.m.-12:00 p.m.</p>\n\n<p>2nd Tuesday: 3:00 p.m.-5:30 p.m.</p>\n\n<p>4th Tuesday: 3:00 p.m.-5:30 p.m.</p>\n\n<p>Clients can receive services twice per month.</p>",
+      "hours_text": "1st Friday: 9:00 a.m.-12:00 p.m. 3rd Friday: 9:00 a.m.-12:00 p.m. 2nd Tuesday: 3:00 p.m.-5:30 p.m. 4th Tuesday: 3:00 p.m.-5:30 p.m. Clients can receive services twice per month.",
       "phone": "325-248-3225",
       "website": "",
       "healthy_pantry": "",
@@ -8465,7 +8399,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st Tuesday 1:00 - 4:00 p.m.<br />\n3rd Monday 1:00 - 4:00 p.m.<br />\n2nd &amp; 4th Monday 1:00 - 3:00 p.m. for additional fresh food distribution. <br />\nAppointment for emergency.</p>\n",
+      "hours_text": "1st Tuesday 1:00 - 4:00 p.m. 3rd Monday 1:00 - 4:00 p.m. 2nd &amp; 4th Monday 1:00 - 3:00 p.m. for additional fresh food distribution. Appointment for emergency.",
       "phone": "254-562-6894",
       "website": "",
       "healthy_pantry": "",
@@ -8501,7 +8435,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st Wednesdays, 9:30 a.m.-12:00 p.m.</p>\n\n<p>3rd Wednesdays, 9:30 a.m.-12:00 p.m.</p>",
+      "hours_text": "1st Wednesdays, 9:30 a.m.-12:00 p.m. 3rd Wednesdays, 9:30 a.m.-12:00 p.m.",
       "phone": "254-729-5200",
       "website": "",
       "healthy_pantry": "",
@@ -8544,7 +8478,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p>1st Tuesday: 10:00 am-12:00 am (Food Pantry and HOPE)</p>\n\n<p>3rd Tuesday: 4:00 pm-6:00 pm (Food Pantry and HOPE)</p>\n\n",
+      "hours_text": "1st Tuesday: 10:00 am-12:00 am (Food Pantry and HOPE) 3rd Tuesday: 4:00 pm-6:00 pm (Food Pantry and HOPE)",
       "phone": "254-562-6687",
       "website": "https://www.facebook.com/caritasmexia/",
       "healthy_pantry": "",
@@ -8580,7 +8514,7 @@
       "services": [
         "Unknown Service (1779, 2)"
       ],
-      "hours_text": "<p>2nd Thursday: 3:30 pm- 5:30 pm</p>\n\n<p>2nd Friday: 7:30 am- 9:30 am</p>\n\n<p>2nd Saturday: 7:30 am- 9:30 am</p>\n\n<p>4th Friday: 9:30 am- 11:30 am (HOPE &amp; FFFF ONLY)</p>\n",
+      "hours_text": "2nd Thursday: 3:30 pm- 5:30 pm 2nd Friday: 7:30 am- 9:30 am 2nd Saturday: 7:30 am- 9:30 am 4th Friday: 9:30 am- 11:30 am (HOPE &amp; FFFF ONLY)",
       "phone": "512-826-0248",
       "website": "",
       "healthy_pantry": "",
@@ -8616,7 +8550,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd Tuesday: 5:00 pm-7:00 pm</p>\n\n<p>4th Thursday: 5:00 pm-7:00 pm</p>",
+      "hours_text": "2nd Tuesday: 5:00 pm-7:00 pm 4th Thursday: 5:00 pm-7:00 pm",
       "phone": "512-556-5544",
       "website": "",
       "healthy_pantry": "",
@@ -8664,7 +8598,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>Tuesday: 1:00 pm-3:00 pm (CSFP ONLY)</p>\n<p>Friday: 1:00 pm-3:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Tuesday: 1:00 pm-3:00 pm (CSFP ONLY) Friday: 1:00 pm-3:00 pm (CSFP ONLY)",
       "phone": "512-556-5779",
       "website": "",
       "healthy_pantry": "",
@@ -8712,7 +8646,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>Tuesday: 1:00 pm-3:00 pm (CSFP ONLY)</p>\n<p>Friday: 1:00 pm-3:00 pm (CSFP ONLY)</p>",
+      "hours_text": "Tuesday: 1:00 pm-3:00 pm (CSFP ONLY) Friday: 1:00 pm-3:00 pm (CSFP ONLY)",
       "phone": "512-556-5779",
       "website": "",
       "healthy_pantry": "",
@@ -8919,7 +8853,7 @@
           "end": "1230"
         }
       ],
-      "hours_text": "<p>3rd, 4th, 5th Thursday: 10:00 am-12:30 pm&nbsp;(HOPE ONLY)</p>\n\n<p>3rd Tuesday andThursday: 10:00 am-12:30 pm (CSFP ONLY)</p>\n\n\n\n",
+      "hours_text": "3rd, 4th, 5th Thursday: 10:00 am-12:30 pm&nbsp;(HOPE ONLY) 3rd Tuesday andThursday: 10:00 am-12:30 pm (CSFP ONLY)",
       "phone": "903-389-5433",
       "website": "",
       "healthy_pantry": "",
@@ -8967,7 +8901,7 @@
           "end": "1230"
         }
       ],
-      "hours_text": "<p>3rd, 4th, 5th Thursday: 10:00 am-12:30 pm&nbsp;(HOPE ONLY)</p>\n\n<p>3rd Tuesday andThursday: 10:00 am-12:30 pm (CSFP ONLY)</p>\n\n\n\n",
+      "hours_text": "3rd, 4th, 5th Thursday: 10:00 am-12:30 pm&nbsp;(HOPE ONLY) 3rd Tuesday andThursday: 10:00 am-12:30 pm (CSFP ONLY)",
       "phone": "903-389-5433",
       "website": "",
       "healthy_pantry": "",
@@ -9003,7 +8937,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>Every other Tuesday, 8:30 a.m. - 12:00 p.m.<br />\n1st Wednesday 8:30 a.m. - 12:00 p.m.</p>\n",
+      "hours_text": "Every other Tuesday, 8:30 a.m. - 12:00 p.m. 1st Wednesday 8:30 a.m. - 12:00 p.m.",
       "phone": "254-739-5058",
       "website": "",
       "healthy_pantry": "",
@@ -9082,7 +9016,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st Thursday: 5:30 pm - 6:00 pm</p>\n",
+      "hours_text": "1st Thursday: 5:30 pm - 6:00 pm",
       "phone": "361-217-0342",
       "website": "",
       "healthy_pantry": "",
@@ -9161,7 +9095,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>3rd Saturday 9:00 a.m. - 11:00 a.m.<br />\n </p>\n",
+      "hours_text": "3rd Saturday 9:00 a.m. - 11:00 a.m.",
       "phone": "254-247-4179",
       "website": "",
       "healthy_pantry": "",
@@ -10135,7 +10069,7 @@
       "services": [
         "Unknown Service (3, 2)"
       ],
-      "hours_text": "<p>2nd Tuesday 10:00 a.m. - 2:00 p.m.</p>\n\n<p>Home deliveries on Monday before the 2nd Tuesday, 8:00 a.m. - 12:00 p.m.</p>\n",
+      "hours_text": "2nd Tuesday 10:00 a.m. - 2:00 p.m. Home deliveries on Monday before the 2nd Tuesday, 8:00 a.m. - 12:00 p.m.",
       "phone": "830-875-2863",
       "website": "",
       "healthy_pantry": "",
@@ -10193,7 +10127,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>3rd, 4th, 5th Monday: 10:00 am-2:00 pm (HOPE ONLY)</p>\n<p>3rd, 4th, 5th Tuesday: 10:00 am-2:00 pm (HOPE ONLY)</p>\n<p>3rd, 4th, 5th Thursday: 10:00 am-2:00 pm (HOPE ONLY)</p> \n<p>No HOPE services Friday after 3rd Monday</p>",
+      "hours_text": "3rd, 4th, 5th Monday: 10:00 am-2:00 pm (HOPE ONLY) 3rd, 4th, 5th Tuesday: 10:00 am-2:00 pm (HOPE ONLY) 3rd, 4th, 5th Thursday: 10:00 am-2:00 pm (HOPE ONLY) No HOPE services Friday after 3rd Monday",
       "phone": "512-376-6661",
       "website": "",
       "healthy_pantry": "",
@@ -10251,7 +10185,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>3rd, 4th, 5th Monday: 10:00 am-2:00 pm (HOPE ONLY)</p>\n<p>3rd, 4th, 5th Tuesday: 10:00 am-2:00 pm (HOPE ONLY)</p>\n<p>3rd, 4th, 5th Thursday: 10:00 am-2:00 pm (HOPE ONLY)</p> \n<p>No HOPE services Friday after 3rd Monday</p>",
+      "hours_text": "3rd, 4th, 5th Monday: 10:00 am-2:00 pm (HOPE ONLY) 3rd, 4th, 5th Tuesday: 10:00 am-2:00 pm (HOPE ONLY) 3rd, 4th, 5th Thursday: 10:00 am-2:00 pm (HOPE ONLY) No HOPE services Friday after 3rd Monday",
       "phone": "512-376-6661",
       "website": "",
       "healthy_pantry": "",
@@ -10309,7 +10243,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>3rd, 4th, 5th Monday: 10:00 am-2:00 pm (HOPE ONLY)</p>\n<p>3rd, 4th, 5th Tuesday: 10:00 am-2:00 pm (HOPE ONLY)</p>\n<p>3rd, 4th, 5th Thursday: 10:00 am-2:00 pm (HOPE ONLY)</p> \n<p>No HOPE services Friday after 3rd Monday</p>",
+      "hours_text": "3rd, 4th, 5th Monday: 10:00 am-2:00 pm (HOPE ONLY) 3rd, 4th, 5th Tuesday: 10:00 am-2:00 pm (HOPE ONLY) 3rd, 4th, 5th Thursday: 10:00 am-2:00 pm (HOPE ONLY) No HOPE services Friday after 3rd Monday",
       "phone": "512-376-6661",
       "website": "",
       "healthy_pantry": "",
@@ -10367,7 +10301,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>3rd, 4th, 5th Monday: 10:00 am-2:00 pm (HOPE ONLY)</p>\n<p>3rd, 4th, 5th Tuesday: 10:00 am-2:00 pm (HOPE ONLY)</p>\n<p>3rd, 4th, 5th Thursday: 10:00 am-2:00 pm (HOPE ONLY)</p> \n<p>No HOPE services Friday after 3rd Monday</p>",
+      "hours_text": "3rd, 4th, 5th Monday: 10:00 am-2:00 pm (HOPE ONLY) 3rd, 4th, 5th Tuesday: 10:00 am-2:00 pm (HOPE ONLY) 3rd, 4th, 5th Thursday: 10:00 am-2:00 pm (HOPE ONLY) No HOPE services Friday after 3rd Monday",
       "phone": "512-376-6661",
       "website": "",
       "healthy_pantry": "",
@@ -10403,7 +10337,7 @@
       "services": [
         "Mobile"
       ],
-      "hours_text": "<p><strong>1st Wednesday:</strong> 9:00 am-10:00 am <span><span><span><span><span><span><span><span>(Mobile Food Pantry distribution.)</span></span></span></span></span></span></span></span></p>",
+      "hours_text": "1st Wednesday: 9:00 am-10:00 am (Mobile Food Pantry distribution.)",
       "phone": "830-875-9429",
       "website": "",
       "healthy_pantry": "",
@@ -10499,7 +10433,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>Thursday after 2nd Tuesday: 9:00 am-11:00 am (HOPE ONLY)<br />\n </p>\n",
+      "hours_text": "Thursday after 2nd Tuesday: 9:00 am-11:00 am (HOPE ONLY)",
       "phone": "512-756-4422",
       "website": "http://www.lacareburnet.org/Services.html",
       "healthy_pantry": "",
@@ -10552,7 +10486,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>Thursday after 2nd Tuesday: 9:00 am-11:00 am (HOPE ONLY)<br />\n </p>\n",
+      "hours_text": "Thursday after 2nd Tuesday: 9:00 am-11:00 am (HOPE ONLY)",
       "phone": "512-756-4422",
       "website": "http://www.lacareburnet.org/Services.html",
       "healthy_pantry": "",
@@ -10605,7 +10539,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>Thursday after 2nd Tuesday: 9:00 am-11:00 am (HOPE ONLY)<br />\n </p>\n",
+      "hours_text": "Thursday after 2nd Tuesday: 9:00 am-11:00 am (HOPE ONLY)",
       "phone": "512-756-4422",
       "website": "http://www.lacareburnet.org/Services.html",
       "healthy_pantry": "",
@@ -11254,7 +11188,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd &amp; 4th Wednesday 9:00 a.m. - 11:30 a.m.</p>\n",
+      "hours_text": "2nd &amp; 4th Wednesday 9:00 a.m. - 11:30 a.m.",
       "phone": "254-939-0503",
       "website": "",
       "healthy_pantry": "",
@@ -11302,7 +11236,7 @@
           "end": "1100"
         }
       ],
-      "hours_text": "<p>2nd Thursday from 10:00 a.m.-11:30 a.m. (CSFP ONLY) </p>\n",
+      "hours_text": "2nd Thursday from 10:00 a.m.-11:30 a.m. (CSFP ONLY)",
       "phone": "254-526-3041",
       "website": "",
       "healthy_pantry": "",
@@ -11350,7 +11284,7 @@
           "end": "1100"
         }
       ],
-      "hours_text": "<p>2nd Thursday from 10:00 a.m.-11:30 a.m. (CSFP ONLY) </p>\n",
+      "hours_text": "2nd Thursday from 10:00 a.m.-11:30 a.m. (CSFP ONLY)",
       "phone": "254-526-3041",
       "website": "",
       "healthy_pantry": "",
@@ -11441,7 +11375,7 @@
           "end": "1115"
         }
       ],
-      "hours_text": "<p>Wednesday: 6:00 pm-7:15 pm (CSFP ONLY)</p> \n<p>Thursday: 9:00 am-11:30 am (CSFP ONLY)</p>",
+      "hours_text": "Wednesday: 6:00 pm-7:15 pm (CSFP ONLY) Thursday: 9:00 am-11:30 am (CSFP ONLY)",
       "phone": "254-774-8411",
       "website": "https://locfoodpantry.org/services",
       "healthy_pantry": "",
@@ -11489,7 +11423,7 @@
           "end": "1115"
         }
       ],
-      "hours_text": "<p>Wednesday: 6:00 pm-7:15 pm (CSFP ONLY)</p> \n<p>Thursday: 9:00 am-11:30 am (CSFP ONLY)</p>",
+      "hours_text": "Wednesday: 6:00 pm-7:15 pm (CSFP ONLY) Thursday: 9:00 am-11:30 am (CSFP ONLY)",
       "phone": "254-774-8411",
       "website": "https://locfoodpantry.org/services",
       "healthy_pantry": "",
@@ -11525,7 +11459,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd Thursday: from 4:00 p.m.- 6:00 p.m. </p>\n\n<p>4th Thursday: from 4:00 p.m.- 6:00 p.m. </p>\n",
+      "hours_text": "2nd Thursday: from 4:00 p.m.- 6:00 p.m. 4th Thursday: from 4:00 p.m.- 6:00 p.m.",
       "phone": "254-289-9614",
       "website": "",
       "healthy_pantry": "",
@@ -11763,7 +11697,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd &amp; 4th Saturday, 9:00 a.m. - 11:00 a.m.</p>\n",
+      "hours_text": "2nd &amp; 4th Saturday, 9:00 a.m. - 11:00 a.m.",
       "phone": "254307-1361",
       "website": "https://heartandhandsministries.com/",
       "healthy_pantry": "",
@@ -11799,7 +11733,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd  &amp; 4th  Thursday, 2:00 p.m. - 6:00 p.m.</p>\n",
+      "hours_text": "2nd &amp; 4th Thursday, 2:00 p.m. - 6:00 p.m.",
       "phone": "254-698-6820",
       "website": "",
       "healthy_pantry": "",
@@ -11847,7 +11781,7 @@
           "end": "1100"
         }
       ],
-      "hours_text": "<p>*This location will be closed July 4, 2023.</p>\n<p>Tuesday: 12:30 pm-3:40 pm (CSFP ONLY)</p>\n<p>Saturday: 8:30 am-11:40 am (CSFP ONLY)</p>\n",
+      "hours_text": "*This location will be closed July 4, 2023. Tuesday: 12:30 pm-3:40 pm (CSFP ONLY) Saturday: 8:30 am-11:40 am (CSFP ONLY)",
       "phone": "254-778-6885",
       "website": "",
       "healthy_pantry": "",
@@ -11895,7 +11829,7 @@
           "end": "1100"
         }
       ],
-      "hours_text": "<p>*This location will be closed July 4, 2023.</p>\n<p>Tuesday: 12:30 pm-3:40 pm (CSFP ONLY)</p>\n<p>Saturday: 8:30 am-11:40 am (CSFP ONLY)</p>\n",
+      "hours_text": "*This location will be closed July 4, 2023. Tuesday: 12:30 pm-3:40 pm (CSFP ONLY) Saturday: 8:30 am-11:40 am (CSFP ONLY)",
       "phone": "254-778-6885",
       "website": "",
       "healthy_pantry": "",
@@ -11931,7 +11865,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st Wednesday: 3:00 pm-5:00 pm</p>\n\n<p>Last Saturday: 9:00 am-11:00 am</p>",
+      "hours_text": "1st Wednesday: 3:00 pm-5:00 pm Last Saturday: 9:00 am-11:00 am",
       "phone": "254-939-0806",
       "website": "",
       "healthy_pantry": "",
@@ -11967,7 +11901,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd &amp; 4th Tuesday 9:00 a.m. - 12:00 p.m.</p>\n",
+      "hours_text": "2nd &amp; 4th Tuesday 9:00 a.m. - 12:00 p.m.",
       "phone": "254-526-4598",
       "website": "",
       "healthy_pantry": "",
@@ -12010,7 +11944,7 @@
           "end": "1130"
         }
       ],
-      "hours_text": "<p>4th Wednesday: 9:00 am-10:30 am (CSFP ONLY)</p>",
+      "hours_text": "4th Wednesday: 9:00 am-10:30 am (CSFP ONLY)",
       "phone": "512-237-2322",
       "website": "https://smithvillefoodpantry.com/",
       "healthy_pantry": "",
@@ -12046,7 +11980,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>Call for appointment.</p>\n",
+      "hours_text": "Call for appointment.",
       "phone": "512-285-3882",
       "website": "",
       "healthy_pantry": "",
@@ -12082,7 +12016,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd &amp; 4th Saturday, 9:00 a.m. - 11:00 a.m.</p>\n",
+      "hours_text": "2nd &amp; 4th Saturday, 9:00 a.m. - 11:00 a.m.",
       "phone": "512-360-3968",
       "website": "",
       "healthy_pantry": "",
@@ -12118,7 +12052,7 @@
       "services": [
         "Unknown Service (1779, 2)"
       ],
-      "hours_text": "<p>Friday 8:00 am - 10:00 am</p>\n<p>CSFP ONLY- 3rd Friday 8:00 am - 9:30 am</p>",
+      "hours_text": "Friday 8:00 am - 10:00 am CSFP ONLY- 3rd Friday 8:00 am - 9:30 am",
       "phone": "512-321-2222",
       "website": "",
       "healthy_pantry": "",
@@ -12171,7 +12105,7 @@
           "end": "1300"
         }
       ],
-      "hours_text": "<p>HOPE Only:  Every 3rd Wednesday 9:00 am-11:00 am</p>",
+      "hours_text": "HOPE Only: Every 3rd Wednesday 9:00 am-11:00 am",
       "phone": "512-321-9040",
       "website": "",
       "healthy_pantry": "",
@@ -12224,7 +12158,7 @@
           "end": "1300"
         }
       ],
-      "hours_text": "<p>HOPE Only:  Every 3rd Wednesday 9:00 am-11:00 am</p>",
+      "hours_text": "HOPE Only: Every 3rd Wednesday 9:00 am-11:00 am",
       "phone": "512-321-9040",
       "website": "",
       "healthy_pantry": "",
@@ -12277,7 +12211,7 @@
           "end": "1300"
         }
       ],
-      "hours_text": "<p>HOPE Only:  Every 3rd Wednesday 9:00 am-11:00 am</p>",
+      "hours_text": "HOPE Only: Every 3rd Wednesday 9:00 am-11:00 am",
       "phone": "512-321-9040",
       "website": "",
       "healthy_pantry": "",
@@ -12313,7 +12247,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>3rd Saturday: 1:00 pm-5:00 pm</p>\n",
+      "hours_text": "3rd Saturday: 1:00 pm-5:00 pm",
       "phone": "512-285-2505",
       "website": "",
       "healthy_pantry": "",
@@ -12392,7 +12326,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st and 3rd Saturday 7:00 - 10:00 a.m.</p>\n",
+      "hours_text": "1st and 3rd Saturday 7:00 - 10:00 a.m.",
       "phone": "512-303-2082",
       "website": "",
       "healthy_pantry": "",
@@ -12460,7 +12394,7 @@
           "end": "1530"
         }
       ],
-      "hours_text": "<p>1st Thursday: 4:00 pm-7:00 pm</p>\n\n<p>2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY)</p>\n\n<p>3rd Fridays 10:00 am-11:00 am (Produce ONLY)</p>",
+      "hours_text": "1st Thursday: 4:00 pm-7:00 pm 2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY) 3rd Fridays 10:00 am-11:00 am (Produce ONLY)",
       "phone": "512-303-0033",
       "website": "http://www.bastropfoodpantry.org/",
       "healthy_pantry": "",
@@ -12528,7 +12462,7 @@
           "end": "1530"
         }
       ],
-      "hours_text": "<p>1st Thursday: 4:00 pm-7:00 pm</p>\n\n<p>2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY)</p>\n\n<p>3rd Fridays 10:00 am-11:00 am (Produce ONLY)</p>",
+      "hours_text": "1st Thursday: 4:00 pm-7:00 pm 2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY) 3rd Fridays 10:00 am-11:00 am (Produce ONLY)",
       "phone": "512-303-0033",
       "website": "http://www.bastropfoodpantry.org/",
       "healthy_pantry": "",
@@ -12596,7 +12530,7 @@
           "end": "1530"
         }
       ],
-      "hours_text": "<p>1st Thursday: 4:00 pm-7:00 pm</p>\n\n<p>2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY)</p>\n\n<p>3rd Fridays 10:00 am-11:00 am (Produce ONLY)</p>",
+      "hours_text": "1st Thursday: 4:00 pm-7:00 pm 2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY) 3rd Fridays 10:00 am-11:00 am (Produce ONLY)",
       "phone": "512-303-0033",
       "website": "http://www.bastropfoodpantry.org/",
       "healthy_pantry": "",
@@ -12664,7 +12598,7 @@
           "end": "1530"
         }
       ],
-      "hours_text": "<p>1st Thursday: 4:00 pm-7:00 pm</p>\n\n<p>2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY)</p>\n\n<p>3rd Fridays 10:00 am-11:00 am (Produce ONLY)</p>",
+      "hours_text": "1st Thursday: 4:00 pm-7:00 pm 2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY) 3rd Fridays 10:00 am-11:00 am (Produce ONLY)",
       "phone": "512-303-0033",
       "website": "http://www.bastropfoodpantry.org/",
       "healthy_pantry": "",
@@ -12732,7 +12666,7 @@
           "end": "1530"
         }
       ],
-      "hours_text": "<p>1st Thursday: 4:00 pm-7:00 pm</p>\n\n<p>2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY)</p>\n\n<p>3rd Fridays 10:00 am-11:00 am (Produce ONLY)</p>",
+      "hours_text": "1st Thursday: 4:00 pm-7:00 pm 2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY) 3rd Fridays 10:00 am-11:00 am (Produce ONLY)",
       "phone": "512-303-0033",
       "website": "http://www.bastropfoodpantry.org/",
       "healthy_pantry": "",
@@ -12800,7 +12734,7 @@
           "end": "1530"
         }
       ],
-      "hours_text": "<p>1st Thursday: 4:00 pm-7:00 pm</p>\n\n<p>2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY)</p>\n\n<p>3rd Fridays 10:00 am-11:00 am (Produce ONLY)</p>",
+      "hours_text": "1st Thursday: 4:00 pm-7:00 pm 2nd Tuesday: 9:00 am-11:30 am (CSFP ONLY) 3rd Fridays 10:00 am-11:00 am (Produce ONLY)",
       "phone": "512-303-0033",
       "website": "http://www.bastropfoodpantry.org/",
       "healthy_pantry": "",
@@ -12843,7 +12777,7 @@
           "end": "1245"
         }
       ],
-      "hours_text": "<p>End times are based on food availability. Clients are allowed to visit one Hays County Food Bank distribution per week.</p>\n\n<p>4th Tuesday: 9:00-11:00 a.m. (CSFP ONLY) <br />\n<br />\nPlease navigate to the Hays County Food Bank website for the most up to date distribution schedule.</p>\n",
+      "hours_text": "End times are based on food availability. Clients are allowed to visit one Hays County Food Bank distribution per week. 4th Tuesday: 9:00-11:00 a.m. (CSFP ONLY) Please navigate to the Hays County Food Bank website for the most up to date distribution schedule.",
       "phone": "512-392-8300",
       "website": "https://www.haysfoodbank.org/",
       "healthy_pantry": "",
@@ -13078,7 +13012,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p>Serves residents of zip codes 78610 and 78640.</p>\n\n<p>Sirve a los residentes de los códigos postales 78610 y 78640.</p>\n",
+      "hours_text": "Serves residents of zip codes 78610 and 78640. Sirve a los residentes de los códigos postales 78610 y 78640.",
       "phone": "512-295-6981",
       "website": "",
       "healthy_pantry": "",
@@ -13114,7 +13048,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>Every other Saturday, 8:00 a.m. - 9:00 a.m.</p>\n",
+      "hours_text": "Every other Saturday, 8:00 a.m. - 9:00 a.m.",
       "phone": "512-415-4012",
       "website": "",
       "healthy_pantry": "",
@@ -13167,7 +13101,7 @@
           "end": "-1"
         }
       ],
-      "hours_text": "<p>Regular pantry food distribution may be accessed on Tuesdays or Thursdays.</p>\n\n<p>Food Share Fridays are in addition to regular distribution days,12:00 pm-1:00 pm, or until depleted. This is open to the public, and perishable foods only. Please bring your own bags.</p>\n\n<p>Serving zip codes: 78642, 78641, <span><span>78605</span></span>, 78608, 78628</p>",
+      "hours_text": "Regular pantry food distribution may be accessed on Tuesdays or Thursdays. Food Share Fridays are in addition to regular distribution days,12:00 pm-1:00 pm, or until depleted. This is open to the public, and perishable foods only. Please bring your own bags. Serving zip codes: 78642, 78641, 78605, 78608, 78628",
       "phone": "512-778-5077",
       "website": "",
       "healthy_pantry": "",
@@ -13220,7 +13154,7 @@
           "end": "-1"
         }
       ],
-      "hours_text": "<p>Regular pantry food distribution may be accessed on Tuesdays or Thursdays.</p>\n\n<p>Food Share Fridays are in addition to regular distribution days,12:00 pm-1:00 pm, or until depleted. This is open to the public, and perishable foods only. Please bring your own bags.</p>\n\n<p>Serving zip codes: 78642, 78641, <span><span>78605</span></span>, 78608, 78628</p>",
+      "hours_text": "Regular pantry food distribution may be accessed on Tuesdays or Thursdays. Food Share Fridays are in addition to regular distribution days,12:00 pm-1:00 pm, or until depleted. This is open to the public, and perishable foods only. Please bring your own bags. Serving zip codes: 78642, 78641, 78605, 78608, 78628",
       "phone": "512-778-5077",
       "website": "",
       "healthy_pantry": "",
@@ -13273,7 +13207,7 @@
           "end": "-1"
         }
       ],
-      "hours_text": "<p>Regular pantry food distribution may be accessed on Tuesdays or Thursdays.</p>\n\n<p>Food Share Fridays are in addition to regular distribution days,12:00 pm-1:00 pm, or until depleted. This is open to the public, and perishable foods only. Please bring your own bags.</p>\n\n<p>Serving zip codes: 78642, 78641, <span><span>78605</span></span>, 78608, 78628</p>",
+      "hours_text": "Regular pantry food distribution may be accessed on Tuesdays or Thursdays. Food Share Fridays are in addition to regular distribution days,12:00 pm-1:00 pm, or until depleted. This is open to the public, and perishable foods only. Please bring your own bags. Serving zip codes: 78642, 78641, 78605, 78608, 78628",
       "phone": "512-778-5077",
       "website": "",
       "healthy_pantry": "",
@@ -13309,7 +13243,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st &amp; 3rd Monday 3:30 p.m. - 5:30 p.m.</p>\n",
+      "hours_text": "1st &amp; 3rd Monday 3:30 p.m. - 5:30 p.m.",
       "phone": "254-987-0055",
       "website": "",
       "healthy_pantry": "",
@@ -13458,7 +13392,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>1st, 3rd, 5th Thursday: 7:30 am-9:30 am (Produce Only)</p>\n\n<p>2nd Friday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n",
+      "hours_text": "1st, 3rd, 5th Thursday: 7:30 am-9:30 am (Produce Only) 2nd Friday: 9:00 am-1:00 pm (HOPE ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -13511,7 +13445,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>1st, 3rd, 5th Thursday: 7:30 am-9:30 am (Produce Only)</p>\n\n<p>2nd Friday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n",
+      "hours_text": "1st, 3rd, 5th Thursday: 7:30 am-9:30 am (Produce Only) 2nd Friday: 9:00 am-1:00 pm (HOPE ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -13564,7 +13498,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>1st, 3rd, 5th Thursday: 7:30 am-9:30 am (Produce Only)</p>\n\n<p>2nd Friday: 9:00 am-1:00 pm (HOPE ONLY)</p>\n",
+      "hours_text": "1st, 3rd, 5th Thursday: 7:30 am-9:30 am (Produce Only) 2nd Friday: 9:00 am-1:00 pm (HOPE ONLY)",
       "phone": "",
       "website": "",
       "healthy_pantry": "",
@@ -13600,7 +13534,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd &amp; 4th Thursday from 4:00 p.m. - 6:00 p.m.</p>\n",
+      "hours_text": "2nd &amp; 4th Thursday from 4:00 p.m. - 6:00 p.m.",
       "phone": "512-388-7870",
       "website": "",
       "healthy_pantry": "",
@@ -13636,7 +13570,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st, 3rd, and 5th Saturday 9:00 a.m. - 12:00 p.m.</p>\n",
+      "hours_text": "1st, 3rd, and 5th Saturday 9:00 a.m. - 12:00 p.m.",
       "phone": "512-688-0162",
       "website": "",
       "healthy_pantry": "",
@@ -13679,7 +13613,7 @@
           "end": "1900"
         }
       ],
-      "hours_text": "<p>3rd Tuesday: 1:30 pm-2:30 pm (HOPE ONLY)</p>\n\n<p> </p>\n",
+      "hours_text": "3rd Tuesday: 1:30 pm-2:30 pm (HOPE ONLY)",
       "phone": "512-259-4673",
       "website": "",
       "healthy_pantry": "",
@@ -13727,7 +13661,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p>Monday: 7:00 pm-8:00 pm (CSFP + regular Pantry hours)</p>\n\n<p>Tuesday: 9:00 am-12:00 pm (CSFP + regular Pantry hours)</p>",
+      "hours_text": "Monday: 7:00 pm-8:00 pm (CSFP + regular Pantry hours) Tuesday: 9:00 am-12:00 pm (CSFP + regular Pantry hours)",
       "phone": "512-981-7721",
       "website": "",
       "healthy_pantry": "",
@@ -13775,7 +13709,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p>Monday: 7:00 pm-8:00 pm (CSFP + regular Pantry hours)</p>\n\n<p>Tuesday: 9:00 am-12:00 pm (CSFP + regular Pantry hours)</p>",
+      "hours_text": "Monday: 7:00 pm-8:00 pm (CSFP + regular Pantry hours) Tuesday: 9:00 am-12:00 pm (CSFP + regular Pantry hours)",
       "phone": "512-981-7721",
       "website": "",
       "healthy_pantry": "",
@@ -13863,7 +13797,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>For Fresh Food For All Distribution times,&nbsp;<a href=\"https://sites.google.com/view/freshfoodforall/home\" style=\"color:#e98300;\"><strong>click here.</strong></a>&nbsp;</p>\n",
+      "hours_text": "For Fresh Food For All Distribution times,&nbsp;click here.&nbsp;",
       "phone": "512-259-0360",
       "website": "",
       "healthy_pantry": "",
@@ -13951,7 +13885,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>For Fresh Food For All Distribution times,&nbsp;<a href=\"https://sites.google.com/view/freshfoodforall/home\" style=\"color:#e98300;\"><strong>click here.</strong></a>&nbsp;</p>\n",
+      "hours_text": "For Fresh Food For All Distribution times,&nbsp;click here.&nbsp;",
       "phone": "512-259-0360",
       "website": "",
       "healthy_pantry": "",
@@ -14039,7 +13973,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>For Fresh Food For All Distribution times,&nbsp;<a href=\"https://sites.google.com/view/freshfoodforall/home\" style=\"color:#e98300;\"><strong>click here.</strong></a>&nbsp;</p>\n",
+      "hours_text": "For Fresh Food For All Distribution times,&nbsp;click here.&nbsp;",
       "phone": "512-259-0360",
       "website": "",
       "healthy_pantry": "",
@@ -14127,7 +14061,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>For Fresh Food For All Distribution times,&nbsp;<a href=\"https://sites.google.com/view/freshfoodforall/home\" style=\"color:#e98300;\"><strong>click here.</strong></a>&nbsp;</p>\n",
+      "hours_text": "For Fresh Food For All Distribution times,&nbsp;click here.&nbsp;",
       "phone": "512-259-0360",
       "website": "",
       "healthy_pantry": "",
@@ -14215,7 +14149,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>For Fresh Food For All Distribution times,&nbsp;<a href=\"https://sites.google.com/view/freshfoodforall/home\" style=\"color:#e98300;\"><strong>click here.</strong></a>&nbsp;</p>\n",
+      "hours_text": "For Fresh Food For All Distribution times,&nbsp;click here.&nbsp;",
       "phone": "512-259-0360",
       "website": "",
       "healthy_pantry": "",
@@ -14303,7 +14237,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>For Fresh Food For All Distribution times,&nbsp;<a href=\"https://sites.google.com/view/freshfoodforall/home\" style=\"color:#e98300;\"><strong>click here.</strong></a>&nbsp;</p>\n",
+      "hours_text": "For Fresh Food For All Distribution times,&nbsp;click here.&nbsp;",
       "phone": "512-259-0360",
       "website": "",
       "healthy_pantry": "",
@@ -14391,7 +14325,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>For Fresh Food For All Distribution times,&nbsp;<a href=\"https://sites.google.com/view/freshfoodforall/home\" style=\"color:#e98300;\"><strong>click here.</strong></a>&nbsp;</p>\n",
+      "hours_text": "For Fresh Food For All Distribution times,&nbsp;click here.&nbsp;",
       "phone": "512-259-0360",
       "website": "",
       "healthy_pantry": "",
@@ -14479,7 +14413,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>For Fresh Food For All Distribution times,&nbsp;<a href=\"https://sites.google.com/view/freshfoodforall/home\" style=\"color:#e98300;\"><strong>click here.</strong></a>&nbsp;</p>\n",
+      "hours_text": "For Fresh Food For All Distribution times,&nbsp;click here.&nbsp;",
       "phone": "512-259-0360",
       "website": "",
       "healthy_pantry": "",
@@ -14567,7 +14501,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>For Fresh Food For All Distribution times,&nbsp;<a href=\"https://sites.google.com/view/freshfoodforall/home\" style=\"color:#e98300;\"><strong>click here.</strong></a>&nbsp;</p>\n",
+      "hours_text": "For Fresh Food For All Distribution times,&nbsp;click here.&nbsp;",
       "phone": "512-259-0360",
       "website": "",
       "healthy_pantry": "",
@@ -14655,7 +14589,7 @@
           "end": "1500"
         }
       ],
-      "hours_text": "<p>For Fresh Food For All Distribution times,&nbsp;<a href=\"https://sites.google.com/view/freshfoodforall/home\" style=\"color:#e98300;\"><strong>click here.</strong></a>&nbsp;</p>\n",
+      "hours_text": "For Fresh Food For All Distribution times,&nbsp;click here.&nbsp;",
       "phone": "512-259-0360",
       "website": "",
       "healthy_pantry": "",
@@ -14713,7 +14647,7 @@
           "end": "1600"
         }
       ],
-      "hours_text": "<p>Serves only 78628, 78633, 76511, 76527, 78626, 78627, 78628, 78633, 78634, 76530, 76537, 78626, 78673, 78674 and Georgetown ISD. Photo ID required.</p>\n\n<p>HOPE is available during regular pantry hours.</p>\n\n<p>Distributions at the north gate:</p>\n\n<p>1st, 3rd, and 5th Monday: 9:00 am-10:00 am (Fresh Food for Families produce distribution only)</p>\n\n",
+      "hours_text": "Serves only 78628, 78633, 76511, 76527, 78626, 78627, 78628, 78633, 78634, 76530, 76537, 78626, 78673, 78674 and Georgetown ISD. Photo ID required. HOPE is available during regular pantry hours. Distributions at the north gate: 1st, 3rd, and 5th Monday: 9:00 am-10:00 am (Fresh Food for Families produce distribution only)",
       "phone": "512-943-0700",
       "website": "https://www.caringplacetx.org",
       "healthy_pantry": "",
@@ -14771,7 +14705,7 @@
           "end": "1600"
         }
       ],
-      "hours_text": "<p>Serves only 78628, 78633, 76511, 76527, 78626, 78627, 78628, 78633, 78634, 76530, 76537, 78626, 78673, 78674 and Georgetown ISD. Photo ID required.</p>\n\n<p>HOPE is available during regular pantry hours.</p>\n\n<p>Distributions at the north gate:</p>\n\n<p>1st, 3rd, and 5th Monday: 9:00 am-10:00 am (Fresh Food for Families produce distribution only)</p>\n\n",
+      "hours_text": "Serves only 78628, 78633, 76511, 76527, 78626, 78627, 78628, 78633, 78634, 76530, 76537, 78626, 78673, 78674 and Georgetown ISD. Photo ID required. HOPE is available during regular pantry hours. Distributions at the north gate: 1st, 3rd, and 5th Monday: 9:00 am-10:00 am (Fresh Food for Families produce distribution only)",
       "phone": "512-943-0700",
       "website": "https://www.caringplacetx.org",
       "healthy_pantry": "",
@@ -14829,7 +14763,7 @@
           "end": "1600"
         }
       ],
-      "hours_text": "<p>Serves only 78628, 78633, 76511, 76527, 78626, 78627, 78628, 78633, 78634, 76530, 76537, 78626, 78673, 78674 and Georgetown ISD. Photo ID required.</p>\n\n<p>HOPE is available during regular pantry hours.</p>\n\n<p>Distributions at the north gate:</p>\n\n<p>1st, 3rd, and 5th Monday: 9:00 am-10:00 am (Fresh Food for Families produce distribution only)</p>\n\n",
+      "hours_text": "Serves only 78628, 78633, 76511, 76527, 78626, 78627, 78628, 78633, 78634, 76530, 76537, 78626, 78673, 78674 and Georgetown ISD. Photo ID required. HOPE is available during regular pantry hours. Distributions at the north gate: 1st, 3rd, and 5th Monday: 9:00 am-10:00 am (Fresh Food for Families produce distribution only)",
       "phone": "512-943-0700",
       "website": "https://www.caringplacetx.org",
       "healthy_pantry": "",
@@ -14887,7 +14821,7 @@
           "end": "1600"
         }
       ],
-      "hours_text": "<p>Serves only 78628, 78633, 76511, 76527, 78626, 78627, 78628, 78633, 78634, 76530, 76537, 78626, 78673, 78674 and Georgetown ISD. Photo ID required.</p>\n\n<p>HOPE is available during regular pantry hours.</p>\n\n<p>Distributions at the north gate:</p>\n\n<p>1st, 3rd, and 5th Monday: 9:00 am-10:00 am (Fresh Food for Families produce distribution only)</p>\n\n",
+      "hours_text": "Serves only 78628, 78633, 76511, 76527, 78626, 78627, 78628, 78633, 78634, 76530, 76537, 78626, 78673, 78674 and Georgetown ISD. Photo ID required. HOPE is available during regular pantry hours. Distributions at the north gate: 1st, 3rd, and 5th Monday: 9:00 am-10:00 am (Fresh Food for Families produce distribution only)",
       "phone": "512-943-0700",
       "website": "https://www.caringplacetx.org",
       "healthy_pantry": "",
@@ -14940,7 +14874,7 @@
           "end": "1030"
         }
       ],
-      "hours_text": "<p>Tuesday: 1:00 pm-3:00 pm (CSFP ONLY)</p>\n\n<p>Thursday: 1:00 pm-3:00 pm (CSFP ONLY)</p>\n\n<p>Saturday: 9:00 am-10:30am (CSFP ONLY)</p>",
+      "hours_text": "Tuesday: 1:00 pm-3:00 pm (CSFP ONLY) Thursday: 1:00 pm-3:00 pm (CSFP ONLY) Saturday: 9:00 am-10:30am (CSFP ONLY)",
       "phone": "512-352-5553",
       "website": "",
       "healthy_pantry": "",
@@ -14993,7 +14927,7 @@
           "end": "1030"
         }
       ],
-      "hours_text": "<p>Tuesday: 1:00 pm-3:00 pm (CSFP ONLY)</p>\n\n<p>Thursday: 1:00 pm-3:00 pm (CSFP ONLY)</p>\n\n<p>Saturday: 9:00 am-10:30am (CSFP ONLY)</p>",
+      "hours_text": "Tuesday: 1:00 pm-3:00 pm (CSFP ONLY) Thursday: 1:00 pm-3:00 pm (CSFP ONLY) Saturday: 9:00 am-10:30am (CSFP ONLY)",
       "phone": "512-352-5553",
       "website": "",
       "healthy_pantry": "",
@@ -15046,7 +14980,7 @@
           "end": "1030"
         }
       ],
-      "hours_text": "<p>Tuesday: 1:00 pm-3:00 pm (CSFP ONLY)</p>\n\n<p>Thursday: 1:00 pm-3:00 pm (CSFP ONLY)</p>\n\n<p>Saturday: 9:00 am-10:30am (CSFP ONLY)</p>",
+      "hours_text": "Tuesday: 1:00 pm-3:00 pm (CSFP ONLY) Thursday: 1:00 pm-3:00 pm (CSFP ONLY) Saturday: 9:00 am-10:30am (CSFP ONLY)",
       "phone": "512-352-5553",
       "website": "",
       "healthy_pantry": "",
@@ -15082,7 +15016,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>Pantry open 3rd Friday 5:30 p.m. – 6:30 p.m.</p>\n\n<p>Meals for kids served Wednesday 7:30 p.m. - 8:30 p.m.</p>\n",
+      "hours_text": "Pantry open 3rd Friday 5:30 p.m. – 6:30 p.m. Meals for kids served Wednesday 7:30 p.m. - 8:30 p.m.",
       "phone": "512-709-5690",
       "website": "",
       "healthy_pantry": "",
@@ -15118,7 +15052,7 @@
       "services": [
         "Unknown Service (1779, 2)"
       ],
-      "hours_text": "<p>1st Wednesday: 8:00 am–11:00 am</p>\n\n<p>3rd Monday: 4:00 pm-7:00 pm</p>\n\n<p>2nd Tuesday: 9:00 am-11:00 am (HOPE ONLY)</p>\n",
+      "hours_text": "1st Wednesday: 8:00 am–11:00 am 3rd Monday: 4:00 pm-7:00 pm 2nd Tuesday: 9:00 am-11:00 am (HOPE ONLY)",
       "phone": "254-317-2891",
       "website": "",
       "healthy_pantry": "",
@@ -15696,7 +15630,7 @@
           "end": "1030"
         }
       ],
-      "hours_text": "<p>Also open the 1st Saturday of each month, from 9:00a.m. - 10:30a.m.</p>\n",
+      "hours_text": "Also open the 1st Saturday of each month, from 9:00a.m. - 10:30a.m.",
       "phone": "512-592-3171",
       "website": "",
       "healthy_pantry": "",
@@ -15744,7 +15678,7 @@
           "end": "1030"
         }
       ],
-      "hours_text": "<p>Also open the 1st Saturday of each month, from 9:00a.m. - 10:30a.m.</p>\n",
+      "hours_text": "Also open the 1st Saturday of each month, from 9:00a.m. - 10:30a.m.",
       "phone": "512-592-3171",
       "website": "",
       "healthy_pantry": "",
@@ -15830,7 +15764,7 @@
           "end": "1400"
         }
       ],
-      "hours_text": "<p>Monday: 11:00 am-3:00 pm (CSFP ONLY)</p>\n<p>Closed every 5th Monday</p>",
+      "hours_text": "Monday: 11:00 am-3:00 pm (CSFP ONLY) Closed every 5th Monday",
       "phone": "512-892-4040",
       "website": "",
       "healthy_pantry": "",
@@ -15916,7 +15850,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p>This location serves residents of zip codes 78744 and 78745.</p>\n",
+      "hours_text": "This location serves residents of zip codes 78744 and 78745.",
       "phone": "512-892-4200",
       "website": "",
       "healthy_pantry": "",
@@ -16134,7 +16068,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st Friday: 10:00 am-12:00 pm</p>\n\n<p>3rd Friday: 10:00 am-12:00 pm</p>\n",
+      "hours_text": "1st Friday: 10:00 am-12:00 pm 3rd Friday: 10:00 am-12:00 pm",
       "phone": "512-698-5935",
       "website": "",
       "healthy_pantry": "",
@@ -16266,7 +16200,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>4th Saturday: 9:30 a.m.-2:30 p.m.</p>\n",
+      "hours_text": "4th Saturday: 9:30 a.m.-2:30 p.m.",
       "phone": "512-331-5200",
       "website": "",
       "healthy_pantry": "",
@@ -16302,7 +16236,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd and 4th Saturday 9:00 a.m. – 12:00 p.m.</p>\n",
+      "hours_text": "2nd and 4th Saturday 9:00 a.m. – 12:00 p.m.",
       "phone": "512-251-0698",
       "website": "",
       "healthy_pantry": "",
@@ -16381,7 +16315,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd &amp; 4th Sunday, 10:00 a.m. - 12:00 p.m.</p>\n",
+      "hours_text": "2nd &amp; 4th Sunday, 10:00 a.m. - 12:00 p.m.",
       "phone": "512-662-6321",
       "website": "",
       "healthy_pantry": "",
@@ -16417,7 +16351,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st &amp; 3rd Tuesday 3:30 p.m. - 7:00 p.m.</p>\n",
+      "hours_text": "1st &amp; 3rd Tuesday 3:30 p.m. - 7:00 p.m.",
       "phone": "512-926-6339",
       "website": "http://welcometableaustin.org/neighbor-2-neighbor/",
       "healthy_pantry": "",
@@ -16453,7 +16387,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd Wednesday 10:00 a.m.-12:00 p.m.<br />\n4th Tuesday 6:00 p.m. - 8:00 p.m.</p>\n",
+      "hours_text": "2nd Wednesday 10:00 a.m.-12:00 p.m. 4th Tuesday 6:00 p.m. - 8:00 p.m.",
       "phone": "512-926-4146",
       "website": "http://www.bccdisciplesofchrist.com/page/bethany_faith_food_pantry",
       "healthy_pantry": "",
@@ -16817,7 +16751,7 @@
       "services": [
         "Delivered Grocery"
       ],
-      "hours_text": "<p>Monthly Food Delivery Available for 78702 resident 1st and 3rd Monday 7:00 p.m. - 8:00 p.m. The interest <a href=\"https://mpaustin.org/programs/community/bags/#:~:text=Apply%20below%20to%20receive%20food\"><strong>form</strong></a> is on their website. </p>\n",
+      "hours_text": "Monthly Food Delivery Available for 78702 resident 1st and 3rd Monday 7:00 p.m. - 8:00 p.m. The interest form is on their website.",
       "phone": "512-494-0953",
       "website": "",
       "healthy_pantry": "",
@@ -16853,7 +16787,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>2nd and 4th Saturday of the month, 7:30 - 10:00 a.m.</p>\n",
+      "hours_text": "2nd and 4th Saturday of the month, 7:30 - 10:00 a.m.",
       "phone": "512-472-2298",
       "website": "",
       "healthy_pantry": "",
@@ -16889,7 +16823,7 @@
       "services": [
         "Unknown Service (2, 1445)"
       ],
-      "hours_text": "<p>1st Saturday: 9:30 am-12:00 pm</p>\n\n<p>2<span style=\"font-size: 12.5px;\">nd </span>Saturday: 9:30 am-12:00 pm</p>\n\n<p>3rd Saturday: 9:30 am-12:00 pm</p>\n\n<p>2nd Tuesday: 10:00am-11:00am (Produce Only)</p>\n",
+      "hours_text": "1st Saturday: 9:30 am-12:00 pm 2nd Saturday: 9:30 am-12:00 pm 3rd Saturday: 9:30 am-12:00 pm 2nd Tuesday: 10:00am-11:00am (Produce Only)",
       "phone": "512-469-9020",
       "website": "",
       "healthy_pantry": "",
@@ -16922,9 +16856,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -17030,9 +16962,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -17138,9 +17068,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -17246,9 +17174,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -17354,9 +17280,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -17462,9 +17386,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -17570,9 +17492,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -17678,9 +17598,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -17786,9 +17704,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -17894,9 +17810,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18002,9 +17916,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18110,9 +18022,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18218,9 +18128,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18326,9 +18234,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18444,7 +18350,7 @@
           "end": "1230"
         }
       ],
-      "hours_text": "<p>3rd Saturday: 10:15 AM-12:30 PM</p>\n\n<p>Closed 3rd Tuesday of the month</p>\n\n<p>Closed Last Tuesday of every month</p>\n",
+      "hours_text": "3rd Saturday: 10:15 AM-12:30 PM Closed 3rd Tuesday of the month Closed Last Tuesday of every month",
       "phone": "512-478-7955",
       "website": "",
       "healthy_pantry": "",
@@ -18523,7 +18429,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>Serving boxed breakfasts curbside Monday - Friday starting at 9 a.m. for first 80 people. <br />\nSunday meal at 3 p.m. for first 65 people.</p>\n",
+      "hours_text": "Serving boxed breakfasts curbside Monday - Friday starting at 9 a.m. for first 80 people. Sunday meal at 3 p.m. for first 65 people.",
       "phone": "512-610-3500",
       "website": "http://trinitycenteraustin.org/",
       "healthy_pantry": "",
@@ -18556,9 +18462,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18629,9 +18533,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18702,9 +18604,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18775,9 +18675,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18848,9 +18746,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18921,9 +18817,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -18994,9 +18888,7 @@
       "service_ids": [
         ""
       ],
-      "services": [
-        "Unknown Service ()"
-      ],
+      "services": [],
       "hours": [
         {
           "day": "0",
@@ -19070,7 +18962,7 @@
       "services": [
         "Food Pantry"
       ],
-      "hours_text": "<p>1st Monday: 6:00 pm-7:00 pm</p>\n\n<p>1st Thursday: 7:00 am-10:00 am</p>\n\n<p>3rd Monday: 6:00 pm-7:00 pm</p>\n\n<p>3rd Thursday: 7:00 am-10:00 am</p>\n",
+      "hours_text": "1st Monday: 6:00 pm-7:00 pm 1st Thursday: 7:00 am-10:00 am 3rd Monday: 6:00 pm-7:00 pm 3rd Thursday: 7:00 am-10:00 am",
       "phone": "512-251-9838",
       "website": "",
       "healthy_pantry": "",
@@ -19534,7 +19426,7 @@
           "end": "1700"
         }
       ],
-      "hours_text": "<p><strong>2nd Friday: </strong>8:00 am- 9:30 am (Mobile Food Pantry distribution for Travis County for residents. Please call ahead to ensure service.)</p>\n\n<p><strong>1st Monday: </strong>9:00 am (Produce-only distribution for Travis County for residence. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "2nd Friday: 8:00 am- 9:30 am (Mobile Food Pantry distribution for Travis County for residents. Please call ahead to ensure service.) 1st Monday: 9:00 am (Produce-only distribution for Travis County for residence. Please call ahead to ensure service.)",
       "phone": "(512) 854-1550",
       "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
       "healthy_pantry": "",
@@ -19597,7 +19489,7 @@
           "end": "1700"
         }
       ],
-      "hours_text": "<p><strong>2nd Friday: </strong>8:00 am- 9:30 am (Mobile Food Pantry distribution for Travis County for residents. Please call ahead to ensure service.)</p>\n\n<p><strong>1st Monday: </strong>9:00 am (Produce-only distribution for Travis County for residence. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "2nd Friday: 8:00 am- 9:30 am (Mobile Food Pantry distribution for Travis County for residents. Please call ahead to ensure service.) 1st Monday: 9:00 am (Produce-only distribution for Travis County for residence. Please call ahead to ensure service.)",
       "phone": "(512) 854-1550",
       "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
       "healthy_pantry": "",
@@ -19660,7 +19552,7 @@
           "end": "1700"
         }
       ],
-      "hours_text": "<p><strong>2nd Friday: </strong>8:00 am- 9:30 am (Mobile Food Pantry distribution for Travis County for residents. Please call ahead to ensure service.)</p>\n\n<p><strong>1st Monday: </strong>9:00 am (Produce-only distribution for Travis County for residence. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "2nd Friday: 8:00 am- 9:30 am (Mobile Food Pantry distribution for Travis County for residents. Please call ahead to ensure service.) 1st Monday: 9:00 am (Produce-only distribution for Travis County for residence. Please call ahead to ensure service.)",
       "phone": "(512) 854-1550",
       "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
       "healthy_pantry": "",
@@ -19723,7 +19615,7 @@
           "end": "1700"
         }
       ],
-      "hours_text": "<p><strong>2nd Friday: </strong>8:00 am- 9:30 am (Mobile Food Pantry distribution for Travis County for residents. Please call ahead to ensure service.)</p>\n\n<p><strong>1st Monday: </strong>9:00 am (Produce-only distribution for Travis County for residence. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "2nd Friday: 8:00 am- 9:30 am (Mobile Food Pantry distribution for Travis County for residents. Please call ahead to ensure service.) 1st Monday: 9:00 am (Produce-only distribution for Travis County for residence. Please call ahead to ensure service.)",
       "phone": "(512) 854-1550",
       "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
       "healthy_pantry": "",
@@ -19786,7 +19678,7 @@
           "end": "1700"
         }
       ],
-      "hours_text": "<p><strong>2nd Friday: </strong>8:00 am- 9:30 am (Mobile Food Pantry distribution for Travis County for residents. Please call ahead to ensure service.)</p>\n\n<p><strong>1st Monday: </strong>9:00 am (Produce-only distribution for Travis County for residence. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "2nd Friday: 8:00 am- 9:30 am (Mobile Food Pantry distribution for Travis County for residents. Please call ahead to ensure service.) 1st Monday: 9:00 am (Produce-only distribution for Travis County for residence. Please call ahead to ensure service.)",
       "phone": "(512) 854-1550",
       "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
       "healthy_pantry": "",
@@ -19849,7 +19741,7 @@
           "end": "1700"
         }
       ],
-      "hours_text": "<p><br />\n </p>\n",
+      "hours_text": "",
       "phone": "(512) 854-2130",
       "website": "http://www.co.travis.tx.us/health_human_services/family_support_services/oak_hi…",
       "healthy_pantry": "",
@@ -19912,7 +19804,7 @@
           "end": "1700"
         }
       ],
-      "hours_text": "<p><br />\n </p>\n",
+      "hours_text": "",
       "phone": "(512) 854-2130",
       "website": "http://www.co.travis.tx.us/health_human_services/family_support_services/oak_hi…",
       "healthy_pantry": "",
@@ -19975,7 +19867,7 @@
           "end": "1700"
         }
       ],
-      "hours_text": "<p><br />\n </p>\n",
+      "hours_text": "",
       "phone": "(512) 854-2130",
       "website": "http://www.co.travis.tx.us/health_human_services/family_support_services/oak_hi…",
       "healthy_pantry": "",
@@ -20038,7 +19930,7 @@
           "end": "1700"
         }
       ],
-      "hours_text": "<p><br />\n </p>\n",
+      "hours_text": "",
       "phone": "(512) 854-2130",
       "website": "http://www.co.travis.tx.us/health_human_services/family_support_services/oak_hi…",
       "healthy_pantry": "",
@@ -20101,7 +19993,7 @@
           "end": "1700"
         }
       ],
-      "hours_text": "<p><br />\n </p>\n",
+      "hours_text": "",
       "phone": "(512) 854-2130",
       "website": "http://www.co.travis.tx.us/health_human_services/family_support_services/oak_hi…",
       "healthy_pantry": "",
@@ -20419,6 +20311,148 @@
       "hours_text": "",
       "phone": "(512) 854-1520",
       "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "104",
+      "title": "Rosewood-Zaragosa Neighborhood Center",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/rosewood-zaragosa-neighborhood-center",
+      "address_line1": "2800 Webberville Road",
+      "locality": "Austin",
+      "administrative_area": "TX",
+      "postal_code": "78702",
+      "country": "US",
+      "formatted_address": "2800 Webberville Road, Austin, TX, 78702",
+      "longitude": -97.710023,
+      "latitude": 30.265696,
+      "geo_type": "Point",
+      "lat": "30.265696",
+      "lon": "-97.710023",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
+      ],
+      "hours": [
+        {
+          "day": "1",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "2",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "3",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "4",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "5",
+          "start": "800",
+          "end": "1200"
+        }
+      ],
+      "hours_text": "2nd Friday: 8:30 am-11:30 am (HOPE distribution for Travis County for adults age 55 and older. Please call ahead to ensure service.)",
+      "phone": "512-972-6740",
+      "website": "http://austintexas.gov/department/rosewood-zaragosa-neighborhood-center",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "100",
+      "title": "Hyde Park Baptist Church",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/hyde-park-baptist-church",
+      "address_line1": "3810 Speedway",
+      "locality": "Austin",
+      "administrative_area": "TX",
+      "postal_code": "78751",
+      "country": "US",
+      "formatted_address": "3810 Speedway, Austin, TX, 78751",
+      "longitude": -97.733374,
+      "latitude": 30.301315,
+      "geo_type": "Point",
+      "lat": "30.301315",
+      "lon": "-97.733374",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "2"
+      ],
+      "services": [
+        "Food Pantry"
+      ],
+      "hours": [
+        {
+          "day": "3",
+          "start": "1300",
+          "end": "1500"
+        }
+      ],
+      "hours_text": "",
+      "phone": "512-459-6587",
+      "website": "",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "105",
+      "title": "Montopolis Neighborhood Center",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/montopolis-neighborhood-center",
+      "address_line1": "1200 Montopolis Drive",
+      "locality": "Austin",
+      "administrative_area": "TX",
+      "postal_code": "78741",
+      "country": "US",
+      "formatted_address": "1200 Montopolis Drive, Austin, TX, 78741",
+      "longitude": -97.701305,
+      "latitude": 30.229145,
+      "geo_type": "Point",
+      "lat": "30.229145",
+      "lon": "-97.701305",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "1779"
+      ],
+      "services": [
+        "Senior Program"
+      ],
+      "hours_text": "This Location is 'by appointment only'. Please call ahead to schedule appointments during business hours. Monday - Thursday: 7:30 am-5:00 pm Friday: 8:00 am-12:00 pm 2nd Friday: 8:30 am-12:00 pm (HOPE ONLY - HOPE ONLY late pickups of leftovers while supplies last - call ahead) 3rd Wednesday: 9:00 am-11:00 am (Produce Only)",
+      "phone": "512-972-6705",
+      "website": "http://austintexas.gov/department/montopolis-neighborhood-center",
       "healthy_pantry": "",
       "snap_benefits": "",
       "proximity": "",
@@ -20479,7 +20513,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 9:00 am-11:30 am (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "3rd Thursday: 9:00 am-11:30 am (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-5790",
       "website": "http://austintexas.gov/department/blackland-neighborhood-center",
       "healthy_pantry": "",
@@ -20605,7 +20639,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>2nd Friday:</strong> 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "2nd Friday: 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-6650",
       "website": "http://austintexas.gov/department/east-austin-neighborhood-center",
       "healthy_pantry": "",
@@ -20668,7 +20702,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>2nd Friday:</strong> 8:30 am-11:30 am (HOPE distribution for Travis County for adults age 55 and older. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "2nd Friday: 8:30 am-11:30 am (HOPE distribution for Travis County for adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-6740",
       "website": "http://austintexas.gov/department/rosewood-zaragosa-neighborhood-center",
       "healthy_pantry": "",
@@ -20731,7 +20765,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 9:00 am-11:30 am (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "3rd Thursday: 9:00 am-11:30 am (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-5790",
       "website": "http://austintexas.gov/department/blackland-neighborhood-center",
       "healthy_pantry": "",
@@ -20857,7 +20891,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>2nd Friday:</strong> 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "2nd Friday: 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-6650",
       "website": "http://austintexas.gov/department/east-austin-neighborhood-center",
       "healthy_pantry": "",
@@ -20920,7 +20954,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>2nd Friday:</strong> 8:30 am-11:30 am (HOPE distribution for Travis County for adults age 55 and older. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "2nd Friday: 8:30 am-11:30 am (HOPE distribution for Travis County for adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-6740",
       "website": "http://austintexas.gov/department/rosewood-zaragosa-neighborhood-center",
       "healthy_pantry": "",
@@ -20983,7 +21017,511 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 9:00 am-11:30 am (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "3rd Thursday: 9:00 am-11:30 am (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
+      "phone": "512-972-5790",
+      "website": "http://austintexas.gov/department/blackland-neighborhood-center",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "108",
+      "title": "Travis County Community Center at Jonestown",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/travis-county-community-center-jonestown",
+      "address_line1": "18649 FM 1431",
+      "locality": "Jonestown",
+      "administrative_area": "TX",
+      "postal_code": "78645",
+      "country": "US",
+      "formatted_address": "18649 FM 1431, Jonestown, TX, 78645",
+      "longitude": -97.923325,
+      "latitude": 30.49291,
+      "geo_type": "Point",
+      "lat": "30.49291",
+      "lon": "-97.923325",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "2"
+      ],
+      "services": [
+        "Food Pantry"
+      ],
+      "hours": [
+        {
+          "day": "1",
+          "start": "830",
+          "end": "1630"
+        },
+        {
+          "day": "2",
+          "start": "830",
+          "end": "1630"
+        },
+        {
+          "day": "3",
+          "start": "830",
+          "end": "1630"
+        },
+        {
+          "day": "4",
+          "start": "830",
+          "end": "1630"
+        },
+        {
+          "day": "5",
+          "start": "830",
+          "end": "1630"
+        }
+      ],
+      "hours_text": "",
+      "phone": "(512) 854-1500",
+      "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "103",
+      "title": "East Austin Neighborhood Center",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/east-austin-neighborhood-center",
+      "address_line1": "211 Comal St",
+      "locality": "Austin",
+      "administrative_area": "TX",
+      "postal_code": "78702",
+      "country": "US",
+      "formatted_address": "211 Comal St, Austin, TX, 78702",
+      "longitude": -97.727465,
+      "latitude": 30.259569,
+      "geo_type": "Point",
+      "lat": "30.259569",
+      "lon": "-97.727465",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
+      ],
+      "hours": [
+        {
+          "day": "1",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "2",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "3",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "4",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "5",
+          "start": "800",
+          "end": "1200"
+        }
+      ],
+      "hours_text": "2nd Friday: 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
+      "phone": "512-972-6650",
+      "website": "http://austintexas.gov/department/east-austin-neighborhood-center",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "104",
+      "title": "Rosewood-Zaragosa Neighborhood Center",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/rosewood-zaragosa-neighborhood-center",
+      "address_line1": "2800 Webberville Road",
+      "locality": "Austin",
+      "administrative_area": "TX",
+      "postal_code": "78702",
+      "country": "US",
+      "formatted_address": "2800 Webberville Road, Austin, TX, 78702",
+      "longitude": -97.710023,
+      "latitude": 30.265696,
+      "geo_type": "Point",
+      "lat": "30.265696",
+      "lon": "-97.710023",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
+      ],
+      "hours": [
+        {
+          "day": "1",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "2",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "3",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "4",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "5",
+          "start": "800",
+          "end": "1200"
+        }
+      ],
+      "hours_text": "2nd Friday: 8:30 am-11:30 am (HOPE distribution for Travis County for adults age 55 and older. Please call ahead to ensure service.)",
+      "phone": "512-972-6740",
+      "website": "http://austintexas.gov/department/rosewood-zaragosa-neighborhood-center",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "102",
+      "title": "Blackland Neighborhood Center",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/blackland-neighborhood-center",
+      "address_line1": "2005 Salina",
+      "locality": "Austin",
+      "administrative_area": "TX",
+      "postal_code": "78722",
+      "country": "US",
+      "formatted_address": "2005 Salina, Austin, TX, 78722",
+      "longitude": -97.722215,
+      "latitude": 30.280938,
+      "geo_type": "Point",
+      "lat": "30.280938",
+      "lon": "-97.722215",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
+      ],
+      "hours": [
+        {
+          "day": "1",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "2",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "3",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "4",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "5",
+          "start": "800",
+          "end": "1200"
+        }
+      ],
+      "hours_text": "3rd Thursday: 9:00 am-11:30 am (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
+      "phone": "512-972-5790",
+      "website": "http://austintexas.gov/department/blackland-neighborhood-center",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "108",
+      "title": "Travis County Community Center at Jonestown",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/travis-county-community-center-jonestown",
+      "address_line1": "18649 FM 1431",
+      "locality": "Jonestown",
+      "administrative_area": "TX",
+      "postal_code": "78645",
+      "country": "US",
+      "formatted_address": "18649 FM 1431, Jonestown, TX, 78645",
+      "longitude": -97.923325,
+      "latitude": 30.49291,
+      "geo_type": "Point",
+      "lat": "30.49291",
+      "lon": "-97.923325",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "2"
+      ],
+      "services": [
+        "Food Pantry"
+      ],
+      "hours": [
+        {
+          "day": "1",
+          "start": "830",
+          "end": "1630"
+        },
+        {
+          "day": "2",
+          "start": "830",
+          "end": "1630"
+        },
+        {
+          "day": "3",
+          "start": "830",
+          "end": "1630"
+        },
+        {
+          "day": "4",
+          "start": "830",
+          "end": "1630"
+        },
+        {
+          "day": "5",
+          "start": "830",
+          "end": "1630"
+        }
+      ],
+      "hours_text": "",
+      "phone": "(512) 854-1500",
+      "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "103",
+      "title": "East Austin Neighborhood Center",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/east-austin-neighborhood-center",
+      "address_line1": "211 Comal St",
+      "locality": "Austin",
+      "administrative_area": "TX",
+      "postal_code": "78702",
+      "country": "US",
+      "formatted_address": "211 Comal St, Austin, TX, 78702",
+      "longitude": -97.727465,
+      "latitude": 30.259569,
+      "geo_type": "Point",
+      "lat": "30.259569",
+      "lon": "-97.727465",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
+      ],
+      "hours": [
+        {
+          "day": "1",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "2",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "3",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "4",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "5",
+          "start": "800",
+          "end": "1200"
+        }
+      ],
+      "hours_text": "2nd Friday: 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
+      "phone": "512-972-6650",
+      "website": "http://austintexas.gov/department/east-austin-neighborhood-center",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "104",
+      "title": "Rosewood-Zaragosa Neighborhood Center",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/rosewood-zaragosa-neighborhood-center",
+      "address_line1": "2800 Webberville Road",
+      "locality": "Austin",
+      "administrative_area": "TX",
+      "postal_code": "78702",
+      "country": "US",
+      "formatted_address": "2800 Webberville Road, Austin, TX, 78702",
+      "longitude": -97.710023,
+      "latitude": 30.265696,
+      "geo_type": "Point",
+      "lat": "30.265696",
+      "lon": "-97.710023",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
+      ],
+      "hours": [
+        {
+          "day": "1",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "2",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "3",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "4",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "5",
+          "start": "800",
+          "end": "1200"
+        }
+      ],
+      "hours_text": "2nd Friday: 8:30 am-11:30 am (HOPE distribution for Travis County for adults age 55 and older. Please call ahead to ensure service.)",
+      "phone": "512-972-6740",
+      "website": "http://austintexas.gov/department/rosewood-zaragosa-neighborhood-center",
+      "healthy_pantry": "",
+      "snap_benefits": "",
+      "proximity": "",
+      "language": "Not specified"
+    },
+    {
+      "nid": "102",
+      "title": "Blackland Neighborhood Center",
+      "type": "Location",
+      "url": "https://www.centraltexasfoodbank.org/location/blackland-neighborhood-center",
+      "address_line1": "2005 Salina",
+      "locality": "Austin",
+      "administrative_area": "TX",
+      "postal_code": "78722",
+      "country": "US",
+      "formatted_address": "2005 Salina, Austin, TX, 78722",
+      "longitude": -97.722215,
+      "latitude": 30.280938,
+      "geo_type": "Point",
+      "lat": "30.280938",
+      "lon": "-97.722215",
+      "amenity_ids": [
+        "1702"
+      ],
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
+        "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
+      ],
+      "hours": [
+        {
+          "day": "1",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "2",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "3",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "4",
+          "start": "730",
+          "end": "1700"
+        },
+        {
+          "day": "5",
+          "start": "800",
+          "end": "1200"
+        }
+      ],
+      "hours_text": "3rd Thursday: 9:00 am-11:30 am (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-5790",
       "website": "http://austintexas.gov/department/blackland-neighborhood-center",
       "healthy_pantry": "",
@@ -21026,7 +21564,7 @@
           "end": "900"
         }
       ],
-      "hours_text": "<p><u><strong>This Partner location is undergoing renovations. Distribution hours are subject to change. Please call ahead to ensure service.</strong></u></p>\n",
+      "hours_text": "This Partner location is undergoing renovations. Distribution hours are subject to change. Please call ahead to ensure service.",
       "phone": "512-972-6840",
       "website": "http://austintexas.gov/department/south-austin-neighborhood-center",
       "healthy_pantry": "",
@@ -21089,7 +21627,7 @@
           "end": "1200"
         }
       ],
-      "hours_text": "<p><strong>2nd Friday:</strong> 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n",
+      "hours_text": "2nd Friday: 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)",
       "phone": "512-972-6650",
       "website": "http://austintexas.gov/department/east-austin-neighborhood-center",
       "healthy_pantry": "",
@@ -21155,652 +21693,6 @@
       "hours_text": "",
       "phone": "(512) 854-1500",
       "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "104",
-      "title": "Rosewood-Zaragosa Neighborhood Center",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/rosewood-zaragosa-neighborhood-center",
-      "address_line1": "2800 Webberville Road",
-      "locality": "Austin",
-      "administrative_area": "TX",
-      "postal_code": "78702",
-      "country": "US",
-      "formatted_address": "2800 Webberville Road, Austin, TX, 78702",
-      "longitude": -97.710023,
-      "latitude": 30.265696,
-      "geo_type": "Point",
-      "lat": "30.265696",
-      "lon": "-97.710023",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "1779, 2"
-      ],
-      "services": [
-        "Unknown Service (1779, 2)"
-      ],
-      "hours": [
-        {
-          "day": "1",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "2",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "3",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "4",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "5",
-          "start": "800",
-          "end": "1200"
-        }
-      ],
-      "hours_text": "<p><strong>2nd Friday:</strong> 8:30 am-11:30 am (HOPE distribution for Travis County for adults age 55 and older. Please call ahead to ensure service.)</p>\n",
-      "phone": "512-972-6740",
-      "website": "http://austintexas.gov/department/rosewood-zaragosa-neighborhood-center",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "105",
-      "title": "Montopolis Neighborhood Center",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/montopolis-neighborhood-center",
-      "address_line1": "1200 Montopolis Drive",
-      "locality": "Austin",
-      "administrative_area": "TX",
-      "postal_code": "78741",
-      "country": "US",
-      "formatted_address": "1200 Montopolis Drive, Austin, TX, 78741",
-      "longitude": -97.701305,
-      "latitude": 30.229145,
-      "geo_type": "Point",
-      "lat": "30.229145",
-      "lon": "-97.701305",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "1779"
-      ],
-      "services": [
-        "Senior Program"
-      ],
-      "hours_text": "<p><strong>This Location is 'by appointment only'. Please call ahead to schedule appointments during business hours.</strong></p>\n\n<p>Monday - Thursday: 7:30 am-5:00 pm</p>\n\n<p>Friday: 8:00 am-12:00 pm</p>\n\n<p>2nd Friday: 8:30 am-12:00 pm (HOPE ONLY - <em>HOPE ONLY late pickups of leftovers while supplies last - call ahead</em>)</p>\n\n<p>3rd Wednesday: 9:00 am-11:00 am (Produce Only)</p>",
-      "phone": "512-972-6705",
-      "website": "http://austintexas.gov/department/montopolis-neighborhood-center",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "100",
-      "title": "Hyde Park Baptist Church",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/hyde-park-baptist-church",
-      "address_line1": "3810 Speedway",
-      "locality": "Austin",
-      "administrative_area": "TX",
-      "postal_code": "78751",
-      "country": "US",
-      "formatted_address": "3810 Speedway, Austin, TX, 78751",
-      "longitude": -97.733374,
-      "latitude": 30.301315,
-      "geo_type": "Point",
-      "lat": "30.301315",
-      "lon": "-97.733374",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "2"
-      ],
-      "services": [
-        "Food Pantry"
-      ],
-      "hours": [
-        {
-          "day": "3",
-          "start": "1300",
-          "end": "1500"
-        }
-      ],
-      "hours_text": "",
-      "phone": "512-459-6587",
-      "website": "",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "102",
-      "title": "Blackland Neighborhood Center",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/blackland-neighborhood-center",
-      "address_line1": "2005 Salina",
-      "locality": "Austin",
-      "administrative_area": "TX",
-      "postal_code": "78722",
-      "country": "US",
-      "formatted_address": "2005 Salina, Austin, TX, 78722",
-      "longitude": -97.722215,
-      "latitude": 30.280938,
-      "geo_type": "Point",
-      "lat": "30.280938",
-      "lon": "-97.722215",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "1779, 2"
-      ],
-      "services": [
-        "Unknown Service (1779, 2)"
-      ],
-      "hours": [
-        {
-          "day": "1",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "2",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "3",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "4",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "5",
-          "start": "800",
-          "end": "1200"
-        }
-      ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 9:00 am-11:30 am (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n",
-      "phone": "512-972-5790",
-      "website": "http://austintexas.gov/department/blackland-neighborhood-center",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "108",
-      "title": "Travis County Community Center at Jonestown",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/travis-county-community-center-jonestown",
-      "address_line1": "18649 FM 1431",
-      "locality": "Jonestown",
-      "administrative_area": "TX",
-      "postal_code": "78645",
-      "country": "US",
-      "formatted_address": "18649 FM 1431, Jonestown, TX, 78645",
-      "longitude": -97.923325,
-      "latitude": 30.49291,
-      "geo_type": "Point",
-      "lat": "30.49291",
-      "lon": "-97.923325",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "2"
-      ],
-      "services": [
-        "Food Pantry"
-      ],
-      "hours": [
-        {
-          "day": "1",
-          "start": "830",
-          "end": "1630"
-        },
-        {
-          "day": "2",
-          "start": "830",
-          "end": "1630"
-        },
-        {
-          "day": "3",
-          "start": "830",
-          "end": "1630"
-        },
-        {
-          "day": "4",
-          "start": "830",
-          "end": "1630"
-        },
-        {
-          "day": "5",
-          "start": "830",
-          "end": "1630"
-        }
-      ],
-      "hours_text": "",
-      "phone": "(512) 854-1500",
-      "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "103",
-      "title": "East Austin Neighborhood Center",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/east-austin-neighborhood-center",
-      "address_line1": "211 Comal St",
-      "locality": "Austin",
-      "administrative_area": "TX",
-      "postal_code": "78702",
-      "country": "US",
-      "formatted_address": "211 Comal St, Austin, TX, 78702",
-      "longitude": -97.727465,
-      "latitude": 30.259569,
-      "geo_type": "Point",
-      "lat": "30.259569",
-      "lon": "-97.727465",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "1779, 2"
-      ],
-      "services": [
-        "Unknown Service (1779, 2)"
-      ],
-      "hours": [
-        {
-          "day": "1",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "2",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "3",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "4",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "5",
-          "start": "800",
-          "end": "1200"
-        }
-      ],
-      "hours_text": "<p><strong>2nd Friday:</strong> 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n",
-      "phone": "512-972-6650",
-      "website": "http://austintexas.gov/department/east-austin-neighborhood-center",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "104",
-      "title": "Rosewood-Zaragosa Neighborhood Center",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/rosewood-zaragosa-neighborhood-center",
-      "address_line1": "2800 Webberville Road",
-      "locality": "Austin",
-      "administrative_area": "TX",
-      "postal_code": "78702",
-      "country": "US",
-      "formatted_address": "2800 Webberville Road, Austin, TX, 78702",
-      "longitude": -97.710023,
-      "latitude": 30.265696,
-      "geo_type": "Point",
-      "lat": "30.265696",
-      "lon": "-97.710023",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "1779, 2"
-      ],
-      "services": [
-        "Unknown Service (1779, 2)"
-      ],
-      "hours": [
-        {
-          "day": "1",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "2",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "3",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "4",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "5",
-          "start": "800",
-          "end": "1200"
-        }
-      ],
-      "hours_text": "<p><strong>2nd Friday:</strong> 8:30 am-11:30 am (HOPE distribution for Travis County for adults age 55 and older. Please call ahead to ensure service.)</p>\n",
-      "phone": "512-972-6740",
-      "website": "http://austintexas.gov/department/rosewood-zaragosa-neighborhood-center",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "102",
-      "title": "Blackland Neighborhood Center",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/blackland-neighborhood-center",
-      "address_line1": "2005 Salina",
-      "locality": "Austin",
-      "administrative_area": "TX",
-      "postal_code": "78722",
-      "country": "US",
-      "formatted_address": "2005 Salina, Austin, TX, 78722",
-      "longitude": -97.722215,
-      "latitude": 30.280938,
-      "geo_type": "Point",
-      "lat": "30.280938",
-      "lon": "-97.722215",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "1779, 2"
-      ],
-      "services": [
-        "Unknown Service (1779, 2)"
-      ],
-      "hours": [
-        {
-          "day": "1",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "2",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "3",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "4",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "5",
-          "start": "800",
-          "end": "1200"
-        }
-      ],
-      "hours_text": "<p><strong>3rd Thursday:</strong> 9:00 am-11:30 am (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n",
-      "phone": "512-972-5790",
-      "website": "http://austintexas.gov/department/blackland-neighborhood-center",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "108",
-      "title": "Travis County Community Center at Jonestown",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/travis-county-community-center-jonestown",
-      "address_line1": "18649 FM 1431",
-      "locality": "Jonestown",
-      "administrative_area": "TX",
-      "postal_code": "78645",
-      "country": "US",
-      "formatted_address": "18649 FM 1431, Jonestown, TX, 78645",
-      "longitude": -97.923325,
-      "latitude": 30.49291,
-      "geo_type": "Point",
-      "lat": "30.49291",
-      "lon": "-97.923325",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "2"
-      ],
-      "services": [
-        "Food Pantry"
-      ],
-      "hours": [
-        {
-          "day": "1",
-          "start": "830",
-          "end": "1630"
-        },
-        {
-          "day": "2",
-          "start": "830",
-          "end": "1630"
-        },
-        {
-          "day": "3",
-          "start": "830",
-          "end": "1630"
-        },
-        {
-          "day": "4",
-          "start": "830",
-          "end": "1630"
-        },
-        {
-          "day": "5",
-          "start": "830",
-          "end": "1630"
-        }
-      ],
-      "hours_text": "",
-      "phone": "(512) 854-1500",
-      "website": "http://www.co.travis.tx.us/health_human_services/community_centers.asp",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "103",
-      "title": "East Austin Neighborhood Center",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/east-austin-neighborhood-center",
-      "address_line1": "211 Comal St",
-      "locality": "Austin",
-      "administrative_area": "TX",
-      "postal_code": "78702",
-      "country": "US",
-      "formatted_address": "211 Comal St, Austin, TX, 78702",
-      "longitude": -97.727465,
-      "latitude": 30.259569,
-      "geo_type": "Point",
-      "lat": "30.259569",
-      "lon": "-97.727465",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "1779, 2"
-      ],
-      "services": [
-        "Unknown Service (1779, 2)"
-      ],
-      "hours": [
-        {
-          "day": "1",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "2",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "3",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "4",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "5",
-          "start": "800",
-          "end": "1200"
-        }
-      ],
-      "hours_text": "<p><strong>2nd Friday:</strong> 8:30 am-12:00 pm (HOPE distribution for Travis County adults age 55 and older. Please call ahead to ensure service.)</p>\n",
-      "phone": "512-972-6650",
-      "website": "http://austintexas.gov/department/east-austin-neighborhood-center",
-      "healthy_pantry": "",
-      "snap_benefits": "",
-      "proximity": "",
-      "language": "Not specified"
-    },
-    {
-      "nid": "104",
-      "title": "Rosewood-Zaragosa Neighborhood Center",
-      "type": "Location",
-      "url": "https://www.centraltexasfoodbank.org/location/rosewood-zaragosa-neighborhood-center",
-      "address_line1": "2800 Webberville Road",
-      "locality": "Austin",
-      "administrative_area": "TX",
-      "postal_code": "78702",
-      "country": "US",
-      "formatted_address": "2800 Webberville Road, Austin, TX, 78702",
-      "longitude": -97.710023,
-      "latitude": 30.265696,
-      "geo_type": "Point",
-      "lat": "30.265696",
-      "lon": "-97.710023",
-      "amenity_ids": [
-        "1702"
-      ],
-      "amenities": [
-        "Groceries"
-      ],
-      "service_ids": [
-        "1779, 2"
-      ],
-      "services": [
-        "Unknown Service (1779, 2)"
-      ],
-      "hours": [
-        {
-          "day": "1",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "2",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "3",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "4",
-          "start": "730",
-          "end": "1700"
-        },
-        {
-          "day": "5",
-          "start": "800",
-          "end": "1200"
-        }
-      ],
-      "hours_text": "<p><strong>2nd Friday:</strong> 8:30 am-11:30 am (HOPE distribution for Travis County for adults age 55 and older. Please call ahead to ensure service.)</p>\n",
-      "phone": "512-972-6740",
-      "website": "http://austintexas.gov/department/rosewood-zaragosa-neighborhood-center",
       "healthy_pantry": "",
       "snap_benefits": "",
       "proximity": "",
