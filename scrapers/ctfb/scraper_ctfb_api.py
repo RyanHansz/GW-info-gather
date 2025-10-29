@@ -217,10 +217,19 @@ def main():
             print(f"   Address: {loc.get('formatted_address', 'N/A')}")
             if loc.get('latitude') and loc.get('longitude'):
                 print(f"   Coordinates: {loc.get('latitude')}, {loc.get('longitude')}")
-            if loc.get('services'):
-                print(f"   Services: {', '.join(loc.get('services', []))}")
-            if loc.get('amenities'):
-                print(f"   Amenities: {', '.join(loc.get('amenities', []))}")
+
+            # Services display
+            services = loc.get('services', [])
+            if services and any(services):  # Check if list has non-empty values
+                print(f"   Services: {', '.join(filter(None, services))}")
+            else:
+                print(f"   Services: No services listed")
+
+            # Amenities display
+            amenities = loc.get('amenities', [])
+            if amenities and any(amenities):  # Check if list has non-empty values
+                print(f"   Amenities: {', '.join(filter(None, amenities))}")
+
             if loc.get('hours_text'):
                 print(f"   Hours: {loc.get('hours_text')}")
             if loc.get('phone'):
