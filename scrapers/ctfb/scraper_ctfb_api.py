@@ -9,6 +9,7 @@ import time
 import urllib.request
 import urllib.error
 from datetime import datetime
+from taxonomy_mappings import map_services, map_amenities
 
 
 def fetch_locations_page(page_num):
@@ -99,20 +100,22 @@ def parse_location(location_data):
     # Parse amenities/services
     field_amenity = location_data.get('field_amenity', [])
     if field_amenity:
-        amenities = []
+        amenity_ids = []
         for amenity in field_amenity:
             if isinstance(amenity, dict):
-                amenities.append(amenity.get('uri', '').split('/')[-1])
-        location['amenities'] = amenities
+                amenity_ids.append(amenity.get('uri', '').split('/')[-1])
+        location['amenity_ids'] = amenity_ids
+        location['amenities'] = map_amenities(amenity_ids)
 
     # Parse services
     field_services = location_data.get('field_services', [])
     if field_services:
-        services = []
+        service_ids = []
         for service in field_services:
             if isinstance(service, dict):
-                services.append(service.get('uri', '').split('/')[-1])
-        location['services'] = services
+                service_ids.append(service.get('uri', '').split('/')[-1])
+        location['service_ids'] = service_ids
+        location['services'] = map_services(service_ids)
 
     # Parse hours
     field_hours = location_data.get('field_hours', [])
@@ -216,6 +219,8 @@ def main():
                 print(f"   Coordinates: {loc.get('latitude')}, {loc.get('longitude')}")
             if loc.get('services'):
                 print(f"   Services: {', '.join(loc.get('services', []))}")
+            if loc.get('amenities'):
+                print(f"   Amenities: {', '.join(loc.get('amenities', []))}")
             if loc.get('hours_text'):
                 print(f"   Hours: {loc.get('hours_text')}")
             if loc.get('phone'):

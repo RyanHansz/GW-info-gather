@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-29T14:04:36.130824",
+  "scraped_at": "2025-10-29T16:35:49.971697",
   "source": "Central Texas Food Bank",
   "source_url": "https://www.centraltexasfoodbank.org/food-assistance/get-food-now",
   "api_endpoint": "https://www.centraltexasfoodbank.org/rest/node/location/{page}",
@@ -21,11 +21,17 @@
       "geo_type": "Point",
       "lat": "30.273225488176",
       "lon": "-98.401679278949",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -63,11 +69,17 @@
       "geo_type": "Point",
       "lat": "30.273225488176",
       "lon": "-98.401679278949",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -105,11 +117,17 @@
       "geo_type": "Point",
       "lat": "30.233432999702",
       "lon": "-97.734807717796",
+      "amenity_ids": [
+        ""
+      ],
       "amenities": [
+        "Unknown Amenity ()"
+      ],
+      "service_ids": [
         ""
       ],
       "services": [
-        ""
+        "Unknown Service ()"
       ],
       "hours_text": "",
       "phone": "",
@@ -135,11 +153,17 @@
       "geo_type": "Point",
       "lat": "30.354115646555",
       "lon": "-97.405932832712",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>1st Friday:</strong> 9:00 am-10:30 am (Drive-Thru Distribution)</p>\n",
       "phone": "",
@@ -165,11 +189,17 @@
       "geo_type": "Point",
       "lat": "31.115148175046",
       "lon": "-97.721490094911",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>2nd Friday: </strong>10:00 am-11:00 am (Drive-Thru Distribution)</p>\n",
       "phone": "",
@@ -195,11 +225,17 @@
       "geo_type": "Point",
       "lat": "30.054415715861",
       "lon": "-97.824113453369",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p><strong>4th Saturday:</strong> 9:00 am-10:30 am (Drive-Thru Distribution)</p>",
       "phone": "",
@@ -225,11 +261,17 @@
       "geo_type": "Point",
       "lat": "30.628612843158",
       "lon": "-97.681168565909",
+      "amenity_ids": [
+        ""
+      ],
       "amenities": [
+        "Unknown Amenity ()"
+      ],
+      "service_ids": [
         ""
       ],
       "services": [
-        ""
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -262,11 +304,17 @@
       "geo_type": "Point",
       "lat": "31.554544889163",
       "lon": "-97.140594051513",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>4th Monday: 5:00 pm-6:00 pm</p>\n",
       "phone": "",
@@ -292,11 +340,17 @@
       "geo_type": "Point",
       "lat": "31.448103755781",
       "lon": "-97.066224778525",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>2nd Saturday: 9:00 am-11:00am</p>\n",
       "phone": "",
@@ -322,11 +376,17 @@
       "geo_type": "Point",
       "lat": "31.554177024425",
       "lon": "-97.15284553019",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>2nd Monday: 5:30 pm-7:30 pm</p>\n",
       "phone": "",
@@ -352,11 +412,17 @@
       "geo_type": "Point",
       "lat": "31.537667510924",
       "lon": "-97.134074074965",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>1st Wednesday: 6:00 pm-7:30 pm</p>\n\n<p>3rd Wednesday: 6:00 pm-7:30 pm</p>\n",
       "phone": "",
@@ -382,11 +448,17 @@
       "geo_type": "Point",
       "lat": "31.519088550757",
       "lon": "-97.15659409106",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -424,11 +496,17 @@
       "geo_type": "Point",
       "lat": "31.519088550757",
       "lon": "-97.15659409106",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -466,11 +544,17 @@
       "geo_type": "Point",
       "lat": "30.347315991291",
       "lon": "-97.694293990384",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -503,11 +587,17 @@
       "geo_type": "Point",
       "lat": "30.49598187783",
       "lon": "-97.643717403366",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -540,11 +630,17 @@
       "geo_type": "Point",
       "lat": "31.307808938711",
       "lon": "-96.881561154897",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>2nd Tuesday: 11:00 a.m-1:00 p.m.</p>\n\n<p>4th Tuesday: 11:00 a.m-1:00 p.m.</p>",
       "phone": "",
@@ -570,11 +666,17 @@
       "geo_type": "Point",
       "lat": "31.541682501331",
       "lon": "-96.831928319588",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p><span><span>2nd Thursday: 2:00 p.m.-4:00 p.m.</span></span></p>\n\n<p><span><span>4th Thursday: 2:00 p.m.-4:00 p.m.</span></span></p>",
       "phone": "(254) 876-2620",
@@ -600,11 +702,17 @@
       "geo_type": "Point",
       "lat": "31.0576",
       "lon": "-97.6763",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -637,11 +745,17 @@
       "geo_type": "Point",
       "lat": "31.1275",
       "lon": "-97.8972",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -674,11 +788,17 @@
       "geo_type": "Point",
       "lat": "31.1228",
       "lon": "-97.9",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -711,11 +831,17 @@
       "geo_type": "Point",
       "lat": "30.4314",
       "lon": "-97.621",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>1st Monday: 9:30 - 10:30 am (CSFP ONLY)</p>\n",
       "phone": "512-990-2348",
@@ -741,11 +867,17 @@
       "geo_type": "Point",
       "lat": "30.3151",
       "lon": "-97.7142",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -798,11 +930,17 @@
       "geo_type": "Point",
       "lat": "30.3151",
       "lon": "-97.7142",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -855,11 +993,17 @@
       "geo_type": "Point",
       "lat": "30.3151",
       "lon": "-97.7142",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -912,11 +1056,17 @@
       "geo_type": "Point",
       "lat": "30.3151",
       "lon": "-97.7142",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -969,11 +1119,17 @@
       "geo_type": "Point",
       "lat": "30.3151",
       "lon": "-97.7142",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -1026,11 +1182,17 @@
       "geo_type": "Point",
       "lat": "30.3013",
       "lon": "-97.706",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st and 3rd Tuesday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:00 pm-5:00 pm (Kids Cafe ONLY)</p>\n",
       "phone": "(512) 381-4580",
@@ -1056,11 +1218,17 @@
       "geo_type": "Point",
       "lat": "30.3871",
       "lon": "-97.6852",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd and 4th Monday: 4:30 pm-6:30 pm</p>\n\n<p>Monday - Friday: 3:00 pm-4:30 pm (Kids Cafe ONLY)</p>\n",
       "phone": "512-735-1635",
@@ -1086,11 +1254,17 @@
       "geo_type": "Point",
       "lat": "30.4001",
       "lon": "-97.6412",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -1123,11 +1297,17 @@
       "geo_type": "Point",
       "lat": "30.085007561527",
       "lon": "-97.879305190237",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -1160,11 +1340,17 @@
       "geo_type": "Point",
       "lat": "29.98869",
       "lon": "-98.09218",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>1st Wednesday: 5:00 p.m.-5:45 p.m.</p>\n\n<p>Please Navigate to the Hays County Food Bank website for the most up-to-date distribution schedule.</p>\n",
       "phone": "512-392-8300",
@@ -1190,11 +1376,17 @@
       "geo_type": "Point",
       "lat": "30.4496",
       "lon": "-97.6605",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -1232,11 +1424,17 @@
       "geo_type": "Point",
       "lat": "30.4496",
       "lon": "-97.6605",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -1274,11 +1472,17 @@
       "geo_type": "Point",
       "lat": "30.3516",
       "lon": "-97.7101",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>4th Sunday: 10:00 a.m. - 12:30 p.m. </p>\n\n<p>1st, 2nd, and 3rd Saturday: 10:30 a.m. - 12:30 p.m. </p>\n",
       "phone": "512-300-9709",
@@ -1304,11 +1508,17 @@
       "geo_type": "Point",
       "lat": "30.29027831009",
       "lon": "-97.698422644104",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>1st Thursday: 10:00 am-11:00 am (CSFP ONLY)</p>\n",
       "phone": "",
@@ -1334,11 +1544,17 @@
       "geo_type": "Point",
       "lat": "30.230102092987",
       "lon": "-97.796422620181",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>2nd Tuesday: 11:00 am-12:00 pm (CSFP ONLY)</p>\n",
       "phone": "",
@@ -1364,11 +1580,17 @@
       "geo_type": "Point",
       "lat": "30.369784739282",
       "lon": "-97.674823154539",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>1st Friday: 11:00 am-12:00 pm</p>\n",
       "phone": "",
@@ -1394,11 +1616,17 @@
       "geo_type": "Point",
       "lat": "30.969",
       "lon": "-97.2647",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>2nd Wednesday: 11:30 am-12:30 pm (CSFP ONLY)</p>\n",
       "phone": "",
@@ -1424,11 +1652,17 @@
       "geo_type": "Point",
       "lat": "30.248358936926",
       "lon": "-97.774689591886",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>3rd Thursday: 10:00 am-11:00 am (CSFP ONLY)</p>\n",
       "phone": "",
@@ -1454,11 +1688,17 @@
       "geo_type": "Point",
       "lat": "30.260010960993",
       "lon": "-97.72450419012",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>3rd Thursday: 11:30 am-12:30 pm (CSFP ONLY)</p>\n",
       "phone": "",
@@ -1484,11 +1724,17 @@
       "geo_type": "Point",
       "lat": "30.218266686608",
       "lon": "-97.743058700617",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>2nd Tuesday: 9:30 am-10:30 am (CSFP ONLY)</p>\n",
       "phone": "",
@@ -1514,11 +1760,17 @@
       "geo_type": "Point",
       "lat": "30.254478940166",
       "lon": "-97.706284560775",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>2nd Saturday: (HOPE ONLY)<br />\n </p>\n",
       "phone": "",
@@ -1544,11 +1796,17 @@
       "geo_type": "Point",
       "lat": "30.3321",
       "lon": "-97.6931",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -1601,11 +1859,17 @@
       "geo_type": "Point",
       "lat": "30.3321",
       "lon": "-97.6931",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -1658,11 +1922,17 @@
       "geo_type": "Point",
       "lat": "30.3321",
       "lon": "-97.6931",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -1715,11 +1985,17 @@
       "geo_type": "Point",
       "lat": "30.3321",
       "lon": "-97.6931",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -1772,11 +2048,17 @@
       "geo_type": "Point",
       "lat": "30.3321",
       "lon": "-97.6931",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -1829,11 +2111,17 @@
       "geo_type": "Point",
       "lat": "30.319835687505",
       "lon": "-97.704462096501",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>1st Tuesday: 12:00 pm-1:00 pm (CSFP ONLY)</p>\n\n<p> </p>\n",
       "phone": "",
@@ -1859,11 +2147,17 @@
       "geo_type": "Point",
       "lat": "30.3113",
       "lon": "-97.6407",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>4th Thursday: 10:00 am-11:00 am (CSFP ONLY)</p>\n<p>Monday - Friday: 3:30 pm-5:30 pm (Kids Cafe ONLY)</p>",
       "phone": "",
@@ -1889,11 +2183,17 @@
       "geo_type": "Point",
       "lat": "30.2658",
       "lon": "-97.711",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>3rd Wednesday: 12:00 pm-1:00 pm (CSFP ONLY)<br />\n </p>\n",
       "phone": "",
@@ -1919,11 +2219,17 @@
       "geo_type": "Point",
       "lat": "30.282824418869",
       "lon": "-97.720072601859",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>3rd Friday: 11:00 am-12:00 pm (CSFP ONLY)<br />\n </p>\n",
       "phone": "",
@@ -1949,11 +2255,17 @@
       "geo_type": "Point",
       "lat": "30.389049573794",
       "lon": "-97.646844101858",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>1st Monday: 11:00 am-12:00 pm (CSFP ONLY)<br />\n </p>\n",
       "phone": "",
@@ -1979,11 +2291,17 @@
       "geo_type": "Point",
       "lat": "30.326274439286",
       "lon": "-97.742475931312",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>3rd Monday: 9:00 am-10:00 am (CSFP ONLY)</p>\n",
       "phone": "",
@@ -2009,11 +2327,17 @@
       "geo_type": "Point",
       "lat": "30.350057460343",
       "lon": "-97.703252531313",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>3rd Monday: 11:30 am - 12:30 pm (CSFP ONLY)</p>\n",
       "phone": "",
@@ -2039,11 +2363,17 @@
       "geo_type": "Point",
       "lat": "30.3121",
       "lon": "-97.6887",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>2nd Monday: 10:30 am-11:30 am (CSFP ONLY)<br />\n </p>\n",
       "phone": "",
@@ -2069,11 +2399,17 @@
       "geo_type": "Point",
       "lat": "30.261294015158",
       "lon": "-97.740757131305",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>2nd Monday: 9:00 am-10:00 am (CSFP ONLY)</p>\n",
       "phone": "",
@@ -2099,11 +2435,17 @@
       "geo_type": "Point",
       "lat": "31.09826027815",
       "lon": "-97.340288660741",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>Monday after 2nd Thursday: 3:15 pm (CSFP ONLY)</p>\n",
       "phone": "",
@@ -2129,11 +2471,17 @@
       "geo_type": "Point",
       "lat": "31.1015077223",
       "lon": "-97.337856979338",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>Monday after 2nd Thursday: 2:00 pm (CSFP ONLY)</p>\n",
       "phone": "",
@@ -2159,11 +2507,17 @@
       "geo_type": "Point",
       "lat": "30.3543",
       "lon": "-97.7083",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>3rd Monday: 10:30 am-11:30 am</p>\n",
       "phone": "",
@@ -2189,11 +2543,17 @@
       "geo_type": "Point",
       "lat": "30.187",
       "lon": "-97.7389",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>2nd Saturday:</strong> 9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -2219,11 +2579,17 @@
       "geo_type": "Point",
       "lat": "30.028",
       "lon": "-97.8705",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Saturday:</strong> 9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span>Drive-Thru Distribution<span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -2249,11 +2615,17 @@
       "geo_type": "Point",
       "lat": "31.072887",
       "lon": "-97.351082",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>4th Saturday: </strong>9:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -2279,11 +2651,17 @@
       "geo_type": "Point",
       "lat": "30.3243",
       "lon": "-97.6893",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Thursday:</strong> 9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -2309,11 +2687,17 @@
       "geo_type": "Point",
       "lat": "31.691044",
       "lon": "-96.490271",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Wednesday: </strong>10:30 am-11:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -2339,11 +2723,17 @@
       "geo_type": "Point",
       "lat": "30.382",
       "lon": "-97.5304",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>2nd Friday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p><strong>4th Friday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p> </p>",
       "phone": "",
@@ -2369,11 +2759,17 @@
       "geo_type": "Point",
       "lat": "31.541353",
       "lon": "-96.524137",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>2nd Wednesday: </strong>10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -2399,11 +2795,17 @@
       "geo_type": "Point",
       "lat": "30.850411",
       "lon": "-96.964044",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Wednesday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -2429,11 +2831,17 @@
       "geo_type": "Point",
       "lat": "30.358948",
       "lon": "-97.708688",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>Drive-through distribution on some Mondays 10:30 a.m. - 12:30 p.m.</p>\n\n<p>Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.</p>\n",
       "phone": "",
@@ -2459,11 +2867,17 @@
       "geo_type": "Point",
       "lat": "31.09075",
       "lon": "-97.34551",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>Lunch, Monday-Friday: 11:30 a.m. - 12:30 p.m. (Line-up begins at 11:00 a.m.)<br />\nLunch, Sunday: 12:30-1:30pm (line-up begins at noon)<br />\nBreakfast, Saturday: 8:00 - 9:00 a.m. (line-up begins at 7:30 a.m.)<br />\nDinner, Tuesday: 5:30 - 6:00 p.m. (line-up begins at 5:00 p.m.)</p>\n",
       "phone": "",
@@ -2489,11 +2903,17 @@
       "geo_type": "Point",
       "lat": "30.3254",
       "lon": "-97.6933",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -2526,11 +2946,17 @@
       "geo_type": "Point",
       "lat": "31.4753",
       "lon": "-96.9237",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>2nd &amp; last Tuesday 3:00 p.m. - 6:00 p.m.<br />\n </p>\n",
       "phone": "903-276-0512",
@@ -2556,11 +2982,17 @@
       "geo_type": "Point",
       "lat": "30.233754",
       "lon": "-97.734749",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>2nd Monday: 9:00 a.m. - 10:00 a.m. (Mobile Pantry) </p>\n\n<p>4th Tuesday: 10:30 a.m.-12:30 p.m. (CSFP ONLY) </p>\n",
       "phone": "",
@@ -2586,11 +3018,17 @@
       "geo_type": "Point",
       "lat": "31.512976",
       "lon": "-97.163912",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>1st Wednesday:</strong> 10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -2616,11 +3054,17 @@
       "geo_type": "Point",
       "lat": "30.236945",
       "lon": "-97.704282",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>4th Friday:</strong> 9:00 am-10:30 am (<span><span><span>Drive-Thru Distribution</span></span></span>)</p>\n",
       "phone": "",
@@ -2646,11 +3090,17 @@
       "geo_type": "Point",
       "lat": "30.446835057826",
       "lon": "-97.63469232047",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>1st Tuesday:</strong> 9:00 am-10:30 am <span><span><span><span><span>(</span></span>Drive-Thru Distribution<span><span>) </span></span></span></span></span></p>",
       "phone": "",
@@ -2676,11 +3126,17 @@
       "geo_type": "Point",
       "lat": "29.995592",
       "lon": "-97.87726",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>4th Tuesday: 9:00 am-11:00 am (CSFP ONLY)</p>\n",
       "phone": "",
@@ -2706,11 +3162,17 @@
       "geo_type": "Point",
       "lat": "30.4006",
       "lon": "-97.8468",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd and 4th Tuesdays from 11:00 am - 1:00 p.m.</p>\n",
       "phone": "512-381-4590",
@@ -2736,11 +3198,17 @@
       "geo_type": "Point",
       "lat": "31.548728",
       "lon": "-97.136695",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "3"
+      ],
+      "services": [
+        "Delivered Grocery"
       ],
       "hours_text": "<p>2nd &amp; 4th Wednesday 10:00 a.m. - 12:00 p.m.</p>\n",
       "phone": "254-759-1800",
@@ -2766,11 +3234,17 @@
       "geo_type": "Point",
       "lat": "29.907422",
       "lon": "-96.67662",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>2nd Friday: 2:00 pm-3:00 pm (HOPE ONLY)</p>\n",
       "phone": "",
@@ -2796,11 +3270,17 @@
       "geo_type": "Point",
       "lat": "29.888469",
       "lon": "-97.924538",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>4th Tuesday 9:30 a.m. - 11:30 a.m. (For seniors 55+ only)</p>\n",
       "phone": "",
@@ -2826,11 +3306,17 @@
       "geo_type": "Point",
       "lat": "30.253439",
       "lon": "-97.733152",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>1st Wednesday: 9:00 am-10:00 am&nbsp;(CSFP ONLY)</p>\n",
       "phone": "",
@@ -2856,11 +3342,17 @@
       "geo_type": "Point",
       "lat": "30.319642",
       "lon": "-97.70432",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours_text": "<p>2nd Wednesday 10:00 a.m. - 12:00 p.m. (For seniors 55+ only)</p>\n",
       "phone": "",
@@ -2886,11 +3378,17 @@
       "geo_type": "Point",
       "lat": "30.272726",
       "lon": "-97.701408",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>2nd Tuesday: 2:00 pm-4:00 pm (HOPE ONLY)</p>\n",
       "phone": "",
@@ -2916,11 +3414,17 @@
       "geo_type": "Point",
       "lat": "30.264549",
       "lon": "-97.709064",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>1st Thursday after 2nd Tuesday: 9:00 am (HOPE ONLY)</p>\n",
       "phone": "",
@@ -2946,11 +3450,17 @@
       "geo_type": "Point",
       "lat": "31.1181",
       "lon": "-97.7228",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours": [
         {
@@ -2998,11 +3508,17 @@
       "geo_type": "Point",
       "lat": "31.1181",
       "lon": "-97.7228",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours": [
         {
@@ -3050,11 +3566,17 @@
       "geo_type": "Point",
       "lat": "31.1181",
       "lon": "-97.7228",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours": [
         {
@@ -3102,11 +3624,17 @@
       "geo_type": "Point",
       "lat": "31.1181",
       "lon": "-97.7228",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours": [
         {
@@ -3154,11 +3682,17 @@
       "geo_type": "Point",
       "lat": "30.2847",
       "lon": "-97.6726",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>3rd Friday: 12:30 pm-1:30 pm (CSFP ONLY)</p>\n\n",
       "phone": "",
@@ -3184,11 +3718,17 @@
       "geo_type": "Point",
       "lat": "30.577149300083",
       "lon": "-98.276385560819",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours": [
         {
@@ -3241,11 +3781,17 @@
       "geo_type": "Point",
       "lat": "30.577149300083",
       "lon": "-98.276385560819",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours": [
         {
@@ -3298,11 +3844,17 @@
       "geo_type": "Point",
       "lat": "30.577149300083",
       "lon": "-98.276385560819",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours": [
         {
@@ -3355,11 +3907,17 @@
       "geo_type": "Point",
       "lat": "30.577149300083",
       "lon": "-98.276385560819",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours": [
         {
@@ -3412,11 +3970,17 @@
       "geo_type": "Point",
       "lat": "30.577149300083",
       "lon": "-98.276385560819",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours": [
         {
@@ -3469,11 +4033,17 @@
       "geo_type": "Point",
       "lat": "30.177134",
       "lon": "-97.740307",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>2nd Tuesday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p><strong>4th Tuesday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution)</span></span></span></p>",
       "phone": "",
@@ -3499,11 +4069,17 @@
       "geo_type": "Point",
       "lat": "30.32838",
       "lon": "-97.688451",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>1st Tuesday: 10:30 am-11:30 am (CSFP ONLY)</p>\n",
       "phone": "",
@@ -3529,11 +4105,17 @@
       "geo_type": "Point",
       "lat": "30.271791",
       "lon": "-97.708361",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>4th Monday: 11:00 am-12:00 pm (CSFP ONLY)</p>\n",
       "phone": "",
@@ -3559,11 +4141,17 @@
       "geo_type": "Point",
       "lat": "30.320348",
       "lon": "-97.692929",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -3616,11 +4204,17 @@
       "geo_type": "Point",
       "lat": "30.320348",
       "lon": "-97.692929",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -3673,11 +4267,17 @@
       "geo_type": "Point",
       "lat": "30.320348",
       "lon": "-97.692929",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -3730,11 +4330,17 @@
       "geo_type": "Point",
       "lat": "30.320348",
       "lon": "-97.692929",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -3787,11 +4393,17 @@
       "geo_type": "Point",
       "lat": "30.320348",
       "lon": "-97.692929",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -3844,11 +4456,17 @@
       "geo_type": "Point",
       "lat": "30.3086",
       "lon": "-97.6685",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Brandon Grotesque Regular&quot;,sans-serif\">1<sup>st</sup> and 3<sup>rd</sup> Wednesday 4:00 pm - 6:00 pm</span></span></p>\n",
       "phone": "",
@@ -3874,11 +4492,17 @@
       "geo_type": "Point",
       "lat": "31.3095",
       "lon": "-96.8782",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>4th Tuesday: </strong>9:30 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>) </span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -3904,11 +4528,17 @@
       "geo_type": "Point",
       "lat": "31.076454",
       "lon": "-97.347436",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>4th Thursday:</strong> 10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -3934,11 +4564,17 @@
       "geo_type": "Point",
       "lat": "30.1788",
       "lon": "-97.6146",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Saturday: </strong>9:00 am-10:30 pm <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p> </p>",
       "phone": "",
@@ -3964,11 +4600,17 @@
       "geo_type": "Point",
       "lat": "29.907455",
       "lon": "-96.678925",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 1445"
+      ],
+      "services": [
+        "Unknown Service (1779, 1445)"
       ],
       "hours_text": "<p><strong>2nd Wednesday: </strong>10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p><strong>2nd Friday: </strong>2:00 pm-3:00 pm (HOPE ONLY)</p>",
       "phone": "",
@@ -3994,11 +4636,17 @@
       "geo_type": "Point",
       "lat": "31.2162",
       "lon": "-98.3948",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 1445"
+      ],
+      "services": [
+        "Unknown Service (2, 1445)"
       ],
       "hours": [
         {
@@ -4031,11 +4679,17 @@
       "geo_type": "Point",
       "lat": "29.978727",
       "lon": "-97.574572",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -4068,11 +4722,17 @@
       "geo_type": "Point",
       "lat": "30.0574",
       "lon": "-96.8037",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Saturday:</strong> 10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4098,11 +4758,17 @@
       "geo_type": "Point",
       "lat": "30.2062",
       "lon": "-97.69",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Friday:</strong> 9:30 am-10:30 am (<span><span><span>Drive-Thru Distribution)</span></span></span></p>\n\n<p><strong>*For veteran households only.</strong></p>\n",
       "phone": "",
@@ -4128,11 +4794,17 @@
       "geo_type": "Point",
       "lat": "30.2999",
       "lon": "-97.637",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>4th Thursday: </strong>9:00 am-10:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>) </span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4158,11 +4830,17 @@
       "geo_type": "Point",
       "lat": "30.2612",
       "lon": "-97.6825",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>4th Wednesday: </strong>10:00 am-11:00 am <span><span><span><span><span><span><span><span>(Mobile Food Pantry distribution.)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4188,11 +4866,17 @@
       "geo_type": "Point",
       "lat": "31.18913",
       "lon": "-98.711744",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>4th Wednesday:</strong> 10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4218,11 +4902,17 @@
       "geo_type": "Point",
       "lat": "30.209463297119",
       "lon": "-97.1548589",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -4265,11 +4955,17 @@
       "geo_type": "Point",
       "lat": "30.209463297119",
       "lon": "-97.1548589",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -4312,11 +5008,17 @@
       "geo_type": "Point",
       "lat": "30.209463297119",
       "lon": "-97.1548589",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -4359,11 +5061,17 @@
       "geo_type": "Point",
       "lat": "31.21019",
       "lon": "-97.030875",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Friday:</strong> 10:00 am–11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4389,11 +5097,17 @@
       "geo_type": "Point",
       "lat": "30.422954",
       "lon": "-97.008716",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>1st Tuesday:</strong> 10:00 am-11:00 am <span><span><span><span><span><span><span><span>(Market Style Distribution)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4419,11 +5133,17 @@
       "geo_type": "Point",
       "lat": "31.306922",
       "lon": "-96.626914",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>1st Friday: </strong>10:00 am–11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4449,11 +5169,17 @@
       "geo_type": "Point",
       "lat": "30.6449",
       "lon": "-97.0314",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>1st Thursday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>\n\n<p><strong>3rd Thursday: </strong>9:00 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4479,11 +5205,17 @@
       "geo_type": "Point",
       "lat": "30.797394059595",
       "lon": "-97.429811259838",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>2nd Thursday:</strong> 9:30 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4509,11 +5241,17 @@
       "geo_type": "Point",
       "lat": "31.116616",
       "lon": "-97.907628",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>2nd Thursday: </strong>9:30 am-10:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4539,11 +5277,17 @@
       "geo_type": "Point",
       "lat": "31.436813",
       "lon": "-98.568536",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>2nd Tuesday:</strong> 10:30 am-11:30 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Market Style Distribution)</span></span></span></p>\n\n<p> </p>",
       "phone": "",
@@ -4569,11 +5313,17 @@
       "geo_type": "Point",
       "lat": "30.257125",
       "lon": "-98.856865",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>2nd Saturday: </strong>10:00 am-11:00 am <span><span><span><span><span><span><span><span>(</span></span></span></span></span>Drive-Thru Distribution<span><span><span><span><span>)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4599,11 +5349,17 @@
       "geo_type": "Point",
       "lat": "30.086709205396",
       "lon": "-97.734862404939",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Tuesday: </strong>9:00 am–10:00 am <span>(<span><span>Market Style Distribution</span></span>)</span></p>",
       "phone": "",
@@ -4629,11 +5385,17 @@
       "geo_type": "Point",
       "lat": "30.2844",
       "lon": "-97.6683",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Tuesday:</strong> 9:30 am-11:00 am (<span><span><span>Drive-Thru Distribution</span></span></span>)</p>\n",
       "phone": "",
@@ -4659,11 +5421,17 @@
       "geo_type": "Point",
       "lat": "30.0973",
       "lon": "-97.4796",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>1st Saturday: </strong>9:00 am-10:00 am (<span><span><span>Drive-Thru Distribution</span></span></span>)</p>",
       "phone": "",
@@ -4689,11 +5457,17 @@
       "geo_type": "Point",
       "lat": "29.888469",
       "lon": "-97.924538",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p>4th Tuesday: 9:30 am-11:30 am (HOPE ONLY)</p>\n<p><i>HOPE ONLY late pickups of leftovers while supplies last - call ahead</i></p>",
       "phone": "",
@@ -4719,11 +5493,17 @@
       "geo_type": "Point",
       "lat": "30.001765",
       "lon": "-97.619487",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>3rd Wednesday:</strong> 8:00 am–9:00 am <span><span><span><span><span><span><span><span>(Mobile Food Pantry distribution.)</span></span></span></span></span></span></span></span></p>",
       "phone": "",
@@ -4749,11 +5529,17 @@
       "geo_type": "Point",
       "lat": "31.090776",
       "lon": "-97.348491",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -4801,11 +5587,17 @@
       "geo_type": "Point",
       "lat": "31.090776",
       "lon": "-97.348491",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -4853,11 +5645,17 @@
       "geo_type": "Point",
       "lat": "31.090776",
       "lon": "-97.348491",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -4905,11 +5703,17 @@
       "geo_type": "Point",
       "lat": "31.090776",
       "lon": "-97.348491",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -4957,11 +5761,17 @@
       "geo_type": "Point",
       "lat": "31.100814",
       "lon": "-97.699733",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>Monday through Friday by appointment only, after 5:00 p.m.</p>\n\n<p>2nd and 4th Saturday every month, 9:00 a.m. - 12:00 p.m.</p>\n",
       "phone": "254-554-0973",
@@ -4987,11 +5797,17 @@
       "geo_type": "Point",
       "lat": "30.1832",
       "lon": "-97.8438",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st and 3rd Monday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)</p>\n\n<p>Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.</p>\n",
       "phone": "512-610-2231",
@@ -5017,11 +5833,17 @@
       "geo_type": "Point",
       "lat": "30.4762",
       "lon": "-97.7804",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd and 4th Monday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:00 pm-5:00 pm (Kids Cafe ONLY)</p>\n",
       "phone": "",
@@ -5047,11 +5869,17 @@
       "geo_type": "Point",
       "lat": "30.1722",
       "lon": "-97.8069",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st and 3rd Thursday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)</p>\n",
       "phone": "",
@@ -5077,11 +5905,17 @@
       "geo_type": "Point",
       "lat": "30.2501",
       "lon": "-97.8889",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd and 4th Wednesday 4:30 pm - 6:30 pm</p>\n",
       "phone": "",
@@ -5107,11 +5941,17 @@
       "geo_type": "Point",
       "lat": "30.2182",
       "lon": "-97.7691",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st and 3rd Friday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)</p>\n\n<p>Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.</p>\n",
       "phone": "",
@@ -5137,11 +5977,17 @@
       "geo_type": "Point",
       "lat": "30.2195",
       "lon": "-97.7683",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd and 4th Thursday: 4:30 pm-6:30 pm</p>\n\n<p>Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)</p>\n\n<p>Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.</p>\n",
       "phone": "",
@@ -5167,11 +6013,17 @@
       "geo_type": "Point",
       "lat": "30.204375",
       "lon": "-97.754721",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -5204,11 +6056,17 @@
       "geo_type": "Point",
       "lat": "31.107312",
       "lon": "-97.91802",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 1445"
+      ],
+      "services": [
+        "Unknown Service (2, 1445)"
       ],
       "hours_text": "<p>Distributions are mobile, call for weekly location or emergency food assistance.</p>\n\n<p>Most often occurs on 3rd Saturday of the month 9:00 a.m. - 11:00 a.m.</p>\n",
       "phone": "254-547-6753 ",
@@ -5234,11 +6092,17 @@
       "geo_type": "Point",
       "lat": "30.416864",
       "lon": "-97.975058",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -5271,11 +6135,17 @@
       "geo_type": "Point",
       "lat": "31.59",
       "lon": "-97.1028",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>Every other Wednesday 6:00 p.m. - 8:00 p.m.</p>\n",
       "phone": "254-640-8916",
@@ -5301,11 +6171,17 @@
       "geo_type": "Point",
       "lat": "30.3899",
       "lon": "-97.6839",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "3"
+      ],
+      "services": [
+        "Delivered Grocery"
       ],
       "hours": [
         {
@@ -5338,11 +6214,17 @@
       "geo_type": "Point",
       "lat": "30.3211",
       "lon": "-97.6807",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st and 3rd Wednesday: 4:30 pm-6:30 pm</p>\n\n<p>Monday - Friday: 3:30 pm-5:30 pm (Kids Cafe ONLY)</p>\n",
       "phone": "512-933-1005",
@@ -5368,11 +6250,17 @@
       "geo_type": "Point",
       "lat": "30.228",
       "lon": "-97.786",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -5410,11 +6298,17 @@
       "geo_type": "Point",
       "lat": "30.228",
       "lon": "-97.786",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -5452,11 +6346,17 @@
       "geo_type": "Point",
       "lat": "30.382096",
       "lon": "-97.689321",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -5489,11 +6389,17 @@
       "geo_type": "Point",
       "lat": "30.2821",
       "lon": "-97.7076",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd and 4th Friday: 11:00 am-1:00 pm</p>\n\n<p>Monday - Friday: 3:30 pm-4:30 pm (Kids Cafe ONLY)</p>\n\n<p>Times subject to change. For questions, contact the number listed for your pantry, or reach out to the Central Texas Food Bank.</p>\n",
       "phone": "512-617-3037",
@@ -5519,11 +6425,17 @@
       "geo_type": "Point",
       "lat": "30.238585",
       "lon": "-97.689342",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 1445"
+      ],
+      "services": [
+        "Unknown Service (2, 1445)"
       ],
       "hours_text": "<p>2nd Tuesday 9:30 a.m. - 11:30 a.m.</p>\n",
       "phone": "",
@@ -5549,11 +6461,17 @@
       "geo_type": "Point",
       "lat": "31.11664",
       "lon": "-97.712224",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -5591,11 +6509,17 @@
       "geo_type": "Point",
       "lat": "31.11664",
       "lon": "-97.712224",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -5633,11 +6557,17 @@
       "geo_type": "Point",
       "lat": "30.344952",
       "lon": "-97.542286",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd Saturday: 9:00 am-11:00 am</p>\n\n<p>4th Saturday: 9:00 am-11:00 am</p>\n",
       "phone": "512-272-4043",
@@ -5663,11 +6593,17 @@
       "geo_type": "Point",
       "lat": "31.036062",
       "lon": "-97.457736",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -5710,11 +6646,17 @@
       "geo_type": "Point",
       "lat": "31.036062",
       "lon": "-97.457736",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -5757,11 +6699,17 @@
       "geo_type": "Point",
       "lat": "31.036062",
       "lon": "-97.457736",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -5804,11 +6752,17 @@
       "geo_type": "Point",
       "lat": "30.823809",
       "lon": "-97.609763",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd and 4th Sunday from 12:00 p.m. – 2:00 p.m.</p>\n",
       "phone": "512-635-6125 ",
@@ -5834,11 +6788,17 @@
       "geo_type": "Point",
       "lat": "31.4509",
       "lon": "-98.5685",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd &amp; 4th Wednesday, 10:00 a.m. - 11:00 a.m.<br />\nClosed 5th Tuesday</p>\n",
       "phone": "325-451-0953",
@@ -5864,11 +6824,17 @@
       "geo_type": "Point",
       "lat": "30.6552",
       "lon": "-97.0032",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -5901,11 +6867,17 @@
       "geo_type": "Point",
       "lat": "31.385274181034",
       "lon": "-97.214438130685",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st Thursday 3:00 p.m. - 8:00 p.m.</p>\n\n<p>3rd Thursday 3:00 p.m. - 8:00 p.m.</p>\n",
       "phone": "254-857-4540",
@@ -5931,11 +6903,17 @@
       "geo_type": "Point",
       "lat": "31.4681",
       "lon": "-97.1164",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p><strong>1st Saturday:</strong> 9:00 am-11:00 am</p>\n\n<p><strong>3rd Saturday: </strong>9:00 am-11:00 am</p>\n",
       "phone": "254-307-7225",
@@ -5961,11 +6939,17 @@
       "geo_type": "Point",
       "lat": "31.579091",
       "lon": "-97.139903",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd &amp; 4th Friday, 10:00 a.m. – 12:00 p.m. (and emergency)</p>\n",
       "phone": "254-722-9517",
@@ -5991,11 +6975,17 @@
       "geo_type": "Point",
       "lat": "31.580382",
       "lon": "-97.132949",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd and 4th Thursday 2:00 p.m. - 4:00 p.m.</p>\n",
       "phone": "254-799-3796",
@@ -6021,11 +7011,17 @@
       "geo_type": "Point",
       "lat": "31.584931",
       "lon": "-97.134758",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st and 3rd Friday, 10:00am - 12:00pm </p>\n",
       "phone": "254-722-9517",
@@ -6051,11 +7047,17 @@
       "geo_type": "Point",
       "lat": "31.538268229823",
       "lon": "-97.149495578655",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6108,11 +7110,17 @@
       "geo_type": "Point",
       "lat": "31.538268229823",
       "lon": "-97.149495578655",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6165,11 +7173,17 @@
       "geo_type": "Point",
       "lat": "31.538268229823",
       "lon": "-97.149495578655",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6222,11 +7236,17 @@
       "geo_type": "Point",
       "lat": "31.538268229823",
       "lon": "-97.149495578655",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6279,11 +7299,17 @@
       "geo_type": "Point",
       "lat": "31.538268229823",
       "lon": "-97.149495578655",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6336,11 +7362,17 @@
       "geo_type": "Point",
       "lat": "31.530135",
       "lon": "-97.153163",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>3rd Tuesday, 10:30 a.m. - 4:30 p.m.<br />\nFresh Food for Families 3rd Tuesday 2:00 p.m. - 5:00 p.m. </p>\n",
       "phone": "254-752-2293",
@@ -6366,11 +7398,17 @@
       "geo_type": "Point",
       "lat": "31.567866",
       "lon": "-97.066868",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -6408,11 +7446,17 @@
       "geo_type": "Point",
       "lat": "31.567866",
       "lon": "-97.066868",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -6450,11 +7494,17 @@
       "geo_type": "Point",
       "lat": "31.5473",
       "lon": "-97.1383",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6532,11 +7582,17 @@
       "geo_type": "Point",
       "lat": "31.5473",
       "lon": "-97.1383",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6614,11 +7670,17 @@
       "geo_type": "Point",
       "lat": "31.5473",
       "lon": "-97.1383",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6696,11 +7758,17 @@
       "geo_type": "Point",
       "lat": "31.5473",
       "lon": "-97.1383",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6778,11 +7846,17 @@
       "geo_type": "Point",
       "lat": "31.5473",
       "lon": "-97.1383",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6860,11 +7934,17 @@
       "geo_type": "Point",
       "lat": "31.5473",
       "lon": "-97.1383",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -6942,11 +8022,17 @@
       "geo_type": "Point",
       "lat": "31.5473",
       "lon": "-97.1383",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -7024,11 +8110,17 @@
       "geo_type": "Point",
       "lat": "31.5473",
       "lon": "-97.1383",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -7106,11 +8198,17 @@
       "geo_type": "Point",
       "lat": "31.5473",
       "lon": "-97.1383",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -7188,11 +8286,17 @@
       "geo_type": "Point",
       "lat": "31.5473",
       "lon": "-97.1383",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -7270,11 +8374,17 @@
       "geo_type": "Point",
       "lat": "30.673956",
       "lon": "-98.457095",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -7307,11 +8417,17 @@
       "geo_type": "Point",
       "lat": "30.7475",
       "lon": "-98.6774",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st Friday: 9:00 a.m.-12:00 p.m.</p>\n\n<p>3rd Friday: 9:00 a.m.-12:00 p.m.</p>\n\n<p>2nd Tuesday: 3:00 p.m.-5:30 p.m.</p>\n\n<p>4th Tuesday: 3:00 p.m.-5:30 p.m.</p>\n\n<p>Clients can receive services twice per month.</p>",
       "phone": "325-248-3225",
@@ -7337,11 +8453,17 @@
       "geo_type": "Point",
       "lat": "31.686876",
       "lon": "-96.495437",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st Tuesday 1:00 - 4:00 p.m.<br />\n3rd Monday 1:00 - 4:00 p.m.<br />\n2nd &amp; 4th Monday 1:00 - 3:00 p.m. for additional fresh food distribution. <br />\nAppointment for emergency.</p>\n",
       "phone": "254-562-6894",
@@ -7367,11 +8489,17 @@
       "geo_type": "Point",
       "lat": "31.524159",
       "lon": "-96.534826",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st Wednesdays, 9:30 a.m.-12:00 p.m.</p>\n\n<p>3rd Wednesdays, 9:30 a.m.-12:00 p.m.</p>",
       "phone": "254-729-5200",
@@ -7397,11 +8525,17 @@
       "geo_type": "Point",
       "lat": "31.680422",
       "lon": "-96.481649",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -7434,11 +8568,17 @@
       "geo_type": "Point",
       "lat": "30.182708",
       "lon": "-96.932087",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours_text": "<p>2nd Thursday: 3:30 pm- 5:30 pm</p>\n\n<p>2nd Friday: 7:30 am- 9:30 am</p>\n\n<p>2nd Saturday: 7:30 am- 9:30 am</p>\n\n<p>4th Friday: 9:30 am- 11:30 am (HOPE &amp; FFFF ONLY)</p>\n",
       "phone": "512-826-0248",
@@ -7464,11 +8604,17 @@
       "geo_type": "Point",
       "lat": "31.072661",
       "lon": "-98.185589",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd Tuesday: 5:00 pm-7:00 pm</p>\n\n<p>4th Thursday: 5:00 pm-7:00 pm</p>",
       "phone": "512-556-5544",
@@ -7494,11 +8640,17 @@
       "geo_type": "Point",
       "lat": "31.065776",
       "lon": "-98.172593",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -7536,11 +8688,17 @@
       "geo_type": "Point",
       "lat": "31.065776",
       "lon": "-98.172593",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -7578,11 +8736,17 @@
       "geo_type": "Point",
       "lat": "30.263448",
       "lon": "-98.869439",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -7625,11 +8789,17 @@
       "geo_type": "Point",
       "lat": "30.263448",
       "lon": "-98.869439",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -7672,11 +8842,17 @@
       "geo_type": "Point",
       "lat": "30.263448",
       "lon": "-98.869439",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -7719,11 +8895,17 @@
       "geo_type": "Point",
       "lat": "30.1888",
       "lon": "-97.7812",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -7761,11 +8943,17 @@
       "geo_type": "Point",
       "lat": "30.1888",
       "lon": "-97.7812",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -7803,11 +8991,17 @@
       "geo_type": "Point",
       "lat": "31.627258",
       "lon": "-96.285068",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>Every other Tuesday, 8:30 a.m. - 12:00 p.m.<br />\n1st Wednesday 8:30 a.m. - 12:00 p.m.</p>\n",
       "phone": "254-739-5058",
@@ -7833,11 +9027,17 @@
       "geo_type": "Point",
       "lat": "29.684108",
       "lon": "-96.898773",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -7870,11 +9070,17 @@
       "geo_type": "Point",
       "lat": "29.6875",
       "lon": "-97.1065",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st Thursday: 5:30 pm - 6:00 pm</p>\n",
       "phone": "361-217-0342",
@@ -7900,11 +9106,17 @@
       "geo_type": "Point",
       "lat": "29.907146",
       "lon": "-96.858784",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -7937,11 +9149,17 @@
       "geo_type": "Point",
       "lat": "31.2815",
       "lon": "-97.0614",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>3rd Saturday 9:00 a.m. - 11:00 a.m.<br />\n </p>\n",
       "phone": "254-247-4179",
@@ -7967,11 +9185,17 @@
       "geo_type": "Point",
       "lat": "31.306063",
       "lon": "-96.896828",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8019,11 +9243,17 @@
       "geo_type": "Point",
       "lat": "31.306063",
       "lon": "-96.896828",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8071,11 +9301,17 @@
       "geo_type": "Point",
       "lat": "31.306063",
       "lon": "-96.896828",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8123,11 +9359,17 @@
       "geo_type": "Point",
       "lat": "31.306063",
       "lon": "-96.896828",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8175,11 +9417,17 @@
       "geo_type": "Point",
       "lat": "31.115968440862",
       "lon": "-97.906326825109",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8227,11 +9475,17 @@
       "geo_type": "Point",
       "lat": "31.115968440862",
       "lon": "-97.906326825109",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8279,11 +9533,17 @@
       "geo_type": "Point",
       "lat": "31.115968440862",
       "lon": "-97.906326825109",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8331,11 +9591,17 @@
       "geo_type": "Point",
       "lat": "31.115968440862",
       "lon": "-97.906326825109",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8383,11 +9649,17 @@
       "geo_type": "Point",
       "lat": "31.435095",
       "lon": "-97.74963",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8430,11 +9702,17 @@
       "geo_type": "Point",
       "lat": "31.435095",
       "lon": "-97.74963",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8477,11 +9755,17 @@
       "geo_type": "Point",
       "lat": "31.435095",
       "lon": "-97.74963",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8524,11 +9808,17 @@
       "geo_type": "Point",
       "lat": "31.127583",
       "lon": "-97.904629",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8581,11 +9871,17 @@
       "geo_type": "Point",
       "lat": "31.127583",
       "lon": "-97.904629",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8638,11 +9934,17 @@
       "geo_type": "Point",
       "lat": "31.127583",
       "lon": "-97.904629",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8695,11 +9997,17 @@
       "geo_type": "Point",
       "lat": "31.127583",
       "lon": "-97.904629",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8752,11 +10060,17 @@
       "geo_type": "Point",
       "lat": "31.127583",
       "lon": "-97.904629",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -8809,11 +10123,17 @@
       "geo_type": "Point",
       "lat": "29.677456",
       "lon": "-97.657819",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "3, 2"
+      ],
+      "services": [
+        "Unknown Service (3, 2)"
       ],
       "hours_text": "<p>2nd Tuesday 10:00 a.m. - 2:00 p.m.</p>\n\n<p>Home deliveries on Monday before the 2nd Tuesday, 8:00 a.m. - 12:00 p.m.</p>\n",
       "phone": "830-875-2863",
@@ -8839,11 +10159,17 @@
       "geo_type": "Point",
       "lat": "29.885713",
       "lon": "-97.684784",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -8891,11 +10217,17 @@
       "geo_type": "Point",
       "lat": "29.885713",
       "lon": "-97.684784",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -8943,11 +10275,17 @@
       "geo_type": "Point",
       "lat": "29.885713",
       "lon": "-97.684784",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -8995,11 +10333,17 @@
       "geo_type": "Point",
       "lat": "29.885713",
       "lon": "-97.684784",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -9047,11 +10391,17 @@
       "geo_type": "Point",
       "lat": "29.667028",
       "lon": "-97.651298",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1445"
+      ],
+      "services": [
+        "Mobile"
       ],
       "hours_text": "<p><strong>1st Wednesday:</strong> 9:00 am-10:00 am <span><span><span><span><span><span><span><span>(Mobile Food Pantry distribution.)</span></span></span></span></span></span></span></span></p>",
       "phone": "830-875-9429",
@@ -9077,11 +10427,17 @@
       "geo_type": "Point",
       "lat": "30.419296",
       "lon": "-98.047435",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9114,11 +10470,17 @@
       "geo_type": "Point",
       "lat": "30.757394",
       "lon": "-98.233772",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -9161,11 +10523,17 @@
       "geo_type": "Point",
       "lat": "30.757394",
       "lon": "-98.233772",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -9208,11 +10576,17 @@
       "geo_type": "Point",
       "lat": "30.757394",
       "lon": "-98.233772",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -9255,11 +10629,17 @@
       "geo_type": "Point",
       "lat": "30.578818498211",
       "lon": "-98.286851744178",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9302,11 +10682,17 @@
       "geo_type": "Point",
       "lat": "30.578818498211",
       "lon": "-98.286851744178",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9349,11 +10735,17 @@
       "geo_type": "Point",
       "lat": "30.578818498211",
       "lon": "-98.286851744178",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9396,11 +10788,17 @@
       "geo_type": "Point",
       "lat": "30.5761",
       "lon": "-98.2713",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9438,11 +10836,17 @@
       "geo_type": "Point",
       "lat": "30.5761",
       "lon": "-98.2713",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9480,11 +10884,17 @@
       "geo_type": "Point",
       "lat": "29.878375403165",
       "lon": "-97.944569874645",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9517,11 +10927,17 @@
       "geo_type": "Point",
       "lat": "30.091368421617",
       "lon": "-98.416447200003",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9574,11 +10990,17 @@
       "geo_type": "Point",
       "lat": "30.091368421617",
       "lon": "-98.416447200003",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9631,11 +11053,17 @@
       "geo_type": "Point",
       "lat": "30.091368421617",
       "lon": "-98.416447200003",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9688,11 +11116,17 @@
       "geo_type": "Point",
       "lat": "30.091368421617",
       "lon": "-98.416447200003",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9745,11 +11179,17 @@
       "geo_type": "Point",
       "lat": "30.091368421617",
       "lon": "-98.416447200003",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9802,11 +11242,17 @@
       "geo_type": "Point",
       "lat": "31.030429",
       "lon": "-97.337121",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd &amp; 4th Wednesday 9:00 a.m. - 11:30 a.m.</p>\n",
       "phone": "254-939-0503",
@@ -9832,11 +11278,17 @@
       "geo_type": "Point",
       "lat": "31.102391",
       "lon": "-97.730213",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9874,11 +11326,17 @@
       "geo_type": "Point",
       "lat": "31.102391",
       "lon": "-97.730213",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9916,11 +11374,17 @@
       "geo_type": "Point",
       "lat": "30.140527018241",
       "lon": "-97.833041917046",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -9953,11 +11417,17 @@
       "geo_type": "Point",
       "lat": "31.104018",
       "lon": "-97.361405",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -9995,11 +11465,17 @@
       "geo_type": "Point",
       "lat": "31.104018",
       "lon": "-97.361405",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -10037,11 +11513,17 @@
       "geo_type": "Point",
       "lat": "31.116473718387",
       "lon": "-97.676949247352",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd Thursday: from 4:00 p.m.- 6:00 p.m. </p>\n\n<p>4th Thursday: from 4:00 p.m.- 6:00 p.m. </p>\n",
       "phone": "254-289-9614",
@@ -10067,11 +11549,17 @@
       "geo_type": "Point",
       "lat": "31.10103",
       "lon": "-97.705234",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -10114,11 +11602,17 @@
       "geo_type": "Point",
       "lat": "31.10103",
       "lon": "-97.705234",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -10161,11 +11655,17 @@
       "geo_type": "Point",
       "lat": "31.10103",
       "lon": "-97.705234",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -10208,11 +11708,17 @@
       "geo_type": "Point",
       "lat": "31.115416",
       "lon": "-97.729287",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -10245,11 +11751,17 @@
       "geo_type": "Point",
       "lat": "30.95606960776",
       "lon": "-97.532043084657",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd &amp; 4th Saturday, 9:00 a.m. - 11:00 a.m.</p>\n",
       "phone": "254307-1361",
@@ -10275,11 +11787,17 @@
       "geo_type": "Point",
       "lat": "31.0797",
       "lon": "-97.6079",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd  &amp; 4th  Thursday, 2:00 p.m. - 6:00 p.m.</p>\n",
       "phone": "254-698-6820",
@@ -10305,11 +11823,17 @@
       "geo_type": "Point",
       "lat": "31.0919",
       "lon": "-97.3508",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -10347,11 +11871,17 @@
       "geo_type": "Point",
       "lat": "31.0919",
       "lon": "-97.3508",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -10389,11 +11919,17 @@
       "geo_type": "Point",
       "lat": "31.0789",
       "lon": "-97.4566",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st Wednesday: 3:00 pm-5:00 pm</p>\n\n<p>Last Saturday: 9:00 am-11:00 am</p>",
       "phone": "254-939-0806",
@@ -10419,11 +11955,17 @@
       "geo_type": "Point",
       "lat": "31.1065",
       "lon": "-97.7361",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd &amp; 4th Tuesday 9:00 a.m. - 12:00 p.m.</p>\n",
       "phone": "254-526-4598",
@@ -10449,11 +11991,17 @@
       "geo_type": "Point",
       "lat": "30.003404",
       "lon": "-97.162967",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -10486,11 +12034,17 @@
       "geo_type": "Point",
       "lat": "30.351673",
       "lon": "-97.38024",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>Call for appointment.</p>\n",
       "phone": "512-285-3882",
@@ -10516,11 +12070,17 @@
       "geo_type": "Point",
       "lat": "29.930756",
       "lon": "-97.302958",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd &amp; 4th Saturday, 9:00 a.m. - 11:00 a.m.</p>\n",
       "phone": "512-360-3968",
@@ -10546,11 +12106,17 @@
       "geo_type": "Point",
       "lat": "29.9593",
       "lon": "-97.4476",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours_text": "<p>Friday 8:00 am - 10:00 am</p>\n<p>CSFP ONLY- 3rd Friday 8:00 am - 9:30 am</p>",
       "phone": "512-321-2222",
@@ -10576,11 +12142,17 @@
       "geo_type": "Point",
       "lat": "30.086459",
       "lon": "-97.500045",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -10623,11 +12195,17 @@
       "geo_type": "Point",
       "lat": "30.086459",
       "lon": "-97.500045",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -10670,11 +12248,17 @@
       "geo_type": "Point",
       "lat": "30.086459",
       "lon": "-97.500045",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -10717,11 +12301,17 @@
       "geo_type": "Point",
       "lat": "30.3529",
       "lon": "-97.371",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>3rd Saturday: 1:00 pm-5:00 pm</p>\n",
       "phone": "512-285-2505",
@@ -10747,11 +12337,17 @@
       "geo_type": "Point",
       "lat": "30.3505",
       "lon": "-97.3725",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -10784,11 +12380,17 @@
       "geo_type": "Point",
       "lat": "30.104555",
       "lon": "-97.317408",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st and 3rd Saturday 7:00 - 10:00 a.m.</p>\n",
       "phone": "512-303-2082",
@@ -10814,11 +12416,17 @@
       "geo_type": "Point",
       "lat": "30.108924",
       "lon": "-97.313144",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -10876,11 +12484,17 @@
       "geo_type": "Point",
       "lat": "30.108924",
       "lon": "-97.313144",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -10938,11 +12552,17 @@
       "geo_type": "Point",
       "lat": "30.108924",
       "lon": "-97.313144",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -11000,11 +12620,17 @@
       "geo_type": "Point",
       "lat": "30.108924",
       "lon": "-97.313144",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -11062,11 +12688,17 @@
       "geo_type": "Point",
       "lat": "30.108924",
       "lon": "-97.313144",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -11124,11 +12756,17 @@
       "geo_type": "Point",
       "lat": "30.108924",
       "lon": "-97.313144",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -11186,11 +12824,17 @@
       "geo_type": "Point",
       "lat": "29.995155",
       "lon": "-97.876107",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11223,11 +12867,17 @@
       "geo_type": "Point",
       "lat": "30.166996",
       "lon": "-98.07233",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11265,11 +12915,17 @@
       "geo_type": "Point",
       "lat": "30.166996",
       "lon": "-98.07233",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11307,11 +12963,17 @@
       "geo_type": "Point",
       "lat": "30.2042",
       "lon": "-98.0876",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11349,11 +13011,17 @@
       "geo_type": "Point",
       "lat": "30.2042",
       "lon": "-98.0876",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11391,11 +13059,17 @@
       "geo_type": "Point",
       "lat": "30.0845",
       "lon": "-97.8442",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11428,11 +13102,17 @@
       "geo_type": "Point",
       "lat": "30.088138",
       "lon": "-97.831638",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>Every other Saturday, 8:00 a.m. - 9:00 a.m.</p>\n",
       "phone": "512-415-4012",
@@ -11458,11 +13138,17 @@
       "geo_type": "Point",
       "lat": "30.635",
       "lon": "-97.8662",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11505,11 +13191,17 @@
       "geo_type": "Point",
       "lat": "30.635",
       "lon": "-97.8662",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11552,11 +13244,17 @@
       "geo_type": "Point",
       "lat": "30.635",
       "lon": "-97.8662",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11599,11 +13297,17 @@
       "geo_type": "Point",
       "lat": "30.8423",
       "lon": "-97.7925",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st &amp; 3rd Monday 3:30 p.m. - 5:30 p.m.</p>\n",
       "phone": "254-987-0055",
@@ -11629,11 +13333,17 @@
       "geo_type": "Point",
       "lat": "30.51063",
       "lon": "-97.658468",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11671,11 +13381,17 @@
       "geo_type": "Point",
       "lat": "30.51063",
       "lon": "-97.658468",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -11713,11 +13429,17 @@
       "geo_type": "Point",
       "lat": "30.510763",
       "lon": "-97.66786",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -11760,11 +13482,17 @@
       "geo_type": "Point",
       "lat": "30.510763",
       "lon": "-97.66786",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -11807,11 +13535,17 @@
       "geo_type": "Point",
       "lat": "30.510763",
       "lon": "-97.66786",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -11854,11 +13588,17 @@
       "geo_type": "Point",
       "lat": "30.54718",
       "lon": "-97.673992",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd &amp; 4th Thursday from 4:00 p.m. - 6:00 p.m.</p>\n",
       "phone": "512-388-7870",
@@ -11884,11 +13624,17 @@
       "geo_type": "Point",
       "lat": "30.5466",
       "lon": "-97.5437",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st, 3rd, and 5th Saturday 9:00 a.m. - 12:00 p.m.</p>\n",
       "phone": "512-688-0162",
@@ -11914,11 +13660,17 @@
       "geo_type": "Point",
       "lat": "30.557414",
       "lon": "-97.845516",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -11951,11 +13703,17 @@
       "geo_type": "Point",
       "lat": "30.497154",
       "lon": "-97.812407",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -11993,11 +13751,17 @@
       "geo_type": "Point",
       "lat": "30.497154",
       "lon": "-97.812407",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -12035,11 +13799,17 @@
       "geo_type": "Point",
       "lat": "30.56565",
       "lon": "-97.849332",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -12117,11 +13887,17 @@
       "geo_type": "Point",
       "lat": "30.56565",
       "lon": "-97.849332",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -12199,11 +13975,17 @@
       "geo_type": "Point",
       "lat": "30.56565",
       "lon": "-97.849332",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -12281,11 +14063,17 @@
       "geo_type": "Point",
       "lat": "30.56565",
       "lon": "-97.849332",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -12363,11 +14151,17 @@
       "geo_type": "Point",
       "lat": "30.56565",
       "lon": "-97.849332",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -12445,11 +14239,17 @@
       "geo_type": "Point",
       "lat": "30.56565",
       "lon": "-97.849332",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -12527,11 +14327,17 @@
       "geo_type": "Point",
       "lat": "30.56565",
       "lon": "-97.849332",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -12609,11 +14415,17 @@
       "geo_type": "Point",
       "lat": "30.56565",
       "lon": "-97.849332",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -12691,11 +14503,17 @@
       "geo_type": "Point",
       "lat": "30.56565",
       "lon": "-97.849332",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -12773,11 +14591,17 @@
       "geo_type": "Point",
       "lat": "30.56565",
       "lon": "-97.849332",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -12855,11 +14679,17 @@
       "geo_type": "Point",
       "lat": "30.6264",
       "lon": "-97.6853",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -12907,11 +14737,17 @@
       "geo_type": "Point",
       "lat": "30.6264",
       "lon": "-97.6853",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -12959,11 +14795,17 @@
       "geo_type": "Point",
       "lat": "30.6264",
       "lon": "-97.6853",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -13011,11 +14853,17 @@
       "geo_type": "Point",
       "lat": "30.6264",
       "lon": "-97.6853",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -13063,11 +14911,17 @@
       "geo_type": "Point",
       "lat": "30.5691",
       "lon": "-97.4086",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -13110,11 +14964,17 @@
       "geo_type": "Point",
       "lat": "30.5691",
       "lon": "-97.4086",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -13157,11 +15017,17 @@
       "geo_type": "Point",
       "lat": "30.5691",
       "lon": "-97.4086",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -13204,11 +15070,17 @@
       "geo_type": "Point",
       "lat": "30.5829",
       "lon": "-97.4092",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>Pantry open 3rd Friday 5:30 p.m. – 6:30 p.m.</p>\n\n<p>Meals for kids served Wednesday 7:30 p.m. - 8:30 p.m.</p>\n",
       "phone": "512-709-5690",
@@ -13234,11 +15106,17 @@
       "geo_type": "Point",
       "lat": "30.781",
       "lon": "-97.8536",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours_text": "<p>1st Wednesday: 8:00 am–11:00 am</p>\n\n<p>3rd Monday: 4:00 pm-7:00 pm</p>\n\n<p>2nd Tuesday: 9:00 am-11:00 am (HOPE ONLY)</p>\n",
       "phone": "254-317-2891",
@@ -13264,11 +15142,17 @@
       "geo_type": "Point",
       "lat": "30.375937",
       "lon": "-97.7553",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13301,11 +15185,17 @@
       "geo_type": "Point",
       "lat": "30.362042",
       "lon": "-97.708364",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13338,11 +15228,17 @@
       "geo_type": "Point",
       "lat": "30.352319",
       "lon": "-97.730879",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13375,11 +15271,17 @@
       "geo_type": "Point",
       "lat": "30.3617",
       "lon": "-97.6934",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13412,11 +15314,17 @@
       "geo_type": "Point",
       "lat": "30.34567",
       "lon": "-97.70531",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13449,11 +15357,17 @@
       "geo_type": "Point",
       "lat": "30.308813",
       "lon": "-97.712655",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13506,11 +15420,17 @@
       "geo_type": "Point",
       "lat": "30.308813",
       "lon": "-97.712655",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13563,11 +15483,17 @@
       "geo_type": "Point",
       "lat": "30.308813",
       "lon": "-97.712655",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13620,11 +15546,17 @@
       "geo_type": "Point",
       "lat": "30.308813",
       "lon": "-97.712655",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13677,11 +15609,17 @@
       "geo_type": "Point",
       "lat": "30.308813",
       "lon": "-97.712655",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13734,11 +15672,17 @@
       "geo_type": "Point",
       "lat": "30.303221",
       "lon": "-97.731315",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13776,11 +15720,17 @@
       "geo_type": "Point",
       "lat": "30.303221",
       "lon": "-97.731315",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13818,11 +15768,17 @@
       "geo_type": "Point",
       "lat": "30.2286",
       "lon": "-97.8778",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13855,11 +15811,17 @@
       "geo_type": "Point",
       "lat": "30.217762",
       "lon": "-97.845805",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -13892,11 +15854,17 @@
       "geo_type": "Point",
       "lat": "30.2048",
       "lon": "-97.8059",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13929,11 +15897,17 @@
       "geo_type": "Point",
       "lat": "30.229017",
       "lon": "-97.801845",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -13966,11 +15940,17 @@
       "geo_type": "Point",
       "lat": "30.199079",
       "lon": "-97.801632",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14008,11 +15988,17 @@
       "geo_type": "Point",
       "lat": "30.199079",
       "lon": "-97.801632",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14050,11 +16036,17 @@
       "geo_type": "Point",
       "lat": "30.212301",
       "lon": "-97.832239",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14087,11 +16079,17 @@
       "geo_type": "Point",
       "lat": "30.23487",
       "lon": "-97.74264",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14124,11 +16122,17 @@
       "geo_type": "Point",
       "lat": "30.234816498204",
       "lon": "-97.854503430468",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st Friday: 10:00 am-12:00 pm</p>\n\n<p>3rd Friday: 10:00 am-12:00 pm</p>\n",
       "phone": "512-698-5935",
@@ -14154,11 +16158,17 @@
       "geo_type": "Point",
       "lat": "30.3655",
       "lon": "-97.9506",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14196,11 +16206,17 @@
       "geo_type": "Point",
       "lat": "30.3655",
       "lon": "-97.9506",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14238,11 +16254,17 @@
       "geo_type": "Point",
       "lat": "30.3606",
       "lon": "-97.736",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>4th Saturday: 9:30 a.m.-2:30 p.m.</p>\n",
       "phone": "512-331-5200",
@@ -14268,11 +16290,17 @@
       "geo_type": "Point",
       "lat": "30.437",
       "lon": "-97.6748",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd and 4th Saturday 9:00 a.m. – 12:00 p.m.</p>\n",
       "phone": "512-251-0698",
@@ -14298,11 +16326,17 @@
       "geo_type": "Point",
       "lat": "30.4138",
       "lon": "-97.7322",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14335,11 +16369,17 @@
       "geo_type": "Point",
       "lat": "30.296917",
       "lon": "-97.682308",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd &amp; 4th Sunday, 10:00 a.m. - 12:00 p.m.</p>\n",
       "phone": "512-662-6321",
@@ -14365,11 +16405,17 @@
       "geo_type": "Point",
       "lat": "30.2836",
       "lon": "-97.6719",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st &amp; 3rd Tuesday 3:30 p.m. - 7:00 p.m.</p>\n",
       "phone": "512-926-6339",
@@ -14395,11 +16441,17 @@
       "geo_type": "Point",
       "lat": "30.277",
       "lon": "-97.6951",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd Wednesday 10:00 a.m.-12:00 p.m.<br />\n4th Tuesday 6:00 p.m. - 8:00 p.m.</p>\n",
       "phone": "512-926-4146",
@@ -14425,11 +16477,17 @@
       "geo_type": "Point",
       "lat": "30.2855",
       "lon": "-97.7426",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 4"
+      ],
+      "services": [
+        "Unknown Service (2, 4)"
       ],
       "hours": [
         {
@@ -14467,11 +16525,17 @@
       "geo_type": "Point",
       "lat": "30.2855",
       "lon": "-97.7426",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 4"
+      ],
+      "services": [
+        "Unknown Service (2, 4)"
       ],
       "hours": [
         {
@@ -14509,11 +16573,17 @@
       "geo_type": "Point",
       "lat": "30.24098",
       "lon": "-97.7546",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14561,11 +16631,17 @@
       "geo_type": "Point",
       "lat": "30.24098",
       "lon": "-97.7546",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14613,11 +16689,17 @@
       "geo_type": "Point",
       "lat": "30.24098",
       "lon": "-97.7546",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14665,11 +16747,17 @@
       "geo_type": "Point",
       "lat": "30.24098",
       "lon": "-97.7546",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -14717,11 +16805,17 @@
       "geo_type": "Point",
       "lat": "30.273",
       "lon": "-97.72",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "3"
+      ],
+      "services": [
+        "Delivered Grocery"
       ],
       "hours_text": "<p>Monthly Food Delivery Available for 78702 resident 1st and 3rd Monday 7:00 p.m. - 8:00 p.m. The interest <a href=\"https://mpaustin.org/programs/community/bags/#:~:text=Apply%20below%20to%20receive%20food\"><strong>form</strong></a> is on their website. </p>\n",
       "phone": "512-494-0953",
@@ -14747,11 +16841,17 @@
       "geo_type": "Point",
       "lat": "30.2696",
       "lon": "-97.7254",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>2nd and 4th Saturday of the month, 7:30 - 10:00 a.m.</p>\n",
       "phone": "512-472-2298",
@@ -14777,11 +16877,17 @@
       "geo_type": "Point",
       "lat": "30.2806",
       "lon": "-97.6718",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 1445"
+      ],
+      "services": [
+        "Unknown Service (2, 1445)"
       ],
       "hours_text": "<p>1st Saturday: 9:30 am-12:00 pm</p>\n\n<p>2<span style=\"font-size: 12.5px;\">nd </span>Saturday: 9:30 am-12:00 pm</p>\n\n<p>3rd Saturday: 9:30 am-12:00 pm</p>\n\n<p>2nd Tuesday: 10:00am-11:00am (Produce Only)</p>\n",
       "phone": "512-469-9020",
@@ -14807,11 +16913,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -14909,11 +17021,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -15011,11 +17129,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -15113,11 +17237,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -15215,11 +17345,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -15317,11 +17453,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -15419,11 +17561,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -15521,11 +17669,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -15623,11 +17777,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -15725,11 +17885,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -15827,11 +17993,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -15929,11 +18101,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -16031,11 +18209,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -16133,11 +18317,17 @@
       "geo_type": "Point",
       "lat": "30.255896",
       "lon": "-97.731707",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -16235,11 +18425,17 @@
       "geo_type": "Point",
       "lat": "30.2671",
       "lon": "-97.7276",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -16272,11 +18468,17 @@
       "geo_type": "Point",
       "lat": "30.256643",
       "lon": "-97.71944",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -16309,11 +18511,17 @@
       "geo_type": "Point",
       "lat": "30.268497",
       "lon": "-97.739476",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>Serving boxed breakfasts curbside Monday - Friday starting at 9 a.m. for first 80 people. <br />\nSunday meal at 3 p.m. for first 65 people.</p>\n",
       "phone": "512-610-3500",
@@ -16339,11 +18547,17 @@
       "geo_type": "Point",
       "lat": "30.26749",
       "lon": "-97.73772",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -16406,11 +18620,17 @@
       "geo_type": "Point",
       "lat": "30.26749",
       "lon": "-97.73772",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -16473,11 +18693,17 @@
       "geo_type": "Point",
       "lat": "30.26749",
       "lon": "-97.73772",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -16540,11 +18766,17 @@
       "geo_type": "Point",
       "lat": "30.26749",
       "lon": "-97.73772",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -16607,11 +18839,17 @@
       "geo_type": "Point",
       "lat": "30.26749",
       "lon": "-97.73772",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -16674,11 +18912,17 @@
       "geo_type": "Point",
       "lat": "30.26749",
       "lon": "-97.73772",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -16741,11 +18985,17 @@
       "geo_type": "Point",
       "lat": "30.26749",
       "lon": "-97.73772",
-      "amenities": [
+      "amenity_ids": [
         "1703"
       ],
-      "services": [
+      "amenities": [
+        "Hot Meal"
+      ],
+      "service_ids": [
         ""
+      ],
+      "services": [
+        "Unknown Service ()"
       ],
       "hours": [
         {
@@ -16808,11 +19058,17 @@
       "geo_type": "Point",
       "lat": "30.458922",
       "lon": "-97.617768",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours_text": "<p>1st Monday: 6:00 pm-7:00 pm</p>\n\n<p>1st Thursday: 7:00 am-10:00 am</p>\n\n<p>3rd Monday: 6:00 pm-7:00 pm</p>\n\n<p>3rd Thursday: 7:00 am-10:00 am</p>\n",
       "phone": "512-251-9838",
@@ -16838,11 +19094,17 @@
       "geo_type": "Point",
       "lat": "30.438468",
       "lon": "-97.617056",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -16875,11 +19137,17 @@
       "geo_type": "Point",
       "lat": "30.1893",
       "lon": "-97.5601",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -16912,11 +19180,17 @@
       "geo_type": "Point",
       "lat": "30.44895",
       "lon": "-97.651886",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -16969,11 +19243,17 @@
       "geo_type": "Point",
       "lat": "30.44895",
       "lon": "-97.651886",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17026,11 +19306,17 @@
       "geo_type": "Point",
       "lat": "30.44895",
       "lon": "-97.651886",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17083,11 +19369,17 @@
       "geo_type": "Point",
       "lat": "30.44895",
       "lon": "-97.651886",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17140,11 +19432,17 @@
       "geo_type": "Point",
       "lat": "30.44895",
       "lon": "-97.651886",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17197,11 +19495,17 @@
       "geo_type": "Point",
       "lat": "30.340134",
       "lon": "-97.563764",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 1445"
+      ],
+      "services": [
+        "Unknown Service (2, 1445)"
       ],
       "hours": [
         {
@@ -17254,11 +19558,17 @@
       "geo_type": "Point",
       "lat": "30.340134",
       "lon": "-97.563764",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 1445"
+      ],
+      "services": [
+        "Unknown Service (2, 1445)"
       ],
       "hours": [
         {
@@ -17311,11 +19621,17 @@
       "geo_type": "Point",
       "lat": "30.340134",
       "lon": "-97.563764",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 1445"
+      ],
+      "services": [
+        "Unknown Service (2, 1445)"
       ],
       "hours": [
         {
@@ -17368,11 +19684,17 @@
       "geo_type": "Point",
       "lat": "30.340134",
       "lon": "-97.563764",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 1445"
+      ],
+      "services": [
+        "Unknown Service (2, 1445)"
       ],
       "hours": [
         {
@@ -17425,11 +19747,17 @@
       "geo_type": "Point",
       "lat": "30.340134",
       "lon": "-97.563764",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2, 1445"
+      ],
+      "services": [
+        "Unknown Service (2, 1445)"
       ],
       "hours": [
         {
@@ -17482,11 +19810,17 @@
       "geo_type": "Point",
       "lat": "30.25154",
       "lon": "-97.893521",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17539,11 +19873,17 @@
       "geo_type": "Point",
       "lat": "30.25154",
       "lon": "-97.893521",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17596,11 +19936,17 @@
       "geo_type": "Point",
       "lat": "30.25154",
       "lon": "-97.893521",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17653,11 +19999,17 @@
       "geo_type": "Point",
       "lat": "30.25154",
       "lon": "-97.893521",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17710,11 +20062,17 @@
       "geo_type": "Point",
       "lat": "30.25154",
       "lon": "-97.893521",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17767,11 +20125,17 @@
       "geo_type": "Point",
       "lat": "30.198798",
       "lon": "-97.642202",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17824,11 +20188,17 @@
       "geo_type": "Point",
       "lat": "30.198798",
       "lon": "-97.642202",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17881,11 +20251,17 @@
       "geo_type": "Point",
       "lat": "30.198798",
       "lon": "-97.642202",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17938,11 +20314,17 @@
       "geo_type": "Point",
       "lat": "30.198798",
       "lon": "-97.642202",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -17995,11 +20377,17 @@
       "geo_type": "Point",
       "lat": "30.198798",
       "lon": "-97.642202",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -18052,11 +20440,17 @@
       "geo_type": "Point",
       "lat": "30.280938",
       "lon": "-97.722215",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -18109,11 +20503,17 @@
       "geo_type": "Point",
       "lat": "30.49291",
       "lon": "-97.923325",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -18166,11 +20566,17 @@
       "geo_type": "Point",
       "lat": "30.259569",
       "lon": "-97.727465",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -18223,11 +20629,17 @@
       "geo_type": "Point",
       "lat": "30.265696",
       "lon": "-97.710023",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -18280,11 +20692,17 @@
       "geo_type": "Point",
       "lat": "30.280938",
       "lon": "-97.722215",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -18337,11 +20755,17 @@
       "geo_type": "Point",
       "lat": "30.49291",
       "lon": "-97.923325",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -18394,11 +20818,17 @@
       "geo_type": "Point",
       "lat": "30.259569",
       "lon": "-97.727465",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -18451,11 +20881,17 @@
       "geo_type": "Point",
       "lat": "30.265696",
       "lon": "-97.710023",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -18508,11 +20944,17 @@
       "geo_type": "Point",
       "lat": "30.280938",
       "lon": "-97.722215",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -18565,11 +21007,17 @@
       "geo_type": "Point",
       "lat": "30.2396",
       "lon": "-97.7603",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -18602,11 +21050,17 @@
       "geo_type": "Point",
       "lat": "30.259569",
       "lon": "-97.727465",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -18659,11 +21113,17 @@
       "geo_type": "Point",
       "lat": "30.49291",
       "lon": "-97.923325",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -18716,11 +21176,17 @@
       "geo_type": "Point",
       "lat": "30.265696",
       "lon": "-97.710023",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -18773,11 +21239,17 @@
       "geo_type": "Point",
       "lat": "30.229145",
       "lon": "-97.701305",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779"
+      ],
+      "services": [
+        "Senior Program"
       ],
       "hours_text": "<p><strong>This Location is 'by appointment only'. Please call ahead to schedule appointments during business hours.</strong></p>\n\n<p>Monday - Thursday: 7:30 am-5:00 pm</p>\n\n<p>Friday: 8:00 am-12:00 pm</p>\n\n<p>2nd Friday: 8:30 am-12:00 pm (HOPE ONLY - <em>HOPE ONLY late pickups of leftovers while supplies last - call ahead</em>)</p>\n\n<p>3rd Wednesday: 9:00 am-11:00 am (Produce Only)</p>",
       "phone": "512-972-6705",
@@ -18803,11 +21275,17 @@
       "geo_type": "Point",
       "lat": "30.301315",
       "lon": "-97.733374",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -18840,11 +21318,17 @@
       "geo_type": "Point",
       "lat": "30.280938",
       "lon": "-97.722215",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -18897,11 +21381,17 @@
       "geo_type": "Point",
       "lat": "30.49291",
       "lon": "-97.923325",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -18954,11 +21444,17 @@
       "geo_type": "Point",
       "lat": "30.259569",
       "lon": "-97.727465",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -19011,11 +21507,17 @@
       "geo_type": "Point",
       "lat": "30.265696",
       "lon": "-97.710023",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -19068,11 +21570,17 @@
       "geo_type": "Point",
       "lat": "30.280938",
       "lon": "-97.722215",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -19125,11 +21633,17 @@
       "geo_type": "Point",
       "lat": "30.49291",
       "lon": "-97.923325",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "2"
+      ],
+      "services": [
+        "Food Pantry"
       ],
       "hours": [
         {
@@ -19182,11 +21696,17 @@
       "geo_type": "Point",
       "lat": "30.259569",
       "lon": "-97.727465",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
@@ -19239,11 +21759,17 @@
       "geo_type": "Point",
       "lat": "30.265696",
       "lon": "-97.710023",
-      "amenities": [
+      "amenity_ids": [
         "1702"
       ],
-      "services": [
+      "amenities": [
+        "Groceries"
+      ],
+      "service_ids": [
         "1779, 2"
+      ],
+      "services": [
+        "Unknown Service (1779, 2)"
       ],
       "hours": [
         {
