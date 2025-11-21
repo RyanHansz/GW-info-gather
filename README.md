@@ -10,7 +10,9 @@ A collection of Python scrapers and reference data for workforce development in 
   - [Goodwill Jobs](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/README.md)
   - [CAT Classes](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/cat/README.md)
 - **File Guide**: [docs/FILE_GUIDE.md](https://github.com/RyanHansz/GW-info-gather/blob/main/docs/FILE_GUIDE.md)
-- **Jira Ticket (Replication)**: [JIRA_TICKET_WORKFORCE_NOW_SCRAPER.md](https://github.com/RyanHansz/GW-info-gather/blob/main/JIRA_TICKET_WORKFORCE_NOW_SCRAPER.md)
+- **Jira Tickets (Replication)**:
+  - [Goodwill Job Scraper](https://github.com/RyanHansz/GW-info-gather/blob/main/JIRA_TICKET_WORKFORCE_NOW_SCRAPER.md)
+  - [CAT Class Scraper](https://github.com/RyanHansz/GW-info-gather/blob/main/JIRA_TICKET_CAT_SCRAPER.md)
 
 ## Current Status
 
