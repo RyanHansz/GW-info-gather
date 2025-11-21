@@ -1,15 +1,15 @@
-# Jira Ticket: Replicate ADP Workforce Now Job Scraper
+# Jira Ticket: Replicate Goodwill Central Texas Job Scraper
 
 ## Summary
-Create a reusable job scraper for organizations using ADP Workforce Now career centers (similar to the Goodwill Central Texas implementation)
+Replicate the Goodwill Central Texas job scraper using the existing ADP Workforce Now API implementation
 
 ## Description
 
-This ticket covers creating a new job scraper based on the successful Goodwill Central Texas scraper that uses the ADP Workforce Now platform. The scraper has been tested and confirmed working as of 2025-11-21, successfully fetching 107 jobs.
+This ticket covers replicating the Goodwill Central Texas job scraper in a new environment or for integration purposes. The scraper has been tested and confirmed working as of 2025-11-21, successfully fetching 107 jobs from Goodwill Central Texas.
 
 ### Background
 
-Many organizations use ADP Workforce Now for their career centers. This creates an opportunity to replicate the scraping approach for other organizations using the same platform. The API-based approach is:
+The Goodwill Central Texas job scraper uses the ADP Workforce Now API to fetch job postings. The API-based approach offers:
 
 - **10x faster** than DOM scraping (completes in 5-60 seconds vs 5-10 minutes)
 - **More reliable** - No browser automation required
@@ -20,33 +20,39 @@ Many organizations use ADP Workforce Now for their career centers. This creates 
 
 Location: `scrapers/goodwill/scraper_api.py`
 Documentation: `scrapers/goodwill/README_API.md`
+Career Page: https://goodwillcentraltexas.org/jobs/
+
+### Scope
+
+**This ticket is ONLY for Goodwill Central Texas.** Other organizations using ADP Workforce Now are out of scope for this ticket and may be addressed in future work.
+
+The focus is on replicating/deploying/integrating the existing Goodwill Central Texas scraper implementation.
 
 ---
 
 ## Technical Approach
 
-### Step 1: Identify Target Organization
+### Understanding the Goodwill Central Texas Implementation
 
-Find an organization using ADP Workforce Now. These can be identified by:
+The scraper targets Goodwill Central Texas's career center hosted on ADP Workforce Now:
 
-1. Career page URLs containing `workforcenow.adp.com`
-2. Example URL pattern:
-   ```
-   https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid={COMPANY_ID}&ccId={CENTER_ID}
-   ```
+**Career Center URL:**
+```
+https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html
+  ?cid=cf5674db-9e68-440d-9919-4e047e6a1415
+  &ccId=19000101_000001
+  &lang=en_US
+```
 
-### Step 2: Extract Company Parameters
+**Key Parameters:**
+- **cid** (Company ID): `cf5674db-9e68-440d-9919-4e047e6a1415`
+- **ccId** (Career Center ID): `19000101_000001`
+- **lang**: `en_US`
+- **locale**: `en_US`
 
-Open the target career center in a browser and extract these key parameters from the URL:
+### API Endpoints
 
-- **cid** (Company ID): e.g., `cf5674db-9e68-440d-9919-4e047e6a1415`
-- **ccId** (Career Center ID): e.g., `19000101_000001`
-- **lang**: Usually `en_US`
-- **locale**: Usually `en_US`
-
-### Step 3: Discover API Endpoints
-
-The ADP Workforce Now platform uses two main API endpoints:
+The scraper uses two main ADP Workforce Now API endpoints:
 
 #### Job List API (Paginated)
 ```
@@ -108,30 +114,32 @@ GET https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staff
 }
 ```
 
-### Step 4: Verify API Access
+### Verifying API Access
 
-Test API access using curl or Python:
+Test API access for Goodwill Central Texas:
 
 ```bash
 # Test job list endpoint
-curl -s "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid={YOUR_CID}&ccId={YOUR_CCID}&lang=en_US&locale=en_US&\$skip=0&\$top=20"
+curl -s "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&locale=en_US&\$skip=0&\$top=20"
 
-# Test job details endpoint (use clientRequisitionID from above)
-curl -s "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions/{JOB_ID}?cid={YOUR_CID}&ccId={YOUR_CCID}&lang=en_US&locale=en_US"
+# Test job details endpoint (example with jobId 569676)
+curl -s "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions/3835?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&locale=en_US"
 ```
 
-### Step 5: Construct Job URLs
+### Job URL Construction
 
-Job URLs are constructed using the **ExternalJobID** (not clientRequisitionID!):
+Goodwill Central Texas job URLs use the **ExternalJobID** (not clientRequisitionID):
 
 ```
 https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html
-  ?cid={COMPANY_ID}
-  &ccId={CENTER_ID}
+  ?cid=cf5674db-9e68-440d-9919-4e047e6a1415
+  &ccId=19000101_000001
   &lang=en_US
   &selectedMenuKey=CareerCenter
   &jobId={ExternalJobID}
 ```
+
+**Example:** https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=569676
 
 **Important:** The ExternalJobID is found in `customFieldGroup.stringFields` array, where `nameCode.codeValue == 'ExternalJobID'`.
 
@@ -196,23 +204,23 @@ https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html
 ```json
 {
   "scraped_at": "2025-11-21T10:30:00",
-  "source": "Organization Name (ADP Workforce Now API)",
+  "source": "Goodwill Central Texas (ADP Workforce Now API)",
   "total_jobs": 107,
   "jobs": [
     {
-      "title": "Retail Assistant Manager",
-      "item_id": "9201772120306_1",
-      "client_requisition_id": "3750",
-      "posted_date": "2025-10-22T14:23:00.000-04:00",
-      "location": "Lamar Oaks Store, Austin, TX, US",
+      "title": "Merchandise Processor",
+      "item_id": "9201783161055_1",
+      "client_requisition_id": "3835",
+      "posted_date": "2025-11-17T12:53:00.000-05:00",
+      "location": "South Park Meadows Store, Austin, TX, US",
       "city": "Austin",
       "state": "TX",
-      "postal_code": "78704",
+      "postal_code": "78748",
       "job_type": "Full Time",
-      "salary": "$42,000.00 - $47,999.00",
+      "salary": "$0.00 - $14.00",
       "salary_currency": "USD",
-      "external_job_id": "3750",
-      "url": "https://workforcenow.adp.com/...",
+      "external_job_id": "569676",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=569676",
       "description": "Full job description..."
     }
   ]
@@ -256,13 +264,13 @@ https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html
 
 ## Configuration
 
-Create a configuration file or constants section:
+Goodwill Central Texas configuration (already implemented in `scraper_api.py`):
 
 ```python
 # Company-specific configuration
-COMPANY_NAME = "Your Organization Name"
-COMPANY_ID = "..."  # Extract from career center URL
-CAREER_CENTER_ID = "..."  # Extract from career center URL
+COMPANY_NAME = "Goodwill Central Texas"
+COMPANY_ID = "cf5674db-9e68-440d-9919-4e047e6a1415"
+CAREER_CENTER_ID = "19000101_000001"
 LANGUAGE = "en_US"
 LOCALE = "en_US"
 
@@ -272,8 +280,8 @@ JOBS_LIST_ENDPOINT = f"{BASE_URL}/job-requisitions"
 JOB_DETAILS_ENDPOINT = f"{BASE_URL}/job-requisitions/{{id}}"
 
 # Rate Limiting
-REQUEST_DELAY = 0.3  # seconds between requests
-REQUEST_TIMEOUT = 15  # seconds
+REQUEST_DELAY = 0.3  # seconds between requests (0.5s for detail fetching)
+REQUEST_TIMEOUT = 15  # seconds for list API, 10s for details API
 
 # Pagination
 PAGE_SIZE = 20  # ADP Workforce Now standard page size
@@ -281,38 +289,48 @@ PAGE_SIZE = 20  # ADP Workforce Now standard page size
 
 ---
 
-## Edge Cases to Handle
+## Edge Cases Handled by Current Implementation
 
-1. **Missing Salary Data**: Some jobs may not have salary information
-2. **Multiple Locations**: Jobs may have multiple requisitionLocations
-3. **Missing ExternalJobID**: Fallback to clientRequisitionID if ExternalJobID not found
-4. **Rate Limiting**: Implement exponential backoff if API returns 429
-5. **Partial Failures**: Continue scraping even if individual job details fail
-6. **Empty Results**: Handle case where organization has zero open positions
-7. **HTML in Descriptions**: Job descriptions may contain HTML tags
-8. **Date Formats**: Posted dates may have different timezone formats
+The Goodwill Central Texas scraper already handles these edge cases:
+
+1. **Missing Salary Data**: Some jobs (especially ESL Teacher positions) don't have salary ranges - handled gracefully
+2. **Multiple Locations**: Jobs typically have one location, but code handles multiple requisitionLocations array
+3. **Missing ExternalJobID**: Falls back to clientRequisitionID if ExternalJobID not found in customFieldGroup
+4. **Rate Limiting**: Built-in 0.3-0.5s delays between requests prevent API throttling
+5. **Partial Failures**: If individual job detail fetch fails, scraper continues with remaining jobs
+6. **Empty Results**: Handles case where API returns 0 jobs (though Goodwill typically has 90-110 open positions)
+7. **HTML in Descriptions**: Job descriptions contain HTML - preserved as-is for downstream processing
+8. **Date Formats**: ISO 8601 dates with timezone offsets (e.g., "2025-11-17T12:53:00.000-05:00") are preserved
+9. **Salary Ranges**: Some positions show "$0.00 - $14.00" format - both equal and range salaries are handled
+10. **Network Timeouts**: 15s timeout for list API, 10s for details API with proper error handling
 
 ---
 
 ## Success Criteria
 
-- [ ] Scraper successfully fetches all jobs from target organization
-- [ ] All required data fields are populated
-- [ ] Job URLs are valid and open to correct postings
-- [ ] Scraper completes in reasonable time (< 2 minutes for 100 jobs)
+- [ ] Scraper successfully fetches all jobs from Goodwill Central Texas (currently ~107 jobs)
+- [ ] All required data fields are populated correctly
+- [ ] Job URLs are valid and link to correct job postings on workforcenow.adp.com
+- [ ] Scraper completes in reasonable time:
+  - Fast mode (--no-details): < 10 seconds
+  - Full mode: < 2 minutes
 - [ ] Error handling prevents crashes on API failures
 - [ ] Code follows existing project structure and conventions
-- [ ] Documentation includes setup and usage instructions
-- [ ] Tests achieve >80% code coverage
+- [ ] Documentation is clear and complete
+- [ ] Tests achieve >80% code coverage (if test suite is implemented)
 
 ---
 
 ## Deployment
 
-1. Add new scraper to `scrapers/{organization_name}/` directory
-2. Create README.md with organization-specific details
-3. Update main project README with new scraper
-4. Add scraper to CI/CD pipeline
+1. Verify scraper is in `scrapers/goodwill/` directory
+2. Ensure `scraper_api.py` is executable with correct permissions
+3. Test both fast mode and full mode:
+   ```bash
+   python3 scrapers/goodwill/scraper_api.py --no-details
+   python3 scrapers/goodwill/scraper_api.py
+   ```
+4. Verify output is saved to `data/jobs.json`
 5. Configure scheduled runs (if applicable)
 6. Set up monitoring/alerting for scraper failures
 
@@ -330,30 +348,40 @@ PAGE_SIZE = 20  # ADP Workforce Now standard page size
 
 ## Notes
 
-- ADP Workforce Now is a widely-used platform - many organizations can use this approach
-- API endpoints are stable and rarely change
+- The existing implementation at `scrapers/goodwill/scraper_api.py` is complete and working
+- API endpoints are stable and rarely change (last tested 2025-11-21)
 - No authentication required for public job listings
-- Consider caching API responses during development to reduce load
-- Be respectful of API rate limits - add appropriate delays between requests
+- The scraper respects API rate limits with built-in delays (0.3-0.5s between requests)
+- Consider caching API responses during development/testing to reduce load
+- Job count fluctuates as positions are posted/removed (currently ~107 jobs)
 
 ---
 
 ## Estimated Effort
 
-- **Research/Setup**: 2-4 hours
-- **Implementation**: 4-6 hours
+Since the implementation already exists, replication effort depends on scope:
+
+**For code review and documentation:**
+- **Code Review**: 1-2 hours
+- **Testing**: 1 hour
+- **Documentation Updates**: 1 hour
+- **Total**: 3-4 hours
+
+**For creating a derivative or integration:**
+- **Setup**: 1-2 hours
+- **Adaptation**: 2-4 hours
 - **Testing**: 2-3 hours
 - **Documentation**: 1-2 hours
-- **Total**: 9-15 hours
+- **Total**: 6-11 hours
 
 ---
 
 ## Priority
 
-**Medium** - This is a reusable pattern that can be applied to multiple organizations using ADP Workforce Now.
+**Medium** - Existing scraper is working; replication needed for [specify purpose: deployment, integration, backup, etc.]
 
 ---
 
 ## Labels
 
-`scraper`, `adp-workforce-now`, `api-integration`, `reusable-pattern`, `jobs`
+`scraper`, `goodwill-central-texas`, `adp-workforce-now`, `api-integration`, `jobs`, `replication`
