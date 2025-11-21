@@ -1,35 +1,42 @@
-# Goodwill Scraper - API Version
+# Goodwill Central Texas Job Scraper
 
 **Source Code**: [scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/scraper_api.py) | **Repository**: [GW-info-gather](https://github.com/RyanHansz/GW-info-gather)
 
 ## Overview
 
-The **API-based scraper** (`scraper_api.py`) is a faster, more reliable alternative to the DOM-based scraper. It fetches job data directly from the ADP Workforce Now API instead of navigating through the web interface.
+This scraper fetches job data directly from the ADP Workforce Now API used by Goodwill Central Texas. It extracts complete job information including titles, locations, salaries, and full HTML descriptions through direct HTTP requests—no browser automation required.
 
-## Key Advantages
+## Key Features
 
-✅ **10x Faster** - Completes in seconds instead of minutes
-✅ **More Reliable** - No browser automation or element reference issues
-✅ **Direct URLs** - Each job has a working direct link
-✅ **Salary Information** - Extracts salary ranges directly from API
-✅ **Complete Data** - All 107 jobs with full details (as of Nov 2025)
-✅ **No Browser Required** - Pure HTTP requests for everything including descriptions
+✅ **Fast** - Completes in 5-60 seconds depending on mode
+✅ **Reliable** - Direct API access, no browser automation needed
+✅ **Complete Data** - Fetches all ~107 jobs with full details (as of Nov 2025)
+✅ **Direct URLs** - Every job includes a working public URL
+✅ **Salary Information** - Extracts salary ranges when available
+✅ **Full Descriptions** - 3,000-4,000+ character HTML job descriptions
+✅ **No Dependencies** - Uses only Python standard library (`urllib`, `json`)
 
 ## How It Works
 
-The scraper discovered that the ADP portal uses an OData-style API:
+The scraper uses ADP Workforce Now's OData-style API endpoints:
 
-```
-https://workforcenow.adp.com/.../job-requisitions?$skip=0&$top=20
-```
+### API Structure
 
-### Key Findings:
+1. **Job List API** - Paginated endpoint returns basic job information
+   - Endpoint: `/job-requisitions?$skip=0&$top=20`
+   - Returns: Job titles, locations, salary ranges, posting dates
+   - Pagination: 20 jobs per request
 
-1. **Job List API** - Returns paginated job listings with basic info
-2. **ExternalJobID** - This is the actual `jobId` used in URLs (found in `customFieldGroup.stringFields`)
-3. **Job Detail API** - `/job-requisitions/{ExternalJobID}` returns full job description in `requisitionDescription` field
-4. **Salary Data** - Included in the `payGradeRange` field
-5. **clientRequisitionID** - Internal ID, NOT used for public URLs or description fetching
+2. **Job Detail API** - Individual job endpoint returns full descriptions
+   - Endpoint: `/job-requisitions/{ExternalJobID}`
+   - Returns: Complete job data including `requisitionDescription` field
+   - Required: Must use `ExternalJobID` (not `clientRequisitionID`)
+
+3. **Key Data Fields**
+   - `ExternalJobID` - Public job ID used in URLs (found in `customFieldGroup.stringFields`)
+   - `requisitionDescription` - Full HTML job description (3,000-4,000+ chars)
+   - `payGradeRange` - Salary information (min/max rates)
+   - `clientRequisitionID` - Internal ID (not used for public access)
 
 ## Usage
 
@@ -69,17 +76,6 @@ python scrapers/goodwill/scraper_api.py
   "description": "Full job description text..."
 }
 ```
-
-## Comparison with DOM Scraper
-
-| Feature | API Scraper | DOM Scraper |
-|---------|-------------|-------------|
-| Speed (~107 jobs) | ~5-60 seconds | 5-10 minutes |
-| Reliability | ✅ Very high | ⚠️ Fragile (element references) |
-| Salary Data | ✅ Yes | ❌ No |
-| Direct URLs | ✅ Yes | ⚠️ Requires clicking |
-| Job Descriptions | ✅ Yes (full HTML) | ⚠️ Difficult to extract |
-| Dependencies | urllib (standard lib) | Playwright (browser) |
 
 ## Technical Details
 
@@ -128,10 +124,18 @@ https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html
 
 The API endpoints are stable and unlikely to change frequently. If they do:
 
-1. Check browser DevTools Network tab when visiting the careers page
+1. Open browser DevTools Network tab when visiting https://goodwillcentraltexas.org/jobs/
 2. Look for requests to `/job-requisitions`
-3. Update the base URL and parameters in `scraper_api.py`
+3. Check if parameters (cid, ccId) have changed
+4. Update the base URL and parameters in `scraper_api.py` if needed
 
-## Recommendation
+## Troubleshooting
 
-**Use the API scraper as the primary scraper.** It's faster, more reliable, and provides better data quality. The DOM scraper can serve as a backup if the API changes unexpectedly.
+**No descriptions being fetched?**
+- Verify you're using `ExternalJobID` not `clientRequisitionID`
+- Check the API response includes `requisitionDescription` field
+- Ensure the detail API endpoint is being called with correct parameters
+
+**Job URLs not working?**
+- Confirm URLs use `ExternalJobID` from `customFieldGroup.stringFields`
+- Verify `jobId` parameter matches the public-facing job ID

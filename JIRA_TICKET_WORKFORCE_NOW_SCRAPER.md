@@ -18,9 +18,9 @@ The Goodwill Central Texas job scraper uses the ADP Workforce Now API to fetch j
 
 ### Reference Implementation
 
-**Implementation:** [scrapers/goodwill/scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/6fe40acdb12f2507f95bf633323bcee63de16d3d/scrapers/goodwill/scraper_api.py)
+**Implementation:** [scrapers/goodwill/scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/scraper_api.py)
 
-**Documentation:** [scrapers/goodwill/README_API.md](https://github.com/RyanHansz/GW-info-gather/blob/6fe40acdb12f2507f95bf633323bcee63de16d3d/scrapers/goodwill/README_API.md)
+**Documentation:** [scrapers/goodwill/README.md](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/README.md)
 
 **Career Page:** https://goodwillcentraltexas.org/jobs/
 
@@ -340,8 +340,8 @@ The Goodwill Central Texas scraper already handles these edge cases:
 
 ## References
 
-- **Reference Implementation**: [scrapers/goodwill/scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/6fe40acdb12f2507f95bf633323bcee63de16d3d/scrapers/goodwill/scraper_api.py) (312 lines)
-- **Documentation**: [scrapers/goodwill/README_API.md](https://github.com/RyanHansz/GW-info-gather/blob/6fe40acdb12f2507f95bf633323bcee63de16d3d/scrapers/goodwill/README_API.md)
+- **Reference Implementation**: [scrapers/goodwill/scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/scraper_api.py) (312 lines)
+- **Documentation**: [scrapers/goodwill/README.md](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/README.md)
 - **Repository**: https://github.com/RyanHansz/GW-info-gather
 - **Test Command**: `python3 scrapers/goodwill/scraper_api.py --no-details`
 - **API Documentation**: ADP Workforce Now OData-style API

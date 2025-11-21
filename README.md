@@ -4,8 +4,8 @@ A collection of Python scrapers and reference data for workforce development in 
 
 ## Quick Links
 
-- **Goodwill Scraper (API)**: [scrapers/goodwill/scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/scraper_api.py)
-- **API Documentation**: [scrapers/goodwill/README_API.md](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/README_API.md)
+- **Goodwill Scraper**: [scrapers/goodwill/scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/scraper_api.py)
+- **Scraper Documentation**: [scrapers/goodwill/README.md](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/README.md)
 - **File Guide**: [docs/FILE_GUIDE.md](https://github.com/RyanHansz/GW-info-gather/blob/main/docs/FILE_GUIDE.md)
 - **Jira Ticket (Replication)**: [JIRA_TICKET_WORKFORCE_NOW_SCRAPER.md](https://github.com/RyanHansz/GW-info-gather/blob/main/JIRA_TICKET_WORKFORCE_NOW_SCRAPER.md)
 
@@ -22,14 +22,12 @@ The scraper uses the ADP Workforce Now API to fetch job data directly, making it
 
 ## Setup
 
-1. Install Python dependencies:
+The API scraper uses only Python standard library (`urllib` and `json`), so no additional dependencies are required for the Goodwill scraper.
+
+For other scrapers in this repository:
 ```bash
 pip install -r requirements.txt
-```
-
-2. Install Playwright browsers:
-```bash
-playwright install chromium
+playwright install chromium  # Only needed for DOM-based scrapers
 ```
 
 ## Project Structure
@@ -52,11 +50,10 @@ See [docs/FILE_GUIDE.md](docs/FILE_GUIDE.md) for detailed explanation of each fi
 
 ## Usage
 
-Run the Goodwill scraper (API version - **recommended**):
+Run the Goodwill scraper:
 ```bash
 python scrapers/goodwill/scraper_api.py              # Full mode with descriptions (~60 seconds)
 python scrapers/goodwill/scraper_api.py --no-details # Fast mode without descriptions (~5 seconds)
-python scrapers/goodwill/scraper.py                  # Legacy DOM-based scraper (not recommended)
 ```
 
 Run other scrapers:
@@ -67,11 +64,7 @@ python scrapers/resources/scraper_acc_resources.py      # ACC resources
 python scrapers/housing/scraper_atx_housing.py          # Austin housing (571 properties)
 ```
 
-The scripts will:
-- Launch a headless browser
-- Navigate to the target careers page
-- Extract job/resource information
-- Save results to `data/` directory
+The Goodwill scraper uses direct API calls (no browser required). Other scrapers may use browser automation.
 
 ## Output
 
