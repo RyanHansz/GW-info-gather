@@ -42,18 +42,18 @@ def fetch_jobs_list(skip=0, top=20):
         return {'jobs': [], 'total': 0}
 
 
-def fetch_job_details(client_req_id):
+def fetch_job_details(external_job_id):
     """
     Fetch detailed job information including description
 
     Args:
-        client_req_id: The clientRequisitionID for the job
+        external_job_id: The ExternalJobID for the job (not clientRequisitionID!)
 
     Returns:
         Dictionary with detailed job information
     """
     base_url = "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions"
-    params = f"/{client_req_id}?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&locale=en_US"
+    params = f"/{external_job_id}?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&locale=en_US"
 
     url = base_url + params
 
@@ -61,12 +61,11 @@ def fetch_job_details(client_req_id):
         with urllib.request.urlopen(url, timeout=10) as response:
             data = json.loads(response.read().decode())
 
-        if 'jobRequisition' in data:
-            return data['jobRequisition']
-        return {}
+        # The API returns the data directly, not wrapped in 'jobRequisition'
+        return data
 
     except urllib.error.URLError as e:
-        print(f"  Error fetching details for job {client_req_id}: {e}")
+        print(f"  Error fetching details for job {external_job_id}: {e}")
         return {}
 
 
@@ -154,14 +153,13 @@ def parse_job_data(job_data, include_details=True):
         job['url'] = base_url + params
         job['external_job_id'] = external_job_id
 
-    # Fetch detailed information if requested
-    client_req_id = job_data.get('clientRequisitionID')
-    if include_details and client_req_id:
-        details = fetch_job_details(client_req_id)
+    # Fetch detailed information if requested (use external_job_id, not client_req_id!)
+    if include_details and external_job_id:
+        details = fetch_job_details(external_job_id)
 
         if details:
-            # Add job description
-            job_desc = details.get('jobDescription')
+            # Add job description (field is 'requisitionDescription', not 'jobDescription')
+            job_desc = details.get('requisitionDescription')
             if job_desc:
                 job['description'] = job_desc
 
