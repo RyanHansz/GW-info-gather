@@ -4,13 +4,17 @@ A collection of Python scrapers and reference data for workforce development in 
 
 ## Quick Links
 
-- **Goodwill Scraper**: [scrapers/goodwill/scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/scraper_api.py)
-- **Scraper Documentation**: [scrapers/goodwill/README.md](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/README.md)
+- **Goodwill Job Scraper**: [scrapers/goodwill/scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/scraper_api.py)
+- **CAT Class Scraper**: [scrapers/cat/scraper_cat_classes.py](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/cat/scraper_cat_classes.py)
+- **Scraper Documentation**:
+  - [Goodwill Jobs](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/README.md)
+  - [CAT Classes](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/cat/README.md)
 - **File Guide**: [docs/FILE_GUIDE.md](https://github.com/RyanHansz/GW-info-gather/blob/main/docs/FILE_GUIDE.md)
 - **Jira Ticket (Replication)**: [JIRA_TICKET_WORKFORCE_NOW_SCRAPER.md](https://github.com/RyanHansz/GW-info-gather/blob/main/JIRA_TICKET_WORKFORCE_NOW_SCRAPER.md)
 
 ## Current Status
 
+### Goodwill Job Scraper
 The **API-based scraper** successfully extracts **all ~107 jobs** with complete information:
 - Job title, location (with city, state, ZIP)
 - Job type (Full Time/Part Time/Temporary) and salary range
@@ -19,6 +23,13 @@ The **API-based scraper** successfully extracts **all ~107 jobs** with complete 
 - All data extracted via pure HTTP requests (no browser needed!)
 
 The scraper uses the ADP Workforce Now API to fetch job data directly, making it 10x faster and more reliable than DOM scraping.
+
+### CAT Class Scraper
+The **Wufoo form scraper** extracts **~200-230 training sessions** across 19 class types:
+- Class schedules from GRC (South Austin) and GCC (North Austin) locations
+- Dates, times, and instructor information
+- Availability tracking (spots remaining, full/past sessions)
+- Career Advancement, Computer Skills, Financial Training, and more
 
 ## Setup
 
@@ -35,7 +46,8 @@ playwright install chromium  # Only needed for DOM-based scrapers
 ```
 GW-info-gather/
 ├── scrapers/           # All web scraper scripts
-│   ├── goodwill/       # Goodwill Central Texas scrapers
+│   ├── goodwill/       # Goodwill Central Texas job scraper
+│   ├── cat/            # Career Advancement Training class scraper
 │   ├── indeed/         # Indeed job board scraper
 │   ├── gsg/            # GSG Talent Solutions scraper
 │   ├── housing/        # Affordable housing data scraper
@@ -50,10 +62,15 @@ See [docs/FILE_GUIDE.md](docs/FILE_GUIDE.md) for detailed explanation of each fi
 
 ## Usage
 
-Run the Goodwill scraper:
+Run the Goodwill job scraper:
 ```bash
 python scrapers/goodwill/scraper_api.py              # Full mode with descriptions (~60 seconds)
 python scrapers/goodwill/scraper_api.py --no-details # Fast mode without descriptions (~5 seconds)
+```
+
+Run the CAT class scraper:
+```bash
+python scrapers/cat/scraper_cat_classes.py           # Scrapes all 19 class schedules (~30 seconds)
 ```
 
 Run other scrapers:
@@ -64,7 +81,7 @@ python scrapers/resources/scraper_acc_resources.py      # ACC resources
 python scrapers/housing/scraper_atx_housing.py          # Austin housing (571 properties)
 ```
 
-The Goodwill scraper uses direct API calls (no browser required). Other scrapers may use browser automation.
+The Goodwill job scraper uses direct API calls (no browser required). The CAT scraper and other scrapers use browser automation (Playwright).
 
 ## Output
 
@@ -72,6 +89,7 @@ All scraped data is saved in the `data/` directory:
 
 ### Scraped Data (JSON)
 - `data/jobs.json` - Goodwill Central Texas jobs (~107 current postings with full descriptions)
+- `data/cat_classes.json` - Career Advancement Training classes (~200-230 sessions across 19 class types)
 - `data/indeed_jobs.json` - Indeed job postings (3 listings from company page)
 - `data/gsg_jobs.json` - GSG Talent Solutions jobs (15 current postings)
 - `data/acc_resources.json` - ACC community resources (371 resources)
@@ -135,6 +153,34 @@ Complete job listing from ADP Workforce Now API:
   "url": "https://workforcenow.adp.com/...&jobId=569954",
   "external_job_id": "569954",
   "description": "<div><p>Merchandise Processor – Start Strong...</p></div>"
+}
+```
+
+### CAT Classes (`data/cat_classes.json`)
+
+Career Advancement Training class schedules from Wufoo forms:
+
+```json
+{
+  "class_name": "Career Advancement Essentials",
+  "location": "GRC",
+  "location_full": "Goodwill Resource Center (South Austin)",
+  "form_url": "https://gwcareeradvancement.wufoo.com/forms/grc-career-advancement-essentials/",
+  "sessions": [
+    {
+      "date": "2025-12-08",
+      "date_display": "December 8-11",
+      "time_start": "09:00",
+      "time_end": "12:00",
+      "time_display": "9:00am-12:00pm",
+      "instructor": "Mary",
+      "spots_remaining": 4,
+      "is_full": false,
+      "is_past": false,
+      "raw_text": "December 8-11, 9:00am-12:00pm; Mary -- 4 remaining"
+    }
+  ],
+  "last_updated": "2025-11-21T14:30:00.123456"
 }
 ```
 
