@@ -12,8 +12,8 @@ The **API-based scraper** (`scraper_api.py`) is a faster, more reliable alternat
 ✅ **More Reliable** - No browser automation or element reference issues
 ✅ **Direct URLs** - Each job has a working direct link
 ✅ **Salary Information** - Extracts salary ranges directly from API
-✅ **Complete Data** - All 92 jobs with full details
-✅ **No Browser Required** - Pure HTTP requests (except for full descriptions)
+✅ **Complete Data** - All 107 jobs with full details (as of Nov 2025)
+✅ **No Browser Required** - Pure HTTP requests for everything including descriptions
 
 ## How It Works
 
@@ -26,9 +26,10 @@ https://workforcenow.adp.com/.../job-requisitions?$skip=0&$top=20
 ### Key Findings:
 
 1. **Job List API** - Returns paginated job listings with basic info
-2. **clientRequisitionID** - This is the `jobId` used in URLs
-3. **Job Detail API** - `/job-requisitions/{clientRequisitionID}` returns full job description
+2. **ExternalJobID** - This is the actual `jobId` used in URLs (found in `customFieldGroup.stringFields`)
+3. **Job Detail API** - `/job-requisitions/{ExternalJobID}` returns full job description in `requisitionDescription` field
 4. **Salary Data** - Included in the `payGradeRange` field
+5. **clientRequisitionID** - Internal ID, NOT used for public URLs or description fetching
 
 ## Usage
 
@@ -73,11 +74,11 @@ python scrapers/goodwill/scraper_api.py
 
 | Feature | API Scraper | DOM Scraper |
 |---------|-------------|-------------|
-| Speed (92 jobs) | ~5-60 seconds | 5-10 minutes |
+| Speed (~107 jobs) | ~5-60 seconds | 5-10 minutes |
 | Reliability | ✅ Very high | ⚠️ Fragile (element references) |
 | Salary Data | ✅ Yes | ❌ No |
 | Direct URLs | ✅ Yes | ⚠️ Requires clicking |
-| Job Descriptions | ✅ Yes (opt-in) | ⚠️ Difficult to extract |
+| Job Descriptions | ✅ Yes (full HTML) | ⚠️ Difficult to extract |
 | Dependencies | urllib (standard lib) | Playwright (browser) |
 
 ## Technical Details
@@ -97,16 +98,20 @@ GET /careercenter/public/events/staffing/v1/job-requisitions
 
 **Get Job Details:**
 ```
-GET /careercenter/public/events/staffing/v1/job-requisitions/{clientRequisitionID}
+GET /careercenter/public/events/staffing/v1/job-requisitions/{ExternalJobID}
   ?cid=cf5674db-9e68-440d-9919-4e047e6a1415
   &ccId=19000101_000001
   &lang=en_US
   &locale=en_US
 ```
 
+**Response includes:** `requisitionDescription` field with full HTML job description
+
+**Important:** Use `ExternalJobID` (e.g., 570073), NOT `clientRequisitionID` (e.g., 3856)
+
 ### URL Construction
 
-Job URLs are constructed using the `clientRequisitionID`:
+Job URLs are constructed using the `ExternalJobID` (found in `customFieldGroup.stringFields`):
 
 ```
 https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html
@@ -114,8 +119,10 @@ https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html
   &ccId=19000101_000001
   &lang=en_US
   &selectedMenuKey=CareerCenter
-  &jobId={clientRequisitionID}
+  &jobId={ExternalJobID}
 ```
+
+**Example:** `jobId=570073` (ExternalJobID), not `3856` (clientRequisitionID)
 
 ## Maintenance
 
