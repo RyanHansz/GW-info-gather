@@ -1,5 +1,7 @@
 # Goodwill Scraper - API Version
 
+**Source Code**: [scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/scraper_api.py) | **Repository**: [GW-info-gather](https://github.com/RyanHansz/GW-info-gather)
+
 ## Overview
 
 The **API-based scraper** (`scraper_api.py`) is a faster, more reliable alternative to the DOM-based scraper. It fetches job data directly from the ADP Workforce Now API instead of navigating through the web interface.

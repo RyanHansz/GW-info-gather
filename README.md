@@ -2,6 +2,13 @@
 
 A collection of Python scrapers and reference data for workforce development in the Austin, TX area. Includes job postings, affordable housing data, community resources, and a comprehensive Texas professional credentials guide.
 
+## Quick Links
+
+- **Goodwill Scraper (API)**: [scrapers/goodwill/scraper_api.py](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/scraper_api.py)
+- **API Documentation**: [scrapers/goodwill/README_API.md](https://github.com/RyanHansz/GW-info-gather/blob/main/scrapers/goodwill/README_API.md)
+- **File Guide**: [docs/FILE_GUIDE.md](https://github.com/RyanHansz/GW-info-gather/blob/main/docs/FILE_GUIDE.md)
+- **Jira Ticket (Replication)**: [JIRA_TICKET_WORKFORCE_NOW_SCRAPER.md](https://github.com/RyanHansz/GW-info-gather/blob/main/JIRA_TICKET_WORKFORCE_NOW_SCRAPER.md)
+
 ## Current Status
 
 The scraper successfully extracts **all 90 jobs** with basic information:
