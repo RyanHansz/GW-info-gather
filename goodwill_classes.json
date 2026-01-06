@@ -1,0 +1,1460 @@
+{
+  "scrape_date": "2026-01-05",
+  "filter_note": "Only includes classes scheduled for today or future dates",
+  "locations": {
+    "Goodwill Resource Center (GRC/South)": {
+      "address": "6505 Burleson Rd., Austin, TX 78744",
+      "classes": {
+        "Budgeting Basics": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/grc-budgeting-basics/",
+          "offerings": [
+            {
+              "date_time": "01/05/2026, 9:00-11:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/05/2026, 9:00-11:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 1:30-3:30",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/06/2026, 1:30-3:30; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 10:00-12:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/07/2026, 10:00-12:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/09/2026, 1:00-3:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/09/2026, 1:00-3:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/12/2026, 10:00-12:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/12/2026, 10:00-12:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/14/2026, 1:30-3:30",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/14/2026, 1:30-3:30; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 9:00-11:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/20/2026, 9:00-11:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 2:00-4:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/21/2026, 2:00-4:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 10:00-12:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/22/2026, 10:00-12:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/26/2026, 2:00-4:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/26/2026, 2:00-4:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 1:00-3:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/27/2026, 1:00-3:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/29/2026, 10:00-12:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/29/2026, 10:00-12:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            }
+          ],
+          "total_offerings": 12,
+          "total_spaces": 48,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Career Advancement Essentials": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/grc-career-advancement-essentials/",
+          "offerings": [
+            {
+              "date_time": "January 12-16, 9:00am-12:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "January 12-16, 9:00am-12:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            }
+          ],
+          "total_offerings": 1,
+          "total_spaces": 5,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Computer Basics/Keyboarding": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/grc-computer-basics/",
+          "offerings": [],
+          "total_offerings": 0,
+          "total_spaces": 0,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "It looks like there aren't any sessions scheduled right now. Please check with your case manager if you'd like to take this class - they can let you know when new sessions become available!"
+        },
+        "Credit Basics": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/z19v5buf0f0tvm2/",
+          "offerings": [
+            {
+              "date_time": "01/08/2026",
+              "trainer": "Doug",
+              "spaces_remaining": 0,
+              "full_text": "01/08/2026, 10:00-Noon, Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/14/2026, 9:00am-11:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/14/2026, 9:00-11:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 1:00pm-3:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/22/2026, 1:00-3:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 1:00pm-3:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/27/2026, 1:00-3:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/29/2026, 9:30-11:30",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/29/2026, 9:30-11:30, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            }
+          ],
+          "total_offerings": 5,
+          "total_spaces": 16,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Digital Skills 1:1": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/grc-digital-skills-11/",
+          "offerings": [
+            {
+              "date_time": "01/06/2026, 3:00pm-4:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/6/2026, 3:00pm-4:00pm; Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 10:00am-11:00am",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/7/2026, 10:00am-11:00am; Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/08/2026, 9:00am-10:00am",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/8/2026, 9:00am-10:00am; Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/09/2026, 1:00pm-2:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/9/2026, 1:00pm-2:00pm; Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/10/2026, 1:00pm-2:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/10/2026, 1:00pm-2:00pm; Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/14/2026, 2:30pm-3:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/14/2026, 2:30pm-3:30pm; Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/16/2026, 2:30pm-3:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/16/26, 2:30pm\u20133:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 3:00pm-4:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/20/26, 3:00pm\u20134:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 12:30pm-1:30pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/21/2026, 12:30pm-1:30pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 2:00pm-2:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/22/26, 2:00pm\u20132:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/26/2026, 12:30pm-1:30pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/26/2026, 12:30pm-1:30pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 9:00am-10:00am",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/27/26,9:00am\u201310:00am, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 3:00pm-4:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/27/26, 3:00pm\u20134:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/28/2026, 2:00pm-3:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/28/26, 2:00pm\u20133:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/29/2026, 1:30pm-2:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/29/26, 1:30pm\u20132:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/30/2026, 9:00am-10:00am",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/30/26, 9:00am\u201310:00am, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "1/023026, 1:30pm-2:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/023026, 1:30pm\u20132:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            }
+          ],
+          "total_offerings": 17,
+          "total_spaces": 17,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Financial Empowerment Training": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/grc-11-financial-empowerment-trainings/",
+          "offerings": [
+            {
+              "date_time": "01/05/2026, 1:00pm-2:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/05/26, 1:00 pm - 2:00 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/05/2026, 3:00pm-4:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/05/26, 3:00 pm - 4:00 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 9:00am-10:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/06/26, 9:00 am - 10:00 am; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 12:30pm-1:30pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 0,
+              "full_text": "01/06/26,  12:30 pm - 1:30 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 9:00am-10:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 0,
+              "full_text": "01/07/26, 9:00 am - 10:00 am; Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 2:00pm-3:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/07/26, 2:00 pm - 3:00 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/09/2026, 11:00am-12:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/09/26, 11:00 am - 12:00 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/12/2026, 9:00am-10:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/12/26, 9:00 am - 10:00 am; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 9:00am-10:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/13/26, 9:00 am - 10:00 am; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 1:30pm-2:30pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/13/26, 1:30 pm - 2:30 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 2:30pm-3:30pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/13/26, 2:30 pm - 3:30 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/14/2026, 12:30pm-1:30pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/14/26, 12:30 pm - 1:30 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/15/2026, 9:00am-10:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/15/26, 9:00 am - 10:00 am; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/15/2026, 3:00pm-4:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/15/26, 3:00 pm - 4:00 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 12:30pm-1:30pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/20/26, 12:30 pm - 1:30 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 3:00pm-4:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/20/26, 3:00 pm - 4:00 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 9:00am-10:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/21/26, 9:00 am - 10:00 am; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 9:00am-10:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/22/26, 9:00 am - 10:00 am; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 2:30pm-3:30pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/22/26, 2:30 pm - 3:30 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/26/2026, 9:00am-10:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/26/26, 9:00 am - 10:00 am; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 11:00am-12:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/27/26, 11:00 am - 12:00 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 3:00pm-4:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "01/27/26, 3:00 pm - 4:00 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            }
+          ],
+          "total_offerings": 22,
+          "total_spaces": 20,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Indeed Lab": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/grc-indeed-lab/",
+          "offerings": [
+            {
+              "date_time": "-- 0 remaining",
+              "trainer": "TBD",
+              "spaces_remaining": 0,
+              "full_text": "-- 0 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 11:00am-1:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/6/26, 11:00am\u20131:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 11:00am-1:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/6/26, 11:00am\u20131:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 1:30pm-3:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/7/26, 1:30pm\u20133:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 1:00pm-3:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/13/26, 1:00pm\u20133:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/15/2026, 1:00pm-3:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/15/26, 1:00pm\u20133:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 9:00am-11:00am",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/20/26, 9:00am\u201311:00am, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 10:30am-12:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/21/26, 10:30am\u201312:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 11:00am-1:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/22/26, 11:00am\u20131:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/26/2026, 10:30am-12:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/26/26, 10:30am\u201312:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 12:30pm-2:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/27/26, 12:30pm\u20132:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/29/2026, 12:00pm-1:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/29/26, 12:00pm\u20131:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/30/2026, 1:30pm-3:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 5,
+              "full_text": "1/30/26, 1:30pm\u20133:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            }
+          ],
+          "total_offerings": 13,
+          "total_spaces": 56,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Interview Preparation & Practice": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/grc-interview-preparation-and-practice/",
+          "offerings": [],
+          "total_offerings": 0,
+          "total_spaces": 0,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "It looks like there aren't any sessions scheduled right now. Please check with your case manager if you'd like to take this class - they can let you know when new sessions become available!"
+        },
+        "Job Preparation 1:1": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/grc-job-preparation-11/",
+          "offerings": [
+            {
+              "date_time": "01/05/2026, 11:00am-12:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/05/26, 11:00am\u201312:00pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/05/2026, 2:00pm-3:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/05/26, 2:00pm\u20133:00pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 10:30am-11:30am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/06/26, 10:30am\u201311:30am, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 2:00pm-3:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/06/26, 2:00pm\u20133:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 9:00am-10:00am",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/07/26, 9:00am\u201310:00am, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 12:30pm-1:30pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 0,
+              "full_text": "1/07/26, 12:30pm\u20131:30pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 1:30pm-2:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/07/26, 1:30pm\u20132:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/08/2026, 10:00am-11:00am",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/08/26, 10:00am\u201311:00am, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/08/2026, 3:00pm-4:00pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/08/26, 3:00pm\u20134:00pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/12/2026, 1:00pm-2:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/12/26, 1:00pm\u20132:00pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/12/2026, 2:30pm-3:30pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/12/26, 2:30pm\u20133:30pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/14/2026, 10:30am-11:30am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/14/26, 10:30am\u201311:30am, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/14/2026, 1:30pm-2:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/14/26, 1:30pm\u20132:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/15/2026, 10:00am-11:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/15/26, 10:00am\u201311:00am, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 11:30am-12:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/20/26, 11:30am\u201312:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 2:00pm-3:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/20/26, 2:00pm\u20133:00pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 9:00am-10:00am",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/21/26, 9:00am\u201310:00am, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 10:00am-11:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/21/26, 10:00am\u201311:00am, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 1:00pm-2:00pm",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/22/26, 1:00pm\u20132:00pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/26/2026, 9:00pm-10:00am",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/26/26, 9:00pm\u201310:00am, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/26/2026, 10:00am-11:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/26/26, 10:00am\u201311:00am, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 10:30am-11:30am",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/27/26, 10:30am\u201311:30am, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/29/2026, 9:00am-10:00am",
+              "trainer": "Cindy",
+              "spaces_remaining": 1,
+              "full_text": "1/29/26, 9:00am\u201310:00am, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/29/2026, 2:30pm-3:30pm",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/29/26, 2:30pm\u20133:30pm, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/30/2026, 10:00am-11:00am",
+              "trainer": "Mary",
+              "spaces_remaining": 1,
+              "full_text": "1/30/26, 10:00am\u201311:00am, Mary\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            }
+          ],
+          "total_offerings": 25,
+          "total_spaces": 24,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Online Safety": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/grc-online-safety/",
+          "offerings": [],
+          "total_offerings": 0,
+          "total_spaces": 0,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "It looks like there aren't any sessions scheduled right now. Please check with your case manager if you'd like to take this class - they can let you know when new sessions become available!"
+        },
+        "Virtual Career Advancement Essentials": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/virtual-career-advancement-essentials/",
+          "offerings": [
+            {
+              "date_time": "January 26-30",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "January 26-30; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            }
+          ],
+          "total_offerings": 1,
+          "total_spaces": 4,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        }
+      }
+    },
+    "Goodwill Community Center (GCC/North)": {
+      "address": "1015 Norwood Park Blvd., Austin, TX 78753",
+      "classes": {
+        "Budgeting Basics": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/gcc-budgeting-basics/",
+          "offerings": [
+            {
+              "date_time": "01/05/2026, 9:00am-11:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 3,
+              "full_text": "01/05/2026, 9:00-11:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 1:00pm-3:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/06/2026, 1:00-3:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 12:30pm-2:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/07/2026, 12:30-2:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/08/2026, 1:00pm-3:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 0,
+              "full_text": "01/08/2026, 1:00-3:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/12/2026, 10:30am-12:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 0,
+              "full_text": "01/12/2026, 10:30-12:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 9:00am-11:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/13/2026, 9:00-11:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/15/2026",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/15/2026, 10-Noon, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 1:00pm-3:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/20/2026, 1:00-3:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 1:30pm-3:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/21/2026, 1:30-3:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/25/2026, 9:00am-11:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/25/2026, 9:00-11:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/28/2026",
+              "trainer": "Doug",
+              "spaces_remaining": 4,
+              "full_text": "01/28/2026, 10:00-Noon, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            }
+          ],
+          "total_offerings": 11,
+          "total_spaces": 35,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Career Advancement Essentials": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/gcc-career-advancement-essentials/",
+          "offerings": [
+            {
+              "date_time": "January 5-9, 9:00am-12:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 0,
+              "full_text": "January 5-9, 9:00am-12:00pm, Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            }
+          ],
+          "total_offerings": 1,
+          "total_spaces": 0,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "All sessions are currently full. Please check with your case manager about waitlist options or upcoming sessions."
+        },
+        "Computer Basics/Keyboarding": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/gcc-computer-basics/",
+          "offerings": [
+            {
+              "date_time": "01/06/2026, 9:00am-10:30am",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/06/26, 9:00-10:30am, Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/09/2026, 9:00am-10:30am",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/09/26, 9:00-10:30am, Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/16/2026, 12:00pm-1:30pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/16/26, 12:00-1:30pm, Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 12:00pm-1:30pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/22/26, 12:00-1:30pm, Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/28/2026, 11:00am-12:30pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/28/26, 11:00am-12:30pm, Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            }
+          ],
+          "total_offerings": 5,
+          "total_spaces": 20,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Credit Basics": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/x1eozbd71npnt5q/",
+          "offerings": [
+            {
+              "date_time": "-- 0 remaining",
+              "trainer": "TBD",
+              "spaces_remaining": 0,
+              "full_text": "-- 0 remaining"
+            },
+            {
+              "date_time": "01/09/2026, 9:00-11:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/09/2026, 9:00-11:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 10:30-12:30",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/13/2026, 10:30-12:30; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 9:00-11:00",
+              "trainer": "Cindy",
+              "spaces_remaining": 4,
+              "full_text": "01/27/2026, 9:00-11:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            }
+          ],
+          "total_offerings": 4,
+          "total_spaces": 12,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Digital Skills 1:1": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/gcc-digital-skills-11/",
+          "offerings": [
+            {
+              "date_time": "01/05/2026, 9:30am-10:30am",
+              "trainer": "Adryan",
+              "spaces_remaining": 0,
+              "full_text": "01/05/26, 9:30-10:30am, Adryan\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 1:00pm-2:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 0,
+              "full_text": "01/06/26, 1:00-2:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 2:30pm-3:30pm",
+              "trainer": "Alex",
+              "spaces_remaining": 0,
+              "full_text": "01/06/26, 2:30-3:30pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/08/2026, 11:00am-12:00pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 0,
+              "full_text": "01/08/26, 11:00am-12:00pm, Adryan\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/12/2026, 3:00pm-4:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 0,
+              "full_text": "01/12/26, 3:00-4:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/14/2026, 11:00am-12:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 0,
+              "full_text": "01/14/26, 11:00-12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/16/2026, 2:30pm-3:30pm",
+              "trainer": "Alex",
+              "spaces_remaining": 0,
+              "full_text": "01/16/26, 2:30-3:30pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 2:00pm-3:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 0,
+              "full_text": "01/20/26, 2:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 10:00am-11:00am",
+              "trainer": "Alex",
+              "spaces_remaining": 0,
+              "full_text": "01/21/26, 10:00-11:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 10:00am-11:00am",
+              "trainer": "Adryan",
+              "spaces_remaining": 1,
+              "full_text": "01/22/26, 10:00-11:00am, Adryan\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/26/2026, 1:00pm-2:00pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 1,
+              "full_text": "01/26/26, 1:00-2:00pm, Adryan\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 2:00pm-3:00pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 1,
+              "full_text": "01/27/26, 2:00-3:00pm, Adryan\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/28/2026, 9:30am-10:30am",
+              "trainer": "Adryan",
+              "spaces_remaining": 1,
+              "full_text": "01/28/26, 9:30-10:30am, Adryan\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            }
+          ],
+          "total_offerings": 13,
+          "total_spaces": 4,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Financial Empowerment Training": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/gcc-11-financial-empowerment-trainings/",
+          "offerings": [
+            {
+              "date_time": "01/05/2026, 11:30am-12:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 0,
+              "full_text": "01/05/2026, 11:30-12:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/05/2026, 1:30pm-2:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 0,
+              "full_text": "01/05/2026, 1:30-2:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/05/2026, 2:30pm-3:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/05/2026, 2:30-3:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 11:30am-12:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/06/2026, 11:30-12:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/06/2026, 3:00pm-4:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/06/2026, 3:00-4:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 10:30am-11:30am",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/07/2026, 10:30-11:30am, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/08/2026, 9:00am-10:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 0,
+              "full_text": "01/08/2026, 9:00-10:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/12/2026, 9:00am-10:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 0,
+              "full_text": "01/12/2026, 9:00-10:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/12/2026, 1:00pm-2:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 0,
+              "full_text": "01/12/2026, 1:00-2:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/12/2026, 2:30pm-3:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 0,
+              "full_text": "01/12/2026, 2:30-3:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/13/2026",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/13/2026, 11:00-Noon, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 1:00pm-2:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/13/2026, 1:00-2:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/14/2026",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/14/2026, 11:00-Noon, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/15/2026, 9:00am-10:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/15/2026, 9:00-10:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/20/2026",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/20/2026, 11:00-Noon, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 3:00pm-4:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/20/2026, 3:00-4:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 3:30pm-4:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/21/2026, 3:30-4:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 9:00am-10:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/22/2026, 9:00-10:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 3:00pm-4:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/22/2026, 3:00-4:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/26/2026",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/26/2026, 11:00-Noon, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 9:00am-10:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/27/2026, 9:00-10:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 10:30am-11:30am",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/27/2026, 10:30-11:30am, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 3:00pm-4:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/27/2026, 3:00-4:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/28/2026, 9:00am-10:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/28/2026, 9:00-10:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/28/2026, 1:00pm-2:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/28/2026, 1:00-2:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/29/2026, 12:30pm-1:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/29/2026, 12:30-1:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/29/2026, 3:00pm-4:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/29/2026, 3:00-4:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/30/2026, 11:30am-12:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/30/2026, 11:30-12:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/30/2026, 1:00pm-2:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 1,
+              "full_text": "01/30/2026, 1:00-2:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            }
+          ],
+          "total_offerings": 29,
+          "total_spaces": 23,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Indeed Lab": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/",
+          "offerings": [
+            {
+              "date_time": "01/05/2026, 1:00pm-3:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 0,
+              "full_text": "01/05/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/07/2026, 10:00am-12:00pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 0,
+              "full_text": "01/07/26, 10:00am-12:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/09/2026, 10:30am-12:30pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 3,
+              "full_text": "01/09/26, 10:30am-12:30pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
+            },
+            {
+              "date_time": "01/12/2026, 9:00am-11:00am",
+              "trainer": "Alex",
+              "spaces_remaining": 3,
+              "full_text": "01/12/26, 9:00-11:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 11:00am-1:00pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/13/26, 11:00am-1:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/14/2026, 1:30pm-3:30pm",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "01/14/26, 1:30-3:30pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/16/2026, 9:00am-11:00am",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/16/26, 9:00am-11:00am; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 11:00am-1:00pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/20/26, 11:00am-1:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 9:00am-11:00am",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "01/22/26, 9:00-11:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/26/2026, 10:00am-12:00pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/26/26, 10:00am-12:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 11:00am-1:00pm",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/27/26, 11:00am-1:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/28/2026, 1:00pm-3:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "01/28/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/30/2026, 9:30am-11:30am",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/30/26, 9:30am-11:30am; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            }
+          ],
+          "total_offerings": 13,
+          "total_spaces": 42,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Interview Preparation & Practice": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/gcc-interview-preparation-and-practice/",
+          "offerings": [
+            {
+              "date_time": "01/07/2026, 1:00pm-3:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 2,
+              "full_text": "01/07/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 2 remaining"
+            },
+            {
+              "date_time": "01/09/2026, 1:00pm-3:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "01/09/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 9:00am-11:00am",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "01/13/26, 9:00-11:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/15/2026, 1:00pm-3:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "01/15/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 9:00am-11:00am",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "01/20/26, 9:00-11:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 1:00pm-3:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "01/21/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 9:00am-11:00am",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "01/27/26, 9:00-11:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/29/2026, 1:30pm-3:30pm",
+              "trainer": "Alex",
+              "spaces_remaining": 4,
+              "full_text": "01/29/26, 1:30-3:30pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            }
+          ],
+          "total_offerings": 8,
+          "total_spaces": 30,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Job Preparation 1:1": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/gcc-job-preparation-11/",
+          "offerings": [
+            {
+              "date_time": "01/12/2026, 2:00pm-3:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 0,
+              "full_text": "01/12/26, 2:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 1:00pm-2:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/13/26, 1:00-2:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 2:00pm-3:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/13/26, 2:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/14/2026, 10:00am-11:00am",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/14/26, 10:00-11:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/15/2026, 11:00am-12:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/15/26, 11:00-12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/16/2026, 9:00am-10:00am",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/16/26, 9:00-10:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/16/2026, 1:30pm-2:30pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/16/26, 1:30-2:30pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 1:00pm-2:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/20/26, 1:00-2:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/20/2026, 3:00pm-4:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/20/26, 3:00-4:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 9:00am-10:00am",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/21/26, 9:00-10:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 11:00am-12:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/21/26, 11:00-12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/22/2026, 2:00pm-3:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/22/26, 2:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/26/2026, 3:00pm-4:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/26/26, 3:00-4:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/27/2026, 1:00pm-2:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/27/26, 1:00-2:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            },
+            {
+              "date_time": "01/28/2026, 3:00pm-4:00pm",
+              "trainer": "Alex",
+              "spaces_remaining": 1,
+              "full_text": "01/28/26, 3:00-4:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+            }
+          ],
+          "total_offerings": 15,
+          "total_spaces": 14,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Wonderlic Prep & Practice": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/gcc-wonderlic-prep-and-practice/",
+          "offerings": [
+            {
+              "date_time": "01/06/2026, 9:00am-11:00am",
+              "trainer": "Doug",
+              "spaces_remaining": 5,
+              "full_text": "01/06/2026, 9:00-11:00am, Doug\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
+            },
+            {
+              "date_time": "01/15/2026, 12:30pm-2:30pm",
+              "trainer": "Doug",
+              "spaces_remaining": 7,
+              "full_text": "01/15/2026, 12:30-2:30pm, Doug\n\t\t\t\t\t\t\t\t\t -- 7 remaining"
+            },
+            {
+              "date_time": "01/22/2026",
+              "trainer": "Doug",
+              "spaces_remaining": 7,
+              "full_text": "01/22/2026, 10:00-Noon, Doug\n\t\t\t\t\t\t\t\t\t -- 7 remaining"
+            },
+            {
+              "date_time": "01/28/2026, 2:00pm-4:00pm",
+              "trainer": "Doug",
+              "spaces_remaining": 7,
+              "full_text": "01/28/2026, 2:00-4:00pm, Doug\n\t\t\t\t\t\t\t\t\t -- 7 remaining"
+            },
+            {
+              "date_time": "01/30/2026, 9:00-11:00",
+              "trainer": "Doug",
+              "spaces_remaining": 7,
+              "full_text": "01/30/2026, 9:00-11:00, Doug\n\t\t\t\t\t\t\t\t\t -- 7 remaining"
+            }
+          ],
+          "total_offerings": 5,
+          "total_spaces": 33,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "AI Basics": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/zjgi3bu0u7t757/",
+          "offerings": [
+            {
+              "date_time": "01/08/2026, 9:00am-10:30am",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/08/26, 9:00-10:30am, Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/13/2026, 9:00am-10:30am",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/13/26, 9:00-10:30am, Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            },
+            {
+              "date_time": "01/21/2026, 10:00am-11:30am",
+              "trainer": "Adryan",
+              "spaces_remaining": 4,
+              "full_text": "01/21/26, 10:00-11:30am, Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+            }
+          ],
+          "total_offerings": 3,
+          "total_spaces": 12,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "Great news! This Career Advancement Training is available to you. Simply connect with your case manager who will help you register for the session that works best for your schedule."
+        },
+        "Online Safety": {
+          "url": "https://gwcareeradvancement.wufoo.com/forms/zs43hn608egpxa/",
+          "offerings": [],
+          "total_offerings": 0,
+          "total_spaces": 0,
+          "is_cat_class": true,
+          "signup_note": "",
+          "availability_message": "It looks like there aren't any sessions scheduled right now. Please check with your case manager if you'd like to take this class - they can let you know when new sessions become available!"
+        }
+      }
+    }
+  }
+}

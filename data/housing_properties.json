@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2025-10-24T10:13:36.115744",
+  "scraped_at": "2026-01-05T08:40:51.813287",
   "source": "ATX Affordable Housing Portal",
   "url": "https://portal.atxaffordablehousing.net/get_all_properties",
   "total_properties": 571,
@@ -29109,7 +29109,7 @@
       "eviction_history_criteria": "N/A",
       "criminal_history": "yes",
       "criminal_history_criteria": "No felonies in last 10 years; No misdemeanors from sexual crimes, crimes against persons, property or drug-related in last 7 years; No sex offenders; No murder, rape, kidnapping, arson, felony charge for meth",
-      "has_waitlist": 1,
+      "has_waitlist": 0,
       "total_units": 147,
       "total_psh_units": 0,
       "total_income_restricted_units": 127,
@@ -29144,10 +29144,10 @@
       "high_school": "MCNEIL H S",
       "affordability_expiration": "2039-09-30T05:00:00.000Z",
       "has_available_affordable_units": 1,
-      "propertyInfoVerified": true,
+      "propertyInfoVerified": false,
       "affordabilityInfoVerified": true,
       "basicPropertyInfoVerified": true,
-      "tenantCriteriaVerified": true
+      "tenantCriteriaVerified": false
     },
     {
       "id": 3054,
