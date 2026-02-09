@@ -1,24 +1,24 @@
 # Austin Affordable Housing Properties
 
-**Last Updated:** January 05, 2026 at 08:40 AM
-**Total Properties:** 571
+**Last Updated:** January 22, 2026 at 03:28 PM
+**Total Properties:** 574
 **Source:** [ATX Affordable Housing Portal](https://www.atxaffordablehousing.net/)
 
 ## Summary Statistics
 
-- **Total Units:** 93,744
-- **Income-Restricted Units:** 52,598
+- **Total Units:** 94,508
+- **Income-Restricted Units:** 52,856
 
 ### Properties by Council District
 
 | District | Properties |
 |----------|------------|
-| 1 | 104 |
+| 1 | 105 |
 | 2 | 42 |
-| 3 | 97 |
+| 3 | 98 |
 | 4 | 61 |
 | 5 | 54 |
-| 6 | 12 |
+| 6 | 13 |
 | 7 | 42 |
 | 8 | 4 |
 | 9 | 89 |
@@ -1040,7 +1040,7 @@
 **Address:** 1332 Lamar Square Dr., Austin  78704
 **Council District:** 5
 **Total Units:** 64
-**Income-Restricted Units:** 0
+**Income-Restricted Units:** None
 **Website:** [https://www.maryleefoundation.org/programs-and-services/affordable-housing/](https://www.maryleefoundation.org/programs-and-services/affordable-housing/)
 
 ---
@@ -1536,7 +1536,7 @@
 **Address:** 5800 Techni Center Drive, Austin 78721
 **Council District:** 1
 **Total Units:** 250
-**Income-Restricted Units:** 250
+**Income-Restricted Units:** 125
 **Website:** [https://www.livefortbranchattrumanslanding.com](https://www.livefortbranchattrumanslanding.com)
 
 ---
@@ -2146,13 +2146,13 @@
 
 ---
 
-### 215. Mountain Ranch Apartments 
+### 215. Ovation Apartments
 
 **Address:** 2425 E Riverside Dr, Austin 78741 
 **Council District:** 3
 **Total Units:** 196
-**Income-Restricted Units:** None
-**Website:** [https://www.mountainranchaustin.com/](https://www.mountainranchaustin.com/)
+**Income-Restricted Units:** 98
+**Website:** [https://www.liveovation.com/](https://www.liveovation.com/)
 
 ---
 
@@ -2661,7 +2661,7 @@
 **Address:** 8405 Bent Tree Road,  Austin 78759
 **Council District:** 10
 **Total Units:** 126
-**Income-Restricted Units:** 0
+**Income-Restricted Units:** None
 **Website:** [https://www.benttreeaustin.com/](https://www.benttreeaustin.com/)
 
 ---
@@ -3461,7 +3461,7 @@
 **Address:** 1920 Gaston Place Dr, Austin 78721
 **Council District:** 1
 **Total Units:** 22
-**Income-Restricted Units:** 0
+**Income-Restricted Units:** None
 **Website:** [https://www.hacanet.org/location/leisure-time-village/](https://www.hacanet.org/location/leisure-time-village/)
 
 ---
@@ -3611,7 +3611,7 @@
 **Address:** 1201 Fairbanks, Austin  78752
 **Council District:** 4
 **Total Units:** 1
-**Income-Restricted Units:** 0
+**Income-Restricted Units:** None
 **Website:** [https://www.alpsmgmt.com](https://www.alpsmgmt.com)
 
 ---
@@ -3645,7 +3645,7 @@
 
 ---
 
-### 366. Modera Domain-UNDER CONSTRUCTION
+### 366. Modera Domain
 
 **Address:** 2618 Kramer Lane , Austin 78758
 **Council District:** 7
@@ -4501,7 +4501,17 @@
 
 ---
 
-### 452. Aria Grand
+### 452. The Everett
+
+**Address:** 11205 N FM 620, Austin 78726
+**Council District:** 6
+**Total Units:** 376
+**Income-Restricted Units:** 80
+**Website:** [https://www.theeverettaustin.com/](https://www.theeverettaustin.com/)
+
+---
+
+### 453. Aria Grand
 
 **Address:** 1800 S IH 35, Austin 78704
 **Council District:** 9
@@ -4511,7 +4521,7 @@
 
 ---
 
-### 453. AMLI Branch Park
+### 454. AMLI Branch Park
 
 **Address:** 1911 Philomena St, Austin 78723
 **Council District:** 9
@@ -4521,7 +4531,7 @@
 
 ---
 
-### 454. Travis Flats
+### 455. Travis Flats
 
 **Address:** 5310 Helen St, Austin 78751
 **Council District:** 4
@@ -4531,7 +4541,7 @@
 
 ---
 
-### 455. The Rail at MLK
+### 456. The Rail at MLK
 
 **Address:** 2921 E. 17th St, Austin 78702
 **Council District:** 1
@@ -4541,7 +4551,7 @@
 
 ---
 
-### 456. Bridge at Goodnight Ranch
+### 457. Bridge at Goodnight Ranch
 
 **Address:** 9005 Alderman Dr, Austin 78747
 **Council District:** 2
@@ -4551,7 +4561,7 @@
 
 ---
 
-### 457. Agave at South Congress
+### 458. Agave at South Congress
 
 **Address:** 625 E. Stassney Lane, Austin 78745
 **Council District:** None
@@ -4561,7 +4571,7 @@
 
 ---
 
-### 458. Barstow Apartments
+### 459. Barstow Apartments
 
 **Address:** 11701 Metric Blvd, Austin 78758
 **Council District:** 7
@@ -4571,7 +4581,7 @@
 
 ---
 
-### 459. Lowell at Mueller
+### 460. Lowell at Mueller
 
 **Address:** 1200 Broadmoor Dr, Austin 78723
 **Council District:** 4
@@ -4581,7 +4591,7 @@
 
 ---
 
-### 460. Bridge at Turtle Creek
+### 461. Bridge at Turtle Creek
 
 **Address:** 6020 South First St, Austin 78745
 **Council District:** 2
@@ -4591,7 +4601,7 @@
 
 ---
 
-### 461. The Oaks at Ben White
+### 462. The Oaks at Ben White
 
 **Address:** 6936 E Ben White Blvd, Austin 78741
 **Council District:** None
@@ -4601,7 +4611,7 @@
 
 ---
 
-### 462. The Haywood
+### 463. The Haywood
 
 **Address:** 600 E. FM1626, Austin 78748
 **Council District:** None
@@ -4611,7 +4621,7 @@
 
 ---
 
-### 463. Bridge at Southpark Meadows
+### 464. Bridge at Southpark Meadows
 
 **Address:** 715 W. Slaughter Ln, Austin 78748
 **Council District:** 5
@@ -4621,7 +4631,7 @@
 
 ---
 
-### 464. Bridge at Ribelin Ranch
+### 465. Bridge at Ribelin Ranch
 
 **Address:** 9900 McNeil Dr, Austin 78750
 **Council District:** None
@@ -4631,7 +4641,7 @@
 
 ---
 
-### 465. Montecito Apartments
+### 466. Montecito Apartments
 
 **Address:** 3111 Parker Lne, Austin 78741
 **Council District:** 3
@@ -4641,7 +4651,7 @@
 
 ---
 
-### 466. Crossroad Commons
+### 467. Crossroad Commons
 
 **Address:** 8407 E. Parmer Ln, Manor 78653
 **Council District:** None
@@ -4651,7 +4661,7 @@
 
 ---
 
-### 467. Torre Apartments
+### 468. Torre Apartments
 
 **Address:** 2020 Nueces Street, Austin 78705
 **Council District:** 9
@@ -4661,7 +4671,7 @@
 
 ---
 
-### 468. The Abali
+### 469. The Abali
 
 **Address:** 4611 N I-35, Austin 78722
 **Council District:** 9
@@ -4671,7 +4681,7 @@
 
 ---
 
-### 469. Korina at The Grove
+### 470. Korina at The Grove
 
 **Address:** 4424 Jackson Ave, Austin 78731
 **Council District:** 10
@@ -4681,7 +4691,7 @@
 
 ---
 
-### 470. East Grove Condominiums
+### 471. East Grove Condominiums
 
 **Address:** 1811 Webberville Road, Austin 78721
 **Council District:** 1
@@ -4691,7 +4701,7 @@
 
 ---
 
-### 471. Hedge Apartments
+### 472. Hedge Apartments
 
 **Address:** 8300 N IH-35, Austin 78753
 **Council District:** 4
@@ -4701,7 +4711,7 @@
 
 ---
 
-### 472. MLK Highline
+### 473. MLK Highline
 
 **Address:** 2832 E Martin Luther King Jr Blvd, Austin 78702
 **Council District:** 1
@@ -4711,7 +4721,7 @@
 
 ---
 
-### 473. AHA! at Briarcliff
+### 474. AHA! at Briarcliff
 
 **Address:** 1915 Briarcliff Blvd, Austin 78723
 **Council District:** 4
@@ -4721,7 +4731,7 @@
 
 ---
 
-### 474. Aspire at Onion Creek
+### 475. Aspire at Onion Creek
 
 **Address:** 2333 Cascades Avenue, Austin 78747
 **Council District:** 5
@@ -4731,7 +4741,7 @@
 
 ---
 
-### 475. Alma Apartments
+### 476. Alma Apartments
 
 **Address:** 9220 N Interstate Highway 35, Austin 78753
 **Council District:** 4
@@ -4741,7 +4751,17 @@
 
 ---
 
-### 476. James on South First
+### 477. Nellie Apartment Homes
+
+**Address:** 3300 Manor Road, Austin 78723
+**Council District:** 1
+**Total Units:** 136
+**Income-Restricted Units:** 136
+**Website:** [https://liveatthenellie.com/](https://liveatthenellie.com/)
+
+---
+
+### 478. James on South First
 
 **Address:** 8800 South 1st Street, Austin 78748
 **Council District:** 2
@@ -4751,7 +4771,7 @@
 
 ---
 
-### 477. The Brentwood
+### 479. The Brentwood
 
 **Address:** 5700 Grover Ave, Austin 78756
 **Council District:** 7
@@ -4761,7 +4781,7 @@
 
 ---
 
-### 478. Wildhorse Flats
+### 480. Wildhorse Flats
 
 **Address:** 10525 Wildhorse Ranch Trl, Manor 78724
 **Council District:** None
@@ -4771,7 +4791,7 @@
 
 ---
 
-### 479. Broadstone East End
+### 481. Broadstone East End
 
 **Address:** 5400 Jain Lane, Austin 78721
 **Council District:** 3
@@ -4781,7 +4801,7 @@
 
 ---
 
-### 480. Crosstown
+### 482. Crosstown
 
 **Address:** 6507 East Riverside Drive, Austin 78741
 **Council District:** 3
@@ -4791,7 +4811,7 @@
 
 ---
 
-### 481. Medina Highlands
+### 483. Medina Highlands
 
 **Address:** 212 W. Highland Mall Blvd, Austin 78752
 **Council District:** 4
@@ -4801,7 +4821,7 @@
 
 ---
 
-### 482. The Johnny
+### 484. The Johnny
 
 **Address:** 613 W. St. John's Ave, Austin 78752
 **Council District:** 4
@@ -4811,7 +4831,7 @@
 
 ---
 
-### 483. Northshore
+### 485. Northshore
 
 **Address:** 110 San Antonio St, Austin 78701
 **Council District:** 9
@@ -4821,7 +4841,7 @@
 
 ---
 
-### 484. Tip Top Rentals
+### 486. Tip Top Rentals
 
 **Address:** 2010 West Loop, Austin 78758
 **Council District:** 4
@@ -4830,7 +4850,7 @@
 
 ---
 
-### 485. The Works II at Pleasant Valley
+### 487. The Works II at Pleasant Valley
 
 **Address:** 835 N Pleasant Valley Road, Austin 78702
 **Council District:** 3
@@ -4840,7 +4860,7 @@
 
 ---
 
-### 486. Los Portales de Lena Guerrero
+### 488. Los Portales de Lena Guerrero
 
 **Address:** 5225 Jain Ln, Austin 78721
 **Council District:** 3
@@ -4850,7 +4870,7 @@
 
 ---
 
-### 487. Talavera Lofts
+### 489. Talavera Lofts
 
 **Address:** 413 Navasota St, Austin 78702
 **Council District:** 3
@@ -4860,7 +4880,7 @@
 
 ---
 
-### 488. Waterloo Terrace
+### 490. Waterloo Terrace
 
 **Address:** 12190 N Mopac Expressway, Austin 78758
 **Council District:** 7
@@ -4870,7 +4890,7 @@
 
 ---
 
-### 489. Cambrian East Riverside
+### 491. Cambrian East Riverside
 
 **Address:** 1806 Clubview Avenue, Austin 78741
 **Council District:** 3
@@ -4880,16 +4900,17 @@
 
 ---
 
-### 490. Vi Collina
+### 492. Vi Collina
 
 **Address:** 2401 E Oltorf Street, Austin 78741
 **Council District:** 3
 **Total Units:** 170
 **Income-Restricted Units:** 170
+**Website:** [https://www.vicollina.com/](https://www.vicollina.com/)
 
 ---
 
-### 491. Villas on Rio
+### 493. Villas on Rio
 
 **Address:** 2111 Rio Grande St, Austin 78705
 **Council District:** 9
@@ -4899,7 +4920,7 @@
 
 ---
 
-### 492. Zoey Apartments
+### 494. Zoey Apartments
 
 **Address:** 5700 E Riverside Dr, Austin 78741
 **Council District:** 3
@@ -4909,7 +4930,7 @@
 
 ---
 
-### 493. Roosevelt Gardens
+### 495. Roosevelt Gardens
 
 **Address:** 5606 Roosevelt Avenue, Austin 78756
 **Council District:** 7
@@ -4919,7 +4940,7 @@
 
 ---
 
-### 494. Laurel Creek Apartments
+### 496. Laurel Creek Apartments
 
 **Address:** 11704 N Lamar Blvd, Austin 78753
 **Council District:** 7
@@ -4929,7 +4950,7 @@
 
 ---
 
-### 495. Bridge at Tech Crossing
+### 497. Bridge at Tech Crossing
 
 **Address:** 13624 Dessau Rd, Austin 78753
 **Council District:** None
@@ -4939,7 +4960,7 @@
 
 ---
 
-### 496. Fifteen15 South Lamar
+### 498. Fifteen15 South Lamar
 
 **Address:** 1515 South Lamar Blvd, Austin 78704
 **Council District:** 5
@@ -4949,7 +4970,7 @@
 
 ---
 
-### 497. The Mark at Austin
+### 499. The Mark at Austin
 
 **Address:** 812 W 23rd St, Austin 78705
 **Council District:** 9
@@ -4959,7 +4980,7 @@
 
 ---
 
-### 498. The Bowen
+### 500. The Bowen
 
 **Address:** 3000 Gracie Kiltz Ln, Austin 78758
 **Council District:** 7
@@ -4969,7 +4990,7 @@
 
 ---
 
-### 499. Yugo Austin Waterloo
+### 501. Yugo Austin Waterloo
 
 **Address:** 2400 Seton Ave, Austin 78705
 **Council District:** 9
@@ -4979,7 +5000,7 @@
 
 ---
 
-### 500. Zilker Studios
+### 502. Zilker Studios
 
 **Address:** 1508 S Lamar Blvd, Austin 78704
 **Council District:** 5
@@ -4989,7 +5010,7 @@
 
 ---
 
-### 501. Starlight
+### 503. Starlight
 
 **Address:** 2901 Manor Rd, Austin 78722
 **Council District:** 1
@@ -4999,7 +5020,7 @@
 
 ---
 
-### 502. Bell Lakeshore
+### 504. Bell Lakeshore
 
 **Address:** 2515 Elmont Drive, Austin 78741
 **Council District:** 3
@@ -5009,7 +5030,7 @@
 
 ---
 
-### 503. The Bond
+### 505. The Bond
 
 **Address:** 10300 Metropolitan Drive, Austin 78758
 **Council District:** 4
@@ -5019,7 +5040,7 @@
 
 ---
 
-### 504. Revolve ATX
+### 506. Revolve ATX
 
 **Address:** 112 Will Davis Drive, Austin 78752
 **Council District:** 4
@@ -5029,7 +5050,7 @@
 
 ---
 
-### 505. Arbors at Tallwood
+### 507. Arbors at Tallwood
 
 **Address:** 8810 Tallwood Drive, Austin 78759
 **Council District:** 10
@@ -5039,7 +5060,7 @@
 
 ---
 
-### 506. The Royce at 8100
+### 508. The Royce at 8100
 
 **Address:** 8100 Anderson Mill, Austin 78729
 **Council District:** 6
@@ -5049,7 +5070,7 @@
 
 ---
 
-### 507. Melrose Trail
+### 509. Melrose Trail
 
 **Address:** 13005 Heinemann Drive, Austin 78727
 **Council District:** None
@@ -5059,7 +5080,7 @@
 
 ---
 
-### 508. Lucent Apartments
+### 510. Lucent Apartments
 
 **Address:** 12201 Dessau Rd., Austin 78754
 **Council District:** None
@@ -5069,7 +5090,7 @@
 
 ---
 
-### 509. Bridge at Loyola Lofts
+### 511. Bridge at Loyola Lofts
 
 **Address:** 6400 Loyola Ln., Austin 78724
 **Council District:** 1
@@ -5079,7 +5100,7 @@
 
 ---
 
-### 510. The Aspect
+### 512. The Aspect
 
 **Address:** 4900 E. Oltorf, Austin 78741
 **Council District:** 7
@@ -5089,7 +5110,7 @@
 
 ---
 
-### 511. Bridge At Davenport Place
+### 513. Bridge At Davenport Place
 
 **Address:** 3301 Dessau Road, Austin 78754
 **Council District:** None
@@ -5099,7 +5120,7 @@
 
 ---
 
-### 512. Bridge at Canyon Creek
+### 514. Bridge at Canyon Creek
 
 **Address:** 9009 North FM 620, Austin 78726
 **Council District:** None
@@ -5109,7 +5130,7 @@
 
 ---
 
-### 513. Bridge At Monarch Bluffs
+### 515. Bridge At Monarch Bluffs
 
 **Address:** 8515 South IH 35, Austin 78744
 **Council District:** None
@@ -5119,7 +5140,7 @@
 
 ---
 
-### 514. Bridge At Steiner Ranch
+### 516. Bridge At Steiner Ranch
 
 **Address:** 4800 Steiner Ranch Blvd., Austin 78732
 **Council District:** None
@@ -5129,7 +5150,7 @@
 
 ---
 
-### 515. Preserve At Rolling Oaks
+### 517. Preserve At Rolling Oaks
 
 **Address:** 15450 FM 1325, Austin 78728
 **Council District:** None
@@ -5139,7 +5160,7 @@
 
 ---
 
-### 516. Solomon
+### 518. Solomon
 
 **Address:** 1414 E 51st St, Austin 78723
 **Council District:** 4
@@ -5149,7 +5170,7 @@
 
 ---
 
-### 517. Urban East
+### 519. Urban East
 
 **Address:** 6400 E Riverside Drive, Austin 78741
 **Council District:** 3
@@ -5159,7 +5180,7 @@
 
 ---
 
-### 518. Bridge at Balcones
+### 520. Bridge at Balcones
 
 **Address:** 12215 Hunters Chase Dr., Austin 78729
 **Council District:** None
@@ -5169,7 +5190,7 @@
 
 ---
 
-### 519. Bridge at Heritage Woods
+### 521. Bridge at Heritage Woods
 
 **Address:** 12205 N. Lamar Blvd., Austin 78753
 **Council District:** 7
@@ -5179,7 +5200,7 @@
 
 ---
 
-### 520. Alexan Braker Pointe
+### 522. Alexan Braker Pointe
 
 **Address:** 10801 North MoPac Expressway Bldg 4 , Austin 78759
 **Council District:** 7
@@ -5189,7 +5210,7 @@
 
 ---
 
-### 521. Timbercreek
+### 523. Timbercreek
 
 **Address:** 614 S. 1st Street, Austin 78704
 **Council District:** 9
@@ -5199,7 +5220,7 @@
 
 ---
 
-### 522. The Enclave
+### 524. The Enclave
 
 **Address:** 1005 W Stassney Ln, Austin 78745
 **Council District:** 2
@@ -5209,7 +5230,7 @@
 
 ---
 
-### 523. Bridge At Indigo
+### 525. Bridge At Indigo
 
 **Address:** 10800 Lakeline Blvd., Austin 78717
 **Council District:** None
@@ -5219,7 +5240,7 @@
 
 ---
 
-### 524. Bridge At Henley
+### 526. Bridge At Henley
 
 **Address:** 6107 E. Riverside, Austin 78741
 **Council District:** 0
@@ -5229,7 +5250,7 @@
 
 ---
 
-### 525. Moonlight Apartment Homes
+### 527. Moonlight Apartment Homes
 
 **Address:** 5204 Charles Merle Dr., Austin 78747
 **Council District:** 2
@@ -5239,7 +5260,7 @@
 
 ---
 
-### 526. Heritage Estates At Wells Branch
+### 528. Heritage Estates At Wells Branch
 
 **Address:** 14011 Owen Tech Blvd., Austin 78728
 **Council District:** None
@@ -5249,7 +5270,7 @@
 
 ---
 
-### 527. Estates at Norwood
+### 529. Estates at Norwood
 
 **Address:** 916 Norwood Park, Austin 78753
 **Council District:** 4
@@ -5259,7 +5280,7 @@
 
 ---
 
-### 528. Bridge At Canyon View
+### 530. Bridge At Canyon View
 
 **Address:** 4506 E. William Cannon, Austin 78744
 **Council District:** None
@@ -5269,7 +5290,7 @@
 
 ---
 
-### 529. The Preserve - Central Park
+### 531. The Preserve - Central Park
 
 **Address:** 6008-6010 N Lamar Blvd, Austin 78752
 **Council District:** 7
@@ -5279,7 +5300,7 @@
 
 ---
 
-### 530. Villa del Rey
+### 532. Villa del Rey
 
 **Address:** 4000 Avenue A, Austin 78751
 **Council District:** 9
@@ -5289,7 +5310,7 @@
 
 ---
 
-### 531. Alara North Burnet
+### 533. Alara North Burnet
 
 **Address:** 1735 Rutland Drive, Austin 78758
 **Council District:** 4
@@ -5299,7 +5320,7 @@
 
 ---
 
-### 532. Bridge at Delco Flats
+### 534. Bridge at Delco Flats
 
 **Address:** 7601 Springdale Rd, Austin 78742
 **Council District:** 1
@@ -5309,7 +5330,7 @@
 
 ---
 
-### 533. Bridge at Paloma
+### 535. Bridge at Paloma
 
 **Address:** 9911 Dessau Rd, Austin 78754
 **Council District:** 1
@@ -5319,7 +5340,7 @@
 
 ---
 
-### 534. Rivette Tower
+### 536. Rivette Tower
 
 **Address:** 3901 Berkman Drive, Austin 78723
 **Council District:** 9
@@ -5329,7 +5350,7 @@
 
 ---
 
-### 535. Broadstone North ATX
+### 537. Broadstone North ATX
 
 **Address:** 10605 Delta Drive, Austin 78758
 **Council District:** 4
@@ -5339,7 +5360,7 @@
 
 ---
 
-### 536. Citizen House Bergstrom
+### 538. Citizen House Bergstrom
 
 **Address:** 7733 Burleson Rd, Austin 78744
 **Council District:** None
@@ -5349,7 +5370,7 @@
 
 ---
 
-### 537. Persimmon Point
+### 539. Persimmon Point
 
 **Address:** 7051 Meadow Lake Boulevard, Austin 78744
 **Council District:** 2
@@ -5359,7 +5380,7 @@
 
 ---
 
-### 538. The Met
+### 540. The Met
 
 **Address:** 10101 Metropolitan Drive, Austin 78758
 **Council District:** 4
@@ -5369,7 +5390,7 @@
 
 ---
 
-### 539. Lakeside at La Frontera
+### 541. Lakeside at La Frontera
 
 **Address:** 941 Hesters Crossing, Round Rock 78681
 **Council District:** None
@@ -5379,7 +5400,7 @@
 
 ---
 
-### 540. Bridge at Three Hills
+### 542. Bridge at Three Hills
 
 **Address:** 12001 Heatherly Drive, Austin 78747
 **Council District:** 5
@@ -5389,7 +5410,7 @@
 
 ---
 
-### 541. Avelyn San Marcos
+### 543. Avelyn San Marcos
 
 **Address:** 702 Celebration Way, San Marcos 78666
 **Council District:** None
@@ -5399,17 +5420,17 @@
 
 ---
 
-### 542. Brook Meadow Village
+### 544. Brook Meadow Village
 
 **Address:** 10300 Golden Meadow Drive, Austin 78758
 **Council District:** 4
 **Total Units:** 156
-**Income-Restricted Units:** 141
+**Income-Restricted Units:** 84
 **Website:** [www.brook-meadow.com](www.brook-meadow.com)
 
 ---
 
-### 543. Bridge at Windsor Park
+### 545. Bridge at Windsor Park
 
 **Address:** 6007 N IH 35, Austin 78723
 **Council District:** 9
@@ -5419,7 +5440,7 @@
 
 ---
 
-### 544. The Mercury
+### 546. The Mercury
 
 **Address:** 601 Cardinal Ln, Austin 78704
 **Council District:** 3
@@ -5429,7 +5450,7 @@
 
 ---
 
-### 545. Alexan Rivercrest
+### 547. Alexan Rivercrest
 
 **Address:** 1301 Parker Lane, Austin 78741
 **Council District:** 3
@@ -5439,7 +5460,7 @@
 
 ---
 
-### 546. Alexan Riverside
+### 548. Alexan Riverside
 
 **Address:** 1400 Royal Crest Dr, Austin 78741
 **Council District:** 3
@@ -5449,7 +5470,7 @@
 
 ---
 
-### 547. Highgrove
+### 549. Highgrove
 
 **Address:** 5900 Cameron Road, Austin 78723
 **Council District:** 4
@@ -5459,7 +5480,7 @@
 
 ---
 
-### 548. Ellis Highline
+### 550. Ellis Highline
 
 **Address:** 6324 N Lamar Blvd, Austin 78752
 **Council District:** 7
@@ -5469,7 +5490,7 @@
 
 ---
 
-### 549. Parker Lane Apartments
+### 551. Parker Lane Apartments
 
 **Address:** 2105 Parker Lane, Austin 78741
 **Council District:** 3
@@ -5479,7 +5500,7 @@
 
 ---
 
-### 550. The Ladybird Senior Apartments
+### 552. The Ladybird Senior Apartments
 
 **Address:** 1320 Art Dilly Dr, Austin 78702
 **Council District:** 3
@@ -5489,7 +5510,7 @@
 
 ---
 
-### 551. June West
+### 553. June West
 
 **Address:** 1200 W Koenig Ln, Austin 78756
 **Council District:** 7
@@ -5499,7 +5520,7 @@
 
 ---
 
-### 552. Residences at Decker
+### 554. Residences at Decker
 
 **Address:** 9000 Decker Ln, Austin 78724
 **Council District:** None
@@ -5509,7 +5530,7 @@
 
 ---
 
-### 553. Bridge at Southpark Landing
+### 555. Bridge at Southpark Landing
 
 **Address:** 420 West Slaughter, Austin 78748
 **Council District:** None
@@ -5519,7 +5540,7 @@
 
 ---
 
-### 554. Bridge at Austin City Lights
+### 556. Bridge at Austin City Lights
 
 **Address:** 501 East Stassney Ln, Austin 78745
 **Council District:** None
@@ -5529,7 +5550,7 @@
 
 ---
 
-### 555. The Belmont
+### 557. The Belmont
 
 **Address:** 9100 Brown Lane, Austin 78754
 **Council District:** None
@@ -5539,7 +5560,7 @@
 
 ---
 
-### 556. Henderson on Reinli
+### 558. Henderson on Reinli
 
 **Address:** 1101 Reinii St, Austin 78723
 **Council District:** None
@@ -5549,7 +5570,7 @@
 
 ---
 
-### 557. Cedar Heights Apartments
+### 559. Cedar Heights Apartments
 
 **Address:** 3339 Caseybridge Ct, Austin 78744
 **Council District:** 2
@@ -5559,7 +5580,7 @@
 
 ---
 
-### 558. Paseo
+### 560. Paseo
 
 **Address:** 80 Rainey St, Austin 78701
 **Council District:** 9
@@ -5569,7 +5590,7 @@
 
 ---
 
-### 559. La Cima Apartments
+### 561. La Cima Apartments
 
 **Address:** 3200 Montopolis Drive, Austin 78744
 **Council District:** 2
@@ -5579,7 +5600,7 @@
 
 ---
 
-### 560. Ivy Heights Apartments
+### 562. Ivy Heights Apartments
 
 **Address:** 7013 E William Cannon Drive, Austin 78744
 **Council District:** 2
@@ -5589,7 +5610,7 @@
 
 ---
 
-### 561. Carson Crossing Apartments
+### 563. Carson Crossing Apartments
 
 **Address:** 3335 Caseybridge Ct, Austin 78744
 **Council District:** 2
@@ -5599,7 +5620,7 @@
 
 ---
 
-### 562. Red Oaks
+### 564. Red Oaks
 
 **Address:** 11723 N FM 620, Austin 78750
 **Council District:** 6
@@ -5609,7 +5630,7 @@
 
 ---
 
-### 563. The Meadow
+### 565. The Meadow
 
 **Address:** 6220 Daniel Alexander Way, Austin 78744
 **Council District:** None
@@ -5619,7 +5640,7 @@
 
 ---
 
-### 564. Spring Villas
+### 566. Spring Villas
 
 **Address:** 7450 Bluff Springs Road, Austin 78744
 **Council District:** None
@@ -5629,7 +5650,7 @@
 
 ---
 
-### 565. Bungalows at Century Park
+### 567. Bungalows at Century Park
 
 **Address:** 13311 Burnet Rd, Austin 78727
 **Council District:** 7
@@ -5639,7 +5660,7 @@
 
 ---
 
-### 566. Eastpoint
+### 568. Eastpoint
 
 **Address:** 760 Airport Blvd, Austin 78702
 **Council District:** 3
@@ -5649,7 +5670,7 @@
 
 ---
 
-### 567. The Adler
+### 569. The Adler
 
 **Address:** 4209 Speedway Ave, Austin 78751
 **Council District:** 9
@@ -5659,17 +5680,17 @@
 
 ---
 
-### 568. Siesta Place
+### 570. Siesta Place
 
 **Address:** 609 E 45 St, Austin 78751
 **Council District:** 9
 **Total Units:** 12
-**Income-Restricted Units:** 0
+**Income-Restricted Units:** None
 **Website:** [https://siestaplace.thepreservehydepark.com/](https://siestaplace.thepreservehydepark.com/)
 
 ---
 
-### 569. Del Mar
+### 571. Del Mar
 
 **Address:** 4415 Avenue B, Austin 78751
 **Council District:** 9
@@ -5679,7 +5700,7 @@
 
 ---
 
-### 570. The Preserve - Quail Creek
+### 572. The Preserve - Quail Creek
 
 **Address:** 9008 Galewood Dr, Austin 78758
 **Council District:** 4
@@ -5689,12 +5710,22 @@
 
 ---
 
-### 571. Lenox Burnet
+### 573. Lenox Burnet
 
 **Address:** 6801 Burnet Rd, Austin 78757
 **Council District:** 7
 **Total Units:** 314
 **Income-Restricted Units:** 18
 **Website:** [https://lenoxburnet.com](https://lenoxburnet.com)
+
+---
+
+### 574. Avonmora
+
+**Address:** 4501 E Riverside Dr, Austin 78741
+**Council District:** 3
+**Total Units:** 252
+**Income-Restricted Units:** 126
+**Website:** [https://www.liveavonmora.com/](https://www.liveavonmora.com/)
 
 ---

@@ -6,10 +6,63 @@ Much faster and more reliable than DOM scraping
 """
 
 import json
+import re
+import html
 import time
 import urllib.request
 import urllib.error
 from datetime import datetime
+
+
+def clean_html_to_markdown(html_text):
+    """
+    Convert HTML job description to clean markdown
+
+    Args:
+        html_text: HTML string from API
+
+    Returns:
+        Clean markdown-formatted text
+    """
+    if not html_text:
+        return ''
+
+    text = html_text
+
+    # Convert common HTML elements to markdown
+    text = re.sub(r'<strong>(.*?)</strong>', r'**\1**', text, flags=re.DOTALL)
+    text = re.sub(r'<b>(.*?)</b>', r'**\1**', text, flags=re.DOTALL)
+    text = re.sub(r'<em>(.*?)</em>', r'*\1*', text, flags=re.DOTALL)
+    text = re.sub(r'<i>(.*?)</i>', r'*\1*', text, flags=re.DOTALL)
+
+    # Convert lists
+    text = re.sub(r'<li[^>]*>', '- ', text)
+    text = re.sub(r'</li>', '', text)
+    text = re.sub(r'<ul[^>]*>', '\n', text)
+    text = re.sub(r'</ul>', '\n', text)
+    text = re.sub(r'<ol[^>]*>', '\n', text)
+    text = re.sub(r'</ol>', '\n', text)
+
+    # Convert paragraphs and line breaks
+    text = re.sub(r'<br\s*/?>', '\n', text)
+    text = re.sub(r'<p[^>]*>', '\n', text)
+    text = re.sub(r'</p>', '\n', text)
+    text = re.sub(r'<div[^>]*>', '\n', text)
+    text = re.sub(r'</div>', '', text)
+
+    # Remove remaining HTML tags
+    text = re.sub(r'<[^>]+>', '', text)
+
+    # Decode HTML entities
+    text = html.unescape(text)
+
+    # Clean up whitespace
+    text = re.sub(r'[ \t]+', ' ', text)  # Multiple spaces to single
+    text = re.sub(r'\n\s*\n\s*\n+', '\n\n', text)  # Multiple newlines to double
+    text = re.sub(r'^\s+', '', text, flags=re.MULTILINE)  # Leading whitespace per line
+    text = text.strip()
+
+    return text
 
 
 def fetch_jobs_list(skip=0, top=20):
@@ -261,6 +314,127 @@ def save_jobs(jobs, filename='data/jobs.json'):
     print(f"\n✓ Saved {len(jobs)} jobs to {filename}")
 
 
+def save_jobs_markdown(jobs, filename=None):
+    """Save jobs to markdown file"""
+    now = datetime.now()
+
+    # Generate filename with date format: MM_DD_YY_Goodwill_Jobs.md
+    if filename is None:
+        date_prefix = now.strftime('%m_%d_%y')
+        filename = f'data/{date_prefix}_Goodwill_Jobs.md'
+
+    # Group jobs by category
+    categories = {}
+    for job in jobs:
+        title = job.get('title', 'Other')
+        # Simplify title to category
+        if 'Manager' in title or 'Director' in title or 'Supervisor' in title:
+            category = 'Management & Leadership'
+        elif 'Teacher' in title or 'Instructor' in title or 'Coordinator' in title:
+            category = 'Education & Training'
+        elif 'Sales Associate' in title or 'Outlet Sales' in title:
+            category = 'Sales'
+        elif 'Merchandise Processor' in title:
+            category = 'Merchandise Processing'
+        elif 'eCommerce' in title or 'E-Commerce' in title or 'E-commerce' in title:
+            category = 'eCommerce'
+        elif 'Custodian' in title or 'Custodial' in title:
+            category = 'Custodial Services'
+        elif 'Driver' in title or 'Material Handler' in title or 'ADC Attendant' in title:
+            category = 'Warehouse & Transportation'
+        elif 'Child' in title or 'Early Childhood' in title:
+            category = 'Child Development'
+        else:
+            category = 'Other Positions'
+
+        if category not in categories:
+            categories[category] = []
+        categories[category].append(job)
+
+    # Build markdown content
+    lines = [
+        f"# Goodwill Central Texas Job Listings",
+        f"",
+        f"**Last Updated:** {now.strftime('%B %d, %Y at %I:%M %p')}",
+        f"",
+        f"**Total Positions:** {len(jobs)}",
+        f"",
+        f"---",
+        f"",
+    ]
+
+    # Table of contents
+    lines.append("## Quick Navigation")
+    lines.append("")
+    for category in sorted(categories.keys()):
+        anchor = category.lower().replace(' ', '-').replace('&', '').replace('--', '-')
+        count = len(categories[category])
+        lines.append(f"- [{category}](#{anchor}) ({count})")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+
+    # Job listings by category
+    for category in sorted(categories.keys()):
+        anchor = category.lower().replace(' ', '-').replace('&', '').replace('--', '-')
+        lines.append(f"## {category}")
+        lines.append("")
+
+        # Sort by posted date (newest first)
+        cat_jobs = sorted(categories[category],
+                         key=lambda x: x.get('posted_date', ''),
+                         reverse=True)
+
+        for job in cat_jobs:
+            title = job.get('title', 'N/A')
+            location = job.get('location', 'N/A')
+            city = job.get('city', '')
+            job_type = job.get('job_type', 'N/A')
+            salary = job.get('salary', '')
+            url = job.get('url', '')
+            posted = job.get('posted_date', '')
+
+            # Format posted date
+            if posted:
+                try:
+                    dt = datetime.fromisoformat(posted.replace('Z', '+00:00'))
+                    posted_fmt = dt.strftime('%b %d, %Y')
+                except:
+                    posted_fmt = posted[:10] if len(posted) >= 10 else posted
+            else:
+                posted_fmt = 'N/A'
+
+            lines.append(f"### {title}")
+            lines.append("")
+            lines.append(f"- **Location:** {location}")
+            lines.append(f"- **Type:** {job_type}")
+            if salary:
+                lines.append(f"- **Salary:** {salary}")
+            lines.append(f"- **Posted:** {posted_fmt}")
+            if url:
+                lines.append(f"- **[Apply Here]({url})**")
+            lines.append("")
+
+            # Add full job description
+            description = job.get('description', '')
+            if description:
+                clean_desc = clean_html_to_markdown(description)
+                if clean_desc:
+                    lines.append("#### Job Description")
+                    lines.append("")
+                    lines.append(clean_desc)
+                    lines.append("")
+
+        lines.append("---")
+        lines.append("")
+
+    # Write to file
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+
+    print(f"✓ Saved markdown report to {filename}")
+
+
 def main():
     import sys
 
@@ -274,6 +448,7 @@ def main():
 
     if jobs:
         save_jobs(jobs)
+        save_jobs_markdown(jobs)
 
         # Print summary
         print("\n" + "=" * 60)

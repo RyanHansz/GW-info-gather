@@ -282,10 +282,22 @@ def scrape_all_cat_classes():
 
 def save_results(classes, filename='data/cat_classes.json'):
     """Save results to JSON file"""
+    # Add summary fields to each class for easier diffing
+    for cls in classes:
+        valid_sessions = [s for s in cls['sessions'] if s.get('date')]
+        cls['total_sessions'] = len(valid_sessions)
+        cls['available_sessions'] = len([s for s in valid_sessions if not s['is_full'] and not s.get('is_past', False)])
+
+    # Calculate totals
+    total_sessions = sum(c['total_sessions'] for c in classes)
+    available_sessions = sum(c['available_sessions'] for c in classes)
+
     output = {
         'scraped_at': datetime.now().isoformat(),
         'source': 'Goodwill Central Texas - Career Advancement Training Wufoo Forms',
         'total_classes': len(classes),
+        'total_sessions': total_sessions,
+        'available_sessions': available_sessions,
         'classes': classes
     }
 
@@ -295,11 +307,358 @@ def save_results(classes, filename='data/cat_classes.json'):
     print(f"\n✓ Saved {len(classes)} classes to {filename}")
 
 
+def save_markdown_report(classes, filename=None):
+    """Save classes to markdown report"""
+    now = datetime.now()
+
+    # Generate filename with date format: MM_DD_YY_CAT_Classes.md
+    if filename is None:
+        date_prefix = now.strftime('%m_%d_%y')
+        filename = f'data/{date_prefix}_CAT_Classes.md'
+
+    # Class catalog information from 2025 CAT Catalog
+    class_catalog = {
+        'Career Advancement Essentials': {
+            'description': 'A comprehensive week-long program designed to equip clients with the tools needed for career readiness. Topics include job application and interview preparation, soft skills development, self-advocacy, and much more.',
+            'duration': '3 hours/day (week-long)',
+            'requirements': 'Completed Indeed Lab and signed checklist required.'
+        },
+        'Virtual Career Advancement Essentials': {
+            'description': 'Virtual program tailored for clients with scheduling, transportation, or childcare challenges. Participants engage through a dedicated Google Classroom where assignments are posted, feedback is provided, and progress is tracked. Includes a virtual mock interview with a trainer.',
+            'duration': '3 hours/day (week-long)',
+            'requirements': 'Completed Indeed Lab and signed checklist required.'
+        },
+        'Indeed Lab': {
+            'description': 'Group training designed to help clients enhance their digital resumes and job search skills, with a focus on best practices that can be applied across all job search platforms. Clients work closely with a trainer to build and/or refine their resumes.',
+            'duration': '2 hours',
+            'requirements': 'Access to Indeed and email account.'
+        },
+        'Wonderlic Prep & Practice': {
+            'description': 'Designed to support clients advancing toward GCTA occupational training programs by enhancing skills and boosting confidence for the Wonderlic assessment. Includes a PowerPoint presentation with tips/strategies (1 hour) and a timed practice test with review (1 hour).',
+            'duration': '2 hours',
+            'requirements': None
+        },
+        'Interview Preparation & Practice': {
+            'description': 'Learn interview preparation techniques, verbal and non-verbal communication, and elements for a successful interview. Includes time to practice answering questions and receive feedback. Clients will create a professional pitch and learn to make good first and last impressions.',
+            'duration': '2 hours',
+            'requirements': None
+        },
+        'Computer Basics/Keyboarding': {
+            'description': 'Clients are set up with a NorthStar learner account (free, accessible from any device). Covers Essential Computer Skills (Computer Basics, Internet, Email, Windows/Mac), Essential Software Skills (Word, Excel, PowerPoint, Google Docs), and Using Technology (social media, information literacy, telehealth). Keyboarding uses Typing.com.',
+            'duration': '2 hours',
+            'requirements': None
+        },
+        'Budgeting Basics': {
+            'description': 'Highlights the importance of creating and maintaining a budget to achieve financial goals. Participants learn practical steps to start and manage a budget effectively, explore budgeting tools and strategies, and differentiate between needs and wants.',
+            'duration': '1.5 hours',
+            'requirements': None
+        },
+        'Credit Basics': {
+            'description': 'Learn the concept of credit, types of credit, and how credit history can affect your future. Covers credit terms, factors creditors look for when making decisions, and ways to build and repair credit.',
+            'duration': '1 hour',
+            'requirements': None
+        },
+        'Digital Skills 1:1': {
+            'description': 'One-on-one training covering: NorthStar Computer Basics, Email Basics (setup, compose, attachments, spam), Smartphone Basics (iPhone/Android functions, settings, voicemail), Microsoft Office (Word, Excel, PowerPoint), or Google Workspace (Docs, Sheets, Slides, Drive).',
+            'duration': '1 hour',
+            'requirements': None
+        },
+        'Financial Empowerment Training': {
+            'description': 'One-on-one financial literacy sessions covering: Budgeting Basics, Credit Basics, Savings Basics, Predatory Loans awareness, Online Safety, and Managing Finances Online. Topics can be customized to client needs.',
+            'duration': '1 hour',
+            'requirements': None
+        },
+        'Job Preparation 1:1': {
+            'description': 'One-on-one job preparation covering: Indeed resume support, Cover Letters, Letter of Explanation (for criminal background), Job Application Skills, Soft Skills (communication, advocacy, time management), JOFI Career Exploration assessments, and Mock Interviews using the STAR method.',
+            'duration': '1 hour',
+            'requirements': None
+        },
+        'Online Safety': {
+            'description': 'Learn essentials of protecting personal and financial information online. Covers common online security risks and scams, best practices for securing accounts and data, and builds confidence in managing online safety.',
+            'duration': '1 hour',
+            'requirements': None
+        },
+        'AI Basics': {
+            'description': 'Learn how Artificial Intelligence (AI) can assist with the job search process including: Resume Optimization, Cover Letter writing, Interview Preparation, and Skills Development.',
+            'duration': '1 hour',
+            'requirements': None
+        }
+    }
+
+    # Location info with addresses
+    location_info = {
+        'GRC': {
+            'name': 'GRC - Goodwill Resource Center (South Austin)',
+            'address': '1015 Norwood Park Blvd, Austin, TX 78753'
+        },
+        'GCC': {
+            'name': 'GCC - Goodwill Community Center (North Austin)',
+            'address': '6505 Burleson Rd, Austin, TX 78744'
+        }
+    }
+
+    # Calculate stats
+    total_sessions = 0
+    available_sessions = 0
+    future_sessions = 0
+    total_spaces = 0
+
+    grc_classes = 0
+    grc_sessions = 0
+    grc_spaces = 0
+    gcc_classes = 0
+    gcc_sessions = 0
+    gcc_spaces = 0
+
+    for cls in classes:
+        valid_sessions = [s for s in cls['sessions'] if s.get('date')]
+        total_sessions += len(valid_sessions)
+
+        loc_spaces = sum(s.get('spots_remaining', 0) for s in valid_sessions if not s.get('is_full', True))
+
+        if cls['location'] == 'GRC':
+            grc_classes += 1
+            grc_sessions += len(valid_sessions)
+            grc_spaces += loc_spaces
+        else:
+            gcc_classes += 1
+            gcc_sessions += len(valid_sessions)
+            gcc_spaces += loc_spaces
+
+        for session in valid_sessions:
+            if not session['is_full']:
+                available_sessions += 1
+                total_spaces += session.get('spots_remaining', 0)
+            if not session.get('is_past', False):
+                future_sessions += 1
+
+    # Build markdown
+    lines = [
+        "# Goodwill Central Texas",
+        "# Career Advancement Training (CAT) Classes",
+        "",
+        f"**Generated:** {now.strftime('%B %d, %Y at %I:%M %p')}",
+        "",
+        "---",
+        "",
+        "## Summary",
+        "",
+        "| Location | Classes | Sessions | Available Spaces |",
+        "|----------|---------|----------|------------------|",
+        f"| {location_info['GRC']['name'].split(' - ')[0]} (South Austin) | {grc_classes} | {grc_sessions} | {grc_spaces} |",
+        f"| {location_info['GCC']['name'].split(' - ')[0]} (North Austin) | {gcc_classes} | {gcc_sessions} | {gcc_spaces} |",
+        f"| **TOTAL** | **{len(classes)}** | **{total_sessions}** | **{total_spaces}** |",
+        "",
+        "---",
+        "",
+    ]
+
+    # Process each location
+    for location in ['GRC', 'GCC']:
+        loc_info = location_info[location]
+        lines.append(f"## {loc_info['name']}")
+        lines.append("")
+        lines.append(f"*{loc_info['address']}*")
+        lines.append("")
+
+        location_classes = [c for c in classes if c['location'] == location]
+
+        for cls in sorted(location_classes, key=lambda x: x['class_name']):
+            valid_sessions = [s for s in cls['sessions'] if s.get('date')]
+            available = len([s for s in valid_sessions if not s['is_full']])
+            upcoming_sessions = [s for s in valid_sessions if not s.get('is_past', False)]
+            class_spaces = sum(s.get('spots_remaining', 0) for s in valid_sessions if not s.get('is_full', True))
+
+            lines.append(f"### {cls['class_name']}")
+            lines.append("")
+            lines.append(f"**Location:** {loc_info['name']} — {loc_info['address']}")
+            lines.append("")
+
+            # Add catalog description if available
+            catalog_info = class_catalog.get(cls['class_name'])
+            if catalog_info:
+                lines.append(f"*{catalog_info['description']}*")
+                lines.append("")
+                duration_req = f"**Duration:** {catalog_info['duration']}"
+                if catalog_info.get('requirements'):
+                    duration_req += f" | **Requirements:** {catalog_info['requirements']}"
+                lines.append(duration_req)
+                lines.append("")
+
+            # Availability alert (matching PDF style)
+            if len(valid_sessions) == 0:
+                lines.append("> **📢 No sessions currently scheduled.** Check back soon!")
+            elif class_spaces == 0:
+                lines.append("> **📢 All sessions are currently full.** Check back for new openings!")
+            else:
+                lines.append(f"> **✅ Spaces available!** {class_spaces} total spots across {available} sessions")
+            lines.append("")
+
+            lines.append(f"**Sign-up URL:** {cls['form_url']}")
+            lines.append("")
+            lines.append(f"**Total Sessions:** {len(valid_sessions)} | **Available Spaces:** {class_spaces}")
+            lines.append("")
+
+            if valid_sessions:
+                lines.append("| Date | Time | Instructor | Spaces | Status |")
+                lines.append("|------|------|------------|--------|--------|")
+
+                # Sort by date
+                sorted_sessions = sorted(valid_sessions, key=lambda x: x.get('date', '') or '')
+
+                for session in sorted_sessions:
+                    date_str = session.get('date_display', 'TBD')
+                    time_str = session.get('time_display', 'TBD') or 'TBD'
+                    instructor = session.get('instructor', 'TBD') or 'TBD'
+                    spots = session.get('spots_remaining', 0)
+                    is_past = session.get('is_past', False)
+                    is_full = session.get('is_full', False)
+
+                    # Status column
+                    if is_past:
+                        status = "Past"
+                    elif is_full:
+                        status = "**Full**"
+                    else:
+                        status = "**Available**"
+
+                    spots_str = str(spots)
+
+                    # Format past sessions
+                    if is_past:
+                        date_str = f"~~{date_str}~~"
+                        time_str = f"~~{time_str}~~"
+                        spots_str = f"~~{spots}~~"
+
+                    lines.append(f"| {date_str} | {time_str} | {instructor} | {spots_str} | {status} |")
+
+                lines.append("")
+
+            lines.append("---")
+            lines.append("")
+
+    # Footer
+    lines.append("*This report is automatically generated from Goodwill Central Texas Wufoo registration forms.*")
+
+    # Write to file
+    with open(filename, 'w') as f:
+        f.write('\n'.join(lines))
+
+    print(f"✓ Saved markdown report to {filename}")
+
+
+def generate_pdf_report(classes, filename=None):
+    """Generate PDF report from classes data"""
+    try:
+        # Import the PDF generator
+        import sys
+        import os
+
+        # Add parent directory to path to import the PDF generator
+        sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+        from generate_pdf_report import PDFReport
+
+        now = datetime.now()
+
+        # Generate filename with date format
+        if filename is None:
+            date_prefix = now.strftime('%m_%d_%y')
+            filename = f'data/{date_prefix}_CAT_Classes.pdf'
+
+        # Convert data to the format expected by PDFReport
+        # Group by location
+        locations_data = {}
+
+        location_info = {
+            'GRC': {
+                'name': 'Goodwill Resource Center (South Austin)',
+                'address': '1015 Norwood Park Blvd, Austin, TX 78753'
+            },
+            'GCC': {
+                'name': 'Goodwill Community Center (North Austin)',
+                'address': '6505 Burleson Rd, Austin, TX 78744'
+            }
+        }
+
+        for cls in classes:
+            loc_code = cls['location']
+            loc_name = location_info.get(loc_code, {}).get('name', cls['location_full'])
+            loc_addr = location_info.get(loc_code, {}).get('address', '')
+
+            if loc_name not in locations_data:
+                locations_data[loc_name] = {
+                    'address': loc_addr,
+                    'classes': {}
+                }
+
+            # Convert sessions to offerings format
+            offerings = []
+            total_spaces = 0
+            valid_sessions = [s for s in cls['sessions'] if s.get('date')]
+
+            for session in valid_sessions:
+                date_time = session.get('date_display', '')
+                if session.get('time_display'):
+                    date_time += f", {session['time_display']}"
+
+                offerings.append({
+                    'date_time': date_time,
+                    'trainer': session.get('instructor', 'TBD') or 'TBD',
+                    'spaces_remaining': session.get('spots_remaining', 0)
+                })
+
+                if not session.get('is_full', True):
+                    total_spaces += session.get('spots_remaining', 0)
+
+            # Create availability message
+            if len(valid_sessions) == 0:
+                avail_msg = "No sessions currently scheduled. Check back soon!"
+            elif total_spaces == 0:
+                avail_msg = "All sessions are currently full. Check back for new openings!"
+            else:
+                avail_msg = f"Spaces available! Sign up at: {cls['form_url']}"
+
+            locations_data[loc_name]['classes'][cls['class_name']] = {
+                'url': cls['form_url'],
+                'total_offerings': len(valid_sessions),
+                'total_spaces': total_spaces,
+                'offerings': offerings,
+                'availability_message': avail_msg,
+                'is_cat_class': True
+            }
+
+        # Save converted data to temp file for PDF generator
+        pdf_data = {
+            'scrape_date': now.date().isoformat(),
+            'filter_note': 'Career Advancement Training Classes',
+            'locations': locations_data
+        }
+
+        temp_json = 'data/cat_classes_pdf_temp.json'
+        with open(temp_json, 'w') as f:
+            json.dump(pdf_data, f, indent=2)
+
+        # Generate PDF
+        pdf_gen = PDFReport(temp_json)
+        pdf_gen.generate_pdf(filename)
+
+        # Clean up temp file
+        os.remove(temp_json)
+
+        print(f"✓ Saved PDF report to {filename}")
+
+    except ImportError as e:
+        print(f"⚠ Could not generate PDF (missing reportlab?): {e}")
+    except Exception as e:
+        print(f"⚠ Error generating PDF: {e}")
+
+
 def main():
     classes = scrape_all_cat_classes()
 
     if classes:
         save_results(classes)
+        save_markdown_report(classes)
 
         # Print summary
         print("\n" + "=" * 70)
@@ -312,16 +671,6 @@ def main():
         print(f"\nTotal Classes: {len(classes)}")
         print(f"Total Sessions: {total_sessions}")
         print(f"Available Sessions: {available_sessions}")
-
-        print("\nSample Classes:")
-        for i, cls in enumerate(classes[:3], 1):
-            print(f"\n{i}. {cls['class_name']} ({cls['location']})")
-            print(f"   URL: {cls['form_url']}")
-            print(f"   Sessions: {len(cls['sessions'])}")
-            if cls['sessions']:
-                session = cls['sessions'][0]
-                print(f"   Next: {session['date_display']} at {session['time_display']}")
-                print(f"         {session['spots_remaining']} spots remaining")
 
         print(f"\n✓ Successfully scraped {len(classes)} CAT classes!")
     else:

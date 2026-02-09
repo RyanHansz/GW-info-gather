@@ -20,8 +20,8 @@ def get_drive_service():
     return build('drive', 'v3', credentials=creds)
 
 
-def upload_file(service, filepath, folder_id):
-    filename = os.path.basename(filepath)
+def upload_file(service, filepath, folder_id, upload_name=None):
+    filename = upload_name or os.path.basename(filepath)
     mime = 'text/markdown' if filepath.endswith('.md') else 'application/json'
 
     # Check if file already exists in folder (update instead of duplicate)
@@ -52,14 +52,16 @@ def main():
     folder_id = os.environ['GOOGLE_DRIVE_FOLDER_ID']
     service = get_drive_service()
 
-    # Upload JSON files
-    for filepath in ['data/jobs.json', 'data/cat_classes.json']:
-        if os.path.exists(filepath):
-            upload_file(service, filepath, folder_id)
-
-    # Upload today's markdown reports (use glob to find them reliably)
     est = timezone(timedelta(hours=-5))
     today = datetime.now(est).strftime('%m_%d_%y')
+
+    # Upload JSON files with date prefix so they don't overwrite
+    for filepath, label in [('data/jobs.json', f'{today}_jobs.json'),
+                            ('data/cat_classes.json', f'{today}_cat_classes.json')]:
+        if os.path.exists(filepath):
+            upload_file(service, filepath, folder_id, upload_name=label)
+
+    # Upload today's markdown reports
     for pattern in [f'data/{today}_Goodwill_Jobs.md', f'data/{today}_CAT_Classes.md']:
         matches = glob.glob(pattern)
         for filepath in matches:

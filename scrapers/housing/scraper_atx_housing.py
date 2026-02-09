@@ -130,6 +130,91 @@ def save_properties(properties, filename='data/housing_properties.json'):
     print(f"\n✓ Saved {len(properties)} properties to {filename}")
 
 
+def save_markdown(properties, filename='data/housing_properties.md'):
+    """
+    Save properties to markdown file
+
+    Args:
+        properties: List of property dictionaries
+        filename: Output file path
+    """
+    now = datetime.now()
+
+    # Calculate statistics
+    total_units = sum(p.get('total_units', 0) for p in properties if p.get('total_units'))
+    restricted_units = sum(p.get('total_income_restricted_units', 0) for p in properties if p.get('total_income_restricted_units'))
+
+    # Count by district
+    districts = {}
+    for prop in properties:
+        district = prop.get('council_district')
+        if district:
+            districts[district] = districts.get(district, 0) + 1
+
+    # Build markdown content
+    lines = []
+    lines.append("# Austin Affordable Housing Properties")
+    lines.append("")
+    lines.append(f"**Last Updated:** {now.strftime('%B %d, %Y at %I:%M %p')}")
+    lines.append(f"**Total Properties:** {len(properties)}")
+    lines.append("**Source:** [ATX Affordable Housing Portal](https://www.atxaffordablehousing.net/)")
+    lines.append("")
+    lines.append("## Summary Statistics")
+    lines.append("")
+    lines.append(f"- **Total Units:** {total_units:,}")
+    lines.append(f"- **Income-Restricted Units:** {restricted_units:,}")
+    lines.append("")
+    lines.append("### Properties by Council District")
+    lines.append("")
+    lines.append("| District | Properties |")
+    lines.append("|----------|------------|")
+    for district in sorted(districts.keys()):
+        lines.append(f"| {district} | {districts[district]} |")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append("## Property Listings")
+
+    # Add each property
+    for i, prop in enumerate(properties, 1):
+        lines.append("")
+        lines.append(f"### {i}. {prop.get('property_name', 'N/A')}")
+        lines.append("")
+
+        address = prop.get('address', '')
+        city = prop.get('city', 'Austin')
+        zipcode = prop.get('zipcode', '')
+        lines.append(f"**Address:** {address}, {city} {zipcode}")
+
+        lines.append(f"**Council District:** {prop.get('council_district', 'None')}")
+        lines.append(f"**Total Units:** {prop.get('total_units', 'N/A')}")
+
+        restricted = prop.get('total_income_restricted_units')
+        lines.append(f"**Income-Restricted Units:** {restricted if restricted else 'None'}")
+
+        if prop.get('website'):
+            website = prop.get('website')
+            lines.append(f"**Website:** [{website}]({website})")
+
+        if prop.get('contact_phone'):
+            lines.append(f"**Phone:** {prop.get('contact_phone')}")
+
+        if prop.get('accepts_section_8') == 'Yes':
+            lines.append("**Accepts Section 8:** Yes")
+
+        if prop.get('allows_pet') == 'Yes':
+            lines.append("**Pet-Friendly:** Yes")
+
+        lines.append("")
+        lines.append("---")
+
+    # Write to file
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines))
+
+    print(f"✓ Saved markdown report to {filename}")
+
+
 def main():
     print("=" * 60)
     print("Austin Affordable Housing Scraper")
@@ -146,8 +231,9 @@ def main():
     # Analyze data
     analyze_properties(properties)
 
-    # Save to file
+    # Save to files
     save_properties(properties)
+    save_markdown(properties)
 
     # Show sample properties
     print("\n" + "=" * 60)
