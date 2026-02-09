@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-06T18:19:19.627459",
+  "scraped_at": "2026-02-09T08:04:30.275915",
   "source": "Goodwill Central Texas - Career Advancement Training Wufoo Forms",
   "total_classes": 23,
   "classes": [
@@ -94,7 +94,7 @@
           "raw_text": "02/25/2026, 1:00-3:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:02.322246"
+      "last_updated": "2026-02-09T08:03:11.860446"
     },
     {
       "class_name": "Career Advancement Essentials",
@@ -127,7 +127,7 @@
           "raw_text": "February 23-27, 9:00am-12:00pm, Alex/Cindy\n\t\t\t\t\t\t\t\t\t -- 9 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:05.819142"
+      "last_updated": "2026-02-09T08:03:15.402620"
     },
     {
       "class_name": "Computer Basics/Keyboarding",
@@ -160,7 +160,7 @@
           "raw_text": "09/03/25, 1:30-3:30 pm, Mary\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:09.276875"
+      "last_updated": "2026-02-09T08:03:18.870020"
     },
     {
       "class_name": "Credit Basics",
@@ -241,7 +241,7 @@
           "raw_text": "02/26/26, 9:30-11:30 AM; Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:12.751460"
+      "last_updated": "2026-02-09T08:03:22.403665"
     },
     {
       "class_name": "Digital Skills 1:1",
@@ -294,7 +294,7 @@
           "instructor": "Cindy",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/2026, 3:00pm-4:00pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -418,7 +418,7 @@
           "raw_text": "02/26/2026, 1:00pm-2:00pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:16.221482"
+      "last_updated": "2026-02-09T08:03:25.810848"
     },
     {
       "class_name": "Financial Empowerment Training",
@@ -459,7 +459,7 @@
           "instructor": "Cindy",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/26, 2:00 pm - 3:00 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -559,7 +559,7 @@
           "raw_text": "02/19/26, 3:00 pm - 4:00 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:19.694061"
+      "last_updated": "2026-02-09T08:03:29.368161"
     },
     {
       "class_name": "Indeed Lab",
@@ -600,7 +600,7 @@
           "instructor": "Cindy",
           "spots_remaining": 4,
           "is_full": false,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/26, 11:00am–1:00pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         },
         {
@@ -688,7 +688,7 @@
           "raw_text": "02/27/26, 1:00pm–3:00pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:23.173608"
+      "last_updated": "2026-02-09T08:03:32.910033"
     },
     {
       "class_name": "Interview Preparation & Practice",
@@ -729,7 +729,7 @@
           "instructor": "Cindy",
           "spots_remaining": 4,
           "is_full": false,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/26, 9:00am–11:00am, Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         },
         {
@@ -769,7 +769,7 @@
           "raw_text": "02/24/26, 1:00pm–3:00pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:26.616954"
+      "last_updated": "2026-02-09T08:03:36.425356"
     },
     {
       "class_name": "Job Preparation 1:1",
@@ -922,7 +922,7 @@
           "raw_text": "02/26/26, 2:30pm–3:30pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:30.091136"
+      "last_updated": "2026-02-09T08:03:39.939160"
     },
     {
       "class_name": "Online Safety",
@@ -967,7 +967,7 @@
           "raw_text": "11/17/25, 2:30 pm - 3:30 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:33.561591"
+      "last_updated": "2026-02-09T08:03:43.445409"
     },
     {
       "class_name": "Virtual Career Advancement Essentials",
@@ -988,7 +988,7 @@
           "raw_text": "January 26-30; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:36.988172"
+      "last_updated": "2026-02-09T08:03:46.950621"
     },
     {
       "class_name": "Budgeting Basics",
@@ -1053,7 +1053,7 @@
           "instructor": "Doug",
           "spots_remaining": 3,
           "is_full": false,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/26, 10:30 AM - 12:30 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
         },
         {
@@ -1141,7 +1141,7 @@
           "raw_text": "02/27/26, 12:30-2:30 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:40.429640"
+      "last_updated": "2026-02-09T08:03:50.311566"
     },
     {
       "class_name": "Career Advancement Essentials",
@@ -1162,7 +1162,7 @@
           "raw_text": "February 16-20. 9:00am-12:00pm. Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:43.889009"
+      "last_updated": "2026-02-09T08:03:53.827176"
     },
     {
       "class_name": "Computer Basics/Keyboarding",
@@ -1303,7 +1303,7 @@
           "raw_text": "02/23/2026, 12:00-1:30pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:47.343992"
+      "last_updated": "2026-02-09T08:03:57.344687"
     },
     {
       "class_name": "Credit Basics",
@@ -1336,7 +1336,7 @@
           "raw_text": "02/13/2026, 9:00-11:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:50.736042"
+      "last_updated": "2026-02-09T08:04:00.909260"
     },
     {
       "class_name": "Digital Skills 1:1",
@@ -1365,7 +1365,7 @@
           "instructor": "Adryan",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/2026, 9:30-10:30am, Adryan\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -1477,7 +1477,7 @@
           "raw_text": "02/26/26, 9:00-10:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:54.185783"
+      "last_updated": "2026-02-09T08:04:04.586162"
     },
     {
       "class_name": "Financial Empowerment Training",
@@ -1686,7 +1686,7 @@
           "instructor": "Doug",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/26, 9:00-10:00 AM; Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -1698,7 +1698,7 @@
           "instructor": "Doug",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/26, 1:00-2:00 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -1930,7 +1930,7 @@
           "raw_text": "02/26/26, 2:00-3:00 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:18:57.689891"
+      "last_updated": "2026-02-09T08:04:08.143729"
     },
     {
       "class_name": "Indeed Lab",
@@ -1971,7 +1971,7 @@
           "instructor": "Adryan",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/26, 10:30am-12:30pm, Adryan\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -2095,7 +2095,7 @@
           "raw_text": "02/26/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:19:01.185084"
+      "last_updated": "2026-02-09T08:04:11.714119"
     },
     {
       "class_name": "Interview Preparation & Practice",
@@ -2200,7 +2200,7 @@
           "raw_text": "02/26/26, 10:00-12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:19:04.953313"
+      "last_updated": "2026-02-09T08:04:15.181213"
     },
     {
       "class_name": "Job Preparation 1:1",
@@ -2253,7 +2253,7 @@
           "instructor": "Adryan",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/26, 2:00pm-3:00pm, Adryan\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -2377,7 +2377,7 @@
           "raw_text": "02/26/26, 3:30-4:30 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:19:08.418982"
+      "last_updated": "2026-02-09T08:04:18.701352"
     },
     {
       "class_name": "Wonderlic Prep & Practice",
@@ -2430,7 +2430,7 @@
           "instructor": "Doug",
           "spots_remaining": 5,
           "is_full": false,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "02/09/26, 2:00-4:00 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 5 remaining"
         },
         {
@@ -2482,7 +2482,7 @@
           "raw_text": "02/25/26, 9:00-11:00 AM; Doug\n\t\t\t\t\t\t\t\t\t -- 7 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:19:11.837150"
+      "last_updated": "2026-02-09T08:04:22.187554"
     },
     {
       "class_name": "AI Basics",
@@ -2611,7 +2611,7 @@
           "raw_text": "02/18/26, 10:00-11:30am, Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:19:15.272872"
+      "last_updated": "2026-02-09T08:04:25.723387"
     },
     {
       "class_name": "Online Safety",
@@ -2644,7 +2644,7 @@
           "raw_text": "09/03/25, 12:00-1:00 pm, Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-02-06T18:19:18.579204"
+      "last_updated": "2026-02-09T08:04:29.235674"
     }
   ]
 }
