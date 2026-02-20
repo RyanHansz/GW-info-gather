@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** February 20, 2026 at 07:54 AM
+**Generated:** February 20, 2026 at 04:17 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 30 | 76 |
-| GCC (North Austin) | 12 | 105 | 177 |
-| **TOTAL** | **23** | **135** | **253** |
+| GRC (South Austin) | 11 | 30 | 68 |
+| GCC (North Austin) | 12 | 105 | 176 |
+| **TOTAL** | **23** | **135** | **244** |
 
 ---
 
@@ -48,15 +48,15 @@
 
 **Duration:** 3 hours/day (week-long) | **Requirements:** Completed Indeed Lab and signed checklist required.
 
-> **✅ Spaces available!** 8 total spots across 1 sessions
+> **📢 All sessions are currently full.** Check back for new openings!
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-career-advancement-essentials/
 
-**Total Sessions:** 1 | **Available Spaces:** 8
+**Total Sessions:** 1 | **Available Spaces:** 0
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| February 23-27 | 9:00am-12:00pm | TBD | 8 | **Available** |
+| February 23-27 | 9:00am-12:00pm | TBD | 0 | **Full** |
 
 ---
 
@@ -574,11 +574,11 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 41 total spots across 7 sessions
+> **✅ Spaces available!** 40 total spots across 7 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-wonderlic-prep-and-practice/
 
-**Total Sessions:** 7 | **Available Spaces:** 41
+**Total Sessions:** 7 | **Available Spaces:** 40
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -588,7 +588,7 @@
 | ~~02/12/2026~~ | ~~12:30PM-2:30PM~~ | Doug | ~~7~~ | Past |
 | ~~02/19/2026~~ | ~~10:00AM-12:00PM~~ | Doug | ~~7~~ | Past |
 | ~~02/20/2026~~ | ~~12:30PM-2:30PM~~ | Doug | ~~5~~ | Past |
-| 02/25/2026 | 9:00AM-11:00AM | Doug | 6 | **Available** |
+| 02/25/2026 | 9:00AM-11:00AM | Doug | 5 | **Available** |
 
 ---
 
