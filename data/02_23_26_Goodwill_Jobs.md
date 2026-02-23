@@ -1,6 +1,6 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** February 23, 2026 at 07:58 AM
+**Last Updated:** February 23, 2026 at 04:35 PM
 
 **Total Positions:** 106
 
@@ -12,8 +12,8 @@
 - [Custodial Services](#custodial-services) (3)
 - [Education & Training](#education-training) (11)
 - [Management & Leadership](#management-leadership) (35)
-- [Merchandise Processing](#merchandise-processing) (24)
-- [Other Positions](#other-positions) (10)
+- [Merchandise Processing](#merchandise-processing) (23)
+- [Other Positions](#other-positions) (11)
 - [Sales](#sales) (14)
 - [Warehouse & Transportation](#warehouse-transportation) (6)
 - [eCommerce](#ecommerce) (2)
@@ -1860,34 +1860,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Merchandise Processor
 
-- **Location:** Clock Tower Store, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.00
-- **Posted:** Feb 06, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=573512)**
-
-#### Job Description
-
-Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
-** **
-**What You’ll Be Doing:**
-- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
-** **
-**What You Bring:**
-- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
-** **
-**What You’ll Get:**
-- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
-** **
-**Why Join Us?**
-At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Merchandise Processor
-
 - **Location:** Cedar Park Store, Cedar Park, TX, US
 - **Type:** Full Time
 - **Salary:** $0.00 - $14.00
@@ -2225,6 +2197,34 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Other Positions
+
+### Paraprofessional
+
+- **Location:** Excel South Austin Campus, Austin, TX, US
+- **Type:** Part Time
+- **Salary:** $20.38 - $21.96
+- **Posted:** Feb 23, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=574386)**
+
+#### Job Description
+
+The Goodwill Excel Center Adult High School is currently seeking an **Paraprofessional **for our South Austin Campus, located at 1901 E. Ben White Blvd., Austin, Texas 78741.
+The Goodwill Excel Center is the first free, public charter high school in Texas that provides adults ages 18-50 the opportunity to earn their high school diploma, complete an in-demand professional certification, and begin postsecondary education. There are seven campuses within the charter district. Two campuses are in Austin: one at the Goodwill Community Center and one in South Austin in partnership with American YouthWorks. The other five campuses are located within correctional facilities across the state. For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org/. 
+The primary role of the Special Programs Paraprofessional is to provide general and specialized assistance to students who receive services within Special Programs. Incumbent must exercise judgment in handling student disciplinary issues and in assessing students’ skill levels. Additionally, the approach will support the Goodwill of Central Texas mission and vision.
+**Role and Responsibilities**
+- Work with individual or small groups of students to reinforce learning of materials or skills initially introduced and outlined by teaching staff.- Ability to work with students with physical, emotional, and/or intellectual disabilities.- Strong academic skills in the four core content areas and a passion for education.- Administer and score appropriate screenings and assessments required by the program.- Assist with social strategies implementation as needed for individual students.- Assists as directed by certified staff in the effort to successfully maintain students with special needs in an integrated setting, as determined by the Special Education/Section 504/ESL Teams.- Communicate regularly with classroom teachers, special programs director, and other school staff regarding students’ needs and progress.- Knowledge of all applicable federal, state, and local laws, guidelines, and procedures.- Support classroom instruction, in a secondary and supportive role, as needed in creating a fluid and continuous supportive culture of learning.- Provide assistance to teachers in preparing instructional materials to be used in the program.- Aid in data collection, analysis, and recordkeeping as pertains to identified students and their academic and social needs.- Other duties as assigned.
+**Other Duties and Responsibilities**
+- Assist the school team with outreach efforts and community integration events throughout the school year (periodically nights and weekends).- Collaborate with instructional teams to address student success.
+**Supervisory Responsibilities**
+This position does not have supervisory responsibilities.  
+**Required Skills and Qualifications**
+- Minimum of 48 hours of college credit with some emphasis on child growth development or related subject areas.- Completion of a Paraprofessional Program (can obtain upon hire).- Experience working with high school-age students in urban, non-traditional, and/or adult education settings.- Working knowledge of computer programs and accessing internet applications.- Demonstrated problem-solving skills by developing and implementing innovative solutions to identified or potential problems.- Ability to cope effectively with job pressures and stress. - Ability to embrace change positively and manage assigned workload.- Desire to assist students with special or additional needs in a learning environment. - Self-motivated and willing to be a team player. - Must be adaptable to shifting priorities while maintaining a positive learning environment.- Must be able to successfully pass a background check.
+**Preferred Qualifications**
+- Associates Degree.- Bilingual in Spanish or Arabic and English.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Benefit & Leave Specialist
 
