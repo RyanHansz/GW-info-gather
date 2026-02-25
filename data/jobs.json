@@ -1,8 +1,24 @@
 {
-  "scraped_at": "2026-02-24T16:25:38.221247",
+  "scraped_at": "2026-02-25T08:07:02.020110",
   "source": "Goodwill Central Texas (ADP Workforce Now API)",
-  "total_jobs": 103,
+  "total_jobs": 104,
   "jobs": [
+    {
+      "title": "Sales Associate",
+      "item_id": "9201818212201_1",
+      "client_requisition_id": "4080",
+      "posted_date": "2026-02-24T19:05:00.000-05:00",
+      "location": "Leander Store, Leander, TX, US",
+      "city": "Leander",
+      "state": "TX",
+      "postal_code": "78641",
+      "job_type": "Full Time",
+      "salary": "$0.00 - $14.00",
+      "salary_currency": "USD",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=574528",
+      "external_job_id": "574528",
+      "description": "<div><p><strong data-start=\"215\" data-end=\"276\" data-pasted=\"true\">Now Hiring: Sales Associate | Earn a Raise After 60 Days!</strong><br data-start=\"276\" data-end=\"279\">Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you&rsquo;ll be the welcoming face of our store&mdash;and you&rsquo;ll earn a <strong data-start=\"563\" data-end=\"602\">$0.50/hour raise after just 60 days</strong>. This isn&rsquo;t just a retail job; it&rsquo;s an opportunity to grow your skills, build your future, and make a real impact.</p><p><strong>&nbsp;</strong></p><p><strong>What You&rsquo;ll Do:</strong></p><ul type=\"disc\"><li>Greet every customer with warmth and professionalism&mdash;inside, outside, or over the phone</li><li>Ring up purchases accurately and efficiently at the register</li><li>Keep the sales floor clean, organized, and fully stocked</li><li>Answer questions and share your product knowledge with shoppers</li><li>Assist donors at donation drop-offs and offer receipts</li><li>Help maintain fitting rooms and store appearance</li><li>Follow store safety and security procedures</li><li>Promote our mission at checkout and ask for monetary donations</li><li>Jump in wherever needed to keep things running smoothly</li></ul><p><strong>&nbsp;</strong></p><p><strong>What You Bring:</strong></p><ul type=\"disc\"><li>A great attitude and passion for customer service</li><li>Strong communication and active listening skills</li><li>Ability to work a flexible schedule, including weekends and holidays</li><li>Comfort working in a fast-paced, physical environment (lift up to 35 lbs)</li><li>Ability to use a register and follow direction clearly</li><li>Retail experience is a plus&mdash;but a willingness to learn is even better!</li></ul><p><strong>&nbsp;</strong></p><p><strong>What You&rsquo;ll Get:</strong></p><ul type=\"disc\"><li>Raise after 60 days of employment!</li><li>Health Benefits &ndash; Medical, dental, and vision insurance</li><li>Generous PTO &ndash; Vacation days, personal days, and holidays</li><li>Paid Parental Leave &ndash; Support for growing families</li><li>Growth Opportunities &ndash; Training, workshops, and a clear path forward</li><li>Wellness Perks &ndash; Gym discounts, mental health support</li><li>Employee Recognition &ndash; We see and celebrate your hard work</li><li>Inclusive Culture &ndash; Be part of a team that values you, your voice, and your goals</li></ul><p><strong>&nbsp;</strong></p><p><strong>Why It Matters:</strong></p><p>Every shift, every sale, every interaction supports Goodwill&rsquo;s mission of changing lives through education, training, and job placement. You&rsquo;re not just helping customers&mdash;you&rsquo;re helping communities thrive.&nbsp;Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that&rsquo;s all about purpose, passion, and progress.</p><p>&nbsp;</p><p><strong>Equal Employment Opportunity Statement:</strong></p><p>Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating&nbsp;an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.</p><p>&nbsp;</p><p><strong>Background Check Requirement:</strong></p><p>Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.</p><p>&nbsp;</p><p><br></p></div>\n"
+    },
     {
       "title": "E-Commerce Team Member",
       "item_id": "9201817670693_1",
