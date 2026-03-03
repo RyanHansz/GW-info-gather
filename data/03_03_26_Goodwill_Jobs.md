@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** March 03, 2026 at 07:52 AM
+**Last Updated:** March 03, 2026 at 04:25 PM
 
-**Total Positions:** 107
+**Total Positions:** 109
 
 ---
 
@@ -11,10 +11,10 @@
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (3)
 - [Education & Training](#education-training) (9)
-- [Management & Leadership](#management-leadership) (36)
+- [Management & Leadership](#management-leadership) (39)
 - [Merchandise Processing](#merchandise-processing) (23)
 - [Other Positions](#other-positions) (10)
-- [Sales](#sales) (17)
+- [Sales](#sales) (16)
 - [Warehouse & Transportation](#warehouse-transportation) (5)
 - [eCommerce](#ecommerce) (3)
 
@@ -297,8 +297,9 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 **The Adult Literacy Instructor** will support adult English learners. through personalized instruction and will also engage in key program functions such as progress tracking, and curriculum planning.
 This role will employ a student-centered approach, effectively tailoring the instructional strategies to the individual students’ needs and approaching instruction with creativity and innovation.
+** *Note:  1 PT position in Georgetown**
 **Essential Duties & Responsibilities**
-- Design and deliver engaging lessons tailored to the needs of students at varying proficiency levels.- Develop and adapt teaching materials and resources to suit individual learning objectives.- Employe interactive and student-centered teaching methods to enhance language acquisition.- Assess students' progress through assignments, tests, and oral communication activities learning needs and progress through formal and informal evaluations.- Provide constructive feedback and strategies for improvement to students- Foster a positive, inclusive and engaging learning environment.- Stay updated on Adult Literacy teaching best practices and incorporate innovative techniques- Assess student progress and learning needs to build and shape instruction around student needs.- Create a positive classroom environment conducive to learning and educational growth of students, including behavior management that is firm, fair, and consistent.- Track and report attendance, testing, and student achievement data.- Collaborate with team members on curriculum, schedules, and student placement.- Support compliance with program requirements through timely data entry and reporting.- Contribute to outreach, orientation, and student engagement activities as needed.
+- Design and deliver engaging lessons tailored to the needs of students at varying proficiency levels.- Develop and adapt teaching materials and resources to suit individual learning objectives.- Employee interactive and student-centered teaching methods to enhance language acquisition.- Assess students' progress through assignments, tests, and oral communication activities learning needs and progress through formal and informal evaluations.- Provide constructive feedback and strategies for improvement to students- Foster a positive, inclusive and engaging learning environment.- Stay updated on Adult Literacy teaching best practices and incorporate innovative techniques- Assess student progress and learning needs to build and shape instruction around student needs.- Create a positive classroom environment conducive to learning and educational growth of students, including behavior management that is firm, fair, and consistent.- Track and report attendance, testing, and student achievement data.- Collaborate with team members on curriculum, schedules, and student placement.- Support compliance with program requirements through timely data entry and reporting.- Contribute to outreach, orientation, and student engagement activities as needed.
 **Supervisory Responsibility**
 This position does not have supervisory responsibilities.
 **Required Skills & Qualifications **
@@ -519,6 +520,91 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Management & Leadership
+
+### Retail General Manager
+
+- **Location:** Hutto Store, Hutto, TX, US
+- **Type:** Full Time
+- **Salary:** $58,000.00 - $63,999.00
+- **Posted:** Mar 03, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=574830)**
+
+#### Job Description
+
+**Retail General Manager – Lead With Purpose **
+**Quarterly Bonus Potential: Retail General Managers have the potential to earn up to a max of 25% of their quarterly salary based on performance in key metrics in their department.**
+Are you a results-driven retail leader who thrives in a dynamic, mission-focused environment? Goodwill is seeking an experienced Retail General Manager (RGM) to lead the operations of one of our many thriving retail locations. This is more than just a store—it's a place where lives change every day. As the RGM, you’ll oversee everything from sales floor operations to production efficiency, creating a culture of excellence, customer satisfaction, and team development. If you’re passionate about retail, leadership, and making a difference in your community, this role is for you.
+**What You’ll Do:**
+- Lead day-to-day operations of a high-performing retail store, from opening to closing.- Manage both the sales floor and back-of-house production teams to ensure a smooth, efficient flow of merchandise.- Monitor inventory, stock levels, and merchandising to maximize revenue and maintain a compelling store presentation.- Recruit, train, schedule, and manage a dynamic team of staff, including Assistant Managers, Supervisors, Processors, and Sales Associates.- Cultivate a customer-first culture—ensuring every shopper and donor receives top-tier service.- Ensure compliance with all safety protocols, state regulations, and loss prevention procedures.- Take full ownership of store P&L and make data-driven decisions to meet performance goals.- Handle payroll, attendance, and scheduling using our internal systems.- Serve as the go-to leader for resolving team or customer concerns.- Maintain strong communication across departments and stores to align goals and performance.
+**Who You Are:**
+- A motivated, hands-on leader with **3–5 years of retail management experience**.- Comfortable managing both **sales operations** and **merchandise production**.- Experienced with **profit & loss statements**, team development, and performance coaching.- Able to lift 35–50 lbs and perform physical tasks as needed (this is a boots-on-the-ground leadership role).- Someone who leads by example, knows how to inspire teams, and isn't afraid to roll up their sleeves.- A pro at balancing multiple priorities in a fast-paced retail environment.- Flexible to work **weekends, evenings, and holidays** based on business needs.
+**Preferred Qualifications:**
+- High school diploma required; Associate’s degree preferred.- Experience in the thrift/resale industry is a big plus.- Strong communication skills, basic math, and computer proficiency.- Valid driver’s license.
+**Why Join Us?**
+At Goodwill, we don’t just offer jobs—we offer meaningful careers. Working with us means contributing to a greater mission: transforming lives through the power of education and work. Enjoy opportunities for growth, ongoing training, and the satisfaction of knowing your efforts directly support your community. 
+**Ready to Lead with Purpose?**
+Apply now and take the next step in your retail leadership career with Goodwill.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Senior Director, Supply Chain Operations
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $120,000.00 - $140,000.00
+- **Posted:** Mar 03, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=574819)**
+
+#### Job Description
+
+The Senior Director, Supply Chain Operations, is responsible for strategic initiatives and operational execution of all GCT logistics, transportation, aftermarket sales, recycling, donation acquisition, Attended Donation Centers, sustainability initiatives, Distribution Centers, and the Outlet Stores, including all staff and equipment.
+**Compensation & Incentives**
+The Senior Director, Supply Chain Operations is eligible to participate in Goodwill's Management Incentive Plan (MIP) with a target bonus of 15% of eligible base salary.
+**Role and Responsibilities**
+- Oversee all Transportation, Donation Acquisition, Attended Donation Centers, Outlet Stores, Recycling, Sustainability, and After Market Sales operations. - Deliver “consistently meets/exceed” service levels with a 95% or better on-time delivery performance.- Full P+L responsibility and oversight of all assigned departments. - Responsible for optimized route plans in support of store and donation operations.- Drive after-market sales expansion and donations growth within the GCT operating territory.- Resolve all donor and customer concern/escalations in a timely and effective manner. - Oversees planning/assignment and allocation of available resources to best support business operations.- Develop seasonal and event-driven plans to support peaks in store and donation operations. - Identify opportunities to utilize surplus equipment. Identify equipment for retirement, applicable disposable methods and value to support GCT fleet operations.- Uphold safe work practices in support of a safety culture through awareness and observation; train and educate employees of safety requirements; reports any potential hazards or accidents.- Establish a clear direction for business partners (IT) to ensure the Transportation team’s technology needs are being met along with setting direction for innovative technology solutions.- Ensures departments achieve operational goals within budget.- Directs, supervises, and coordinates staff activities to ensure divisional goals are met. - Builds strong business relationships with vendors, community professionals, outside agencies, other business contacts, and internal stakeholders.- Recruits, selects, develops, evaluates and counsels his/her employees. Takes necessary employment action in accordance with Goodwill policies.- Provides leadership, guidance and professional development for staff. Models the expected behaviors for staff.- Engages Talent Acquisition to develop recruiting initiatives to attract and retain talent with the skills to succeed in the distribution and warehousing environment.- Oversee annual budget preparations for logistics, recycling, Outlets, dock operations, transportation, and Distribution Centers. Maintains financial viability.- Ensures the operations comply with governmental or other regulatory laws and guidelines including but not limited to OSHA, HAZMAT, and DOT.- Ensures departmental equity and compliance with all company policies and procedures.- Demonstrates ethics and complies with Corporate Compliance Program.- Meets Mandatory Yearly Training Hours requirement for this position.- Consistently exhibits fidelity to GCT’s values and culture.- Other duties as assigned.
+**Supervisory Responsibility**
+This position has supervisory responsibilities over the Distribution Center Mangers, Aftermarket Manager, Donation Acquisition and Attended Donation Center Managers, and the Director of Logistics and Donation Operations
+**Required Skills & Qualifications **
+- Bachelor’s or associates degree in business, logistics, supply chain or a related field (10 years of related   experience may be considered in lieu of degree).- At least five years in a multi-unit leadership role, building teams, managing/developing staff, and responsible for the leadership of at least 100 employees.- Five to ten years’ experience in consumer goods distribution and logistics.- Experience managing distribution/warehouse centers exceeding 100K sq. ft.- Excellent analytical, creative/flexible problem solving, and decision-making skills.- Experience with Lean Methodologies.- Strong interpersonal, organizational, and communication skills.- Competency with Microsoft Office Suite.- Experience working with and employing marginalized populations.
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer.- Travel required locally and national.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Retail Assistant Manager
+
+- **Location:** Robinson Ranch Store, Round Rock, TX, US
+- **Type:** Full Time
+- **Salary:** $46,666.00 - $49,999.00
+- **Posted:** Mar 03, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=574808)**
+
+#### Job Description
+
+**Assistant Store Manager – Lead With Purpose **
+**Start strong and get rewarded. When you join our team, you’ll earn a $750 bonus after your first 30 days of employment. It’s our way of saying *welcome aboard* and *thanks for bringing your best*.**
+** ****Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
+Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
+**What You’ll Be Doing:**
+- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
+**Who You’ll Supervise:**
+Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
+**What You Bring:**
+- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
+**What You’ll Get:**
+- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
+**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
+**Ready to lead with heart and hustle?**
+Apply today and help us turn donations into opportunities!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Retail Supervisor
 
@@ -2685,34 +2771,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Sales Associate
 
-- **Location:** Taylor, Taylor, TX, US
-- **Type:** Part Time
-- **Salary:** $0.00 - $14.00
-- **Posted:** Feb 10, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=573713)**
-
-#### Job Description
-
-Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
-** **
-**What You’ll Do:**
-- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
-** **
-**What You Bring:**
-- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
-** **
-**What You’ll Get:**
--  Raise after 90 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
-** **
-**Why It Matters:**
-Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Sales Associate
-
 - **Location:** Lakeway Store, Lakeway, TX, US
 - **Type:** Full Time
 - **Salary:** $0.00 - $14.00
@@ -2853,7 +2911,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Outlet Sales Associate
 
-- **Location:** North Outlet, Austin, TX, US
+- **Location:**  Austin, TX, US
 - **Type:** Full Time
 - **Salary:** $0.00 - $14.00
 - **Posted:** Nov 13, 2025
@@ -2927,7 +2985,7 @@ This position does not have supervisory responsibilities. 
 **Physical Requirements**
 - Ability to work in both a climate and non-climate-controlled facility.- Must be able to lift up to 30 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-#IND 2
+#IND2
 
 ### ADC Attendant
 
