@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** March 06, 2026 at 07:50 AM
+**Generated:** March 06, 2026 at 04:21 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 55 | 124 |
-| GCC (North Austin) | 12 | 113 | 192 |
-| **TOTAL** | **23** | **168** | **316** |
+| GCC (North Austin) | 12 | 113 | 188 |
+| **TOTAL** | **23** | **168** | **312** |
 
 ---
 
@@ -349,15 +349,15 @@
 
 **Duration:** 3 hours/day (week-long) | **Requirements:** Completed Indeed Lab and signed checklist required.
 
-> **✅ Spaces available!** 2 total spots across 2 sessions
+> **✅ Spaces available!** 1 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-career-advancement-essentials/
 
-**Total Sessions:** 2 | **Available Spaces:** 2
+**Total Sessions:** 2 | **Available Spaces:** 1
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| March 9-12 | 9:00am-12:00pm | Alex | 1 | **Available** |
+| March 9-12 | 9:00am-12:00pm | Alex | 0 | **Full** |
 | March 23-26 | 9:00am-12:00pm | Alex | 1 | **Available** |
 
 ---
@@ -410,11 +410,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 1 total spots across 1 sessions
+> **📢 All sessions are currently full.** Check back for new openings!
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-digital-skills-11/
 
-**Total Sessions:** 10 | **Available Spaces:** 1
+**Total Sessions:** 10 | **Available Spaces:** 0
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -427,7 +427,7 @@
 | 03/11/2026 | 9:00am-10:00am | Adryan | 0 | **Full** |
 | 03/13/2026 | TBD | Adryan | 0 | **Full** |
 | 03/17/2026 | 9:00am-10:00am | Adryan | 0 | **Full** |
-| 03/17/2026 | 1:00pm-2:00pm | Adryan | 1 | **Available** |
+| 03/17/2026 | 1:00pm-2:00pm | Adryan | 0 | **Full** |
 
 ---
 
@@ -439,11 +439,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 18 total spots across 18 sessions
+> **✅ Spaces available!** 17 total spots across 17 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 31 | **Available Spaces:** 18
+**Total Sessions:** 31 | **Available Spaces:** 17
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -461,7 +461,7 @@
 | ~~03/04/2026~~ | ~~2:30pm-3:30pm~~ | Doug | ~~1~~ | Past |
 | ~~03/05/2026~~ | ~~12:00pm-1:00pm~~ | Doug | ~~0~~ | Past |
 | ~~03/05/2026~~ | ~~2:00pm-3:00pm~~ | Doug | ~~0~~ | Past |
-| 03/09/2026 | 9:00am-10:00am | Doug | 1 | **Available** |
+| 03/09/2026 | 9:00am-10:00am | Doug | 0 | **Full** |
 | 03/10/2026 | 11:00am-12:00pm | Doug | 1 | **Available** |
 | 03/10/2026 | 3:00pm-4:00pm | Doug | 1 | **Available** |
 | 03/12/2026 | 10:30am-11:30am | Doug | 1 | **Available** |
@@ -523,18 +523,18 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 21 total spots across 6 sessions
+> **✅ Spaces available!** 20 total spots across 6 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-interview-preparation-and-practice/
 
-**Total Sessions:** 7 | **Available Spaces:** 21
+**Total Sessions:** 7 | **Available Spaces:** 20
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~03/02/2026~~ | ~~10:00am-12:00pm~~ | Alex | ~~4~~ | Past |
 | ~~03/04/2026~~ | ~~TBD~~ | Alex | ~~2~~ | Past |
 | 03/10/2026 | 1:00pm-3:00pm | Alex | 0 | **Full** |
-| 03/12/2026 | 12:00pm-2:00pm | Doug | 4 | **Available** |
+| 03/12/2026 | 12:00pm-2:00pm | Doug | 3 | **Available** |
 | 03/16/2026 | 9:00am-11:00am | Doug | 4 | **Available** |
 | 03/24/2026 | 1:30pm-3:30pm | Alex | 4 | **Available** |
 | 03/26/2026 | 11:00am-1:00pm | Doug | 3 | **Available** |
