@@ -1,6 +1,6 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** March 13, 2026 at 08:53 AM
+**Last Updated:** March 13, 2026 at 05:25 PM
 
 **Total Positions:** 108
 
@@ -9,9 +9,9 @@
 ## Quick Navigation
 
 - [Child Development](#child-development) (1)
-- [Custodial Services](#custodial-services) (2)
+- [Custodial Services](#custodial-services) (3)
 - [Education & Training](#education-training) (7)
-- [Management & Leadership](#management-leadership) (35)
+- [Management & Leadership](#management-leadership) (34)
 - [Merchandise Processing](#merchandise-processing) (22)
 - [Other Positions](#other-positions) (14)
 - [Sales](#sales) (17)
@@ -55,6 +55,29 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Custodial Services
+
+### Mobile Custodian
+
+- **Location:**  Austin, TX, US
+- **Type:** N/A
+- **Salary:** $15.00
+- **Posted:** Mar 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=575472)**
+
+#### Job Description
+
+As a Mobile Custodian, you will be an essential part of our team that travels to various retail stores throughout the week to provide top-notch cleaning services. This role requires a strong work ethic, attention to detail, and a commitment to teamwork.
+**Role and Responsibilities**
+- Perform a variety of cleaning tasks, including sweeping, mopping, vacuuming, dusting, and sanitizing all areas of retail stores. - Clean and disinfect restrooms, breakroom, and other common areas. - Empty trash and recycling receptacles. - Ensure that all surfaces are clean and free of debris. - Clean windows, mirrors, and glass surfaces.- Ensure proper handling and disposal of cleaning chemicals.- Work effectively as part of a team to complete cleaning tasks efficiently. - Collaborate with team members and supervisors to ensure all areas are cleaned to the highest standards. - Communicate effectively with team members and supervisors. - Follow all safety procedures and guidelines. - Use cleaning products and equipment safely and responsibly. - Report any safety hazards to the supervisor immediately. - Be prepared to travel to different retail locations throughout the week. - Adapts to different cleaning environments and tasks as needed. - Maintain a professional appearance and demeanor at all times. - Represent the company in a positive and respectful manner.- Other duties as required.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities 
+**Required Skills & Qualifications **
+- Previous cleaning experience preferred, but not required. - Keen eye for detail and a commitment to maintaining high standards of cleanliness. - Ability to work effectively as part of a team. - Good communication skills to interact with team members and supervisors. - Must be reliable and punctual with a strong work ethic. - Clean driving record and a valid driver license are required. - Ability to travel across multiple locations.
+**Physical Requirements **
+- Ability to work in both a climate controlled and non-climate-controlled environment.- Must be able to lift and carry up to 35 pounds at times.- Ability to perform physical tasks associated with cleaning such as walking, standing, bending, lifting and carrying for duration of shift.- Ability to work with various cleaning tools and equipment.
+**What We Offer**
+- **Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.- **Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.- **Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.- **Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses.- **Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and mental health support.- **Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.- **Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### Custodian
 
@@ -1043,38 +1066,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 #IND2
-
-### Senior Director of Community Engagement
-
-- **Location:** GCC HQ, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $120,000.00 - $140,000.00
-- **Posted:** Feb 08, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=573500)**
-
-#### Job Description
-
-The Senior Director of Community Engagement provides enterprise-level leadership for Goodwill Central Texas’s community partnerships, employer relations, and resource development strategy, ensuring strong alignment across Mission Services, Workforce Advancement, Retail, Development, Social Enterprise, and Executive Leadership. This role translates the organization’s 10-Year Vision and 3-Year Aspirational Goals—particularly the advancement of Community Needs Centers—into actionable engagement, partnership, and resource development strategies. Serving as a key connector and external ambassador, the Senior Director positions Goodwill Central Texas as a trusted community hub by cultivating high-impact relationships with nonprofits, employers, funders, government agencies, and civic leaders. The role provides strategic oversight of employer relations and grant writing functions, partners with executive leadership establishing clear goals and metrics to drive accountability, sustainability, and measurable community impact.
-**Enterprise Leadership & Cross Functional Integration**
-- Provide senior leadership for enterprise-wide community engagement, ensuring strong coordination across Mission Services, Workforce Advancement, Retail, Development, Social Enterprise, and Executive Leadership.- Translate Goodwill Central Texas’s 10-Year Vision and 3-Year Aspirational Goals—particularly those related to Community Needs Centers—into actionable external engagement and partnership strategies.- Champion collaboration, accountability, and clarity across cross-functional initiatives in alignment with EOS operating principles.- Serve as a connector between internal teams and external partners to ensure alignment, efficiency, and shared ownership of mission outcomes.
-**Community Engagement & Strategic Partnerships**
-- Position Goodwill Central Texas as a trusted, visible, and indispensable community partner, advancing its role as a hub for education, workforce development, and community needs that complement education and employment.- Cultivate, steward, and expand high-impact relationships with nonprofit organizations, government agencies, funders, employers, civic leaders, and community coalitions.- Lead engagement strategies that build community understanding, trust, and buy-in for emerging initiatives, including Community Needs Centers.- Serve as an external ambassador for GCT, representing the organization at community forums, public meetings, funder briefings, and strategic convenings.
-**Community Needs Centers – Planning, Buy-In & Resource Development**
-- Serve as a primary strategic partner to executive leadership in planning, socializing, and advancing the Community Needs Center model, from concept through readiness.- Lead relationship-building efforts to secure nonprofit, public-sector, philanthropic, and employer partners critical to Community Needs Center success.- Support the development and execution of funding strategies for Community Needs Centers, including philanthropic gifts, public-sector funding, and collaborative partnerships.- Conduct partner vetting, landscape analysis, and best-practice benchmarking to ensure Community Needs Centers complement—rather than duplicate—existing community services.- Support pilot planning and launch readiness for Community Needs Centers in alignment with 2026–2028 organizational goals.
-**Employer Relations & Workforce Partnerships**
-- Oversee the employer-relations function of the organization, strengthening relationships with businesses and employers across Central Texas.- Work in alignment with the Social Enterprise sales team to ensure the “go to market” messaging is consistent and complimentary.- Identify and cultivate employers interested in customized training pipelines, specialized hiring initiatives, and inclusive workforce strategies.- Partner closely with Workforce Advancement and Education teams to align employer needs with program design, credentialing, and placement outcomes.- Expand employer partnerships that support job placement, career pathways, and long-term workforce stability for Goodwill participants.
-**Strategy, Measurement & Continuous Improvement**
-- Establish and monitor clear goals, KPIs, and success metrics related to community engagement, partnerships, employer relations, and philanthropic growth.- Use data, partner feedback, and outcomes measurement to continuously refine engagement and fundraising strategies.- Identify emerging trends, risks, and opportunities in workforce development, revenue generation, and community services to inform leadership and board decision-making.- Ensure community engagement and development efforts advance Goodwill Central Texas’s long-term sustainability, credibility, and mission impact.
-**Supervisory Responsibility**
-This position has overall responsibility for leading, supervising, and developing the Community Engagement Department, comprised of Business Solutions, Grant Writing, and Community Partnership Development roles.
-**Required Skills & Qualifications **
-- Bachelor’s degree in Public Administration, Nonprofit Management, Business Administration, Social Work, Community Development, Workforce Development, Education, Public Policy, or a closely related field.- At least seven years of management experience, preferably leading workforce development and grant writing and/or revenue generation for workforce programming.- Track record of building relationships with business leaders, community leaders, workforce development agencies, and public agencies.- Must embrace the mission of transforming lives by empowering people through education, career training, and work.- Demonstrate organizational and divisional values, ethics and integrity.- Be organized and follow through on tasks and goals.- Leadership-level experience in strategic and tactical planning.- Exceptional leadership skills with the ability to foster collaboration and build unity. Experience in managing diverse staff.- Ability to identify, plan, and execute on revenue-generating opportunities through grants, fee-for-service, and/or pay for performance structures.- Excellent customer service and written/oral communications and proofreading skills.- Must be able to work well in a nimble, fast-paced, team-oriented environment.- Possess the skills to work with and motivate staff, board members, and other volunteers.
-**Physical Requirements**
-- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Career Case Manager
 
