@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** March 17, 2026 at 09:06 AM
+**Generated:** March 17, 2026 at 05:29 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 38 | 85 |
-| GCC (North Austin) | 12 | 92 | 145 |
-| **TOTAL** | **23** | **130** | **230** |
+| GCC (North Austin) | 12 | 92 | 144 |
+| **TOTAL** | **23** | **130** | **229** |
 
 ---
 
@@ -416,11 +416,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 13 total spots across 13 sessions
+> **✅ Spaces available!** 12 total spots across 12 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 31 | **Available Spaces:** 13
+**Total Sessions:** 31 | **Available Spaces:** 12
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -452,7 +452,7 @@
 | 03/23/2026 | 9:30am-10:30am | Doug | 1 | **Available** |
 | 03/23/2026 | 3:00pm-4:00pm | Doug | 1 | **Available** |
 | 03/25/2026 | 2:00pm-3:00pm | Doug | 1 | **Available** |
-| 03/25/2026 | 3:30pm-4:30pm | Doug | 1 | **Available** |
+| 03/25/2026 | 3:30pm-4:30pm | Doug | 0 | **Full** |
 | 03/26/2026 | 9:00am-10:00am | Doug | 1 | **Available** |
 | 03/26/2026 | 2:00pm-3:00pm | Doug | 1 | **Available** |
 
