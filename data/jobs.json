@@ -1,8 +1,24 @@
 {
-  "scraped_at": "2026-03-19T08:58:37.793194",
+  "scraped_at": "2026-03-19T17:25:51.196799",
   "source": "Goodwill Central Texas (ADP Workforce Now API)",
-  "total_jobs": 109,
+  "total_jobs": 110,
   "jobs": [
+    {
+      "title": "Retail Supervisor",
+      "item_id": "9201825908559_1",
+      "client_requisition_id": "4165",
+      "posted_date": "2026-03-19T14:53:00.000-04:00",
+      "location": "Lakeway Store, Lakeway, TX, US",
+      "city": "Lakeway",
+      "state": "TX",
+      "postal_code": "78734",
+      "job_type": "Full Time",
+      "salary": "$0.00 - $17.85",
+      "salary_currency": "USD",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=575888",
+      "external_job_id": "575888",
+      "description": "<div><p><br></p><div id=\"isPasted\"><strong>Summary of Position</strong></div><p>Retail Supervisors will assist management in the operation of the Goodwill retail store. This includes customer service, record keeping, cash management, facility operation, communications, merchandising, and inventory control.</p><p><strong>Role and Responsibilities</strong></p><ul type=\"disc\"><li>Assist the store manager with the overall operation of the retail store.</li><li>Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.</li><li>Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.</li><li>Supervise and train retail sales associates.</li><li>Monitor sales transactions associated with purchases and ensure proper sales procedures are followed by sales associates.</li></ul><p><strong>Supervisory Responsibility</strong></p><ul type=\"disc\"><li>This position is responsible for supervising and training the Donation Attendant, Merchandise Processor &amp; Sales Associate positions.</li><li>Required Skills &amp; Qualifications&nbsp;</li><li>At least 1 year of supervisory experience.</li><li>Ability to perform continuous walking, stooping, standing, bending, kneeling, and climbing for prolonged periods of time (up to 7 hours per 8-hour shift.)</li><li>Ability to lift 35 pounds frequently.</li><li>Work a flexible schedule in support of the store opening, production and closing operations.</li><li>Ability to effectively communicate in English with customers and GCT associates.</li></ul><p><strong>Physical Requirements</strong></p><ul type=\"disc\"><li>Ability to sit or stand for eight hours.</li><li>Ability to bend and twist.</li><li>Ability to lift and carry 30 pounds with or without a reasonable accommodation.</li><li>Moderate noise (i.e., business office with computers, phone, and printers, light traffic).</li><li>Ability to work in a confined area.</li><li>While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.</li><li>Specific vision abilities required by this job include close vision requirements due to computer work.</li><li>Regular, predictable attendance is required as business demands dictate</li></ul><p><br></p><p>All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment&nbsp;background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate</p><p><br></p><p><br></p><p><br></p></div>\n"
+    },
     {
       "title": "Outlet Sales Associate",
       "item_id": "9201825601597_1",
