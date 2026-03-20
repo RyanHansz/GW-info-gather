@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** March 20, 2026 at 08:55 AM
+**Generated:** March 20, 2026 at 05:22 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 38 | 81 |
-| GCC (North Austin) | 12 | 92 | 138 |
-| **TOTAL** | **23** | **130** | **219** |
+| GCC (North Austin) | 12 | 92 | 136 |
+| **TOTAL** | **23** | **130** | **217** |
 
 ---
 
@@ -466,11 +466,11 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 21 total spots across 8 sessions
+> **✅ Spaces available!** 20 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/
 
-**Total Sessions:** 11 | **Available Spaces:** 21
+**Total Sessions:** 11 | **Available Spaces:** 20
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -484,7 +484,7 @@
 | ~~03/20/2026~~ | ~~12:30pm-2:30pm~~ | Adryan | ~~4~~ | Past |
 | 03/23/2026 | 9:00am-11:00am | Adryan | 2 | **Available** |
 | 03/24/2026 | 11:30am-1:30pm | Adryan | 0 | **Full** |
-| 03/26/2026 | 1:00pm-3:00pm | Alex | 3 | **Available** |
+| 03/26/2026 | 1:00pm-3:00pm | Alex | 2 | **Available** |
 
 ---
 
@@ -496,18 +496,18 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 8 total spots across 4 sessions
+> **✅ Spaces available!** 7 total spots across 3 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-interview-preparation-and-practice/
 
-**Total Sessions:** 4 | **Available Spaces:** 8
+**Total Sessions:** 4 | **Available Spaces:** 7
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~03/12/2026~~ | ~~12:00pm-2:00pm~~ | Doug | ~~3~~ | Past |
 | ~~03/16/2026~~ | ~~9:00am-11:00am~~ | Doug | ~~1~~ | Past |
 | 03/24/2026 | 1:30pm-3:30pm | Alex | 3 | **Available** |
-| 03/26/2026 | 11:00am-1:00pm | Doug | 1 | **Available** |
+| 03/26/2026 | 11:00am-1:00pm | Doug | 0 | **Full** |
 
 ---
 
