@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** March 23, 2026 at 09:02 AM
+**Generated:** March 23, 2026 at 05:28 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 35 | 67 |
-| GCC (North Austin) | 12 | 93 | 136 |
-| **TOTAL** | **23** | **128** | **203** |
+| GCC (North Austin) | 12 | 93 | 135 |
+| **TOTAL** | **23** | **128** | **202** |
 
 ---
 
@@ -464,11 +464,11 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 20 total spots across 8 sessions
+> **✅ Spaces available!** 19 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/
 
-**Total Sessions:** 11 | **Available Spaces:** 20
+**Total Sessions:** 11 | **Available Spaces:** 19
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -482,7 +482,7 @@
 | ~~03/20/2026~~ | ~~12:30pm-2:30pm~~ | Adryan | ~~4~~ | Past |
 | ~~03/23/2026~~ | ~~9:00am-11:00am~~ | Adryan | ~~2~~ | Past |
 | 03/24/2026 | 11:30am-1:30pm | Adryan | 0 | **Full** |
-| 03/26/2026 | 1:00pm-3:00pm | Alex | 2 | **Available** |
+| 03/26/2026 | 1:00pm-3:00pm | Alex | 1 | **Available** |
 
 ---
 
