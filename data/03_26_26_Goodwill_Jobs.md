@@ -1,56 +1,21 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** March 26, 2026 at 09:07 AM
+**Last Updated:** March 26, 2026 at 05:23 PM
 
-**Total Positions:** 107
+**Total Positions:** 108
 
 ---
 
 ## Quick Navigation
 
-- [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (2)
 - [Education & Training](#education-training) (7)
 - [Management & Leadership](#management-leadership) (33)
-- [Merchandise Processing](#merchandise-processing) (26)
-- [Other Positions](#other-positions) (10)
+- [Merchandise Processing](#merchandise-processing) (27)
+- [Other Positions](#other-positions) (11)
 - [Sales](#sales) (18)
 - [Warehouse & Transportation](#warehouse-transportation) (6)
 - [eCommerce](#ecommerce) (4)
-
----
-
-## Child Development
-
-### Asst Child Development Special
-
-- **Location:** Excel Exploration Center, Austin, TX, US
-- **Type:** Part Time
-- **Salary:** $21.96
-- **Posted:** Aug 28, 2025
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=564453)**
-
-#### Job Description
-
-The Goodwill Excel Center Adult High School is currently seeking an Assistant Child Development Specialist for our Norwood Campus, located at 1015 Norwood Park Blvd, Austin, TX 78753. 
-The Goodwill Excel Center is the first free, public charter high school in Texas that provides adults aged 18-50 the opportunity to earn their high school diploma, complete an in-demand professional certification, and begin post-secondary education. There are seven campuses within the charter district. Two campuses are in Austin: one at the Goodwill Community Center and one in South Austin in partnership with American YouthWorks. The other five campuses are located within correctional facilities across the state. For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org/
-**POSITION SUMMARY:** The primary role of the Assistant Child Development Specialist is to aid in the implementation of high-quality care and education to children enrolled in the Exploration Center. This position is responsible for continuous growth and development of each of our children. 
-**ESSENTIAL DUTIES AND RESPONSIBILITIES:**
-- Deliver high-quality early care and education to young children by assisting in the planning and implementation of developmentally appropriate activities across cognitive, language, physical, and social areas, while fostering positive self-esteem. - Positively interact with children during daily routines.- Assist in the implementation of standards set forth by Texas Child Care Regulations (CCR), the National Association for the Education of Young Children (NAEYC), and Texas Rising Star (TRS); inclusive of health and safety hazards.- Support in completing and implementing departmental forms (i.e., accident/incident forms, parental daily reports, health and safety checklist, etc.).- Track and record children's development of milestones using anecdotal records.- Ensure effective coordination between home and Center regarding research-based teaching and parenting; arrange parent/teacher conferences.- Fulfill mandatory training requirements, including Pediatric First Aid/CPR, Child Abuse Training, Pre-Service Training, and Annual Training, with a minimum of 30 hours each year. - Joins and actively participates in staff and team planning meetings to discuss the execution of Center goals.- Convey information in a positive and professional manner, adhering to NAEYC Professional Code of Ethical Conduct.- Collaborate with staff and supervisors to ensure the smooth operation of daily activities.
-**OTHER DUTIES AND RESPONSIBILITIES:**
-- Maintain a clean and safe physical environment for children (cleaning, sanitizing and organizing areas).- Assist parents with stages of development and resources.- Communicate center policy to parents.
-**SUPERVISORY RESPONSIBILITY:**
-This position does not have supervisory responsibilities.
-**REQUIRED QUALIFICATIONS:**
-- High school diploma or equivalent.- Accredited, in-person Pediatric CPR/First Aid certification (must be obtained within 30 days of hire).- One year of experience working with infants, toddlers and Pre-K in a structured facility on a regular basis.- Must be able to understand work instructions in English.- Must have working knowledge of computer programs and accessing internet applications such as Microsoft Products, Google Applications (Gmail), Excel, Microsoft Word, and Internet Explorer.- Communication skills to be able to work on a team as well as interact with parents in a professional manner.- Ability to multi-task in a fast-paced environment, including taking care of multiple children at a time.- Ability to respond to a child’s needs promptly and courteously.- Ability to safely lift children throughout the day.- Ability to perform continuous walking, stooping, standing and bending for most of the shift.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.
-**PREFERRED QUALIFICATIONS: **
-- Bilingual in Spanish, Arabic, Pashto and English. 
-What We Offer
-- Comprehensive Health Coverage: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.- Generous Paid Time Off: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.- Teacher Retirement System & 403b Participation- Paid Parental Leave: We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.- Professional Development Opportunities: We believe in continuous growth! Take advantage of our access to workshops and online courses & tuition/certification support.- Wellness Programs: Prioritize your well-being with our wellness initiatives, including gym membership and free mental health support.- Employee Recognition Programs: We celebrate our team members’ achievements with recognition awards.- Diverse and Inclusive Culture: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
-Equal Employment Opportunity Statement:
-Goodwill Excel Center is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-Background Check Requirement:
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ---
 
@@ -1349,6 +1314,34 @@ Employment is contingent upon passing a pre-employment background check, includi
 
 ### Merchandise Processor
 
+- **Location:** Clock Tower Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Mar 26, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=576331)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Merchandise Processor
+
 - **Location:** Liberty Hill, Liberty Hill, TX, US
 - **Type:** Full Time
 - **Salary:** $0.00 - $14.00
@@ -2078,6 +2071,29 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Other Positions
+
+### Landscape Technician
+
+- **Location:**  Austin, TX, US
+- **Type:** N/A
+- **Salary:** $19.00
+- **Posted:** Mar 26, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=576350)**
+
+#### Job Description
+
+**Summary of Position**
+Landscape and or maintain grounds of GCC and Organization using hand / power tools or equipment. Landscape performs a variety of tasks: sod laying, mowing, trimming, planting, watering, fertilizing, digging, raking, and sprinkler repair and installation.
+**Job Description**
+**Role and Responsibilities**
+- Within six months, must become familiar with principles of Servant Leadership and demonstrate rudimentary understanding to demonstrate development and aptitude.- Clean and maintain the grounds: cut lawn using hand mower or power mower, trim and edge around perimeters, trim shrubs, and keep all sidewalks clean of debris.- Ensure quality checks are performed on the grounds and irrigation systems. Maintain machinery and equipment by providing preventive care and minor adjustments.- Records lawn care services rendered, materials used and charges incurred.- Maintain, and provide weekly reports groundskeeper orders requested and completed as well as on maintenance tasks assigned.- Ensure all methods and procedures are conducted in a safe and hazard- free approach including handling fertilizers, chemical and tools.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- High School Diploma or equivalent preferred.- Ability to perform simple math computations.- Ability to bend and lift 35 pounds frequently.- Ability to stand for prolonged periods of time (up to 7 hours per 8-hour shift).- Adhere to work assigned schedule.- Previous experience handling and operating commercial lawn equipment preferred.- Ability to work independently.
+**Physical Requirements**
+- Must be able to lift up to 35 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus- While performing the duties of this job, the employee is frequently exposed to airborne particles.- Frequently exposed to extreme atmospheric conditions (temperature, noise fumes, dust, etc.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### Admissions Representative
 
