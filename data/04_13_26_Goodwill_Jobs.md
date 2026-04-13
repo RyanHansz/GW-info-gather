@@ -1,21 +1,21 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** April 13, 2026 at 09:20 AM
+**Last Updated:** April 13, 2026 at 05:39 PM
 
-**Total Positions:** 99
+**Total Positions:** 103
 
 ---
 
 ## Quick Navigation
 
 - [Custodial Services](#custodial-services) (4)
-- [Education & Training](#education-training) (5)
-- [Management & Leadership](#management-leadership) (25)
+- [Education & Training](#education-training) (6)
+- [Management & Leadership](#management-leadership) (26)
 - [Merchandise Processing](#merchandise-processing) (25)
-- [Other Positions](#other-positions) (15)
+- [Other Positions](#other-positions) (16)
 - [Sales](#sales) (18)
 - [Warehouse & Transportation](#warehouse-transportation) (6)
-- [eCommerce](#ecommerce) (1)
+- [eCommerce](#ecommerce) (2)
 
 ---
 
@@ -352,9 +352,68 @@ Goodwill Excel Center is an equal opportunity employer. We celebrate diversity a
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned role.
 
+### ESL Teacher
+
+- **Location:** Excel Connally Campus, Kenedy, TX, US
+- **Type:** Full Time
+- **Posted:** May 15, 2025
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=557729)**
+
+#### Job Description
+
+The Goodwill Excel Center Adult High School is currently seeking an English as a Second Language (ESL) Teacher for our Connally Campus, located at John B. Connally Unit 899 FM 632 Kenedy, TX 78119. 
+The Goodwill Excel Center is the first free, public charter high school in Texas that provides adults ages 18-50 the opportunity to earn their high school diploma, complete an in-demand professional certification, and begin postsecondary education. There are seven campuses within the charter district. Two campuses are in Austin: one at the Goodwill Community Center and one in South Austin in partnership with American YouthWorks. The other five campuses are located within correctional facilities across the state. For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org/. 
+The ESL Teacher is responsible for implementing, developing, and executing instruction of the Goodwill Excel Center vocational curriculum. The ESL Teacher will employ a student-centered approach, effectively tailoring the instructional strategies to the individual students’ needs and approaching instruction with creativity and innovation. Strategies may include, but are not limited to direct instruction, one-to-one instruction, seminars, small group learning, self-paced lessons, blended learning and courses, and online learning tools. The ESL Teacher will work with the instructional team in meeting educational objectives and adhering to the Texas Essential Knowledge & Skills (TEKS) standards.
+**Role and Responsibilities**
+- Provide instruction to students in assigned ESL courses that ensures mastery of Texas Essential Knowledge and Skills (TEKS).- Develop and revise an approved curriculum that includes lesson plans, projects, and assessments that are aligned with the standards of The Excel Center and TEKS.- Assess student progress and learning needs to build and shape instruction around student needs.- Utilize attendance, grades, and assessment data to refine lessons and inform instructional practices to achieve learning goals.- Implement a clear and consistent classroom management system that aligns to Instructional Team and Campus-wide initiatives while developing students’ character and sense of community in the classroom.- Support all students in achieving academic success and character growth.- Provide tutorials for students to ensure mastery of material.- Document and maintain attendance, grades, and progress records according to District policy.- Create a positive classroom environment conducive to learning and educational growth of students, including behavior management that is firm, fair, and consistent. - Participate in collaborative curriculum development, grade/ability-level activities, and school-wide functions aimed at improving student retention, productivity, school culture, and new student on-boarding.- Attend and participate in all staff, team, and professional development meetings and activities.- Participate in all evaluations and self-studies as required by the Texas Education Agency (TEA).- Serve on curriculum, instructional, textbooks, and other committees as assigned. - Administer diagnostic placement tests, achievement tests, curriculum tests, and other tests as required by the Campus Director.
+** **
+**Other Duties & Responsibilities**
+- Demonstrate progress in meeting student performance targets of the district. - Demonstrate progress in meeting assigned action plans of the district or campus improvement plans. - Develop, use, and evaluate ideas and/or innovative approaches to improve performance. - Keep informed of and comply with policies of The Goodwill Excel Center, WSD, and TDCJ.- Comply with policies established by federal and state law, including, but not limited to, State Board of Education and local Board policy. - Follow all unit procedures in checking out materials, supplies, and equipment and promptly report any defective equipment and/or student abuse of materials, supplies, or equipment. - Assist district and campus teams with outreach and engagement events throughout the school year.- Perform other related duties as assigned.
+**Supervisory Responsibilities**
+This position does not supervise any Excel Team Members. This position may supervise adult incarnated students in classroom settings, including assigned teacher aids. 
+**Required Qualifications**
+- Bachelor’s degree from an accredited college or university.- Texas Teaching Certification in ESL (HS Grades).- Must have a proven record of results that illustrate the teacher’s ability to increase student achievement utilizing subject-specific instructional strategies.- Must have a broad knowledge of the principles and practices of current educational trends in curriculum and instruction.- Must have working knowledge of computer programs and accessing internet applications such as Student Information Systems, Microsoft Products, Google Applications (Gmail), and Internet Explorer.- Excellent oral & written communication skills; ability to convey ideas & instructions clearly & concisely. - Skill to interpret and apply rules, regulations, policies, and procedures. - Skill in organizing and maintaining accurate records. - Must possess the essential mindset that all students can achieve at high levels.- Strong interpersonal and communication skills, with the ability to engage and motivate diverse populations.- Demonstrated commitment to supporting adult learners in achieving their educational and career goals.- Possess understanding of marginalization and how it impacts those Goodwill serves and employs; Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization** **
+** **
+**Preferred Qualifications**
+- Bilingual
+**What We Offer**
+**Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.
+**Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.
+**Teacher Retirement System & 403b Participation**
+**Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.
+**Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses & tuition/certification support.
+**Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and free mental health support.
+**Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.
+**Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned role.
+
 ---
 
 ## Management & Leadership
+
+### Retail Supervisor
+
+- **Location:** Kyle Store, Kyle, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $17.85
+- **Posted:** Apr 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577215)**
+
+#### Job Description
+
+**Summary of Position**
+Retail Supervisors will assist management in the operation of the Goodwill retail store. This includes customer service, record keeping, cash management, facility operation, communications, merchandising, and inventory control.
+**Role and Responsibilities**
+- Assist the store manager with the overall operation of the retail store.- Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Supervise and train retail sales associates.- Monitor sales transactions associated with purchases and ensure proper sales procedures are followed by sales associates.
+**Supervisory Responsibility**
+- This position is responsible for supervising and training the Donation Attendant, Merchandise Processor & Sales Associate positions.- Required Skills & Qualifications - At least 1 year of supervisory experience.- Ability to perform continuous walking, stooping, standing, bending, kneeling, and climbing for prolonged periods of time (up to 7 hours per 8-hour shift.)- Ability to lift 35 pounds frequently.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.
+**Physical Requirements**
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Ability to work in a confined area.- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate
 
 ### Retail Supervisor
 
@@ -380,7 +439,7 @@ All qualified applicants will receive consideration for employment without regar
 
 - **Location:** Marble Falls Store, Marble Falls, TX, US
 - **Type:** Full Time
-- **Salary:** $64,000.00 - $69,999.00
+- **Salary:** $46,000.00 - $49,999.00
 - **Posted:** Apr 09, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577049)**
 
@@ -1076,11 +1135,11 @@ Employment is contingent upon passing a pre-employment background check, includi
 
 ### Merchandise Processor
 
-- **Location:** Brodie Lane Store, Austin, TX, US
-- **Type:** Part Time
+- **Location:** Anderson Lane Store, Austin, TX, US
+- **Type:** Full Time
 - **Salary:** $0.00 - $14.00
-- **Posted:** Apr 10, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577127)**
+- **Posted:** Apr 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=576403)**
 
 #### Job Description
 
@@ -1772,6 +1831,30 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Other Positions
+
+### Logistics Dispatcher
+
+- **Location:** North Outlet, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $19.00
+- **Posted:** Apr 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577233)**
+
+#### Job Description
+
+**Summary of Position**
+Coordinates the daily scheduling and routing of supplies, donations, and special projects between Goodwill and community locations. Coordinates daily logistical operations to include loading and unloading vehicles, electronic manifesting, GPS routing, navigation, and storage.
+**Job Description**
+**Role and Responsibilities**
+- Enter all routing information into the provided systems in accordance with department policy and procedures.- Create daily dispatch board for all vehicles including routes, manifest, and driver information.- Maintain records for all services, maintenance, and other assigned data points.- Provide daily inventory report of all equipment, supplies, and donated goods items across GCT locations. Maintain accurate count and location of inventoried items as required.- Provide single point of contact for internal and external customers.- Adheres to the assigned work schedule.- Maintain good communications and positive team atmosphere with staff, peers and other departments. Promote the Mission of Goodwill.- Report immediately all accidents or incidents.- Provide excellent customer service.- Attend all mandatory meetings and training.- Complies with all safety rules, standards, and regulations.- Display the highest ethical standards when making decisions related to our people and business.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- 1-2 years of dispatching or data entry experience.- Experience working with trucks, forklifts, distribution operations, or maintenance.- Must have a valid driver’s license 
+**Physical Requirements**
+- Ability to work in a non-climate-controlled environment. - Must be able to lift 30-50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus- While performing the duties of this job, the employee is frequently exposed to airborne particles.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
+#IND2
 
 ### Scanning and Key Entry Operator
 
@@ -2819,6 +2902,28 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## eCommerce
+
+### eCommerce Shipping Specialist
+
+- **Location:** Ecommerce, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Apr 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577189)**
+
+#### Job Description
+
+**Summary of Position**
+To assist in the overall operation of the eCommerce store, including accepting and processing donations, assisting online customers, shelving and shipping orders. 
+**Role and Responsibilities**
+- Adheres to the assigned work schedule and punctuality are an essential function of the job.- Ensures work areas are maintained and organized.   Work areas are cleaned at the end of each day. Maintains cleanliness in storage and production areas.- Maintains a positive, team-oriented relationship with management, peers, and subordinates.- Efficiently package all items for shipment. In an accurate and timely fashion ship out all sold product to the correct customer.- Locate and collect all orders for shipping.- Handle all customer service related to order fulfillment including but not limited to, requests for tracking information, local pick-up requests and combined shipments.- Maintains the shipping supply inventory and generate requests proactively to restock supplies.- Maintain a records database tracking shipping costs and quantity of parcels shipped.- Maintains and assures safety in work areas.- Ensures compliance with policies and procedures.- Meets goals and fulfills responsibilities.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Prior experience working in a warehouse environment preferred.- Must be able to multi-task to meet daily production quotas.- Must be able to read, write, understand and follow directions in English.
+**Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### eCommerce Lister
 
