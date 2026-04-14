@@ -1,6 +1,6 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** April 14, 2026 at 09:19 AM
+**Last Updated:** April 14, 2026 at 05:42 PM
 
 **Total Positions:** 103
 
@@ -10,8 +10,8 @@
 
 - [Custodial Services](#custodial-services) (4)
 - [Education & Training](#education-training) (6)
-- [Management & Leadership](#management-leadership) (26)
-- [Merchandise Processing](#merchandise-processing) (25)
+- [Management & Leadership](#management-leadership) (25)
+- [Merchandise Processing](#merchandise-processing) (26)
 - [Other Positions](#other-positions) (16)
 - [Sales](#sales) (18)
 - [Warehouse & Transportation](#warehouse-transportation) (6)
@@ -971,33 +971,6 @@ Retail Supervisors will assist management in the operation of the Goodwill retai
 - Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Ability to work in a confined area.- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropr
 
-### Career Case Manager
-
-- **Location:**  Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $21.28
-- **Posted:** Feb 02, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=572029)**
-
-#### Job Description
-
-The Career Case Manager supports the basic needs and service coordination for Goodwill clients seeking assistance with education, job training, and employment related services. The Career Case Manager will work closely with clients in developing service plans including goals for training, education, and employment as well as providing continued programmatic follow-up supports post-placement. The Career Case Manager works closely with other Workforce Advancement professionals in coordinating services provided within and outside of Goodwill.
-** **
-**Role and Responsibilities**
-- Maintain client caseloads by supporting client’s development with respect to resume building, job applicants/job searching, interviewing and employment related soft skills. Maintain frequent contact with client in accordance with agency policy and procedures. - Develop in partnership with clients, a strengths-based/solution-focused assessment and individualized career plan that identifies short and long term goals and resources that support clients on their path towards their education, training and employment goals. Track and document goal acquisitions and support clients in their transition to next steps according to their individual career plan. - Apply extensive knowledge of regional labor market needs and trends which will support an evidence based carer path for clients. - Coordinate with appropriate social services professionals in delivering services necessary to support clients in achieving employment stability. - Intervene effectively and ethically in crisis situation, developing applicable interventions and follow-up plans to thoroughly address immediate and future needs while maintaining safety. - Enroll clients in programs, obtain information and complete reports to meet/exceed all performance targets as required by Goodwill and other funding sources. - Maintain complete and accurate records of all clients through ECM and other required client tracking databases. Strictly adhering to all data entry requirements set forth by Goodwill and other funding sources. Adhere to confidentiality protocols related to electronic and paper files and documents. - Coordinate and work collaboratively with GCT Career Advancement Team to connect client with career advancement trainings and the Business Solutions team to connect client with employment opportunities. - quality and integrity of Career Advancement Services in ECM. Pull reports as needed for department. - Participate in and contribute to community collaborations and inter-agency discussions that further the Goodwill mission and clients’ goals. - Other duties as assigned.
-**Additional Job Responsibilities for Outlying Career Case Manager**
-- Acts as Intake & Eligibility Specialist for the Outlying Career Center. - Screen potential clients and provide an accurate and thorough intake based on individual career or educational goals. - Effectively communicate programs and services provided at Goodwill Central Texas as well as connect clients/potential clients to community resources.- Maintain adherence to scheduling protocols by being physically present at the career center during assigned shifts to assist walk-in clients; responsible for opening and closing the career center as scheduled.- Manage and maintain positive working relationships with agency and staff at partner site locations. Work collaboratively with agency staff for the best interest of Goodwill participants and mission.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities
-**Required Skills & Qualifications **
-- Bachelor’s degree (or higher) in education, business, or a social services related field. Associate degree. Minimum of 1 year experience working with clients in employment counseling, placement, education, or human services can substitute for a four-year degree. - Minimum of 1 year experience with socially disadvantaged individuals such as un-housed, ex-offenders, and low literacy, and individuals with disabilities.- Knowledge of Goodwill services and of community resources and business networking preferred.- Extensive experience with Microsoft Office (Word, Excel, PowerPoint, outlook), and other social media applications.- Valid driver's license, proof of valid insurance and ability to travel on work related business to meet client location/service delivery needs.- Knowledge of client assessment skills, community resources coordination, career planning principles, employability skills, and crisis intervention.- Ability to conduct and/or translate training sessions bilingually preferred.
-**Physical Requirements**
-- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
 ### Senior Safety Manager
 
 - **Location:** GCC HQ, Austin, TX, US
@@ -1132,6 +1105,34 @@ Employment is contingent upon passing a pre-employment background check, includi
 ---
 
 ## Merchandise Processing
+
+### Merchandise Processor
+
+- **Location:** Bastrop Store, Bastrop, TX, US
+- **Type:** Part Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Apr 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577334)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Merchandise Processor
 
