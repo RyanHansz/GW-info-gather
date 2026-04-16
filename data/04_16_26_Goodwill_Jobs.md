@@ -1,6 +1,6 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** April 16, 2026 at 09:24 AM
+**Last Updated:** April 16, 2026 at 05:35 PM
 
 **Total Positions:** 99
 
@@ -8,14 +8,14 @@
 
 ## Quick Navigation
 
-- [Custodial Services](#custodial-services) (4)
+- [Custodial Services](#custodial-services) (3)
 - [Education & Training](#education-training) (5)
 - [Management & Leadership](#management-leadership) (26)
 - [Merchandise Processing](#merchandise-processing) (25)
 - [Other Positions](#other-positions) (16)
 - [Sales](#sales) (17)
 - [Warehouse & Transportation](#warehouse-transportation) (5)
-- [eCommerce](#ecommerce) (1)
+- [eCommerce](#ecommerce) (2)
 
 ---
 
@@ -94,49 +94,6 @@ All qualified applicants will receive consideration for employment without regar
 - **Salary:** $15.00
 - **Posted:** Mar 30, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=576521)**
-
-#### Job Description
-
-**POSITION SUMMARY:**
-Custodians work in various settings and are responsible for the general upkeep of a building. They are key members of the custodial team who work collaboratively with Custodial Team leads to provide quality custodial services to our clients. Please note that 75% of the labor hours for our contracts are reserved for individuals *with documented significant disabilities*. These programs allow people who have significant disabilities an opportunity to gain meaningful employment, lead more independent lives, reduce dependence on government social programs and become taxpayers. We strongly encourage individuals with documented disabilities to apply.
-**COMPANY:**
-Established in 1958, Goodwill Central Texas is a non-profit organization that has transformed thousands of lives through the power of work. We are the leader in workforce development, one of the largest employers in our region, and a cornerstone of the community. Our mission is funded through our donation-driven retail stores, comprehensive business and staffing solutions, and generous community support. Our vision is to empower every Central Texan to transform their lives through work and education. Join the team whose work empowers people to transform their lives!
-**COMMITMENT TO DIVERSITY, EQUITY, AND INCLUSION:**
-Goodwill Central Texas is committed to fostering, cultivating, and preserving a culture of diversity and inclusion in which all employees are valued for their skills, experience, and unique perspective. This commitment is embodied in our company policies and in the way we do business. Working together as a diverse and inclusive organization is essential to our success.
-We embrace and encourage our employees’ differences in age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other characteristics that make our employees unique.
-**BENEFITS:**
-- Retirement benefits
-- Generous paid time off
-- Paid Personal Days
-- Free Mental Health Counseling
-- Tuition Support
-- Employee discounts and discounted gym memberships
-- 6 weeks of paid parental leave
-- Affordable Medical, Vision, & Dental Coverage
-- Company paid life insurance
-- 403b match
-**COMPENSATION:**
-Depending on experience and qualifications
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-**ESSENTIAL DUTIES AND RESPONSIBILITIES:**
-- Clean restroom, toilets, sinks floors, urinals, and mirrors, fixtures, using toilet brush, sponge, and disinfectants and cleaning solutions.- Spot clean doors, partitions, walls, windows, and all horizontal surfaces.- Restock paper supplies and empty trash to designated location.- Clean If carpeted, vacuum daily and shampoo as specified in contract. Other surfaces sweep and mop daily, strip, wax, and buff as specified in contract.- Comply with all safety rules, standards, and regulations.- Mix chemical solutions in safe and efficient manner.- Display positive attitude and pride in correct, representing the organization in a positive manner.- Display the highest ethical standards when making decisions related to our people and business.- Participate in all required meetings.- Adhere to assigned work schedule.- Demonstrate ethics and complies with Corporate Compliance Program.- Meet Yearly Mandatory Training requirements for this position.
-**OTHER DUTIES AND RESPONSIBILITIES:**
-- Support service recipients, supervisors and Custodial Team Leads at assigned contract sites.
-**SUPERVISORY RESPONSIBILITY:**
-- This position does not have supervisory responsibilities.
-**REQUIRED QUALIFICATIONS:**
-- One to three months previous cleaning or related Approved custodial training program may substitute for experience.- Ability to lift fifty pounds with or without a reasonable accommodation.- Ability to pass a criminal background check (subject to requirements of assigned site client).- Depending on service contract, may require documentation of a disability.- Required to have a valid driver’s license.
-**PREFERRED QUALIFICATIONS:**
-- High School Diploma/GED.- One year of previous custodial experience in a federal contract or commercial cleaning site.- Ability to operate a variety of buffing machines.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### Custodian
-
-- **Location:**  Austin, TX, US
-- **Type:** N/A
-- **Salary:** $15.00
-- **Posted:** Mar 27, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=576397)**
 
 #### Job Description
 
@@ -2819,6 +2776,29 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## eCommerce
+
+### E-Commerce Team Member
+
+- **Location:** Ecommerce, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Apr 16, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577456)**
+
+#### Job Description
+
+**Summary of Position**
+The E-commerce Team Member works in a fast-paced environment performing a variety of critical operational and online tasks. Including but not limited to reviewing donations for authenticity and value, online research, tracking and processing of donations, creating accurate online item listings to advertise and sell high value donations, packaging and shipping of sold merchandise and providing excellent customer service at all times.
+**Job Description**
+**Role and Responsibilities**
+- Moves material within the E-commerce warehouse or office as needed using rolling carts, dollies or pallet jacks as needed.- Sorts and processes a wide variety of merchandise accordingly to department standards.- Tracks, labels, and records all processed merchandise using online tracking system.- Sorts jewelry and separates into precious metals, designer brands, costume jewelry, scrap jewelry or bulk lots according to department standards.- Tests precious metals and gemstones using assigned equipment accordingly to safety guidelines.- Photographs each item to visibly identify all critical details about each item to potential bidders/customers.- Writes clear and concise item listings that communicates all critical details about an item to potential bidders/customers.- Accurately uses grammar, spelling and punctuation in item listings.- Pulls sold orders from inventory shelves and stages in the correct area for packing or pick up.- Conducts inventory purges as needed.- Packages and ships each item in the most cost-effective manner to the correct customer.- Meets hourly and daily production goals of any assigned task.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
+** Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### eCommerce Shipping Specialist
 
