@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** April 21, 2026 at 09:25 AM
+**Generated:** April 21, 2026 at 05:41 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 41 | 91 |
-| GCC (North Austin) | 12 | 82 | 158 |
-| **TOTAL** | **23** | **123** | **249** |
+| GCC (North Austin) | 12 | 82 | 152 |
+| **TOTAL** | **23** | **123** | **243** |
 
 ---
 
@@ -278,17 +278,17 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 9 total spots across 3 sessions
+> **✅ Spaces available!** 8 total spots across 3 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/zjgi3bu0u7t757/
 
-**Total Sessions:** 3 | **Available Spaces:** 9
+**Total Sessions:** 3 | **Available Spaces:** 8
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~04/09/2026~~ | ~~1:00pm-2:30pm~~ | Adryan | ~~2~~ | Past |
 | ~~04/16/2026~~ | ~~9:30am-11:30am~~ | Adryan | ~~3~~ | Past |
-| 04/28/2026 | 11:00am-12:30pm | Adryan | 4 | **Available** |
+| 04/28/2026 | 11:00am-12:30pm | Adryan | 3 | **Available** |
 
 ---
 
@@ -415,11 +415,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 14 total spots across 14 sessions
+> **✅ Spaces available!** 13 total spots across 13 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 23 | **Available Spaces:** 14
+**Total Sessions:** 23 | **Available Spaces:** 13
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -444,7 +444,7 @@
 | ~~04/21/2026~~ | ~~10:00am-11:00am~~ | Doug | ~~0~~ | Past |
 | 04/28/2026 | 11:30am-12:30pm | Doug | 0 | **Full** |
 | 04/28/2026 | 3:00pm-4:00pm | Doug | 1 | **Available** |
-| 04/29/2026 | 1:30pm-2:30pm | Doug | 1 | **Available** |
+| 04/29/2026 | 1:30pm-2:30pm | Doug | 0 | **Full** |
 | 04/29/2026 | 3:00pm-4:00pm | Doug | 1 | **Available** |
 
 ---
@@ -457,19 +457,19 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 24 total spots across 6 sessions
+> **✅ Spaces available!** 21 total spots across 5 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/
 
-**Total Sessions:** 8 | **Available Spaces:** 24
+**Total Sessions:** 8 | **Available Spaces:** 21
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~02/25/2026~~ | ~~9:00am-11:00am~~ | Alex | ~~0~~ | Past |
 | ~~04/20/2026~~ | ~~TBD~~ | Presley | ~~4~~ | Past |
-| ~~04/21/2026~~ | ~~1:30pm-3:30pm~~ | Alex | ~~2~~ | Past |
+| ~~04/21/2026~~ | ~~1:30pm-3:30pm~~ | Alex | ~~0~~ | Past |
 | 04/24/2026 | 1:00pm-3:00pm | Alex | 3 | **Available** |
-| 04/27/2026 | 1:00pm-3:00pm | Alex | 4 | **Available** |
+| 04/27/2026 | 1:00pm-3:00pm | Alex | 3 | **Available** |
 | 04/29/2026 | 9:00am-11:00am | Alex | 3 | **Available** |
 | 04/30/2026 | 1:00pm-3:00pm | Alex | 0 | **Full** |
 | 05/01/2026 | 9:30am-11:30am | TBD | 8 | **Available** |
@@ -506,11 +506,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 8 total spots across 8 sessions
+> **✅ Spaces available!** 7 total spots across 7 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-job-preparation-11/
 
-**Total Sessions:** 13 | **Available Spaces:** 8
+**Total Sessions:** 13 | **Available Spaces:** 7
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -518,7 +518,7 @@
 | ~~04/20/2026~~ | ~~2:30pm-3:30pm~~ | Alex | ~~0~~ | Past |
 | 04/22/2026 | 1:00pm-2:00pm | Alex | 0 | **Full** |
 | 04/22/2026 | 3:00pm-4:00pm | Alex | 1 | **Available** |
-| 04/28/2026 | 10:00am-11:00am | Alex | 1 | **Available** |
+| 04/28/2026 | 10:00am-11:00am | Alex | 0 | **Full** |
 | 04/28/2026 | 11:30am-12:30pm | Doug | 0 | **Full** |
 | 04/28/2026 | 1:30pm-2:30pm | Doug | 0 | **Full** |
 | 04/29/2026 | 11:30am-12:30pm | Doug | 1 | **Available** |

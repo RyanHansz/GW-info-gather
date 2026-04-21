@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** April 21, 2026 at 09:24 AM
+**Last Updated:** April 21, 2026 at 05:40 PM
 
-**Total Positions:** 99
+**Total Positions:** 98
 
 ---
 
@@ -12,7 +12,7 @@
 - [Education & Training](#education-training) (6)
 - [Management & Leadership](#management-leadership) (26)
 - [Merchandise Processing](#merchandise-processing) (26)
-- [Other Positions](#other-positions) (15)
+- [Other Positions](#other-positions) (14)
 - [Sales](#sales) (17)
 - [Warehouse & Transportation](#warehouse-transportation) (4)
 - [eCommerce](#ecommerce) (1)
@@ -1991,27 +1991,6 @@ This position does not have supervisory responsibilities.
 **Physical Requirements**
 - Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.-  The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-#IND2
-
-### Staff Accountant
-
-- **Location:** GCC HQ, Austin, TX, US
-- **Type:** Full Time
-- **Posted:** Apr 09, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=576909)**
-
-#### Job Description
-
-**The Staff Accountant will be responsible for general ledger reconciliations, month end close, annual audit assistance and maintaining accounts by identifying, verifying, and recording transactions.**
-**Role and Responsibilities**
-- Perform daily bank reconciliations for operating accounts, ensuring accuracy and timely resolution of discrepancies.- Perform daily reconciliation of cash recycler activity while maintaining and organizing reports to support an efficient and audit-ready month-end close.- Reconcile and monitor eCommerce, PayPal, and merchant accounts, ensuring completeness and accuracy of revenue recognition.- Perform payroll account reconciliations, partnering with Payroll to ensure accurate postings and timely resolution of variances.- Work with Community Engagement to record and maintain auto auction transactions.- Reconcile weekly and biweekly payroll tax payments.- Review Balance Sheet accounts monthly and reconcile as assigned.- Reconcile and track pledge commitments and payments, ensuring alignment between donor records and financial reporting.- Prepare monthly workers’ compensation payment and report for review.- Prepare and issue monthly sales tax payment.- Assist in the accurate and timely month end and year end close.- Maintain organized and audit-ready documentation, both physical and electronic, in accordance with organizational standards.- Follow internal controls and safeguards for receipt of revenues, donations, and payments.- Complete required annual training.- Other duties as assigned.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities.
-**Required Skills**
-- Bachelor’s degree in Accounting, Finance or Business.- Three to five years of accounting and finance experience with increasing levels of- responsibility.- Personal qualities of integrity, credibility, and unwavering commitment to the mission.- Ability to act and operate independently with minimal daily direction from manager to accomplish objectives.- Proficiency with Microsoft Office.- Commitment to collaboration within a diverse team.- The foresight and ability to request assistance when unable to complete tasks or meet deadlines.- Strong organizational, planning and time management skills.- Strong interpersonal and communication skills, able to effectively communicate key data to customers, stakeholders, and team members.
-**Physical Requirements **
-- Prolonged periods of sitting at a desk and working on a computer- Must be able to lift to 15 pounds at times- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear- The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. A pre-employment background check is required to ensure the applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 #IND2
 
 ### Forklift Operator
