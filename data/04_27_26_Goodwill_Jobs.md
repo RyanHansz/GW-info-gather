@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** April 27, 2026 at 09:46 AM
+**Last Updated:** April 27, 2026 at 05:46 PM
 
-**Total Positions:** 164
+**Total Positions:** 165
 
 ---
 
@@ -11,7 +11,7 @@
 - [Custodial Services](#custodial-services) (4)
 - [Education & Training](#education-training) (7)
 - [Management & Leadership](#management-leadership) (27)
-- [Merchandise Processing](#merchandise-processing) (73)
+- [Merchandise Processing](#merchandise-processing) (74)
 - [Other Positions](#other-positions) (13)
 - [Sales](#sales) (29)
 - [Warehouse & Transportation](#warehouse-transportation) (6)
@@ -1210,6 +1210,34 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Merchandise Processing
+
+### Merchandise Processor
+
+- **Location:** Round Rock Store, Round Rock, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Apr 27, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=578008)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Merchandise Processor
 
@@ -3365,6 +3393,30 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
+### Career Coach
+
+- **Location:** GCC HQ, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $21.28
+- **Posted:** Apr 09, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=576920)**
+
+#### Job Description
+
+**Summary of Position**
+The Career Coach is responsible for supporting individuals employed within Goodwill Central Texas. Their primary role is to promote continued employee engagement at Goodwill. Each coach is responsible for a number of employees, typically ranging from 65-100. The Career Coach will identify long term goals that support employees on their path towards their education, training, and employment goals. Coaches build relationships with each employee and provide internal and external resources to remove barriers from the employee’s professional growth and development. Effective coaches understand how to prioritize and manage their core responsibilities while also being responsive to employee crises as they arise. Through problem-solving sessions, the Coach will facilitate ways in which each employee can overcome barriers and continue progress towards his or her career pathway. The Career Coach is focused on the supporting the employee as he or she moves between all Goodwill divisions while working towards the identified long term goals.
+**Job Description**
+**Role and Responsibilities**
+- Establish a trusting relationship with employees. Maintain frequent and consistent communication and monitor for successful indicators that employee is on track to retain employment.- Coordinate and work collaboratively within GCT to connect client with trainings and services applicable for career growth and development.- Become part of a reliable alliance with business line management to ensure business success and employee engagement.- Observe and evaluate worksite behaviors in which employees may be engaged that could decrease employee’s likelihood of retention and provide coaching and guidance as necessary to correct and address these behaviors.- Support employees in assessing and identifying services needed to support their participation in and achievement of individualized goals.- As part of each individual career plan, identify short and long term goals that support employees on their path towards their education, training and employment goals. Track and document goal acquisitions and support employees in their transition to next steps according to their individual career plan.- Coordinate with appropriate internal and external resources in delivering services necessary to support employees in maintaining employment stability.- Intervene effectively and ethically in crisis situations, developing applicable interventions and follow-up plans to thoroughly address immediate and future needs while maintaining safety.- Provide coaching in finance areas as needed, which may include: saving and long term planning techniques, budgeting, banking options/opportunities, credit checks and repair, and problem solving/decision making skills.- Maintain complete and accurate records of all employees through ECM and other required client tracking databases. Strictly adhere to all data entry requirements set forth by Goodwill. Adhere to confidentiality protocols related to electronic and paper files and documents.- Complete screening and intake for clients.- Synchronize with the organizational needs for all Goodwill divisions by providing insight and knowledge acquired and obtained in the field.- Highlight organizational growth opportunities or missed areas of support and development for future initiatives within the Employee Services Program.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Bachelor’s degree in Social Work, Psychology, Sociology, Vocational Rehabilitation, Education, Human Services, Counseling, or similar/related field required.- Exceptional oral and written communication skills; proficient in Windows based computer applications.- Knowledge of client assessment skills, community resource coordination, career planning principles, employability skills, and crisis intervention.- Knowledge of best practices in serving marginalized populations (e.g. homelessness, re-entry, opportunity youth, disability, etc.).- Minimum of one year of experience providing case management services to underserved populations.- Ability to conduct and/or translate training sessions bilingually preferred. - Master’s Degree in Social Work, Psychology, Counseling, Sociology, Vocational Rehabilitation, Education, or Human Services preferred.- Professional licensure issued at conclusion of Master’s degree program listed above (e.g. LMSW, CRC, LPC, LMFT, etc.) preferred.- Bilingual (Spanish, ASL, Arabic, Farsi) preferred.- Texas Driver’s License, good driving record, liability insurance, vehicle in good working condition to travel on work related business in order to meet client location/service delivery needs preferred.
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.-  The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
+#IND2
+
 ### Forklift Operator
 
 - **Location:** GRC Outlet Recyc Transp, Austin, TX, US
@@ -3527,43 +3579,6 @@ This position does not have supervisory responsibilities 
 **Physical Requirements **
 - Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### Career Coach
-
-- **Location:** GCC HQ, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $21.28
-- **Posted:** Feb 11, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=573671)**
-
-#### Job Description
-
-**Upward Career Coach**
-**(Commercial Services or South Retail)**
-**Position Overview**
-The Upward Career Coach supports employees of Goodwill Central Texas by promoting engagement, retention, and long-term career advancement. This role works directly with employees to identify and achieve individualized education, training, and employment goals while removing barriers to professional growth.
-Each Career Coach supports approximately 65–100 employees and builds strong, consistent relationships to help employees successfully navigate their career pathways across all Goodwill divisions.
-This position may be assigned to support one of the following areas:
-**Commercial Services Assignment**
-- Supports Commercial Services employees.- Requires travel to multiple locations throughout Williamson and Travis Counties.- Requires working several evenings per month.- Due to access to federal and state facilities, candidates must successfully complete a comprehensive federal background investigation, including fingerprinting, tax compliance verification, and review of criminal, credit, and employment history.
-**South Retail Assignment**
-- Supports retail team members in the south region.- Based out of the GRC located at 6505 Burleson Road, 78744.- May require local travel depending on business needs.- Employment is contingent upon successful completion of required background checks to meet assigned location eligibility requirements.
-**Key Responsibilities**
-- Establish trusting relationships with employees and maintain consistent communication to support retention.- Monitor employee progress and identify indicators that support long-term employment success.- Collaborate within Goodwill Central Texas to connect employees with training, development programs, and supportive services.- Partner with business line management to promote employee engagement and operational success.- Observe and evaluate workplace behaviors that may impact retention and provide coaching as needed.- Assist employees in identifying and accessing services to achieve individualized career goals.- Develop and document short- and long-term career plans; track progress and support transitions to next steps.- Coordinate internal and external resources to promote employment stability.- Intervene ethically and effectively in crisis situations and develop appropriate follow-up plans.- Provide financial coaching support as needed (budgeting, savings, credit repair, banking options, decision-making skills).- Maintain accurate and confidential documentation in ECM and other required databases.- Complete client screening and intake processes.- Provide field insights to support organizational alignment and program improvement.- Identify opportunities for growth within the Employee Services Program.- Perform other duties as assigned.
-**Supervisory Responsibilities**
-This position does not have supervisory responsibilities.
-**Required Qualifications**
-- Bachelor’s degree in Social Work, Psychology, Sociology, Vocational Rehabilitation, Education, Human Services, Counseling, or related field required.- Minimum one year of experience providing case management services to underserved populations.- Strong written and verbal communication skills.- Proficiency in Windows-based computer applications.- Knowledge of client assessment, community resource coordination, career planning principles, employability skills, and crisis intervention.- Experience serving marginalized populations (e.g., homelessness, re-entry, opportunity youth, disability).- Valid drivers license and reliable transportation. - Scheduling flexibility to fit the needs of the business.
-**Preferred Qualifications**
-- Master’s degree in Social Work, Psychology, Counseling, Sociology, Vocational Rehabilitation, Education, or Human Services.- Professional licensure (e.g., LMSW, CRC, LPC, LMFT).- Bilingual (Spanish, ASL, Arabic, Farsi).- Ability to conduct and/or translate training sessions bilingually.- Texas Driver’s License, good driving record, liability insurance, and reliable vehicle for work-related travel (particularly for Commercial Services assignment).
-** **
-**Physical Requirements**
-- Prolonged periods of sitting and computer use.- Ability to lift up to 15 pounds.- Frequent walking, balancing, stooping, kneeling, crouching, and communicating.- Ability to manage moderate levels of stress.- Close vision, distance vision, depth perception, and focus adjustment required.
-**Equal Opportunity Statement**
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status.
-Pre-Employment background checks are required to ensure eligibility requirements for the assigned customer/location are met. Alternative work locations may be offered as appropriate.
-Employment for Commercial Services assignments is contingent upon the successful completion of a federal background investigation and the ability to obtain and maintain a favorable suitability determination.
-#IND2
 
 ### Talent Acquisition Partner
 
