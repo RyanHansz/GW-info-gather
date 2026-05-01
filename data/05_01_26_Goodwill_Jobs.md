@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** May 01, 2026 at 09:14 AM
+**Last Updated:** May 01, 2026 at 05:43 PM
 
-**Total Positions:** 177
+**Total Positions:** 179
 
 ---
 
@@ -10,10 +10,10 @@
 
 - [Custodial Services](#custodial-services) (6)
 - [Education & Training](#education-training) (8)
-- [Management & Leadership](#management-leadership) (26)
+- [Management & Leadership](#management-leadership) (29)
 - [Merchandise Processing](#merchandise-processing) (73)
 - [Other Positions](#other-positions) (13)
-- [Sales](#sales) (31)
+- [Sales](#sales) (30)
 - [Warehouse & Transportation](#warehouse-transportation) (15)
 - [eCommerce](#ecommerce) (5)
 
@@ -529,6 +529,52 @@ All qualified applicants will receive consideration for employment without regar
 
 ## Management & Leadership
 
+### Marketing Operations Manager
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $62,000.00 - $97,500.00
+- **Posted:** May 01, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=578299)**
+
+#### Job Description
+
+The Marketing Operations Manager leads the execution and consistency of Goodwill Central Texas's marketing strategy across 40+ retail locations while managing the daily operations of the Marketing Communications Team. This role serves as the connective tissue between marketing strategy, project management, instore retail operations, and cross-departmental collaboration, ensuring that paid campaigns are reflected with in-store signage merchandising, and communications are delivered on time, on brand, and with measurable impact throughout Central Texas.
+**Role and Responsibilities**
+- In collaboration with the Senior Director of Marketing, implement multifaceted marketing and advertising plan aligned with organizational goals: donated goods retail (sales and goods donations), education and mission recruitment, and Organizational Development.- Provide oversight and collaborate on the overall direction for all Marketing Communications projects timelines: events, grand openings, special projects, and any other support needs.- Manage vendor relationships and the production process for printed marketing materials.- Oversee website maturation for Goodwill Central Texas, GCTA and EXCEL, in partnership with 3rd party developer support. - Perform copyediting for brand consistency across blogs, direct mail, email, newsletters, website content, and in-store materials, within compositional needs of original content.- Coordinate and support scalable grand opening retail marketing operations across Central Texas retail locations, including on-site setup, merchandising, and marketing execution. - Manage large, in-house printer; retail ticket printing requests through Fresh Service, printer supplies needed, vendor meeting schedule- Act as a key liaison between Marketing, Retail Operations to ensure clear communication, alignment, and execution of priorities.- Travel to retail locations across the Central Texas region to support in-store execution, audits, and operational needs.- Consistently exhibits fidelity to organizational values and culture.- Other duties as assigned.
+**Supervisory Responsibility**
+This position has supervisory responsibilities over the Content Producer & Web Developer.
+** **
+**Required Skills & Qualifications **
+- Bachelor’s Degree in Marketing or Communications and, at least, 5 years of marketing experience.- Proven experience in effectively creating and executing multifaceted marketing events and merchandising.- Two years of marketing project management experience.- Experience and knowledge of print production.- Experience with customer success ticketing system.- Experience advancing diversity of thought both within teams and organizations.- Proven copywriting and editing acumen.- Excellent verbal communication skills; comfort with public speaking.- Experience with a variety of communication channels, including multimedia.- Exceptional organizational skills.- Ability to effectively manage multiple priorities.- Bilingual skill is a plus
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk, balance, stoop, kneel, crouch, and talk or hear. - The ability to manage multiple priorities and align with leadership.- Specific vision abilities required by this job include close vision, distance vision, depth perception, and the ability to adjust focus. 
+**Equal Employment Opportunity**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to a workplace where everyone feels included. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, disability, veteran status, gender identity, sexual orientation, or any other protected characteristic.
+** **
+**Background Check**
+Employment is contingent upon passing a pre-employment background check, including verification of employment history, education, and criminal record.
+
+### Retail Supervisor
+
+- **Location:** Lakeway Store, Lakeway, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $17.85
+- **Posted:** May 01, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=578276)**
+
+#### Job Description
+
+**Summary of Position**
+Retail Supervisors will assist management in the operation of the Goodwill retail store. This includes customer service, record keeping, cash management, facility operation, communications, merchandising, and inventory control.
+**Role and Responsibilities**
+- Assist the store manager with the overall operation of the retail store.- Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Supervise and train retail sales associates.- Monitor sales transactions associated with purchases and ensure proper sales procedures are followed by sales associates.
+**Supervisory Responsibility**
+- This position is responsible for supervising and training the Donation Attendant, Merchandise Processor & Sales Associate positions.- Required Skills & Qualifications - At least 1 year of supervisory experience.- Ability to perform continuous walking, stooping, standing, bending, kneeling, and climbing for prolonged periods of time (up to 7 hours per 8-hour shift.)- Ability to lift 35 pounds frequently.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.
+**Physical Requirements**
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Ability to work in a confined area.- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate
+
 ### Director, Benefits & Wellbeing
 
 - **Location:** GCC HQ, Austin, TX, US
@@ -720,6 +766,36 @@ Apply today and help us turn donations into opportunities!
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Retail Assistant Manager
+
+- **Location:** Oak Hill Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $50,000.00 - $55,999.00
+- **Posted:** Apr 17, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577494)**
+
+#### Job Description
+
+**Assistant Store Manager – Lead With Purpose **
+**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
+Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
+**What You’ll Be Doing:**
+- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
+**Who You’ll Supervise:**
+Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
+**What You Bring:**
+- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
+**What You’ll Get:**
+- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
+**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
+**Ready to lead with heart and hustle?**
+Apply today and help us turn donations into opportunities!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Career Case Manager
 
@@ -3700,34 +3776,6 @@ All qualified applicants will receive consideration for employment without regar
 - **Salary:** $0.00 - $14.00
 - **Posted:** Apr 30, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=578204)**
-
-#### Job Description
-
-Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
-** **
-**What You’ll Do:**
-- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
-** **
-**What You Bring:**
-- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
-** **
-**What You’ll Get:**
-- $1/hour raise after 90 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
-** **
-**Why It Matters:**
-Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Sales Associate
-
-- **Location:** Brodie Lane Store, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.00
-- **Posted:** Apr 30, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=578202)**
 
 #### Job Description
 
