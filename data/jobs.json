@@ -1,8 +1,23 @@
 {
-  "scraped_at": "2026-04-30T17:46:55.279806",
+  "scraped_at": "2026-05-01T09:14:33.103638",
   "source": "Goodwill Central Texas (ADP Workforce Now API)",
-  "total_jobs": 176,
+  "total_jobs": 177,
   "jobs": [
+    {
+      "title": "Tractor Trailer Driver",
+      "item_id": "9201841620661_1",
+      "client_requisition_id": "4371",
+      "posted_date": "2026-04-30T21:02:00.000-04:00",
+      "location": " Austin, TX, US",
+      "city": "Austin",
+      "state": "TX",
+      "postal_code": "78728",
+      "salary": "$24.00",
+      "salary_currency": "USD",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=578245",
+      "external_job_id": "578245",
+      "description": "<div><div><p><br></p><p id=\"isPasted\">Are you a skilled and safety-focused CDL driver looking for a meaningful career? Goodwill Central Texas is looking for a Tractor Trailer Driver to help transport goods that support our life-changing programs and services. If you value professionalism, take pride in your driving skills, and are ready to make a real impact, we want to hear from you!</p><p><strong>Important Note:</strong></p><p>As part of our interview and hiring process, all candidates must successfully complete a pre-employment drug screening and road test. DOT regulations also require an annual drug test.</p><p><strong>What You&rsquo;ll Do:</strong></p><p>As a Tractor Trailer Driver, you&#39;ll be responsible for transporting store deliveries, donation pickups, and materials between our facilities. This is more than just a driving job, it&#39;s a role that helps change lives through the power of work.</p><p><strong>Key Responsibilities:</strong></p><ul type=\"disc\"><li>Safely operate a Class A tractor trailer across designated routes</li><li>Load, secure, and protect cargo, including donations, retail goods, and raw materials</li><li>Maintain clear, consistent communication with dispatch</li><li>Complete all required paperwork, including vehicle logs and inspection reports</li><li>Conduct daily maintenance checks and report any issues promptly</li><li>Uphold all safety and operational protocols</li><li>Represent Goodwill Central Texas with professionalism and customer service excellence</li></ul><p>&nbsp;</p><p><strong>What We&rsquo;re Looking For:</strong></p><ul type=\"disc\"><li><strong>Age:</strong> 21+</li><li><strong>License:</strong> Valid Texas Class A CDL and current DOT Medical Card</li><li><strong>Experience:</strong> Proven ability to operate a tractor trailer safely and efficiently</li><li><strong>Communication:</strong> Ability to speak, read, and write in English</li></ul><p><strong>Physical Requirements:</strong> Able to lift/carry up to 50 lbs., stand, bend, and twist for up to 8 hours</p><p><br></p><p><strong>Environment:</strong> Must be comfortable working in non-climate-controlled environments</p><p>&nbsp;</p><p><strong>Why Join Us?</strong></p><p>At Goodwill Central Texas, your work helps fuel education, job training, and employment opportunities for thousands in our community. We offer:</p><ul type=\"disc\"><li>Competitive pay</li><li>Mission-driven culture</li><li>Opportunities for advancement</li><li>A diverse and inclusive workplace</li></ul><p>&nbsp;</p><p><strong>Additional Information:</strong></p><ul type=\"disc\"><li>Employment is contingent upon a background check</li><li>This is a non-supervisory position</li><li>Full-time availability required</li></ul><p>&nbsp;</p><p>Ready to drive your career forward with purpose? Apply today and be part of something bigger at Goodwill Central Texas!</p><p>&nbsp;</p><p><strong>Equal Employment Opportunity Statement:</strong></p><p>Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.</p><p>&nbsp;</p><p><strong>Background Check Requirement:</strong></p><p>Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.</p><p><br></p></div></div>\n"
+    },
     {
       "title": "Custodian",
       "item_id": "9201841536391_1",
