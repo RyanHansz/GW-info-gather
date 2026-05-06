@@ -1,9 +1,9 @@
 {
-  "scraped_at": "2026-05-06T10:03:38.544057",
+  "scraped_at": "2026-05-06T17:53:59.327954",
   "source": "Goodwill Central Texas - Career Advancement Training Wufoo Forms",
   "total_classes": 23,
   "total_sessions": 166,
-  "available_sessions": 94,
+  "available_sessions": 88,
   "classes": [
     {
       "class_name": "Budgeting Basics",
@@ -42,10 +42,10 @@
           "time_end": "12:30",
           "time_display": "10:30-12:30",
           "instructor": "Cindy",
-          "spots_remaining": 3,
+          "spots_remaining": 1,
           "is_full": false,
           "is_past": false,
-          "raw_text": "05/07/2026, 10:30-12:30; Cindy\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
+          "raw_text": "05/07/2026, 10:30-12:30; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         },
         {
           "date": "2026-05-08",
@@ -108,7 +108,7 @@
           "raw_text": "05/29/2026, 2:00-4:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:20.003790",
+      "last_updated": "2026-05-06T17:52:42.321126",
       "total_sessions": 7,
       "available_sessions": 6
     },
@@ -143,7 +143,7 @@
           "raw_text": "May 26-29, 9:00am-12:00pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:23.537135",
+      "last_updated": "2026-05-06T17:52:45.817015",
       "total_sessions": 1,
       "available_sessions": 1
     },
@@ -226,7 +226,7 @@
           "raw_text": "05/27/26, 11:00am-12:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:27.087750",
+      "last_updated": "2026-05-06T17:52:49.305500",
       "total_sessions": 5,
       "available_sessions": 4
     },
@@ -297,7 +297,7 @@
           "raw_text": "05/28/26, 9:00 - 11:00 am; Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:30.808244",
+      "last_updated": "2026-05-06T17:52:52.800193",
       "total_sessions": 4,
       "available_sessions": 2
     },
@@ -326,10 +326,10 @@
           "time_end": "03:00",
           "time_display": "2:00-3:00",
           "instructor": "Cindy",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": true,
-          "raw_text": "05/06/26, 2:00-3:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "05/06/26, 2:00-3:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-05-07",
@@ -428,7 +428,7 @@
           "raw_text": "05/27/26, 9:30-10:30am; Adryan\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:34.402601",
+      "last_updated": "2026-05-06T17:52:56.253468",
       "total_sessions": 9,
       "available_sessions": 2
     },
@@ -505,10 +505,10 @@
           "time_end": "10:00",
           "time_display": "9:00-10:00",
           "instructor": "Cindy",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "05/07/26, 9:00-10:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "05/07/26, 9:00-10:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-05-08",
@@ -595,9 +595,9 @@
           "raw_text": "05/28/26, 1:00-2:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:37.886749",
+      "last_updated": "2026-05-06T17:52:59.738692",
       "total_sessions": 12,
-      "available_sessions": 7
+      "available_sessions": 6
     },
     {
       "class_name": "Indeed Lab",
@@ -648,10 +648,10 @@
           "time_end": "14:00",
           "time_display": "12:00pm-2:00pm",
           "instructor": "Adryan",
-          "spots_remaining": 2,
+          "spots_remaining": 1,
           "is_full": false,
           "is_past": false,
-          "raw_text": "05/07/26, 12:00-2:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 2 remaining"
+          "raw_text": "05/07/26, 12:00-2:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         },
         {
           "date": "2026-05-11",
@@ -690,7 +690,7 @@
           "raw_text": "05/20/26, 9:00-11:00am; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:41.252286",
+      "last_updated": "2026-05-06T17:53:03.178562",
       "total_sessions": 6,
       "available_sessions": 4
     },
@@ -785,7 +785,7 @@
           "raw_text": "05/26/26, 2:00pm–4:00pm, Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:44.743662",
+      "last_updated": "2026-05-06T17:53:06.639841",
       "total_sessions": 6,
       "available_sessions": 3
     },
@@ -874,10 +874,10 @@
           "time_end": "03:30",
           "time_display": "2:30-3:30",
           "instructor": "Cindy",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "05/07/26, 2:30–3:30, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "05/07/26, 2:30–3:30, Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-05-08",
@@ -1048,9 +1048,9 @@
           "raw_text": "05/29/26, 1:00–2:00, Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:48.319288",
+      "last_updated": "2026-05-06T17:53:10.095136",
       "total_sessions": 20,
-      "available_sessions": 13
+      "available_sessions": 12
     },
     {
       "class_name": "Online Safety",
@@ -1095,7 +1095,7 @@
           "raw_text": "11/17/25, 2:30 pm - 3:30 pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:51.801921",
+      "last_updated": "2026-05-06T17:53:13.400462",
       "total_sessions": 2,
       "available_sessions": 0
     },
@@ -1118,7 +1118,7 @@
           "raw_text": "May 4th-8th 2026, Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:55.306059",
+      "last_updated": "2026-05-06T17:53:16.834790",
       "total_sessions": 1,
       "available_sessions": 0
     },
@@ -1261,7 +1261,7 @@
           "raw_text": "05/29/26, 9:00 - 11:00 am; Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:02:58.838011",
+      "last_updated": "2026-05-06T17:53:20.303281",
       "total_sessions": 10,
       "available_sessions": 6
     },
@@ -1284,7 +1284,7 @@
           "raw_text": "May 11-15, 9:00am-12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 10 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:02.365435",
+      "last_updated": "2026-05-06T17:53:23.599529",
       "total_sessions": 1,
       "available_sessions": 1
     },
@@ -1343,7 +1343,7 @@
           "raw_text": "05/21/26, 1:30-3:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:05.990054",
+      "last_updated": "2026-05-06T17:53:27.042178",
       "total_sessions": 3,
       "available_sessions": 2
     },
@@ -1366,7 +1366,7 @@
           "raw_text": "-- 0 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:09.474843",
+      "last_updated": "2026-05-06T17:53:30.489762",
       "total_sessions": 0,
       "available_sessions": 0
     },
@@ -1491,10 +1491,10 @@
           "time_end": "12:00",
           "time_display": "11:00am-12:00pm",
           "instructor": "Adryan",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "05/19/26, 11:00am-12:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "05/19/26, 11:00am-12:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-05-20",
@@ -1569,9 +1569,9 @@
           "raw_text": "05/29/26, 2:30-3:30pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:12.968079",
+      "last_updated": "2026-05-06T17:53:33.989602",
       "total_sessions": 15,
-      "available_sessions": 8
+      "available_sessions": 7
     },
     {
       "class_name": "Financial Empowerment Training",
@@ -1820,7 +1820,7 @@
           "raw_text": "05/28/26, 1:30 - 2:30 pm; Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:16.491704",
+      "last_updated": "2026-05-06T17:53:37.460824",
       "total_sessions": 19,
       "available_sessions": 6
     },
@@ -1963,7 +1963,7 @@
           "raw_text": "05/28/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:20.032878",
+      "last_updated": "2026-05-06T17:53:40.958847",
       "total_sessions": 11,
       "available_sessions": 8
     },
@@ -1992,10 +1992,10 @@
           "time_end": "13:00",
           "time_display": "11:00pm-1:00pm",
           "instructor": "Alex",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": true,
-          "raw_text": "05/05/26, 11:00-1:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "05/05/26, 11:00-1:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-05-06",
@@ -2070,7 +2070,7 @@
           "raw_text": "05/28/26, 10:00-12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:23.547785",
+      "last_updated": "2026-05-06T17:53:44.446529",
       "total_sessions": 7,
       "available_sessions": 5
     },
@@ -2159,10 +2159,10 @@
           "time_end": "14:00",
           "time_display": "1:00pm-2:00pm",
           "instructor": "Alex",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "05/19/26, 1:00-2:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "05/19/26, 1:00-2:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-05-19",
@@ -2195,10 +2195,10 @@
           "time_end": "14:00",
           "time_display": "1:00pm-2:00pm",
           "instructor": "Alex",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "05/21/26, 1:00-2:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "05/21/26, 1:00-2:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-05-22",
@@ -2219,10 +2219,10 @@
           "time_end": "10:00",
           "time_display": "9:00am-10:00am",
           "instructor": "Alex",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "05/26/26, 9:00-10:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "05/26/26, 9:00-10:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-05-27",
@@ -2273,9 +2273,9 @@
           "raw_text": "05/29/26, 10:30-11:30am; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:27.050047",
+      "last_updated": "2026-05-06T17:53:47.933302",
       "total_sessions": 15,
-      "available_sessions": 9
+      "available_sessions": 6
     },
     {
       "class_name": "Wonderlic Prep & Practice",
@@ -2380,7 +2380,7 @@
           "raw_text": "05/29/26, 11:30 - 1:30 pm, Doug\n\t\t\t\t\t\t\t\t\t -- 7 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:30.566763",
+      "last_updated": "2026-05-06T17:53:51.419183",
       "total_sessions": 7,
       "available_sessions": 5
     },
@@ -2439,7 +2439,7 @@
           "raw_text": "05/29/26, 9:30-11:00am; Adryan\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:33.978195",
+      "last_updated": "2026-05-06T17:53:54.823853",
       "total_sessions": 3,
       "available_sessions": 2
     },
@@ -2486,7 +2486,7 @@
           "raw_text": "05/04/26, 1:30-3:00pm; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-05-06T10:03:37.504714",
+      "last_updated": "2026-05-06T17:53:58.287447",
       "total_sessions": 2,
       "available_sessions": 0
     }
