@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** May 11, 2026 at 10:43 AM
+**Last Updated:** May 11, 2026 at 05:58 PM
 
-**Total Positions:** 159
+**Total Positions:** 158
 
 ---
 
@@ -10,9 +10,9 @@
 
 - [Custodial Services](#custodial-services) (5)
 - [Education & Training](#education-training) (10)
-- [Management & Leadership](#management-leadership) (28)
-- [Merchandise Processing](#merchandise-processing) (63)
-- [Other Positions](#other-positions) (13)
+- [Management & Leadership](#management-leadership) (29)
+- [Merchandise Processing](#merchandise-processing) (62)
+- [Other Positions](#other-positions) (12)
 - [Sales](#sales) (25)
 - [Warehouse & Transportation](#warehouse-transportation) (14)
 - [eCommerce](#ecommerce) (1)
@@ -594,6 +594,26 @@ All qualified applicants will receive consideration for employment without regar
 
 ## Management & Leadership
 
+### Retail Supervisor
+
+- **Location:** Lakeway Store, Lakeway, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** May 11, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=578678)**
+
+#### Job Description
+
+**Summary of Position**
+Retail Supervisors will assist management in the operation of the Goodwill retail store. This includes customer service, record keeping, cash management, facility operation, communications, merchandising, and inventory control.
+**Role and Responsibilities**
+- Assist the store manager with the overall operation of the retail store.- Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Supervise and train retail sales associates.- Monitor sales transactions associated with purchases and ensure proper sales procedures are followed by sales associates.
+**Supervisory Responsibility**
+- This position is responsible for supervising and training the Donation Attendant, Merchandise Processor & Sales Associate positions.- Required Skills & Qualifications - At least 1 year of supervisory experience.- Ability to perform continuous walking, stooping, standing, bending, kneeling, and climbing for prolonged periods of time (up to 7 hours per 8-hour shift.)- Ability to lift 35 pounds frequently.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.
+**Physical Requirements**
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Ability to work in a confined area.- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate
+
 ### Campus Director
 
 - **Location:** Excel Diboll Campus, Diboll, TX, US
@@ -841,26 +861,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 ** **
 **Background Check**
 Employment is contingent upon passing a pre-employment background check, including verification of employment history, education, and criminal record.
-
-### Retail Supervisor
-
-- **Location:** Lakeway Store, Lakeway, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $17.85
-- **Posted:** May 01, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=578276)**
-
-#### Job Description
-
-**Summary of Position**
-Retail Supervisors will assist management in the operation of the Goodwill retail store. This includes customer service, record keeping, cash management, facility operation, communications, merchandising, and inventory control.
-**Role and Responsibilities**
-- Assist the store manager with the overall operation of the retail store.- Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Supervise and train retail sales associates.- Monitor sales transactions associated with purchases and ensure proper sales procedures are followed by sales associates.
-**Supervisory Responsibility**
-- This position is responsible for supervising and training the Donation Attendant, Merchandise Processor & Sales Associate positions.- Required Skills & Qualifications - At least 1 year of supervisory experience.- Ability to perform continuous walking, stooping, standing, bending, kneeling, and climbing for prolonged periods of time (up to 7 hours per 8-hour shift.)- Ability to lift 35 pounds frequently.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.
-**Physical Requirements**
-- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Ability to work in a confined area.- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate
 
 ### Director, Benefits & Wellbeing
 
@@ -1175,6 +1175,29 @@ This position has supervisory responsibilities over all retail members in assign
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Assistant Site Manager
+
+- **Location:** North Outlet, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $50,000.00
+- **Posted:** Apr 03, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=576721)**
+
+#### Job Description
+
+The Assistant Site Manager supports their manager with all Post Retail Outlet and Operations in their assigned building. The Assistant Site Manager supervises all employees assigned to the Operations and Outlet team to include all day-to-day operations and administrative functions.
+**Role and Responsibilities**
+- Assists in managing all aspects of outlet, recycling, and dock operations.- Assists in managing equipment status, repairs, maintenance, and safety within Post Retail.- Recruit, select, develop, evaluate and counsel assigned employee(s). Terminate employees in accordance with Goodwill policies and in coordination with the Human Resources department.- Manage and supervise staff activities to ensure departmental goals, budgets and objectives are met.- Manage all personnel in accordance with applicable company local, state, and federal policies including ensuring compliance with all applicable OSHA requirements.- Attend meetings with other GCT departments, outside agencies, or other organizations as required.- Maintain a professional work environment and appropriate standards of safety, cleanliness and organization of both fleet and warehouse operations.- Ensures monthly revenue and expenses are in line with budget and adjust operations as necessary to meet goals.- Provide leadership, guidance, and professional development for assigned team and model expected behavior for staff. Maintain a positive relationship with management, peers, and subordinates; encourage interactions between all departments. Promote the Mission of Goodwill.- Provide excellent customer service to all Display the highest ethical standards when making decisions related to our people and business.- Other duties as assigned.
+**Supervisory Responsibility**
+This position has supervisory responsibilities over all hourly Post-Retail team members.
+**Required Skills & Qualifications **
+- Minimum 5 years’ experience in logistics, recycling, or similar field with supervisory responsibilities of 50+ employees.- Must have excellent communication skills. Bilingual preferred.- Must have excellent analytical, creative, and flexible problem-solving and decision-making skills.- Must demonstrate a maturity of practice using the 5 pillars and principles of servant leadership.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- High School Diploma or equivalent.- Must have a valid Texas Driver’s License.- Physical Requirements- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Senior Director, Development
 
@@ -2571,34 +2594,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Merchandise Processor
 
-- **Location:** Taylor, Taylor, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.00
-- **Posted:** Apr 20, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577592)**
-
-#### Job Description
-
-Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
-** **
-**What You’ll Be Doing:**
-- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
-** **
-**What You Bring:**
-- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
-** **
-**What You’ll Get:**
-- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
-** **
-**Why Join Us?**
-At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Merchandise Processor
-
 - **Location:** Round Rock Store, Round Rock, TX, US
 - **Type:** Full Time
 - **Salary:** $0.00 - $14.00
@@ -2628,7 +2623,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 ### Merchandise Processor
 
 - **Location:** Hutto Store, Hutto, TX, US
-- **Type:** Full Time
+- **Type:** Part Time
 - **Salary:** $0.00 - $14.00
 - **Posted:** Apr 15, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577408)**
@@ -3352,35 +3347,6 @@ This position does not have supervisory responsibilities
 **Physical Requirements**
 - Prolonged periods of sitting at a desk and working on a computer.- Ability to work in both a climate, and non-climate-controlled facility.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- Ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-#IND2
-
-### Assistant Controller
-
-- **Location:** GCC HQ, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $115,000.00 - $140,000.00
-- **Posted:** Apr 17, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577447)**
-
-#### Job Description
-
-**About the Role**
-**We’re seeking a highly motivated and detail-oriented Assistant Controller to join our Finance team. This is a high-impact leadership role responsible for ensuring the accurate and timely delivery of all financial data to the Controller while strengthening the integrity of our financial operations.**
-As Assistant Controller, you will play a critical role in supporting accounting management, enhancing internal controls, and driving operational excellence across the organization. If you thrive in a fast-paced environment, enjoy building processes, and take pride in financial accuracy and compliance, we want to hear from you.
-**Compensation & Benefits**
-- Base Salary: $115,000 – $140,000 annually- Management Incentive Bonus: Up to 10% of base salary- Comprehensive benefits package including medical, dental, vision, retirement plan, and paid time off- Professional development and growth opportunities
-**Role and Responsibilities**
-- Oversee day-to-day functions of accounting, accounts payable, accounts receivable, payroll, general ledger and grants.- Owns the preparation and review of monthly financial statements, proactively monitoring financial activity, validating account integrity, and ensuring accurate, timely, and high-quality financial reporting throughout the month.- Maintains and updates a documented system of accounting policies and procedures.- Owns compliance with applicable state and federal tax and regulatory requirements, including the accurate and timely filing and payment of payroll taxes, sales taxes, and related governmental filings.- Ensure that workers comp reports and payments are filed and paid in a timely manner by due dates. - Supports preparation and review of the annual Form 990 and related schedules; coordinates data gathering across Finance and Operations; ensures consistency with audited financial statements; identifies disclosure or compliance risks. - Owns the annual Employee Benefit Plan audit (403b), serving as the primary liaison with auditors and recordkeepers; prepares and reviews census data; reconciles payroll and plan contributions; supports Form 5500 preparation; ensures ERISA compliance, eligibility tracking, and timely contribution remittances; leads resolution of audit findings and corrective actions; and proactively communicates status, risks, and support needs to the Controller.- Partners with the Controller to lead the accounting team through the annual financial audit, coordinating and reviewing PBC requests, preparing audit schedules and supporting documentation, managing timelines and dependencies, and serving as a primary liaison with external auditors to ensure a timely, accurate, and efficient audit process.- Oversees grant monitoring activities in collaboration with the Grants team to ensure compliance with grant requirements and accurate financial reporting.- Establish, monitor and enforce internal controls and safeguards for payments to employees, clients, and vendors. - Responsible for accurate and timely filing of year-end information returns (W-2 and 1099) and related transmittals. - Owns lease accounting under ASC 842, including maintaining lease data in LeaseQuery, recording and reconciling right-of-use assets and lease liabilities, supporting monthly and annual close activities, and ensuring accurate and compliant financial reporting.- Review and reconcile general ledger accounts as assigned. - Other duties as assigned. 
-**Supervisory Responsibility**
-This position has supervisory responsibilities over AP, AR, Accounting Manager, Grants, and Payroll.
-**Required Skills & Qualifications **
-- Bachelor’s degree in accounting with at least two years of accounting work experience. - Must have experience in all aspects of Accounting, Accounts Receivable, Accounts Payable, Payroll and General Ledger. - Must be computer literate with a wide knowledge of windows-based software, accounting-based software, report writing software and intermediate/advanced level of Excel. - Must have good communication and supervisor skills to train personnel as needed. 
-**Physical Requirements **
-- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift up to 35 pounds at times.- While performing the duties of this job, the employee is frequently required to stand, walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus. 
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 #IND2
 
 ### Scanning and Key Entry Operator
