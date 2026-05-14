@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** May 14, 2026 at 10:03 AM
+**Last Updated:** May 14, 2026 at 06:00 PM
 
-**Total Positions:** 155
+**Total Positions:** 159
 
 ---
 
@@ -10,10 +10,10 @@
 
 - [Custodial Services](#custodial-services) (5)
 - [Education & Training](#education-training) (10)
-- [Management & Leadership](#management-leadership) (28)
-- [Merchandise Processing](#merchandise-processing) (58)
+- [Management & Leadership](#management-leadership) (30)
+- [Merchandise Processing](#merchandise-processing) (59)
 - [Other Positions](#other-positions) (11)
-- [Sales](#sales) (27)
+- [Sales](#sales) (28)
 - [Warehouse & Transportation](#warehouse-transportation) (15)
 - [eCommerce](#ecommerce) (1)
 
@@ -593,6 +593,85 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Management & Leadership
+
+### General Manager in Training
+
+- **Location:** GCC HQ, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $70,000.00 - $74,999.00
+- **Posted:** May 14, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579075)**
+
+#### Job Description
+
+**Goodwill Central Texas’ General Manager in Training (GMIT) **position is designed to prepare individuals for leadership roles within their retail operations. This training program emphasizes hands-on experience, team development, and alignment with Goodwill's mission to transform lives through the power of education and work.
+**Key Responsibilities**
+**Retail Operations & Store Management**
+- Responsible for the overall operation of the retail store, including opening, closing, and daily execution of all store functions.- Oversee all production levels and ensure the quality of merchandise processed to the sales floor meets revenue and quality standards.- Manage inventory levels across all merchandise lines, ensuring proper flow of goods to and from the store.- Monitor and ensure effective donation processing that complies with security, safety, and state regulatory standards.- Maintain a clean, organized, and well-stocked store environment aligned with brand standards and budgetary goals.
+**Staffing, Training, & Development**
+- Maintain appropriate staffing levels in both production and sales departments to meet operational needs while managing payroll expenses within budget.- Hire, train, and, when necessary, terminate staff in accordance with Goodwill policies and employment law.- Set and manage staff schedules to ensure consistent coverage and operational efficiency.- Monitor time and attendance, addressing discrepancies promptly and submitting required data accurately and on time.- Support coaching and performance evaluations. - Meet all mandatory annual training and compliance requirements.- Model leadership behaviors and company values - **Financial Oversight**- Perform all required bookkeeping, accounting, and reporting tasks accurately and on schedule, including production and sales.- Review and analyze profit and loss statements, making operational adjustments based on financial performance data.- Assist in the development of the annual store budget and manage to that budget throughout the year.- Ensure all daily banking processes are completed according to company policy.
+**Customer & Community Engagement**
+- Create and maintain a culture of exceptional customer service for both internal (staff) and external (shoppers, donors) stakeholders.- Resolve customer complaints and issues in a professional and effective manner.- Maintain effective communication with corporate divisions, peers, and direct reports via email, phone, and in-person meetings.
+**Compliance & Safety**
+- Ensure that all safety, security, and cleanliness standards are upheld for both employees and customers.- Comply with and enforce all company policies, procedures, and corporate compliance requirements.- Train staff on security and emergency protocols.  
+**Supervisory Responsibility**
+Assist with the supervisory responsibility of the retail staff, Assistant Store Manager, Retail Supervisor, Merchandise Processors and Sales Associates.  
+** **
+**Qualifications**
+High school diploma or equivalent required; associate’s or bachelor’s degree preferred.
+Minimum of two (2) years retail management experience, preferably in a high-volume setting.
+Strong leadership, communication, and team development skills.
+Proficiency in Microsoft Office Suite and point-of-sale/inventory systems.
+Ability to interpret financial data and manage a store to budget.
+Willingness to work flexible hours, including evenings, weekends, and holidays.
+Valid driver’s license and access to reliable transportation.
+** **
+**Physical Requirements**
+**Standing/Walking**: Ability to stand and walk for extended periods (up to 8 hours or more) throughout the workday, including on hard surfaces.
+**Lifting/Carrying**: Frequently lift and carry merchandise, donations, or supplies weighing up to **50 pounds** unassisted; occasionally assist with heavier items using team lift techniques or equipment.
+**Pushing/Pulling**: Push or pull carts, racks, or bins of merchandise and donations, which may exceed 100 pounds with appropriate equipment.
+**Bending/Kneeling**: Regularly bend, stoop, kneel, and crouch to retrieve, organize, or stock items.
+**Reaching/Handling**: Reach overhead and at ground level; use hands and fingers to handle merchandise, tags, hangers, and point-of-sale systems.
+**Visual/Auditory Acuity**: Must have the visual and auditory ability to identify hazards, operate machinery (e.g., balers, pallet jacks), and interact effectively with customers and team members.
+**Climbing**: Occasionally use step stools or ladders to retrieve or stock merchandise.
+**Environmental Conditions**: Work in varied indoor and outdoor environments, including donation receiving areas, which may be subject to fluctuating temperatures, weather, dust, and noise.
+**Apply today and drive the difference at Goodwill!**
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
+
+### Retail Assistant Manager
+
+- **Location:**  Lakeway, TX, US
+- **Type:** Full Time
+- **Salary:** $50,000.00 - $55,999.00
+- **Posted:** May 14, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579074)**
+
+#### Job Description
+
+**Assistant Store Manager – Lead With Purpose **
+**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
+Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
+**What You’ll Be Doing:**
+- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
+**Who You’ll Supervise:**
+Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
+**What You Bring:**
+- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
+**What You’ll Get:**
+- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
+**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
+**Ready to lead with heart and hustle?**
+Apply today and help us turn donations into opportunities!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Retail Supervisor
 
@@ -1363,6 +1442,34 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Merchandise Processing
+
+### Merchandise Processor
+
+- **Location:** Town Lake Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** May 14, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579072)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Merchandise Processor
 
@@ -3357,6 +3464,34 @@ All qualified applicants will receive consideration for employment without regar
 
 ### Sales Associate
 
+- **Location:** Robinson Ranch Store, Round Rock, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** May 14, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579054)**
+
+#### Job Description
+
+Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
+** **
+**What You’ll Do:**
+- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
+** **
+**What You Bring:**
+- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
+** **
+**What You’ll Get:**
+-  raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
+** **
+**Why It Matters:**
+Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Sales Associate
+
 - **Location:** Round Rock Store, Round Rock, TX, US
 - **Type:** Part Time
 - **Salary:** $0.00 - $14.00
@@ -4071,7 +4206,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 ### Sales Associate
 
 - **Location:** Town Lake Store, Austin, TX, US
-- **Type:** Part Time
+- **Type:** Full Time
 - **Salary:** $14.00
 - **Posted:** Oct 28, 2025
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=568499)**
