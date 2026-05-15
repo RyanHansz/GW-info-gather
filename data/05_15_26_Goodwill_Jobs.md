@@ -1,6 +1,6 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** May 15, 2026 at 10:00 AM
+**Last Updated:** May 15, 2026 at 05:47 PM
 
 **Total Positions:** 159
 
@@ -8,10 +8,10 @@
 
 ## Quick Navigation
 
-- [Custodial Services](#custodial-services) (4)
-- [Education & Training](#education-training) (10)
+- [Custodial Services](#custodial-services) (5)
+- [Education & Training](#education-training) (8)
 - [Management & Leadership](#management-leadership) (30)
-- [Merchandise Processing](#merchandise-processing) (60)
+- [Merchandise Processing](#merchandise-processing) (61)
 - [Other Positions](#other-positions) (11)
 - [Sales](#sales) (29)
 - [Warehouse & Transportation](#warehouse-transportation) (14)
@@ -20,6 +20,28 @@
 ---
 
 ## Custodial Services
+
+### Custodial Team Lead
+
+- **Location:**  Austin, TX, US
+- **Type:** N/A
+- **Salary:** $19.00
+- **Posted:** May 15, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579119)**
+
+#### Job Description
+
+**Summary of Position**
+Custodians work in various settings and are responsible for the general upkeep of a building. They are key members of the custodial team who work collaboratively with Custodial Team leads to provide quality custodial services to our clients.  
+**Role and Responsibilities**
+- Formulate work assignments for each site and ensure all employees are properly trained for assignments.- Counsel employees on appropriate interpersonal communication, problem solving, and other job maintenance skills.- Document observations about individual team members’ attendance, punctuality, performance and behavior and communicate this information to the Custodial Supervisor as appropriate.- Obtain, pick up and deliver custodial supplies and safety equipment so as to ensure that all employees under supervision have proper equipment and supplies to perform their duties.- Monitor staff to ensure safety procedures and department polices are followed.- Inspect the work of all employees and fill out inspection reports nightly.- Work directly with the cleaning teams to ensure effective teamwork.- Perform routine and preventative maintenance on cleaning equipment.- Transport cleaning teams to various work assignments as required.- Adhere to the assigned work schedule.- Delivers exceptional customer service.- Represents the organization in the community in a positive manner.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- High School Diploma or equivalent preferred.- Bilingual in Spanish and/or sign language preferred.- Experience with disabled or disadvantaged population.- At least one year of hands-on custodial experience, including floor re-finishing.- At least six (6) months of supervisory experience.- Some knowledge of the methods, materials, and equipment used in custodial work, including safety practices.- Ability to lift fifty pounds with or without reasonable accommodation.- Ability to read and write to read and write.- Basic computer skills.- Valid driver’s license, personal auto and liability insurance, and good driving record.- Ability to pass a criminal background check (subject to requirements of assigned site client).
+**Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### Custodian
 
@@ -329,38 +351,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 Background Check Requirement:
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
-### Adult Literacy Instructor
-
-- **Location:**  Austin, TX, US
-- **Type:** Contractor/Consultant
-- **Salary:** $30.00 - $32.00
-- **Posted:** Apr 20, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577595)**
-
-#### Job Description
-
-**The Adult Literacy Instructor** will support adult English learners. through personalized instruction and will also engage in key program functions such as progress tracking, and curriculum planning.
-This role will employ a student-centered approach, effectively tailoring the instructional strategies to the individual students’ needs and approaching instruction with creativity and innovation.
-** *Note: 1 Part-time position- Kyle, TX **
-**Essential Duties & Responsibilities**
-- Design and deliver engaging lessons tailored to the needs of students at varying proficiency levels.- Develop and adapt teaching materials and resources to suit individual learning objectives.- Employee interactive and student-centered teaching methods to enhance language acquisition.- Assess students' progress through assignments, tests, and oral communication activities learning needs and progress through formal and informal evaluations.- Provide constructive feedback and strategies for improvement to students- Foster a positive, inclusive and engaging learning environment.- Stay updated on Adult Literacy teaching best practices and incorporate innovative techniques- Assess student progress and learning needs to build and shape instruction around student needs.- Create a positive classroom environment conducive to learning and educational growth of students, including behavior management that is firm, fair, and consistent.- Track and report attendance, testing, and student achievement data.- Collaborate with team members on curriculum, schedules, and student placement.- Support compliance with program requirements through timely data entry and reporting.- Contribute to outreach, orientation, and student engagement activities as needed.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities.
-**Required Skills & Qualifications **
-- Bachelor’s degree in education or a related field.- TEFL, TESOR, or CELTA certified- Proven record of results that illustrate the teacher’s ability to increase student achievement utilizing subject-specific instructional strategies.- Broad knowledge of the principles and practices of current educational trends in curriculum and instruction.- Strong interpersonal and communication skills, with the ability to engage and motivate diverse populations.- Respect and understanding of students' diverse cultural backgrounds.- Ability to create an inclusive and welcoming environment.- Awareness of potential cultural barriers to learning.
-**Physical Requirements **
-- Ability to work in both a climate and non-climate-controlled facility.- Must be able to lift up to 20 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
-** **
-**Additional Details:**
-**We are seeking an instructor to join our team, based in Kyle, Texas.** This role is ideal for individuals passionate about teaching and supporting students as they build skills for success.
-**Schedule: Two evenings per week**
-- Instruction Hours: 5 hours of teaching per week (each class is 2.5 hours)- Additional Time: Instructors should expect to dedicate additional hours outside of classroom teaching for program coordination, lesson preparation, and administrative tasks.- Course Length: Each class runs for 12 weeks with two weeks between classes- Location: One opening in Kyle, TX
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
 ### High School Teacher for Adult Education
 
 - **Location:** Excel Coleman Campus, Lockhart, TX, US
@@ -504,45 +494,6 @@ This position does not supervise any Excel Team Members. This position may super
 **Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
 **Equal Employment Opportunity Statement:**
 Goodwill Excel Center is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned role.
-
-### ESL Teacher
-
-- **Location:** Excel Connally Campus, Kenedy, TX, US
-- **Type:** Full Time
-- **Posted:** May 15, 2025
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=557729)**
-
-#### Job Description
-
-The Goodwill Excel Center Adult High School is currently seeking an English as a Second Language (ESL) Teacher for our Connally Campus, located at John B. Connally Unit 899 FM 632 Kenedy, TX 78119. 
-The Goodwill Excel Center is the first free, public charter high school in Texas that provides adults ages 18-50 the opportunity to earn their high school diploma, complete an in-demand professional certification, and begin postsecondary education. There are seven campuses within the charter district. Two campuses are in Austin: one at the Goodwill Community Center and one in South Austin in partnership with American YouthWorks. The other five campuses are located within correctional facilities across the state. For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org/. 
-The ESL Teacher is responsible for implementing, developing, and executing instruction of the Goodwill Excel Center vocational curriculum. The ESL Teacher will employ a student-centered approach, effectively tailoring the instructional strategies to the individual students’ needs and approaching instruction with creativity and innovation. Strategies may include, but are not limited to direct instruction, one-to-one instruction, seminars, small group learning, self-paced lessons, blended learning and courses, and online learning tools. The ESL Teacher will work with the instructional team in meeting educational objectives and adhering to the Texas Essential Knowledge & Skills (TEKS) standards.
-**Role and Responsibilities**
-- Provide instruction to students in assigned ESL courses that ensures mastery of Texas Essential Knowledge and Skills (TEKS).- Develop and revise an approved curriculum that includes lesson plans, projects, and assessments that are aligned with the standards of The Excel Center and TEKS.- Assess student progress and learning needs to build and shape instruction around student needs.- Utilize attendance, grades, and assessment data to refine lessons and inform instructional practices to achieve learning goals.- Implement a clear and consistent classroom management system that aligns to Instructional Team and Campus-wide initiatives while developing students’ character and sense of community in the classroom.- Support all students in achieving academic success and character growth.- Provide tutorials for students to ensure mastery of material.- Document and maintain attendance, grades, and progress records according to District policy.- Create a positive classroom environment conducive to learning and educational growth of students, including behavior management that is firm, fair, and consistent. - Participate in collaborative curriculum development, grade/ability-level activities, and school-wide functions aimed at improving student retention, productivity, school culture, and new student on-boarding.- Attend and participate in all staff, team, and professional development meetings and activities.- Participate in all evaluations and self-studies as required by the Texas Education Agency (TEA).- Serve on curriculum, instructional, textbooks, and other committees as assigned. - Administer diagnostic placement tests, achievement tests, curriculum tests, and other tests as required by the Campus Director.
-** **
-**Other Duties & Responsibilities**
-- Demonstrate progress in meeting student performance targets of the district. - Demonstrate progress in meeting assigned action plans of the district or campus improvement plans. - Develop, use, and evaluate ideas and/or innovative approaches to improve performance. - Keep informed of and comply with policies of The Goodwill Excel Center, WSD, and TDCJ.- Comply with policies established by federal and state law, including, but not limited to, State Board of Education and local Board policy. - Follow all unit procedures in checking out materials, supplies, and equipment and promptly report any defective equipment and/or student abuse of materials, supplies, or equipment. - Assist district and campus teams with outreach and engagement events throughout the school year.- Perform other related duties as assigned.
-**Supervisory Responsibilities**
-This position does not supervise any Excel Team Members. This position may supervise adult incarnated students in classroom settings, including assigned teacher aids. 
-**Required Qualifications**
-- Bachelor’s degree from an accredited college or university.- Texas Teaching Certification in ESL (HS Grades).- Must have a proven record of results that illustrate the teacher’s ability to increase student achievement utilizing subject-specific instructional strategies.- Must have a broad knowledge of the principles and practices of current educational trends in curriculum and instruction.- Must have working knowledge of computer programs and accessing internet applications such as Student Information Systems, Microsoft Products, Google Applications (Gmail), and Internet Explorer.- Excellent oral & written communication skills; ability to convey ideas & instructions clearly & concisely. - Skill to interpret and apply rules, regulations, policies, and procedures. - Skill in organizing and maintaining accurate records. - Must possess the essential mindset that all students can achieve at high levels.- Strong interpersonal and communication skills, with the ability to engage and motivate diverse populations.- Demonstrated commitment to supporting adult learners in achieving their educational and career goals.- Possess understanding of marginalization and how it impacts those Goodwill serves and employs; Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization** **
-** **
-**Preferred Qualifications**
-- Bilingual
-**What We Offer**
-**Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.
-**Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.
-**Teacher Retirement System & 403b Participation**
-**Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.
-**Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses & tuition/certification support.
-**Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and free mental health support.
-**Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.
-**Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned role.
@@ -1402,6 +1353,34 @@ All qualified applicants will receive consideration for employment without regar
 
 ### Merchandise Processor
 
+- **Location:** Terra Vista Store, Round Rock, TX, US
+- **Type:** Part Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** May 15, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579129)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Merchandise Processor
+
 - **Location:** Lake Creek Store, Austin, TX, US
 - **Type:** Full Time
 - **Salary:** $0.00 - $14.00
@@ -2009,7 +1988,7 @@ All qualified applicants will receive consideration for employment without regar
 ### Merchandise Processor
 
 - **Location:** Marble Falls Store, Marble Falls, TX, US
-- **Type:** Full Time
+- **Type:** Part Time
 - **Salary:** $0.00 - $14.00
 - **Posted:** Apr 23, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577878)**
