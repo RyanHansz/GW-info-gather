@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** May 22, 2026 at 10:33 AM
+**Last Updated:** May 22, 2026 at 05:57 PM
 
-**Total Positions:** 162
+**Total Positions:** 170
 
 ---
 
@@ -10,9 +10,9 @@
 
 - [Custodial Services](#custodial-services) (4)
 - [Education & Training](#education-training) (9)
-- [Management & Leadership](#management-leadership) (33)
+- [Management & Leadership](#management-leadership) (34)
 - [Merchandise Processing](#merchandise-processing) (53)
-- [Other Positions](#other-positions) (15)
+- [Other Positions](#other-positions) (22)
 - [Sales](#sales) (33)
 - [Warehouse & Transportation](#warehouse-transportation) (13)
 - [eCommerce](#ecommerce) (2)
@@ -518,6 +518,36 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Management & Leadership
+
+### eCommerce Manager
+
+- **Location:** Ecommerce, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $70,000.00 - $74,999.00
+- **Posted:** May 22, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579504)**
+
+#### Job Description
+
+The E-commerce Manager oversees online sales, leading teams to list, photograph, and sell donated goods on platforms like ShopGoodwill/eBay, focusing on revenue growth, efficient fulfillment, quality control, inventory management (especially unique items like vintage/electronics, apparel, books), and customer service to support the mission. Key responsibilities include strategy, operations (pricing strategy, merchandising, shipping), team leadership, data analysis (KPIs), cross-functional collaboration, and ensuring compliance with standards, all while managing a fast-paced warehouse environment. 
+** **
+**Role and Responsibilities**
+** **
+- **Leadership & Team Management:** Recruit, train, supervise, and motivate e-commerce staff; foster a positive, mission-driven environment.- **Operations & Fulfillment:** Manage daily operations including processing, photography, listing creation, inventory placement, order fulfillment, and shipping.- **Sales & Merchandising:** Drive online revenue, optimize listings (descriptions, photos), research product values (vintage, electronics), and manage online marketplaces (eBay, ShopGoodwill).- **Performance & Strategy:** Analyze key performance indicators (KPIs), set goals, manage budgets, and implement strategies for growth and efficiency.- **Customer Service:** Handle customer inquiries and issues, ensuring high satisfaction and adherence to standards.- **Inventory & Quality:** Ensure proper handling, listing quality, and accuracy for a diverse range of donated items.- **Collaboration:** Work with retail stores, marketing, and other departments to integrate online and offline efforts.
+**Supervisory Responsibility**
+This position has supervisory responsibilities over the retail staff including the Assistant Manager, Retail Supervisor, Merchandise Processors & Sales Associates.
+** **
+**Required Skills & Qualifications **
+- E-Commerce platform knowledge (eBay, Amazon, etc.).- Strong leadership and team development.- Data analysis and performance tracking.- Excellent communication (written/verbal) & merchandising.- Product knowledge (vintage, collectibles, electronics).- Fast-paced warehouse/operations experience (lifting, standing)
+- Associates or Bachelor’s degree preferred.- High School Diploma/ G.E.D Equivalent required - Two to three years of previous retail progressive management experience supervising several departments and/or staff of 15 or more employees.- Minimum of five (5) years’ experience in retail or equivalent industry.- Experience selecting, assessing, coaching, and developing associates, preferably in a retail environment.- Full P+L ownership.- Proficiency in setting and managing schedules for store staff.- Ability to communicate effectively in English, both orally and in writing.- Basic math and computer skills.- Broad knowledge of the thrift and resale industry and ability to react competitively.- Highly developed sense of customer service and interpersonal skills including high integrity, respect for all individuals (customers, vendors, and employees), strong critical and analytical thinking skills, and appreciation of diversity.- Ability to perform the same functions that direct reports perform.- Ability to complete necessary paperwork and reports in a timely and efficient manner.- Ability to motivate the team.- Valid driver’s license.- Ability to exercise good judgment in handling day-to-day situations.
+**Physical Requirements**
+- Ability to perform continuous walking, stooping, standing, bending, lifting, kneeling, and climbing for prolonged periods of time (up to 7 hours- per 8-hour shift).- Ability to lift 35 pounds frequently.- Ability to sit or stand for eight hours.- Ability to bend and twist.- Moderate noise (i.e., business offices with computers, phone, and printers, light traffic).- Ability to work in a confined area.- While performing the duties of this job, the employee is regularly required to stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Retail Supervisor
 
@@ -2950,6 +2980,181 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Other Positions
+
+### Operations Team Lead
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $18.00
+- **Posted:** May 22, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579510)**
+
+#### Job Description
+
+The Operations Team Lead supports daily execution of Distribution Center operations by serving as a working lead and subject-matter expert across outlet, warehouse, and dock functions. This role provides on-the-floor guidance, training support, and task coordination during assigned shifts while reinforcing safety, standard operating procedures, and productivity expectations. This position does not have direct supervisory or employee relations responsibilities.
+**Role and Responsibilities**
+- Provide shift-level coordination and direction for assigned work areas, including organizing workflow, prioritizing tasks, and ensuring execution aligns with operational goals. - Serve as a subject-matter expert on Distribution Center processes, equipment, and safety standards.- Train, coach, and mentor team members by modeling correct procedures, reinforcing SOPs, and supporting new employee onboarding.- Provide real-time feedback and guidance to employees to reinforce performance expectations and adherence to standards. - Monitor workflow and identify operational issues, escalating concerns and recommending solutions to management.- Conduct daily safety checks of distribution centers and report findings to manager.- Conduct daily equipment inspections of forklifts, balers, cart tippers, and other material handling equipment and report findings to manager. Take appropriate action from manager as directed (e.g. using equipment tag-outs for equipment in need of service or repair).- Conduct opening and closing procedures for the outlet and warehouse in support of the manager.- Ensure a safe and clean environment for customers and staff within the distribution center.- Assist with customer questions or escalations on the sales floor.- Assist in coordinating Logistics activities within the Distribution Center.- Support shift continuity in the absence of the Assistant Site Manager by escalating issues, maintaining communication, and ensuring safe and efficient operations.- Other duties as assigned.
+**Supervisory Responsibility**
+This role does not have direct reports and does not perform employee relations functions such as hiring, corrective action, performance evaluations, or terminations. The Team Lead may provide day-to-day work direction and operational guidance during shifts.
+** **
+**Required Skills & Qualifications **
+- High School diploma or equivalent.- Forklift certification or ability to be certified within 30 days in role.- Minimum 2 years of relevant experience in retail, warehousing, logistics, or recycling operations- Proficiency in Microsoft Office Suite, including writing and reading emails, Excel, and familiarity with D365 or similar ERP systems.- Proficient written and verbal communication skills; bilingual English/Spanish a plus.- Valid Texas Driver License.- Experience working with or advocating for marginalized communities is highly valued.- Physical Requirements- Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Ability to work in a non-climate-controlled facility.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Operations Team Lead
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $18.00
+- **Posted:** May 22, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579509)**
+
+#### Job Description
+
+The Operations Team Lead supports daily execution of Distribution Center operations by serving as a working lead and subject-matter expert across outlet, warehouse, and dock functions. This role provides on-the-floor guidance, training support, and task coordination during assigned shifts while reinforcing safety, standard operating procedures, and productivity expectations. This position does not have direct supervisory or employee relations responsibilities.
+**Role and Responsibilities**
+- Provide shift-level coordination and direction for assigned work areas, including organizing workflow, prioritizing tasks, and ensuring execution aligns with operational goals. - Serve as a subject-matter expert on Distribution Center processes, equipment, and safety standards.- Train, coach, and mentor team members by modeling correct procedures, reinforcing SOPs, and supporting new employee onboarding.- Provide real-time feedback and guidance to employees to reinforce performance expectations and adherence to standards. - Monitor workflow and identify operational issues, escalating concerns and recommending solutions to management.- Conduct daily safety checks of distribution centers and report findings to manager.- Conduct daily equipment inspections of forklifts, balers, cart tippers, and other material handling equipment and report findings to manager. Take appropriate action from manager as directed (e.g. using equipment tag-outs for equipment in need of service or repair).- Conduct opening and closing procedures for the outlet and warehouse in support of the manager.- Ensure a safe and clean environment for customers and staff within the distribution center.- Assist with customer questions or escalations on the sales floor.- Assist in coordinating Logistics activities within the Distribution Center.- Support shift continuity in the absence of the Assistant Site Manager by escalating issues, maintaining communication, and ensuring safe and efficient operations.- Other duties as assigned.
+**Supervisory Responsibility**
+This role does not have direct reports and does not perform employee relations functions such as hiring, corrective action, performance evaluations, or terminations. The Team Lead may provide day-to-day work direction and operational guidance during shifts.
+** **
+**Required Skills & Qualifications **
+- High School diploma or equivalent.- Forklift certification or ability to be certified within 30 days in role.- Minimum 2 years of relevant experience in retail, warehousing, logistics, or recycling operations- Proficiency in Microsoft Office Suite, including writing and reading emails, Excel, and familiarity with D365 or similar ERP systems.- Proficient written and verbal communication skills; bilingual English/Spanish a plus.- Valid Texas Driver License.- Experience working with or advocating for marginalized communities is highly valued.- Physical Requirements- Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Ability to work in a non-climate-controlled facility.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Operations Team Lead
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $18.00
+- **Posted:** May 22, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579507)**
+
+#### Job Description
+
+The Operations Team Lead supports daily execution of Distribution Center operations by serving as a working lead and subject-matter expert across outlet, warehouse, and dock functions. This role provides on-the-floor guidance, training support, and task coordination during assigned shifts while reinforcing safety, standard operating procedures, and productivity expectations. This position does not have direct supervisory or employee relations responsibilities.
+**Role and Responsibilities**
+- Provide shift-level coordination and direction for assigned work areas, including organizing workflow, prioritizing tasks, and ensuring execution aligns with operational goals. - Serve as a subject-matter expert on Distribution Center processes, equipment, and safety standards.- Train, coach, and mentor team members by modeling correct procedures, reinforcing SOPs, and supporting new employee onboarding.- Provide real-time feedback and guidance to employees to reinforce performance expectations and adherence to standards. - Monitor workflow and identify operational issues, escalating concerns and recommending solutions to management.- Conduct daily safety checks of distribution centers and report findings to manager.- Conduct daily equipment inspections of forklifts, balers, cart tippers, and other material handling equipment and report findings to manager. Take appropriate action from manager as directed (e.g. using equipment tag-outs for equipment in need of service or repair).- Conduct opening and closing procedures for the outlet and warehouse in support of the manager.- Ensure a safe and clean environment for customers and staff within the distribution center.- Assist with customer questions or escalations on the sales floor.- Assist in coordinating Logistics activities within the Distribution Center.- Support shift continuity in the absence of the Assistant Site Manager by escalating issues, maintaining communication, and ensuring safe and efficient operations.- Other duties as assigned.
+**Supervisory Responsibility**
+This role does not have direct reports and does not perform employee relations functions such as hiring, corrective action, performance evaluations, or terminations. The Team Lead may provide day-to-day work direction and operational guidance during shifts.
+** **
+**Required Skills & Qualifications **
+- High School diploma or equivalent.- Forklift certification or ability to be certified within 30 days in role.- Minimum 2 years of relevant experience in retail, warehousing, logistics, or recycling operations- Proficiency in Microsoft Office Suite, including writing and reading emails, Excel, and familiarity with D365 or similar ERP systems.- Proficient written and verbal communication skills; bilingual English/Spanish a plus.- Valid Texas Driver License.- Experience working with or advocating for marginalized communities is highly valued.- Physical Requirements- Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Ability to work in a non-climate-controlled facility.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
+
+### Operations Team Lead
+
+- **Location:** North Outlet, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $18.00
+- **Posted:** May 22, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579506)**
+
+#### Job Description
+
+The Operations Team Lead supports daily execution of Distribution Center operations by serving as a working lead and subject-matter expert across outlet, warehouse, and dock functions. This role provides on-the-floor guidance, training support, and task coordination during assigned shifts while reinforcing safety, standard operating procedures, and productivity expectations. This position does not have direct supervisory or employee relations responsibilities.
+**Role and Responsibilities**
+- Provide shift-level coordination and direction for assigned work areas, including organizing workflow, prioritizing tasks, and ensuring execution aligns with operational goals. - Serve as a subject-matter expert on Distribution Center processes, equipment, and safety standards.- Train, coach, and mentor team members by modeling correct procedures, reinforcing SOPs, and supporting new employee onboarding.- Provide real-time feedback and guidance to employees to reinforce performance expectations and adherence to standards. - Monitor workflow and identify operational issues, escalating concerns and recommending solutions to management.- Conduct daily safety checks of distribution centers and report findings to manager.- Conduct daily equipment inspections of forklifts, balers, cart tippers, and other material handling equipment and report findings to manager. Take appropriate action from manager as directed (e.g. using equipment tag-outs for equipment in need of service or repair).- Conduct opening and closing procedures for the outlet and warehouse in support of the manager.- Ensure a safe and clean environment for customers and staff within the distribution center.- Assist with customer questions or escalations on the sales floor.- Assist in coordinating Logistics activities within the Distribution Center.- Support shift continuity in the absence of the Assistant Site Manager by escalating issues, maintaining communication, and ensuring safe and efficient operations.- Other duties as assigned.
+**Supervisory Responsibility**
+This role does not have direct reports and does not perform employee relations functions such as hiring, corrective action, performance evaluations, or terminations. The Team Lead may provide day-to-day work direction and operational guidance during shifts.
+** **
+**Required Skills & Qualifications **
+- High School diploma or equivalent.- Forklift certification or ability to be certified within 30 days in role.- Minimum 2 years of relevant experience in retail, warehousing, logistics, or recycling operations- Proficiency in Microsoft Office Suite, including writing and reading emails, Excel, and familiarity with D365 or similar ERP systems.- Proficient written and verbal communication skills; bilingual English/Spanish a plus.- Valid Texas Driver License.- Experience working with or advocating for marginalized communities is highly valued.- Physical Requirements- Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Ability to work in a non-climate-controlled facility.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
+
+### Operations Team Lead
+
+- **Location:** North Outlet, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $18.00
+- **Posted:** May 22, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579505)**
+
+#### Job Description
+
+The Operations Team Lead supports daily execution of Distribution Center operations by serving as a working lead and subject-matter expert across outlet, warehouse, and dock functions. This role provides on-the-floor guidance, training support, and task coordination during assigned shifts while reinforcing safety, standard operating procedures, and productivity expectations. This position does not have direct supervisory or employee relations responsibilities.
+**Role and Responsibilities**
+- Provide shift-level coordination and direction for assigned work areas, including organizing workflow, prioritizing tasks, and ensuring execution aligns with operational goals. - Serve as a subject-matter expert on Distribution Center processes, equipment, and safety standards.- Train, coach, and mentor team members by modeling correct procedures, reinforcing SOPs, and supporting new employee onboarding.- Provide real-time feedback and guidance to employees to reinforce performance expectations and adherence to standards. - Monitor workflow and identify operational issues, escalating concerns and recommending solutions to management.- Conduct daily safety checks of distribution centers and report findings to manager.- Conduct daily equipment inspections of forklifts, balers, cart tippers, and other material handling equipment and report findings to manager. Take appropriate action from manager as directed (e.g. using equipment tag-outs for equipment in need of service or repair).- Conduct opening and closing procedures for the outlet and warehouse in support of the manager.- Ensure a safe and clean environment for customers and staff within the distribution center.- Assist with customer questions or escalations on the sales floor.- Assist in coordinating Logistics activities within the Distribution Center.- Support shift continuity in the absence of the Assistant Site Manager by escalating issues, maintaining communication, and ensuring safe and efficient operations.- Other duties as assigned.
+**Supervisory Responsibility**
+This role does not have direct reports and does not perform employee relations functions such as hiring, corrective action, performance evaluations, or terminations. The Team Lead may provide day-to-day work direction and operational guidance during shifts.
+** **
+**Required Skills & Qualifications **
+- High School diploma or equivalent.- Forklift certification or ability to be certified within 30 days in role.- Minimum 2 years of relevant experience in retail, warehousing, logistics, or recycling operations- Proficiency in Microsoft Office Suite, including writing and reading emails, Excel, and familiarity with D365 or similar ERP systems.- Proficient written and verbal communication skills; bilingual English/Spanish a plus.- Valid Texas Driver License.- Experience working with or advocating for marginalized communities is highly valued.- Physical Requirements- Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Ability to work in a non-climate-controlled facility.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Purchasing Team Lead
+
+- **Location:** New Goods, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $18.00
+- **Posted:** May 22, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579501)**
+
+#### Job Description
+
+The Purchasing Team Lead is responsible for supervising daily operations of the Purchased Goods Warehouse. This includes warehouse production, internal customer service, vendor management, inventory control, receiving products, and shipments to retail locations. The Purchasing Team Lead executes processes to ensure efficiency and maximization as well as creates best practices for inventory control and is responsible for supervising their direct reports. The New Goods Supervisor will hold each accountable by setting specific performance expectations, providing necessary training, personally following up, and giving consistent and candid feedback.
+**Role and Responsibilities**
+- Supervise Purchased Goods Warehouse operations, including receiving product, inventory and allocations. - Supervises receipt of new product, inventory, and documentation. - Ensures accuracy in inventory and allocation of product, including necessary documentation. - Communicates with Purchasing Manager on warehouse stock and anticipated needs for future order fulfillment. - Collaborates with Transportation leadership to schedule shipments from new Goods Warehouse to retail stores. - Ensures UPCs are accurately labeled, identified and entered into system prior to distribution to retail stores. - Ensure all policies and procedures for accounting, inventory and reporting are followed within New Goods department. - Maintain effective email, phone and face to face communication with all internal departments. - Use feedback to adjust processes to enable a smooth retail process from receipt to sale to inventory count process. - Maintain a safe, clean, organized and professional facility. - Comply with safety and security practices including reporting safety hazards and injuries.- Other duties as assigned.
+** **
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+** **
+**Required Skills & Qualifications **
+- Must be able to understand work instructions in English.
+- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- Minimum 1-year experience in logistics, inventory control, order fulfillment, or similar field with supervisory responsibilities. - Must have a valid Texas Drivers License. - Must have Microsoft Office & Excel experience. - Must have excellent analytical, creative and flexible problem solving and decision making skills. 
+**Physical Requirements**
+- Must be able to lift up to 50 pounds at times. - Prolonged periods of sitting at a desk and working on a computer. - While performing the duties of this job, the employee is frequently required to walk, balance, stoop, kneel, crouch, talk and hear. - Ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus. - Ability to use hands and fingers to operate a telephone and keyboard. - While performing the duties of this job, the employee is frequently exposed to airborne particles.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
+
+### Operations Team Lead
+
+- **Location:** North Outlet, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $18.00
+- **Posted:** May 22, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579495)**
+
+#### Job Description
+
+The Operations Team Lead supports daily execution of Distribution Center operations by serving as a working lead and subject-matter expert across outlet, warehouse, and dock functions. This role provides on-the-floor guidance, training support, and task coordination during assigned shifts while reinforcing safety, standard operating procedures, and productivity expectations. This position does not have direct supervisory or employee relations responsibilities.
+**Role and Responsibilities**
+- Provide shift-level coordination and direction for assigned work areas, including organizing workflow, prioritizing tasks, and ensuring execution aligns with operational goals. - Serve as a subject-matter expert on Distribution Center processes, equipment, and safety standards.- Train, coach, and mentor team members by modeling correct procedures, reinforcing SOPs, and supporting new employee onboarding.- Provide real-time feedback and guidance to employees to reinforce performance expectations and adherence to standards. - Monitor workflow and identify operational issues, escalating concerns and recommending solutions to management.- Conduct daily safety checks of distribution centers and report findings to manager.- Conduct daily equipment inspections of forklifts, balers, cart tippers, and other material handling equipment and report findings to manager. Take appropriate action from manager as directed (e.g. using equipment tag-outs for equipment in need of service or repair).- Conduct opening and closing procedures for the outlet and warehouse in support of the manager.- Ensure a safe and clean environment for customers and staff within the distribution center.- Assist with customer questions or escalations on the sales floor.- Assist in coordinating Logistics activities within the Distribution Center.- Support shift continuity in the absence of the Assistant Site Manager by escalating issues, maintaining communication, and ensuring safe and efficient operations.- Other duties as assigned.
+**Supervisory Responsibility**
+This role does not have direct reports and does not perform employee relations functions such as hiring, corrective action, performance evaluations, or terminations. The Team Lead may provide day-to-day work direction and operational guidance during shifts.
+** **
+**Required Skills & Qualifications **
+- High School diploma or equivalent.- Forklift certification or ability to be certified within 30 days in role.- Minimum 2 years of relevant experience in retail, warehousing, logistics, or recycling operations- Proficiency in Microsoft Office Suite, including writing and reading emails, Excel, and familiarity with D365 or similar ERP systems.- Proficient written and verbal communication skills; bilingual English/Spanish a plus.- Valid Texas Driver License.- Experience working with or advocating for marginalized communities is highly valued.- Physical Requirements- Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Ability to work in a non-climate-controlled facility.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Intake & Eligibility Specialist
 
