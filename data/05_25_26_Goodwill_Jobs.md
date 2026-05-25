@@ -1,18 +1,18 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** May 25, 2026 at 10:48 AM
+**Last Updated:** May 25, 2026 at 06:01 PM
 
-**Total Positions:** 168
+**Total Positions:** 167
 
 ---
 
 ## Quick Navigation
 
-- [Custodial Services](#custodial-services) (4)
+- [Custodial Services](#custodial-services) (2)
 - [Education & Training](#education-training) (9)
 - [Management & Leadership](#management-leadership) (33)
 - [Merchandise Processing](#merchandise-processing) (53)
-- [Other Positions](#other-positions) (21)
+- [Other Positions](#other-positions) (22)
 - [Sales](#sales) (33)
 - [Warehouse & Transportation](#warehouse-transportation) (13)
 - [eCommerce](#ecommerce) (2)
@@ -63,72 +63,6 @@ All qualified applicants will receive consideration for employment without regar
 **PREFERRED QUALIFICATIONS:**
 - High School Diploma/GED.- One year of previous custodial experience in a federal contract or commercial cleaning site.- Ability to operate a variety of buffing machines.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### Custodian
-
-- **Location:**  Austin, TX, US
-- **Type:** N/A
-- **Salary:** $15.00
-- **Posted:** Apr 29, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=578173)**
-
-#### Job Description
-
-**POSITION SUMMARY:**
-Custodians work in various settings and are responsible for the general upkeep of a building. They are key members of the custodial team who work collaboratively with Custodial Team leads to provide quality custodial services to our clients. Please note that 75% of the labor hours for our contracts are reserved for individuals *with documented significant disabilities*. These programs allow people who have significant disabilities an opportunity to gain meaningful employment, lead more independent lives, reduce dependence on government social programs and become taxpayers. We strongly encourage individuals with documented disabilities to apply.
-**COMPANY:**
-Established in 1958, Goodwill Central Texas is a non-profit organization that has transformed thousands of lives through the power of work. We are the leader in workforce development, one of the largest employers in our region, and a cornerstone of the community. Our mission is funded through our donation-driven retail stores, comprehensive business and staffing solutions, and generous community support. Our vision is to empower every Central Texan to transform their lives through work and education. Join the team whose work empowers people to transform their lives!
-**COMMITMENT TO DIVERSITY, EQUITY, AND INCLUSION:**
-Goodwill Central Texas is committed to fostering, cultivating, and preserving a culture of diversity and inclusion in which all employees are valued for their skills, experience, and unique perspective. This commitment is embodied in our company policies and in the way we do business. Working together as a diverse and inclusive organization is essential to our success.
-We embrace and encourage our employees’ differences in age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other characteristics that make our employees unique.
-**BENEFITS:**
-- Retirement benefits
-- Generous paid time off
-- Paid Personal Days
-- Free Mental Health Counseling
-- Tuition Support
-- Employee discounts and discounted gym memberships
-- 6 weeks of paid parental leave
-- Affordable Medical, Vision, & Dental Coverage
-- Company paid life insurance
-- 403b match
-**COMPENSATION:**
-Depending on experience and qualifications
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-**ESSENTIAL DUTIES AND RESPONSIBILITIES:**
-- Clean restroom, toilets, sinks floors, urinals, and mirrors, fixtures, using toilet brush, sponge, and disinfectants and cleaning solutions.- Spot clean doors, partitions, walls, windows, and all horizontal surfaces.- Restock paper supplies and empty trash to designated location.- Clean If carpeted, vacuum daily and shampoo as specified in contract. Other surfaces sweep and mop daily, strip, wax, and buff as specified in contract.- Comply with all safety rules, standards, and regulations.- Mix chemical solutions in safe and efficient manner.- Display positive attitude and pride in correct, representing the organization in a positive manner.- Display the highest ethical standards when making decisions related to our people and business.- Participate in all required meetings.- Adhere to assigned work schedule.- Demonstrate ethics and complies with Corporate Compliance Program.- Meet Yearly Mandatory Training requirements for this position.
-**OTHER DUTIES AND RESPONSIBILITIES:**
-- Support service recipients, supervisors and Custodial Team Leads at assigned contract sites.
-**SUPERVISORY RESPONSIBILITY:**
-- This position does not have supervisory responsibilities.
-**REQUIRED QUALIFICATIONS:**
-- One to three months previous cleaning or related Approved custodial training program may substitute for experience.- Ability to lift fifty pounds with or without a reasonable accommodation.- Ability to pass a criminal background check (subject to requirements of assigned site client).- Depending on service contract, may require documentation of a disability.- Required to have a valid driver’s license.
-**PREFERRED QUALIFICATIONS:**
-- High School Diploma/GED.- One year of previous custodial experience in a federal contract or commercial cleaning site.- Ability to operate a variety of buffing machines.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### Custodian
-
-- **Location:** N/A
-- **Type:** N/A
-- **Salary:** $15.00
-- **Posted:** Apr 29, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=578232)**
-
-#### Job Description
-
-As a Mobile Custodian, you will be an essential part of our team that travels to various retail stores throughout the week to provide top-notch cleaning services. This role requires a strong work ethic, attention to detail, and a commitment to teamwork.
-**Role and Responsibilities**
-- Perform a variety of cleaning tasks, including sweeping, mopping, vacuuming, dusting, and sanitizing all areas of retail stores. - Clean and disinfect restrooms, breakroom, and other common areas. - Empty trash and recycling receptacles. - Ensure that all surfaces are clean and free of debris. - Clean windows, mirrors, and glass surfaces.- Ensure proper handling and disposal of cleaning chemicals.- Work effectively as part of a team to complete cleaning tasks efficiently. - Collaborate with team members and supervisors to ensure all areas are cleaned to the highest standards. - Communicate effectively with team members and supervisors. - Follow all safety procedures and guidelines. - Use cleaning products and equipment safely and responsibly. - Report any safety hazards to the supervisor immediately. - Be prepared to travel to different retail locations throughout the week. - Adapts to different cleaning environments and tasks as needed. - Maintain a professional appearance and demeanor at all times. - Represent the company in a positive and respectful manner.- Other duties as required.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities 
-**Required Skills & Qualifications **
-- Previous cleaning experience preferred, but not required. - Keen eye for detail and a commitment to maintaining high standards of cleanliness. - Ability to work effectively as part of a team. - Good communication skills to interact with team members and supervisors. - Must be reliable and punctual with a strong work ethic. - Clean driving record and a valid driver license are required. - Ability to travel across multiple locations.
-**Physical Requirements **
-- Ability to work in both a climate controlled and non-climate-controlled environment.- Must be able to lift and carry up to 35 pounds at times.- Ability to perform physical tasks associated with cleaning such as walking, standing, bending, lifting and carrying for duration of shift.- Ability to work with various cleaning tools and equipment.
-**What We Offer**
-- **Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.- **Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.- **Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.- **Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses.- **Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and mental health support.- **Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.- **Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### Custodian, Blue Solutions
 
@@ -3424,6 +3358,28 @@ This position does not have supervisory responsibilities
 - Prolonged periods of sitting at a desk and working on a computer.- Ability to work in both a climate, and non-climate-controlled facility.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- Ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 #IND2
+
+### Scanning and Key Entry Operator
+
+- **Location:**  Austin, TX, US
+- **Type:** N/A
+- **Salary:** $16.00
+- **Posted:** Apr 10, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577146)**
+
+#### Job Description
+
+Responsible for transforming data by indexing and scanning documents. Ensure the appropriate information from the documents is input into the IRON DATA system. Also responsible for quality control of each document.
+**Role and Responsibilities**
+- File and monitor workers’ comp, property, and casualty claims to ensure timely processing and coordinate appropriate claims documentation, incident reports and track losses and corrective actions- Maintain records, retrieve information, and produce correspondence, reports, and forms.- Input appropriate information from the documents into the IRON DATA system as appropriate for the type of batch being indexed.- Verifies the accuracy and quality of each specific index file and document image by performing 100% quality check. Make corrections as needed.- Reconciles error conditions with the Scan/Index and Production Control Supervisor when necessary. Make corrections as needed.- Provides customer service to answer questions in their area of responsibility. Responds to questions or direct to supervisor.- Maintains contract required production and quality control standards.- Complete training to perform all positions within the mail room. Perform other duties as assigned.- Maintains a positive, team-oriented relationship with management, peers, and customers.- All work reflects a neat, professional image.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities. 
+** **
+**Required Skills & Qualifications **
+- High School diploma or equivalent.- At least 2 years of document scanning or data management experience.- Strong interpersonal, organizational and communication skills.- Hands-on experience with word processing and spreadsheet programs.- Creative and flexible problem solving; desire to work with employment and training services consumers, employees, and the public; team orientation; appropriate grooming and dressing.- Sitting, bending, and stooping.- Occasionally lifting up to 50 pounds.- To perform this job successfully an individual must be able to perform each essential performance requirements satisfactorily.- Must maintain acceptable attendance to avoid negative team impact.
+**Physical Requirements **
+- Prolonged periods of sitting at a desk and working on a computer.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus- Ability to use hands and fingers to operate a telephone and keyboard.- Must be able to lift and carry up to 15 pounds on a regular basis with or without reasonable accommodation.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### Shipping Specialist
 
