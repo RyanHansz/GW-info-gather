@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** June 09, 2026 at 10:44 AM
+**Generated:** June 09, 2026 at 06:20 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 82 | 177 |
-| GCC (North Austin) | 12 | 100 | 210 |
-| **TOTAL** | **23** | **182** | **387** |
+| GRC (South Austin) | 11 | 82 | 173 |
+| GCC (North Austin) | 12 | 100 | 203 |
+| **TOTAL** | **23** | **182** | **376** |
 
 ---
 
@@ -27,18 +27,18 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 36 total spots across 9 sessions
+> **✅ Spaces available!** 35 total spots across 9 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-budgeting-basics/
 
-**Total Sessions:** 9 | **Available Spaces:** 36
+**Total Sessions:** 9 | **Available Spaces:** 35
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~06/04/2026~~ | ~~10:30-12:30~~ | Cindy | ~~4~~ | Past |
 | ~~06/05/2026~~ | ~~1:00-3:00~~ | Cindy | ~~4~~ | Past |
 | ~~06/09/2026~~ | ~~9:00-11:00~~ | Cindy | ~~4~~ | Past |
-| 06/11/2026 | 9:30-11:30 | Cindy | 4 | **Available** |
+| 06/11/2026 | 9:30-11:30 | Cindy | 3 | **Available** |
 | 06/16/2026 | 9:00-11:00 | Cindy | 4 | **Available** |
 | 06/17/2026 | 1:00-3:00 | Cindy | 4 | **Available** |
 | 06/22/2026 | 2:00-4:00 | Cindy | 4 | **Available** |
@@ -55,15 +55,15 @@
 
 **Duration:** 3 hours/day (week-long) | **Requirements:** Completed Indeed Lab and signed checklist required.
 
-> **✅ Spaces available!** 9 total spots across 1 sessions
+> **✅ Spaces available!** 8 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-career-advancement-essentials/
 
-**Total Sessions:** 1 | **Available Spaces:** 9
+**Total Sessions:** 1 | **Available Spaces:** 8
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| June 22-26 | 9:00am-12:00pm | Cindy | 9 | **Available** |
+| June 22-26 | 9:00am-12:00pm | Cindy | 8 | **Available** |
 
 ---
 
@@ -154,11 +154,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 10 total spots across 10 sessions
+> **✅ Spaces available!** 9 total spots across 9 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 11 | **Available Spaces:** 10
+**Total Sessions:** 11 | **Available Spaces:** 9
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -169,7 +169,7 @@
 | 06/10/2026 | 9:00-10:00 | Cindy | 1 | **Available** |
 | 06/12/2026 | 3:00-4:00 | Cindy | 1 | **Available** |
 | 06/17/2026 | 11:00-12:00 | Cindy | 1 | **Available** |
-| 06/29/2026 | 9:00-10:00 | Cindy | 1 | **Available** |
+| 06/29/2026 | 9:00-10:00 | Cindy | 0 | **Full** |
 | 07/01/2026 | 3:00-4:00 | Cindy | 1 | **Available** |
 | 07/02/2026 | 9:00-10:00 | Cindy | 1 | **Available** |
 | 07/02/2026 | 2:00-3:00 | Cindy | 1 | **Available** |
@@ -184,18 +184,18 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 20 total spots across 6 sessions
+> **✅ Spaces available!** 19 total spots across 6 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-indeed-lab/
 
-**Total Sessions:** 7 | **Available Spaces:** 20
+**Total Sessions:** 7 | **Available Spaces:** 19
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~06/03/2026~~ | ~~9:00am-11:00am~~ | Cindy | ~~2~~ | Past |
 | ~~06/04/2026~~ | ~~12:00pm-2:00pm~~ | Adryan | ~~0~~ | Past |
 | ~~06/08/2026~~ | ~~12:30pm-2:30pm~~ | Cindy | ~~3~~ | Past |
-| 06/10/2026 | 12:00pm-2:00pm | Adryan | 3 | **Available** |
+| 06/10/2026 | 12:00pm-2:00pm | Adryan | 2 | **Available** |
 | 06/17/2026 | 9:00am-11:00am | Cindy | 4 | **Available** |
 | 06/25/2026 | 1:00pm-3:00pm | Cindy | 4 | **Available** |
 | 07/01/2026 | 9:00am-11:00am | Cindy | 4 | **Available** |
@@ -438,11 +438,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 8 total spots across 8 sessions
+> **✅ Spaces available!** 7 total spots across 7 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-digital-skills-11/
 
-**Total Sessions:** 12 | **Available Spaces:** 8
+**Total Sessions:** 12 | **Available Spaces:** 7
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -451,7 +451,7 @@
 | ~~06/09/2026~~ | ~~3:00pm-4:00pm~~ | Alex | ~~1~~ | Past |
 | 06/11/2026 | 3:00pm-4:00pm | Alex | 0 | **Full** |
 | 06/16/2026 | 9:00am-10:00am | Adryan | 0 | **Full** |
-| 06/16/2026 | 11:00am-12:00pm | Adryan | 1 | **Available** |
+| 06/16/2026 | 11:00am-12:00pm | Adryan | 0 | **Full** |
 | 06/18/2026 | 2:00pm-3:00pm | Alex | 0 | **Full** |
 | 06/23/2026 | 11:30am-12:30pm | Adryan | 1 | **Available** |
 | 06/24/2026 | 9:00am-10:00am | Alex | 1 | **Available** |
@@ -469,11 +469,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 16 total spots across 16 sessions
+> **✅ Spaces available!** 15 total spots across 15 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 17 | **Available Spaces:** 16
+**Total Sessions:** 17 | **Available Spaces:** 15
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -485,7 +485,7 @@
 | 06/16/2026 | 9:30am-10:30am | Doug | 1 | **Available** |
 | 06/16/2026 | 2:30pm-3:30pm | Doug | 1 | **Available** |
 | 06/17/2026 | TBD | Doug | 1 | **Available** |
-| 06/17/2026 | 3:30pm-4:30pm | Doug | 1 | **Available** |
+| 06/17/2026 | 3:30pm-4:30pm | Doug | 0 | **Full** |
 | 06/23/2026 | 1:00pm-2:00pm | Doug | 0 | **Full** |
 | 06/24/2026 | 12:00pm-1:00pm | Doug | 1 | **Available** |
 | 06/25/2026 | 9:00am-10:00am | Doug | 1 | **Available** |
@@ -505,18 +505,18 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 26 total spots across 7 sessions
+> **✅ Spaces available!** 25 total spots across 7 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/
 
-**Total Sessions:** 9 | **Available Spaces:** 26
+**Total Sessions:** 9 | **Available Spaces:** 25
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~02/25/2026~~ | ~~9:00am-11:00am~~ | Alex | ~~0~~ | Past |
 | ~~06/09/2026~~ | ~~1:00pm-3:00pm~~ | Alex | ~~0~~ | Past |
 | 06/15/2026 | 1:00pm-3:00pm | Alex | 2 | **Available** |
-| 06/24/2026 | 10:00am-12:00pm | Alex | 4 | **Available** |
+| 06/24/2026 | 10:00am-12:00pm | Alex | 3 | **Available** |
 | 06/25/2026 | 9:00am-11:00am | Adryan | 4 | **Available** |
 | 06/26/2026 | 1:00pm-3:00pm | Alex | 4 | **Available** |
 | 06/29/2026 | 11:00pm-1:00pm | Alex | 4 | **Available** |
@@ -533,17 +533,17 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 23 total spots across 6 sessions
+> **✅ Spaces available!** 21 total spots across 6 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-interview-preparation-and-practice/
 
-**Total Sessions:** 6 | **Available Spaces:** 23
+**Total Sessions:** 6 | **Available Spaces:** 21
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~06/09/2026~~ | ~~11:00am-1:00pm~~ | Doug | ~~4~~ | Past |
 | 06/15/2026 | 10:30am-12:30pm | Doug | 3 | **Available** |
-| 06/17/2026 | 1:00pm-3:00pm | Alex | 4 | **Available** |
+| 06/17/2026 | 1:00pm-3:00pm | Alex | 2 | **Available** |
 | 06/24/2026 | 9:00am-11:00am | Doug | 4 | **Available** |
 | 06/25/2026 | 11:00pm-1:00pm | Alex | 4 | **Available** |
 | 06/29/2026 | 9:00am-11:00am | Alex | 4 | **Available** |
@@ -558,21 +558,21 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 18 total spots across 18 sessions
+> **✅ Spaces available!** 16 total spots across 16 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-job-preparation-11/
 
-**Total Sessions:** 22 | **Available Spaces:** 18
+**Total Sessions:** 22 | **Available Spaces:** 16
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~06/08/2026~~ | ~~2:30pm-3:30pm~~ | Alex | ~~0~~ | Past |
 | ~~06/09/2026~~ | ~~2:00pm-3:00pm~~ | Doug | ~~0~~ | Past |
-| 06/10/2026 | 2:00pm-3:00pm | Alex | 1 | **Available** |
+| 06/10/2026 | 2:00pm-3:00pm | Alex | 0 | **Full** |
 | 06/12/2026 | 1:00pm-2:00pm | Alex | 1 | **Available** |
 | 06/15/2026 | 3:00pm-4:00pm | Alex | 0 | **Full** |
 | 06/16/2026 | 1:00pm-2:00pm | Alex | 1 | **Available** |
-| 06/16/2026 | 2:30pm-3:30pm | Alex | 1 | **Available** |
+| 06/16/2026 | 2:30pm-3:30pm | Alex | 0 | **Full** |
 | 06/17/2026 | 3:00pm-4:00pm | Alex | 1 | **Available** |
 | 06/18/2026 | 1:00pm-2:00pm | Alex | 0 | **Full** |
 | 06/22/2026 | 12:00pm-1:00pm | Doug | 1 | **Available** |
