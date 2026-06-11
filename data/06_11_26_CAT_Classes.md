@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** June 11, 2026 at 11:55 AM
+**Generated:** June 11, 2026 at 06:48 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 82 | 171 |
-| GCC (North Austin) | 12 | 91 | 191 |
-| **TOTAL** | **23** | **173** | **362** |
+| GRC (South Austin) | 11 | 82 | 169 |
+| GCC (North Austin) | 12 | 91 | 189 |
+| **TOTAL** | **23** | **173** | **358** |
 
 ---
 
@@ -123,11 +123,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 3 total spots across 3 sessions
+> **✅ Spaces available!** 1 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-digital-skills-11/
 
-**Total Sessions:** 12 | **Available Spaces:** 3
+**Total Sessions:** 12 | **Available Spaces:** 1
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -140,8 +140,8 @@
 | 06/18/2026 | 9:00am-10:00am | Adryan | 0 | **Full** |
 | 06/22/2026 | 9:00am-10:00am | Adryan | 0 | **Full** |
 | 06/24/2026 | 2:00pm-3:00pm | Adryan | 0 | **Full** |
-| 06/29/2026 | 9:30am-10:30am | Adryan | 1 | **Available** |
-| 07/01/2026 | 2:00pm-3:00pm | Cindy | 1 | **Available** |
+| 06/29/2026 | 9:30am-10:30am | Adryan | 0 | **Full** |
+| 07/01/2026 | 2:00pm-3:00pm | Cindy | 0 | **Full** |
 | 07/02/2026 | 10:00am-11:00am | Adryan | 1 | **Available** |
 
 ---
@@ -501,19 +501,19 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 27 total spots across 7 sessions
+> **✅ Spaces available!** 25 total spots across 7 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/
 
-**Total Sessions:** 9 | **Available Spaces:** 27
+**Total Sessions:** 9 | **Available Spaces:** 25
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~02/25/2026~~ | ~~9:00am-11:00am~~ | Alex | ~~0~~ | Past |
 | ~~06/11/2026~~ | ~~1:00pm-3:00pm~~ | Alex | ~~4~~ | Past |
 | 06/15/2026 | 1:00pm-3:00pm | Alex | 0 | **Full** |
-| 06/24/2026 | 10:00am-12:00pm | Alex | 3 | **Available** |
-| 06/25/2026 | 9:00am-11:00am | Adryan | 4 | **Available** |
+| 06/24/2026 | 10:00am-12:00pm | Alex | 2 | **Available** |
+| 06/25/2026 | 9:00am-11:00am | Adryan | 3 | **Available** |
 | 06/26/2026 | 1:00pm-3:00pm | Alex | 4 | **Available** |
 | 06/29/2026 | 11:00pm-1:00pm | Alex | 4 | **Available** |
 | 06/30/2026 | 9:00pm-11:00pm | Alex | 4 | **Available** |
