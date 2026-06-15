@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** June 15, 2026 at 01:12 PM
+**Generated:** June 15, 2026 at 06:56 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 59 | 124 |
-| GCC (North Austin) | 11 | 87 | 180 |
-| **TOTAL** | **22** | **146** | **304** |
+| GRC (South Austin) | 11 | 49 | 119 |
+| GCC (North Austin) | 11 | 87 | 176 |
+| **TOTAL** | **22** | **136** | **295** |
 
 ---
 
@@ -216,24 +216,14 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 13 total spots across 13 sessions
+> **✅ Spaces available!** 8 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-job-preparation-11/
 
-**Total Sessions:** 19 | **Available Spaces:** 13
+**Total Sessions:** 9 | **Available Spaces:** 8
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~06/03/2026~~ | ~~3:00-4:00~~ | Cindy | ~~0~~ | Past |
-| ~~06/04/2026~~ | ~~1:00-2:00~~ | Cindy | ~~1~~ | Past |
-| ~~06/04/2026~~ | ~~2:30-3:30~~ | Cindy | ~~1~~ | Past |
-| ~~06/05/2026~~ | ~~11:00-12:00~~ | Cindy | ~~0~~ | Past |
-| ~~06/05/2026~~ | ~~3:00-4:00~~ | Cindy | ~~0~~ | Past |
-| ~~06/09/2026~~ | ~~11:00-12:00~~ | Cindy | ~~0~~ | Past |
-| ~~06/09/2026~~ | ~~2:30-3:30~~ | Cindy | ~~0~~ | Past |
-| ~~06/10/2026~~ | ~~10:30-11:30~~ | Cindy | ~~1~~ | Past |
-| ~~06/12/2026~~ | ~~2:00-3:00~~ | Cindy | ~~1~~ | Past |
-| ~~06/15/2026~~ | ~~12:30-1:30~~ | Cindy | ~~1~~ | Past |
 | 06/16/2026 | 12:00-1:00 | Cindy | 1 | **Available** |
 | 06/17/2026 | 3:00-4:00 | Cindy | 1 | **Available** |
 | 06/23/2026 | 1:00-2:00 | Cindy | 0 | **Full** |
@@ -421,11 +411,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 12 total spots across 12 sessions
+> **✅ Spaces available!** 11 total spots across 11 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 17 | **Available Spaces:** 12
+**Total Sessions:** 17 | **Available Spaces:** 11
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -435,7 +425,7 @@
 | ~~06/10/2026~~ | ~~3:00pm-4:00pm~~ | Doug | ~~1~~ | Past |
 | ~~06/15/2026~~ | ~~9:00am-10:00am~~ | Doug | ~~0~~ | Past |
 | 06/16/2026 | 9:30am-10:30am | Doug | 0 | **Full** |
-| 06/16/2026 | 2:30pm-3:30pm | Doug | 1 | **Available** |
+| 06/16/2026 | 2:30pm-3:30pm | Doug | 0 | **Full** |
 | 06/17/2026 | TBD | Doug | 0 | **Full** |
 | 06/17/2026 | 3:30pm-4:30pm | Doug | 0 | **Full** |
 | 06/23/2026 | 1:00pm-2:00pm | Doug | 0 | **Full** |
@@ -508,11 +498,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 13 total spots across 13 sessions
+> **✅ Spaces available!** 12 total spots across 12 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-job-preparation-11/
 
-**Total Sessions:** 17 | **Available Spaces:** 13
+**Total Sessions:** 17 | **Available Spaces:** 12
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -522,7 +512,7 @@
 | 06/17/2026 | 3:00pm-4:00pm | Alex | 1 | **Available** |
 | 06/22/2026 | 12:00pm-1:00pm | Doug | 1 | **Available** |
 | 06/23/2026 | 9:00am-10:00am | Doug | 1 | **Available** |
-| 06/23/2026 | 2:30pm-3:30pm | Doug | 1 | **Available** |
+| 06/23/2026 | 2:30pm-3:30pm | Doug | 0 | **Full** |
 | 06/25/2026 | 9:00am-10:00am | Alex | 0 | **Full** |
 | 06/25/2026 | 2:00pm-3:00pm | Alex | 1 | **Available** |
 | 06/26/2026 | 9:00am-10:00am | Alex | 1 | **Available** |
@@ -565,21 +555,21 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 40 total spots across 8 sessions
+> **✅ Spaces available!** 38 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-wonderlic-prep-and-practice/
 
-**Total Sessions:** 8 | **Available Spaces:** 40
+**Total Sessions:** 8 | **Available Spaces:** 38
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~05/22/2026~~ | ~~9:00am-11:00am~~ | Doug | ~~3~~ | Past |
+| ~~05/22/2026~~ | ~~9:00am-11:00am~~ | Doug | ~~2~~ | Past |
 | ~~05/27/2026~~ | ~~9:00am-11:00am~~ | Doug | ~~7~~ | Past |
 | ~~05/29/2026~~ | ~~11:30pm-1:30pm~~ | Doug | ~~6~~ | Past |
 | ~~06/01/2026~~ | ~~9:00am-11:00am~~ | Doug | ~~5~~ | Past |
 | ~~06/04/2026~~ | ~~11:00am-1:00pm~~ | Doug | ~~5~~ | Past |
 | ~~06/11/2026~~ | ~~1:00pm-3:00pm~~ | Doug | ~~2~~ | Past |
-| 06/22/2026 | 9:00am-11:00am | Doug | 5 | **Available** |
+| 06/22/2026 | 9:00am-11:00am | Doug | 4 | **Available** |
 | 07/01/2026 | 9:00am-11:00am | Doug | 7 | **Available** |
 
 ---
