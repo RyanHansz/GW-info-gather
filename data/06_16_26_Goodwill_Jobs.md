@@ -1,20 +1,20 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** June 16, 2026 at 12:45 PM
+**Last Updated:** June 16, 2026 at 06:48 PM
 
-**Total Positions:** 166
+**Total Positions:** 165
 
 ---
 
 ## Quick Navigation
 
-- [Custodial Services](#custodial-services) (3)
+- [Custodial Services](#custodial-services) (1)
 - [Education & Training](#education-training) (4)
 - [Management & Leadership](#management-leadership) (29)
 - [Merchandise Processing](#merchandise-processing) (54)
-- [Other Positions](#other-positions) (26)
+- [Other Positions](#other-positions) (23)
 - [Sales](#sales) (28)
-- [Warehouse & Transportation](#warehouse-transportation) (17)
+- [Warehouse & Transportation](#warehouse-transportation) (21)
 - [eCommerce](#ecommerce) (5)
 
 ---
@@ -28,92 +28,6 @@
 - **Salary:** $15.00
 - **Posted:** Jun 12, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580611)**
-
-#### Job Description
-
-**POSITION SUMMARY:**
-Custodians work in various settings and are responsible for the general upkeep of a building. They are key members of the custodial team who work collaboratively with Custodial Team leads to provide quality custodial services to our clients. Please note that 75% of the labor hours for our contracts are reserved for individuals *with documented significant disabilities*. These programs allow people who have significant disabilities an opportunity to gain meaningful employment, lead more independent lives, reduce dependence on government social programs and become taxpayers. We strongly encourage individuals with documented disabilities to apply.
-**COMPANY:**
-Established in 1958, Goodwill Central Texas is a non-profit organization that has transformed thousands of lives through the power of work. We are the leader in workforce development, one of the largest employers in our region, and a cornerstone of the community. Our mission is funded through our donation-driven retail stores, comprehensive business and staffing solutions, and generous community support. Our vision is to empower every Central Texan to transform their lives through work and education. Join the team whose work empowers people to transform their lives!
-**COMMITMENT TO DIVERSITY, EQUITY, AND INCLUSION:**
-Goodwill Central Texas is committed to fostering, cultivating, and preserving a culture of diversity and inclusion in which all employees are valued for their skills, experience, and unique perspective. This commitment is embodied in our company policies and in the way we do business. Working together as a diverse and inclusive organization is essential to our success.
-We embrace and encourage our employees’ differences in age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other characteristics that make our employees unique.
-**BENEFITS:**
-- Retirement benefits
-- Generous paid time off
-- Paid Personal Days
-- Free Mental Health Counseling
-- Tuition Support
-- Employee discounts and discounted gym memberships
-- 6 weeks of paid parental leave
-- Affordable Medical, Vision, & Dental Coverage
-- Company paid life insurance
-- 403b match
-**COMPENSATION:**
-Depending on experience and qualifications
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-**ESSENTIAL DUTIES AND RESPONSIBILITIES:**
-- Clean restroom, toilets, sinks floors, urinals, and mirrors, fixtures, using toilet brush, sponge, and disinfectants and cleaning solutions.- Spot clean doors, partitions, walls, windows, and all horizontal surfaces.- Restock paper supplies and empty trash to designated location.- Clean If carpeted, vacuum daily and shampoo as specified in contract. Other surfaces sweep and mop daily, strip, wax, and buff as specified in contract.- Comply with all safety rules, standards, and regulations.- Mix chemical solutions in safe and efficient manner.- Display positive attitude and pride in correct, representing the organization in a positive manner.- Display the highest ethical standards when making decisions related to our people and business.- Participate in all required meetings.- Adhere to assigned work schedule.- Demonstrate ethics and complies with Corporate Compliance Program.- Meet Yearly Mandatory Training requirements for this position.
-**OTHER DUTIES AND RESPONSIBILITIES:**
-- Support service recipients, supervisors and Custodial Team Leads at assigned contract sites.
-**SUPERVISORY RESPONSIBILITY:**
-- This position does not have supervisory responsibilities.
-**REQUIRED QUALIFICATIONS:**
-- One to three months previous cleaning or related Approved custodial training program may substitute for experience.- Ability to lift fifty pounds with or without a reasonable accommodation.- Ability to pass a criminal background check (subject to requirements of assigned site client).- Depending on service contract, may require documentation of a disability.- Required to have a valid driver’s license.
-**PREFERRED QUALIFICATIONS:**
-- High School Diploma/GED.- One year of previous custodial experience in a federal contract or commercial cleaning site.- Ability to operate a variety of buffing machines.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### Custodian, Blue Solutions
-
-- **Location:**  Austin, TX, US
-- **Type:** N/A
-- **Salary:** $17.75
-- **Posted:** Jun 05, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580117)**
-
-#### Job Description
-
-**
-POSITION SUMMARY:**
-Custodians for Blue Solutions work **overnight** at IRS facilities and are responsible for the general upkeep of a building. They are key members of the custodial team who work collaboratively with Custodial Team leads to provide quality custodial services to our clients. Please note that 75% of the labor hours for our contracts are reserved for individuals *with documented significant disabilities*. These programs allow people who have significant disabilities an opportunity to gain meaningful employment, lead more independent lives, reduce dependence on government social programs and become taxpayers. We strongly encourage individuals with documented disabilities to apply.
-**COMPANY:**
-Established in 1958, Goodwill Central Texas is a non-profit organization that has transformed thousands of lives through the power of work. We are the leader in workforce development, one of the largest employers in our region, and a cornerstone of the community. Our mission is funded through our donation-driven retail stores, comprehensive business and staffing solutions, and generous community support. Our vision is to empower every Central Texan to transform their lives through work and education. Join the team whose work empowers people to transform their lives!
-**COMMITMENT TO DIVERSITY, EQUITY, AND INCLUSION:**
-Goodwill Central Texas is committed to fostering, cultivating, and preserving a culture of diversity and inclusion in which all employees are valued for their skills, experience, and unique perspective. This commitment is embodied in our company policies and in the way we do business. Working together as a diverse and inclusive organization is essential to our success.
-We embrace and encourage our employees’ differences in age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other characteristics that make our employees unique.
-**BENEFITS:**
-- Retirement benefits
-- Generous paid time off
-- Paid Personal Days
-- Free Mental Health Counseling
-- Tuition Support
-- Employee discounts and discounted gym memberships
-- 6 weeks of paid parental leave
-- Affordable Medical, Vision, & Dental Coverage
-- Company paid life insurance
-- 403b match
-**COMPENSATION:**
-Depending on experience and qualifications
-**ESSENTIAL DUTIES AND RESPONSIBILITIES:**
-- Clean restroom, toilets, sinks floors, urinals, and mirrors, fixtures, using toilet brush, sponge, and disinfectants and cleaning solutions.- Spot clean doors, partitions, walls, windows, and all horizontal surfaces.- Restock paper supplies and empty trash to designated location.- Clean If carpeted, vacuum daily and shampoo as specified in contract. Other surfaces sweep and mop daily, strip, wax, and buff as specified in contract.- Comply with all safety rules, standards, and regulations.- Mix chemical solutions in safe and efficient manner.- Display positive attitude and pride in correct, representing the organization in a positive manner.- Display the highest ethical standards when making decisions related to our people and business.- Participate in all required meetings.- Adhere to assigned work schedule.- Demonstrate ethics and complies with Corporate Compliance Program.- Meet Yearly Mandatory Training requirements for this position.
-**OTHER DUTIES AND RESPONSIBILITIES:**
-- Support service recipients, supervisors and Custodial Team Leads at assigned contract sites.
-**SUPERVISORY RESPONSIBILITY:**
-This position does not have supervisory responsibilities.
-**REQUIRED QUALIFICATIONS:**
-- One to three months previous cleaning or related Approved custodial training program may substitute for experience.- Ability to lift 20 pounds with or without a reasonable accommodation.- Ability to pass a criminal background check (subject to requirements of assigned site client).- Depending on service contract, may require documentation of a disability.- Required to have a valid driver’s license.- Must be able to lift, push, pull and have mobility to move between offices and/or building locations.
-**PREFERRED QUALIFICATIONS:**
-- High School Diploma/GED.- One year of previous custodial experience in a federal contract or commercial cleaning site.- Ability to operate a variety of buffing machines.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### Custodian
-
-- **Location:**  Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $16.00
-- **Posted:** May 28, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579688)**
 
 #### Job Description
 
@@ -2722,28 +2636,6 @@ This position does not have supervisory responsibilities.
 - **Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.- **Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.- **Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.- **Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses.- **Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and mental health support.- **Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.- **Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
-### Floor Care Tech
-
-- **Location:**  Austin, TX, US
-- **Type:** N/A
-- **Salary:** $18.00
-- **Posted:** Jun 09, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580277)**
-
-#### Job Description
-
-**Summary of Position**
-This position will be responsible for stripping, waxing, and refinishing hard floors and carpet cleaning. 
-**Role and Responsibilities**
-- Obtain supplies and stock cart with cleaning supplies from storage room.- Clean restroom toilets, sinks, floors, urinals, mirrors, and fixtures, using toilet brush, sponge, disinfectant, and cleaning solutions.- Clean floors daily and vacuum as needed, shampoo, strip, wax, clean doors, walls, and windows and all horizontal surfaces, and buff, and empty trash by removal to designated areas, as specified in contract.- Strip, wax, and refinish hard floors and carpet cleaning.- Clean 2,500 square feet within 1 hour.- Operate a variety of buffing machines.- Mix chemical solutions in a safe and effective manner.- Other duties as assigned.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities
-**Required Skills & Qualifications**
-- Experience stripping, waxing, and refinishing hard floors and carpet cleaning.- Experience cleaning carpet and tile. 
-**Physical Requirements**
-- Ability to work in a non-climate-controlled environment. - Must be able to lift up to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus- While performing the duties of this job, the employee is frequently exposed to airborne particles.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
 ### Logistics Trainer
 
 - **Location:** GRC Outlet Recyc Transp, Austin, TX, US
@@ -3122,53 +3014,6 @@ This position has supervisory responsibilities over the entire Information Techn
 **Physical Requirements**
 - Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### Job Skills Enhancement Specialist
-
-- **Location:** N/A
-- **Type:** Full Time
-- **Salary:** $0.00 - $24.00
-- **Posted:** Apr 24, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577915)**
-
-#### Job Description
-
-The Job Skills Enhancement Specialist is responsible for supporting individuals with disabilities in securing and maintaining competitive, integrated employment. This role involves working closely with both job seekers and employers to ensure successful job placement, training, and retention. The Job Skills Enhancement Specialist provides individualized support, coaching, and guidance to ensure that job seekers build the necessary skills for success in their chosen work environment. Additionally, the Job Skills Enhancement Specialist acts as a liaison between the employee, employer, and relevant support systems to foster long-term employment outcomes.
-**:  Employment is contingent upon the successful completion of a federal background investigation and the ability to obtain and maintain a favorable suitability determination. This includes fingerprinting, tax compliance verification, and a review of criminal, credit, and employment history.**
-**Role and Responsibilities**
-- Provide individualized job coaching services to help clients with disabilities or barriers to employment find and maintain competitive jobs in the community.- Assess clients’ skills, interests, and career goals to develop tailored job search and career development plans.- Assist clients with resume building, job search strategies, interview preparation, and completing job applications.- Coach clients on appropriate workplace behaviors, communication, time management, and problem-solving skills to ensure job success.- Identify potential job opportunities with employers and act as a liaison between clients and employers to facilitate job placement.- Support clients during the onboarding process, including job training, familiarization with job responsibilities, and workplace expectations.- Monitor clients' progress once employed, offering ongoing support and coaching, particularly during the initial transition period.- Provide advocacy and education to employers about workplace accommodations, diversity, and inclusion.- Conduct job analysis to identify essential tasks and potential modifications to ensure clients' success in their roles.- Maintain detailed records of client progress, job placements, and employer interactions, while respecting confidentiality and privacy.- Collaborate with vocational rehabilitation counselors, family members, and other professionals to ensure holistic support for clients.- Track and report on job outcomes and assist with follow-up services as required by organizational standards or funding sources.- Assist with annual documentation and recertification processes, leveraging close interaction with clients to support required reporting and ensuring compliance with organizational and external credentialing requirements, while maintaining sensitivity and discretion regarding confidential disability information.- Attend job fairs alongside recruiters and support recruitment activities by building relationships with community partners to help identify and refer qualified applicants. Provide support to the recruiter in their absence by assisting with qualifying staff for program needs.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities
-**Required Skills & Qualifications **
-- Bachelor’s degree in Rehabilitation Counseling, Social Work, Vocational Education, or a related field.- 2+ years of experience in job coaching or vocational rehabilitation, particularly with individuals with disabilities or other barriers to employment.- Job Coaching Expertise: Strong experience in coaching individuals with disabilities or employment barriers for success in competitive, community-based employment.- Communication: Excellent communication skills, including the ability to provide clear instructions, offer feedback, and interact professionally with clients and employers.- Problem-Solving: Ability to identify and address employment-related challenges and barriers, developing solutions that promote long-term employment success.- Empathy and Patience: Deep understanding of the challenges faced by individuals with disabilities or other barriers to employment, combined with a supportive and encouraging attitude.- Workplace Inclusion: Knowledge of best practices for integrating individuals with disabilities into the workforce, including providing reasonable accommodation and promoting a positive, inclusive environment.- Job Readiness Skills: Expertise in teaching job readiness skills such as resume writing, interviewing, and professional etiquette.- Time Management: Ability to balance multiple clients, track progress, and manage deadlines effectively.- Collaboration: Ability to work with other professionals, employers, and community resources to support clients in achieving their career goals.- Technology Proficiency: Familiarity with job search tools, job boards, Microsoft Office, and other career development software.- Valid Driver License and reliable transportation. Ability to travel to various worksites to meet with team members.- Scheduling flexibility. Ability to flex schedule to accommodate various work schedules to include an overnight shift.
-**Preferred Requirements**
-- Certification in Job Coaching or Vocational Rehabilitation (e.g., CRC – Certified Rehabilitation Counselor, CPRW – Certified Professional Résumé Writer) is a plus.- Experience working with diverse populations, including individuals with intellectual disabilities, mental health challenges, or physical disabilities.- Knowledge of ADA (Americans with Disabilities Act) and other workplace laws regarding disability inclusion and accommodations.- UNT-WISE credential or a comparable credentialing program is required. This may be obtained after hire, with annual recertification required. Familiarity with its structure and reporting standards is beneficial.- Experience with documentation and reporting processes tied to vocational or employment support programs is highly valued.
-**Physical Requirements**
-- Prolonged periods of sitting at a desk and working on a computer.- Ability to work in both a climate, and non-climate-controlled facility.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- Ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-#IND2
-
-### Scanning and Key Entry Operator
-
-- **Location:**  Austin, TX, US
-- **Type:** N/A
-- **Salary:** $16.00
-- **Posted:** Apr 10, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=577146)**
-
-#### Job Description
-
-Responsible for transforming data by indexing and scanning documents. Ensure the appropriate information from the documents is input into the IRON DATA system. Also responsible for quality control of each document.
-**Role and Responsibilities**
-- File and monitor workers’ comp, property, and casualty claims to ensure timely processing and coordinate appropriate claims documentation, incident reports and track losses and corrective actions- Maintain records, retrieve information, and produce correspondence, reports, and forms.- Input appropriate information from the documents into the IRON DATA system as appropriate for the type of batch being indexed.- Verifies the accuracy and quality of each specific index file and document image by performing 100% quality check. Make corrections as needed.- Reconciles error conditions with the Scan/Index and Production Control Supervisor when necessary. Make corrections as needed.- Provides customer service to answer questions in their area of responsibility. Responds to questions or direct to supervisor.- Maintains contract required production and quality control standards.- Complete training to perform all positions within the mail room. Perform other duties as assigned.- Maintains a positive, team-oriented relationship with management, peers, and customers.- All work reflects a neat, professional image.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities. 
-** **
-**Required Skills & Qualifications **
-- High School diploma or equivalent.- At least 2 years of document scanning or data management experience.- Strong interpersonal, organizational and communication skills.- Hands-on experience with word processing and spreadsheet programs.- Creative and flexible problem solving; desire to work with employment and training services consumers, employees, and the public; team orientation; appropriate grooming and dressing.- Sitting, bending, and stooping.- Occasionally lifting up to 50 pounds.- To perform this job successfully an individual must be able to perform each essential performance requirements satisfactorily.- Must maintain acceptable attendance to avoid negative team impact.
-**Physical Requirements **
-- Prolonged periods of sitting at a desk and working on a computer.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus- Ability to use hands and fingers to operate a telephone and keyboard.- Must be able to lift and carry up to 15 pounds on a regular basis with or without reasonable accommodation.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### Career Coach
 
@@ -4044,6 +3889,182 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ## Warehouse & Transportation
 
+### Box Truck Driver
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $18.00
+- **Posted:** Jun 16, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580829)**
+
+#### Job Description
+
+Are you looking for a meaningful driving role that keeps you active and connects you with the community? Goodwill is seeking a reliable and safety-minded Box Truck Driver to join our logistics team! Help us deliver more than goods—help us deliver opportunities.
+**What You’ll Be Doing:**
+As a Box Truck Driver, you’ll be the critical link between our distribution centers, retail stores, and donation sites. Your job is to safely and efficiently operate a box truck while ensuring that all materials—whether donations, raw materials, or store deliveries—are secured and handled with care.
+**Day-to-day responsibilities include:**
+- Navigating designated routes to complete pickups and deliveries safely and on time- Maintaining clear communication with dispatch via radio, phone, or digital channels- Loading and unloading trucks with care—protecting merchandise and donated goods- Completing all required paperwork: manifests, vehicle logs, inspection reports, donation counts, and more- Conducting daily maintenance checks (fuel, fluids, tire condition, etc.)- Ensuring truck safety at docks (including tire chocking and general inspection)- Presenting a clean, professional appearance and a customer-friendly attitude- Delivering exceptional service to donors, stores, and the public
+**What You Bring to the Role:**
+- Valid Texas Driver’s License- Ability to understand and follow directions and safety protocols- Strong communication skills in English- Basic mechanical awareness for vehicle upkeep- 18 years or older with a solid driving record- Prior truck driving experience (box truck preferred)- Experience with pallet jacks, dock operations, or warehouse logistics is a plus- Ability to pass a pre-employment drug screen and road test as part of the interview process
+**Physical Requirements:**
+- Comfortable working in a non-climate controlled environment- Capable of lifting and carrying up to 50 lbs- Able to stand, bend, and twist for extended periods (up to 8 hours per shift)
+**Why Join Goodwill?**
+At Goodwill, every job creates opportunity. When you drive for us, you’re helping fuel our mission of transforming lives through the power of work. You'll enjoy:
+- A stable, full-time schedule- A supportive, team-first environment- The satisfaction of doing meaningful work every day
+**Apply today and drive the difference at Goodwill!**
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Box Truck Driver
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $18.00
+- **Posted:** Jun 16, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580828)**
+
+#### Job Description
+
+Are you looking for a meaningful driving role that keeps you active and connects you with the community? Goodwill is seeking a reliable and safety-minded Box Truck Driver to join our logistics team! Help us deliver more than goods—help us deliver opportunities.
+**What You’ll Be Doing:**
+As a Box Truck Driver, you’ll be the critical link between our distribution centers, retail stores, and donation sites. Your job is to safely and efficiently operate a box truck while ensuring that all materials—whether donations, raw materials, or store deliveries—are secured and handled with care.
+**Day-to-day responsibilities include:**
+- Navigating designated routes to complete pickups and deliveries safely and on time- Maintaining clear communication with dispatch via radio, phone, or digital channels- Loading and unloading trucks with care—protecting merchandise and donated goods- Completing all required paperwork: manifests, vehicle logs, inspection reports, donation counts, and more- Conducting daily maintenance checks (fuel, fluids, tire condition, etc.)- Ensuring truck safety at docks (including tire chocking and general inspection)- Presenting a clean, professional appearance and a customer-friendly attitude- Delivering exceptional service to donors, stores, and the public
+**What You Bring to the Role:**
+- Valid Texas Driver’s License- Ability to understand and follow directions and safety protocols- Strong communication skills in English- Basic mechanical awareness for vehicle upkeep- 18 years or older with a solid driving record- Prior truck driving experience (box truck preferred)- Experience with pallet jacks, dock operations, or warehouse logistics is a plus- Ability to pass a pre-employment drug screen and road test as part of the interview process
+**Physical Requirements:**
+- Comfortable working in a non-climate controlled environment- Capable of lifting and carrying up to 50 lbs- Able to stand, bend, and twist for extended periods (up to 8 hours per shift)
+**Why Join Goodwill?**
+At Goodwill, every job creates opportunity. When you drive for us, you’re helping fuel our mission of transforming lives through the power of work. You'll enjoy:
+- A stable, full-time schedule- A supportive, team-first environment- The satisfaction of doing meaningful work every day
+**Apply today and drive the difference at Goodwill!**
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Tractor Trailer Driver
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $24.00
+- **Posted:** Jun 16, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580827)**
+
+#### Job Description
+
+Are you a skilled and safety-focused CDL driver looking for a meaningful career? Goodwill Central Texas is looking for a Tractor Trailer Driver to help transport goods that support our life-changing programs and services. If you value professionalism, take pride in your driving skills, and are ready to make a real impact, we want to hear from you!
+**Important Note:**
+As part of our interview and hiring process, all candidates must successfully complete a pre-employment drug screening and road test. DOT regulations also require an annual drug test.
+**What You’ll Do:**
+As a Tractor Trailer Driver, you'll be responsible for transporting store deliveries, donation pickups, and materials between our facilities. This is more than just a driving job, it's a role that helps change lives through the power of work.
+**Key Responsibilities:**
+- Safely operate a Class A tractor trailer across designated routes- Load, secure, and protect cargo, including donations, retail goods, and raw materials- Maintain clear, consistent communication with dispatch- Complete all required paperwork, including vehicle logs and inspection reports- Conduct daily maintenance checks and report any issues promptly- Uphold all safety and operational protocols- Represent Goodwill Central Texas with professionalism and customer service excellence
+**What We’re Looking For:**
+- **Age:** 21+- **License:** Valid Texas Class A CDL and current DOT Medical Card- **Experience:** Proven ability to operate a tractor trailer safely and efficiently- **Communication:** Ability to speak, read, and write in English
+**Physical Requirements:** Able to lift/carry up to 50 lbs., stand, bend, and twist for up to 8 hours
+**Environment:** Must be comfortable working in non-climate-controlled environments
+**Why Join Us?**
+At Goodwill Central Texas, your work helps fuel education, job training, and employment opportunities for thousands in our community. We offer:
+- Competitive pay- Mission-driven culture- Opportunities for advancement- A diverse and inclusive workplace
+**Additional Information:**
+- Employment is contingent upon a background check- This is a non-supervisory position- Full-time availability required
+Ready to drive your career forward with purpose? Apply today and be part of something bigger at Goodwill Central Texas!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Tractor Trailer Driver
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $24.00
+- **Posted:** Jun 16, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580826)**
+
+#### Job Description
+
+Are you a skilled and safety-focused CDL driver looking for a meaningful career? Goodwill Central Texas is looking for a Tractor Trailer Driver to help transport goods that support our life-changing programs and services. If you value professionalism, take pride in your driving skills, and are ready to make a real impact, we want to hear from you!
+**Important Note:**
+As part of our interview and hiring process, all candidates must successfully complete a pre-employment drug screening and road test. DOT regulations also require an annual drug test.
+**What You’ll Do:**
+As a Tractor Trailer Driver, you'll be responsible for transporting store deliveries, donation pickups, and materials between our facilities. This is more than just a driving job, it's a role that helps change lives through the power of work.
+**Key Responsibilities:**
+- Safely operate a Class A tractor trailer across designated routes- Load, secure, and protect cargo, including donations, retail goods, and raw materials- Maintain clear, consistent communication with dispatch- Complete all required paperwork, including vehicle logs and inspection reports- Conduct daily maintenance checks and report any issues promptly- Uphold all safety and operational protocols- Represent Goodwill Central Texas with professionalism and customer service excellence
+**What We’re Looking For:**
+- **Age:** 21+- **License:** Valid Texas Class A CDL and current DOT Medical Card- **Experience:** Proven ability to operate a tractor trailer safely and efficiently- **Communication:** Ability to speak, read, and write in English
+**Physical Requirements:** Able to lift/carry up to 50 lbs., stand, bend, and twist for up to 8 hours
+**Environment:** Must be comfortable working in non-climate-controlled environments
+**Why Join Us?**
+At Goodwill Central Texas, your work helps fuel education, job training, and employment opportunities for thousands in our community. We offer:
+- Competitive pay- Mission-driven culture- Opportunities for advancement- A diverse and inclusive workplace
+**Additional Information:**
+- Employment is contingent upon a background check- This is a non-supervisory position- Full-time availability required
+Ready to drive your career forward with purpose? Apply today and be part of something bigger at Goodwill Central Texas!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Material Handler
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jun 16, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580824)**
+
+#### Job Description
+
+**
+Summary of Position** 
+Distinguish between retail goods, salvage, and trash. Properly load, secure, unload and protect store deliveries and donation pickups, raw materials, and manufactured goods. Process, sort, bale, and palletize recyclable materials in a safe and efficient manner.
+**Role and Responsibilities**
+- Operate pallet jack, dock cart, down-stroke and horizontal baling machine, tippers, and other warehouse equipment in a safe manner. - Load baling machines, tippers, and roll-offs safely and expeditiously. - Sort a variety of commodities accurately based on current operations. - Palletize televisions, furniture, and other large items in accordance with company procedure. - Neatly and accurately complete required paperwork. - Perform operator-level maintenance on assigned equipment to include daily checks for fuel, oil, lubricants, water, antifreeze, and overall condition. - Accurately report incidents and accidents to supervisor.- Present neat and professional Goodwill Central Texas image to customers, stores, and the general public.- Ensure work area presents a clean, neat, and professional appearance at all times.- Other duties as assigned.
+**Supervisory Responsibility**
+** **
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
+**Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 30 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the Team Member is frequently exposed to airborne particles.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Material Handler
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jun 16, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580822)**
+
+#### Job Description
+
+**
+Summary of Position** 
+Distinguish between retail goods, salvage, and trash. Properly load, secure, unload and protect store deliveries and donation pickups, raw materials, and manufactured goods. Process, sort, bale, and palletize recyclable materials in a safe and efficient manner.
+**Role and Responsibilities**
+- Operate pallet jack, dock cart, down-stroke and horizontal baling machine, tippers, and other warehouse equipment in a safe manner. - Load baling machines, tippers, and roll-offs safely and expeditiously. - Sort a variety of commodities accurately based on current operations. - Palletize televisions, furniture, and other large items in accordance with company procedure. - Neatly and accurately complete required paperwork. - Perform operator-level maintenance on assigned equipment to include daily checks for fuel, oil, lubricants, water, antifreeze, and overall condition. - Accurately report incidents and accidents to supervisor.- Present neat and professional Goodwill Central Texas image to customers, stores, and the general public.- Ensure work area presents a clean, neat, and professional appearance at all times.- Other duties as assigned.
+**Supervisory Responsibility**
+** **
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
+**Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 30 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the Team Member is frequently exposed to airborne particles.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
 ### Material Handler
 
 - **Location:** Ecommerce, Austin, TX, US
@@ -4236,38 +4257,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
-### Tractor Trailer Driver
-
-- **Location:**  Austin, TX, US
-- **Type:** N/A
-- **Salary:** $24.00
-- **Posted:** Jun 10, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580384)**
-
-#### Job Description
-
-Are you a skilled and safety-focused CDL driver looking for a meaningful career? Goodwill Central Texas is looking for a Tractor Trailer Driver to help transport goods that support our life-changing programs and services. If you value professionalism, take pride in your driving skills, and are ready to make a real impact, we want to hear from you!
-**Important Note:**
-As part of our interview and hiring process, all candidates must successfully complete a pre-employment drug screening and road test. DOT regulations also require an annual drug test.
-**What You’ll Do:**
-As a Tractor Trailer Driver, you'll be responsible for transporting store deliveries, donation pickups, and materials between our facilities. This is more than just a driving job, it's a role that helps change lives through the power of work.
-**Key Responsibilities:**
-- Safely operate a Class A tractor trailer across designated routes- Load, secure, and protect cargo, including donations, retail goods, and raw materials- Maintain clear, consistent communication with dispatch- Complete all required paperwork, including vehicle logs and inspection reports- Conduct daily maintenance checks and report any issues promptly- Uphold all safety and operational protocols- Represent Goodwill Central Texas with professionalism and customer service excellence
-**What We’re Looking For:**
-- **Age:** 21+- **License:** Valid Texas Class A CDL and current DOT Medical Card- **Experience:** Proven ability to operate a tractor trailer safely and efficiently- **Communication:** Ability to speak, read, and write in English
-**Physical Requirements:** Able to lift/carry up to 50 lbs., stand, bend, and twist for up to 8 hours
-**Environment:** Must be comfortable working in non-climate-controlled environments
-**Why Join Us?**
-At Goodwill Central Texas, your work helps fuel education, job training, and employment opportunities for thousands in our community. We offer:
-- Competitive pay- Mission-driven culture- Opportunities for advancement- A diverse and inclusive workplace
-**Additional Information:**
-- Employment is contingent upon a background check- This is a non-supervisory position- Full-time availability required
-Ready to drive your career forward with purpose? Apply today and be part of something bigger at Goodwill Central Texas!
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
 ### Material Handler
 
 - **Location:** GRC Outlet Recyc Transp, Austin, TX, US
@@ -4290,35 +4279,6 @@ This position does not have supervisory responsibilities.
 - Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
 **Physical Requirements**
 - Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 30 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the Team Member is frequently exposed to airborne particles.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Box Truck Driver
-
-- **Location:**  Austin, TX, US
-- **Type:** N/A
-- **Salary:** $19.00
-- **Posted:** Jun 03, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579987)**
-
-#### Job Description
-
-Are you looking for a meaningful driving role that keeps you active and connects you with the community? Goodwill is seeking a reliable and safety-minded Box Truck Driver to join our logistics team! Help us deliver more than goods—help us deliver opportunities.
-**What You’ll Be Doing:**
-As a Box Truck Driver, you’ll be the critical link between our distribution centers, retail stores, and donation sites. Your job is to safely and efficiently operate a box truck while ensuring that all materials—whether donations, raw materials, or store deliveries—are secured and handled with care.
-**Day-to-day responsibilities include:**
-- Navigating designated routes to complete pickups and deliveries safely and on time- Maintaining clear communication with dispatch via radio, phone, or digital channels- Loading and unloading trucks with care—protecting merchandise and donated goods- Completing all required paperwork: manifests, vehicle logs, inspection reports, donation counts, and more- Conducting daily maintenance checks (fuel, fluids, tire condition, etc.)- Ensuring truck safety at docks (including tire chocking and general inspection)- Presenting a clean, professional appearance and a customer-friendly attitude- Delivering exceptional service to donors, stores, and the public
-**What You Bring to the Role:**
-- Valid Texas Driver’s License- Ability to understand and follow directions and safety protocols- Strong communication skills in English- Basic mechanical awareness for vehicle upkeep- 18 years or older with a solid driving record- Prior truck driving experience (box truck preferred)- Experience with pallet jacks, dock operations, or warehouse logistics is a plus- Ability to pass a pre-employment drug screen and road test as part of the interview process
-**Physical Requirements:**
-- Comfortable working in a non-climate controlled environment- Capable of lifting and carrying up to 50 lbs- Able to stand, bend, and twist for extended periods (up to 8 hours per shift)
-**Why Join Goodwill?**
-At Goodwill, every job creates opportunity. When you drive for us, you’re helping fuel our mission of transforming lives through the power of work. You'll enjoy:
-- A stable, full-time schedule- A supportive, team-first environment- The satisfaction of doing meaningful work every day
-**Apply today and drive the difference at Goodwill!**
-** **
 **Equal Employment Opportunity Statement:**
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
