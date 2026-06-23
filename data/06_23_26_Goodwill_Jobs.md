@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** June 23, 2026 at 10:42 AM
+**Last Updated:** June 23, 2026 at 06:09 PM
 
-**Total Positions:** 182
+**Total Positions:** 181
 
 ---
 
@@ -12,7 +12,7 @@
 - [Education & Training](#education-training) (7)
 - [Management & Leadership](#management-leadership) (33)
 - [Merchandise Processing](#merchandise-processing) (56)
-- [Other Positions](#other-positions) (23)
+- [Other Positions](#other-positions) (22)
 - [Sales](#sales) (36)
 - [Warehouse & Transportation](#warehouse-transportation) (22)
 - [eCommerce](#ecommerce) (3)
@@ -3051,40 +3051,6 @@ The Logistics Trainer will assist in road testing driver applicants for both CDL
 - Ability to safely lift, carry, push, and pull up to 50 pounds on a regular basis.- Ability to occasionally lift or move items weighing more than 50 pounds with assistance or appropriate equipment.- Ability to stand, walk, bend, stoop, squat, kneel, reach, and twist throughout the workday.- Ability to climb into and out of commercial vehicles, trailers, and loading docks repeatedly during a shift.- Ability to sit for extended periods while operating commercial vehicles.- Ability to use hands and fingers to operate vehicle controls, mobile devices, and electronic logging equipment.- Ability to safely load and unload freight using manual pallet jacks and other material handling equipment.- Ability to work indoors and outdoors in varying weather conditions and in non-climate-controlled environments.- Ability to safely perform duties in warehouse, dock, yard, and roadway environments.- Ability to meet all DOT physical qualification standards and maintain required certifications.- Ability to visually inspect vehicles, read gauges and instruments, and maintain situational awareness while operating equipment.- Ability to work flexible schedules, including early mornings, evenings, weekends, or overtime as business needs require.
 **Equal Employment Opportunity Statement:**
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
-### Admissions Representative
-
-- **Location:**  Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $21.00 - $23.00
-- **Posted:** Jun 03, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579951)**
-
-#### Job Description
-
-At Goodwill Central Texas, our mission is to transform lives through the power of education and work—and we believe it begins with the people we bring on board. We’re not just assembling a team; we’re cultivating a community committed to making a lasting impact.  
-**Here’s what you can expect when you consider joining us:**
-- Mission-Driven Work: Every role here contributes directly to changing lives. If you're inspired by helping others access education, find meaningful work, and build brighter futures, you'll feel right at home.- Inclusive Hiring: We value diverse backgrounds, perspectives, and experiences. We believe our team should reflect the communities we serve, and we actively work to create a fair and inclusive hiring process for all candidates.- People Over Perfection: We’re not just looking for resumes that check every box—we’re looking for people who are compassionate, collaborative, and eager to grow. If you're committed to learning and making a difference, we want to hear from you.- Support for Growth: Just like we help others unlock their potential, we’re invested in your development too. You’ll have opportunities to learn, lead, and thrive alongside a supportive and values-driven team.
-If you're looking for more than just a job and if you're looking for meaningful work with a lasting impact—we encourage you to explore opportunities with us. Together, we can transform lives.
-**Position Summary:**
-The Admissions Representative supports recruiting and admissions management for the Goodwill Career and Technical Academy's (GCTA) healthcare, skilled trades and technical programs. This position will support the GCTA in meeting enrollment and educational goals in line with the Eligible Training Provider System and Goodwill Central Texas standards. 
-The Admissions Representative is responsible for recruiting, screening and approving potential students; and tracking and maintaining student information and enrollment documentation. This position requires an individual with a strong customer service orientation, flexibility, superior time management skills and an aptitude for working collaboratively with students, team members, and community partners. The Admissions Representative should possess strong interpersonal skills and be detail-oriented and self-motivated.
-** **
-**Role & Responsibilities:**
-**Student Recruitment and Admissions Management: **
-- Lead and conduct recruiting activities, such as regularly facilitating meetings with internal staff and engaging in community events. - Create a community engagement strategy aimed at boosting enrollment in targeted classes.- Serve as primary point of contact for English as a Second Language and Adult Basic Education courses and select occupational training courses.- Lead designated class orientations; this includes reviewing policies and procedures with students; responsible for managing student files and performing background checks. - Continuously and proactively engage applicants to facilitate their successful enrollment into the GCTA; this includes interviewing, screening for eligibility, administering entrance exams and performing background and reference checks.  - Document and monitor all recruiting and admissions activities according to established quality, quantity, timeliness, and ethical standards to demonstrate growth of program.- Accurately enter and maintain client data and case notes in a case management system, ensuring information is up-to-date, complete, and in compliance with organizational standards; regularly review and update records to support program reporting, service tracking, and outcome evaluation.
-**Administrative Support:**
-- Address phone, email, and walk-in inquiries by providing information or directing individual to the appropriate contact person. - Provide front desk support as needed. - Assist with special events such as experience days, orientation, and graduations. 
-**Other Duties & Responsibilities:**
-- Establish and maintain professional and cooperative working relationships with all stakeholders: clients, staff and partners.- Collaborate across departments to help with furthering the mission.- Maintain confidentiality of information.- Comply with policies established by federal and state law and local board policy.- Flexibility to work the occasional evening or weekend is required. 
-**Required Qualifications:**
-- Associates Degree or equivalent experience in related field. Bachelor’s degree preferred. - Demonstrate high degree of professionalism and customer service orientation. - Proficiency with MS Office Products. - Effective at multi-tasking; demonstrate flexibility and adaptability.- Ability to gather and analyze data to make informed decisions. - Excellent written and verbal communication skills. - 2 years’ experience in a recruiting or admissions role. - Bilingual preferred.
-** **
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 #IND2

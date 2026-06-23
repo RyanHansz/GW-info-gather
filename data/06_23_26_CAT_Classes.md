@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** June 23, 2026 at 10:43 AM
+**Generated:** June 23, 2026 at 06:10 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 40 | 88 |
+| GRC (South Austin) | 11 | 33 | 73 |
 | GCC (North Austin) | 11 | 79 | 158 |
-| **TOTAL** | **22** | **119** | **246** |
+| **TOTAL** | **22** | **112** | **231** |
 
 ---
 
@@ -27,15 +27,14 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 11 total spots across 3 sessions
+> **✅ Spaces available!** 8 total spots across 2 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-budgeting-basics/
 
-**Total Sessions:** 3 | **Available Spaces:** 11
+**Total Sessions:** 2 | **Available Spaces:** 8
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~06/22/2026~~ | ~~2:00-4:00~~ | Cindy | ~~3~~ | Past |
 | 06/26/2026 | 2:00-4:00 | Cindy | 4 | **Available** |
 | 06/30/2026 | 9:00-11:00 | Cindy | 4 | **Available** |
 
@@ -69,16 +68,14 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 19 total spots across 5 sessions
+> **✅ Spaces available!** 12 total spots across 3 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-computer-basics/
 
-**Total Sessions:** 5 | **Available Spaces:** 19
+**Total Sessions:** 3 | **Available Spaces:** 12
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~06/18/2026~~ | ~~11:00am-12:00pm~~ | Adryan | ~~4~~ | Past |
-| ~~06/22/2026~~ | ~~11:00am-12:00pm~~ | Adryan | ~~3~~ | Past |
 | 06/24/2026 | 12:00pm-1:30pm | Adryan | 4 | **Available** |
 | 06/29/2026 | 11:00am-12:00pm | Adryan | 4 | **Available** |
 | 07/02/2026 | 11:00am-12:00pm | Adryan | 4 | **Available** |
@@ -115,20 +112,18 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 2 total spots across 2 sessions
+> **✅ Spaces available!** 1 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-digital-skills-11/
 
-**Total Sessions:** 6 | **Available Spaces:** 2
+**Total Sessions:** 4 | **Available Spaces:** 1
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~06/18/2026~~ | ~~9:00am-10:00am~~ | Adryan | ~~0~~ | Past |
-| ~~06/22/2026~~ | ~~9:00am-10:00am~~ | Adryan | ~~0~~ | Past |
 | 06/24/2026 | 2:00pm-3:00pm | Adryan | 1 | **Available** |
 | 06/29/2026 | 9:30am-10:30am | Adryan | 0 | **Full** |
 | 07/01/2026 | 2:00pm-3:00pm | Cindy | 0 | **Full** |
-| 07/02/2026 | 10:00am-11:00am | Adryan | 1 | **Available** |
+| 07/02/2026 | 10:00am-11:00am | Adryan | 0 | **Full** |
 
 ---
 
@@ -184,15 +179,14 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 19 total spots across 5 sessions
+> **✅ Spaces available!** 16 total spots across 4 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-interview-preparation-and-practice/
 
-**Total Sessions:** 6 | **Available Spaces:** 19
+**Total Sessions:** 5 | **Available Spaces:** 16
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~06/23/2026~~ | ~~2:00pm-4:00pm~~ | Cindy | ~~3~~ | Past |
 | 06/24/2026 | 1:00pm-3:00pm | Cindy | 0 | **Full** |
 | 06/29/2026 | 10:00am-12:00pm | Cindy | 4 | **Available** |
 | 06/30/2026 | 1:30pm-3:30pm | Cindy | 4 | **Available** |
@@ -209,19 +203,18 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 4 total spots across 4 sessions
+> **✅ Spaces available!** 3 total spots across 3 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-job-preparation-11/
 
-**Total Sessions:** 7 | **Available Spaces:** 4
+**Total Sessions:** 6 | **Available Spaces:** 3
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~06/23/2026~~ | ~~1:00-2:00~~ | Cindy | ~~0~~ | Past |
 | 06/24/2026 | 3:00-4:00 | Cindy | 0 | **Full** |
 | 06/25/2026 | 3:30-4:30 | Cindy | 1 | **Available** |
 | 06/26/2026 | 1:00-2:00 | Cindy | 0 | **Full** |
-| 06/29/2026 | 2:30-3:30 | Cindy | 1 | **Available** |
+| 06/29/2026 | 2:30-3:30 | Cindy | 0 | **Full** |
 | 06/30/2026 | 12:00-1:00 | Cindy | 1 | **Available** |
 | 07/02/2026 | 12:30-1:30 | Cindy | 1 | **Available** |
 
