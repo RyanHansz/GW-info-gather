@@ -1,19 +1,19 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** June 29, 2026 at 11:41 AM
+**Last Updated:** June 29, 2026 at 06:04 PM
 
-**Total Positions:** 170
+**Total Positions:** 177
 
 ---
 
 ## Quick Navigation
 
 - [Custodial Services](#custodial-services) (4)
-- [Education & Training](#education-training) (7)
-- [Management & Leadership](#management-leadership) (31)
-- [Merchandise Processing](#merchandise-processing) (53)
+- [Education & Training](#education-training) (8)
+- [Management & Leadership](#management-leadership) (37)
+- [Merchandise Processing](#merchandise-processing) (54)
 - [Other Positions](#other-positions) (20)
-- [Sales](#sales) (31)
+- [Sales](#sales) (30)
 - [Warehouse & Transportation](#warehouse-transportation) (19)
 - [eCommerce](#ecommerce) (5)
 
@@ -200,6 +200,47 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Education & Training
+
+### Substitute Teacher
+
+- **Location:** Excel Billy Moore Campus, Overton, TX, US
+- **Type:** Part Time
+- **Posted:** Jun 29, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581351)**
+
+#### Job Description
+
+The Goodwill Excel Center Adult High School is currently seeking a Substitute Teacher for our Billy Moore Campus, located at 8500 FM 3053, Overton, TX 75684.
+For more than six decades, Goodwill Central Texas has been relentlessly focused on empowering thousands of people to work. We transform revenue from over 37 retail locations into a combination of education, career training, job placement, career coaching and support, and more. Every time you shop or support Goodwill, you are helping fund our greater mission to serve our community. Goodwill’s vision extends far beyond our retail stores and your generous donations: We envision a Central Texas where everyone has the opportunity to thrive.
+The Goodwill Excel Center for Adults opened in 2014 as an open-enrollment public charter high school for adults ages 18 to 50. The Excel Center Adult High School transforms lives in a supportive and holistic learning environment where all students are empowered to achieve. 
+For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org
+Commitment to Excellence
+At The Excel Center, we are building a high-performing organization focused on transforming lives through the power of education and work and becoming the model of excellence for adult education across Texas. Our team members contribute to a culture grounded in our values of caring, innovation, and accountability and focused on strong graduate outcomes.
+All Excel team members:
+● Deliver Excellence - Uphold high standards of professionalism, execution, and service to students
+● Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.
+● Work as One Team - Collaborate and contribute positively to a solutions-oriented culture
+● Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities
+● Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
+All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
+The Substitute High School Teacher for a Correctional Facility Campus is responsible for providing and implementing the daily lesson plans in the assigned courses according to the district’s requirements. The Substitute High School Teacher will manage the classroom environment, provide activities, materials, and promote student learning in the absence of the regular classroom teacher. 
+Please note that this Substitute position is for a campus located within a Correctional Facility. In addition to passing the background check and completing fingerprinting for The Excel Center, the applicant will be required to pass the background check and additional training required by MTC and TDCJ. 
+REQUIRED QUALIFICATIONS:
+- A minimum of 60+ college credit hours, Bachelor’s or higher degree from an accredited university is required. 
+- All substitute teacher applicants must submit proof of an official accredited college transcript (showing the degree conferred or the minimum of 60+ college hours) OR a valid Texas Teacher Certificate from the Texas Education Agency (TEA)
+- General knowledge of possible assigned subject areas. - Strong organizational, communication, and interpersonal skills. - General knowledge of curriculum and instruction. - Ability to instruct students and manage their behavior in a correctional facility setting. - Ability to follow oral and written directions. - Ability to maintain effective classroom management strategies. - Must be able to understand work instructions in English.- Must possess the essential mindset that all students can achieve at high levels.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Must be able to successfully pass a background check and complete fingerprinting requirement.
+PREFERRED QUALIFICATIONS:
+- Current Texas Teaching Certification. - 1+ years of experience providing instruction to adults.
+Compensation:
+Compensation for this position is a daily rate of:
+Full Days - $160 (4 or more hours)
+Half Days - $75 (Less than 4 hours)
+Long Term - $170*
+Excess Hours - $30/hour**
+Equal Employment Opportunity Statement:
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+Background Check Requirement:
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Student Wellness Coordinator
 
@@ -518,6 +559,244 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Management & Leadership
+
+### Campus Director
+
+- **Location:** Excel Stiles Campus, Beaumont, TX, US
+- **Type:** Full Time
+- **Salary:** $83,040.00 - $105,540.00
+- **Posted:** Jun 29, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581445)**
+
+#### Job Description
+
+For more than six decades, Goodwill Central Texas has been relentlessly focused on empowering thousands of people to work. We transform revenue from over 37 retail locations into a combination of education, career training, job placement, career coaching and support, and more. Every time you shop or support Goodwill, you are helping fund our greater mission to serve our community. Goodwill’s vision extends far beyond our retail stores and your generous donations: We envision a Central Texas where everyone has the opportunity to thrive.
+The Goodwill Excel Center for Adults opened in 2014 as an open-enrollment public charter high school for adults ages 18 to 50. The Excel Center Adult High School transforms lives in a supportive and holistic learning environment where all students are empowered to achieve. 
+For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org
+Commitment to Excellence
+At The Excel Center, we are building a high-performing organization focused on transforming lives through the power of education and work and becoming the model of excellence for adult education across Texas. Our team members contribute to a culture grounded in our values of caring, innovation, and accountability and focused on strong graduate outcomes.
+All Excel team members:
+● Deliver Excellence - Uphold high standards of professionalism, execution, and service to students
+● Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.
+● Work as One Team - Collaborate and contribute positively to a solutions-oriented culture
+● Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities
+● Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
+All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
+The Goodwill Excel Center Adult High School is currently recruiting for a Campus Director for our **Stiles Campus** located at **3060 FM 3514, Beaumont, TX 77705**.
+The Campus Director (CD) is the Principal leader for the assigned campus and is responsible for organizing and fostering a positive, safe environment that is conducive to meeting the needs of all students and staff. The CD is responsible for leading operations, activities, and processes of the Campus team. 
+Essential functions include providing appropriate supervision and leadership of the instructional and student support staff day to day, overseeing compliance with district policies and procedures, and ensuring the success of campus programs. The CD is responsible for achieving operational, instructional, and student support areas. The CD receives strategic direction and technical support from District Teams. They will also provide leadership by carrying out program monitoring and quality assurance measures to ensure program efficacy and excellence to positively impact student outcomes. 
+**Role and Responsibilities:**
+**Instructional Leadership **
+- Establish a clear, compelling, and shared vision; design, implement, supervise, and evaluate instructional programs for the campus; demonstrate knowledge of curriculum and instructional strategies to accomplish success with student academic achievement; develop, implement, and monitor a campus strategic plan aligned with needs of the campus and District goals, leading to continuous improvement.- Develop and monitor a collaborative process for the design of the campus master schedule, assuring that is focused on the needs of students; work closely with the student supports team to assure that students are appropriately scheduled into classes aligned with student demand and identified postsecondary pathways.- Ensure the appropriate application of technology as an instructional and administrative tool throughout the campus.- Strategize with District-level departments to assist with a strong instructional and support program that leads to student academic achievement and growth.- Promote high expectations for all staff and students; regularly (minimum of once per term) observe employee performance, record observations, and conduct support/evaluation conferences with actionable feedback using T-TESS and other identified evaluations; organize and lead campus faculty and staff meetings; provide and arrange for campus professional development as necessary; provide instructional resources and materials to support teachers in accomplishing instructional goals; participate in ARD, 504, LPAC, and other meetings as necessary; assist staff in planning and implementing professional development that increases their effectiveness and improves campus performance; participate in professional development that provides personal growth and leads to increased effectiveness and improved campus performance.- Oversee activities related to compliance and documentation of campus-level data and activities including, but not limited to, teacher attendance and gradebook monitoring, discipline documentation, compliance reporting, and safety drills.- Utilize available assessment data to assist with instructional planning and for remedial activities that lead to campus improvement.- Ensure that campus and district staff receive accurate and timely information and oversee its analysis for data-driven decisions.- Supervise and ensure that the administration of District, state, and federal testing is in compliance with local, state, and federal guidelines.
+**School Relations & Organizational Morale **
+- Create a safe, orderly, and purposeful campus climate hospitable to education.- Communicate expectations for high-levels of performance to students and staff; provide and nurture effective communication between the school and the community; respond in a timely manner to staff, student, and community communication; promote student and community involvement in the school, including site-based committees, student/teacher/staff organizations, booster clubs, and other opportunities.- Encourage active involvement in the decision-making process by fostering collegiality and team building with employees; implement activities to recognize employees’ efforts and accomplishments.- Effectively communicate and represent the mission to stakeholders and external audiences and oversee recruitment of students to sustain and expand the school.- Ensure collaborative partnerships with all entities supporting the campus, including Goodwill, GCTA, Exploration Center, Windham School District and MTC.
+**Student Management **
+- Provide leadership for staff on solving behavioral issues that may arise and ensures that staff have a clear grasp on how to best resolve issues to promote student academic and career success.- Ensure the Student Code of Conduct and discipline management system are administered consistently to promote equity and to support positive student behavior.- Conduct conferences and meetings with students and staff regarding student and school issues; resolve staff/student concerns in a timely manner.- Implement activities to recognize student and staff effort and accomplishments; facilitate opportunities for students to participate in extra-curricular activities, and assure these activities are monitored and supported.
+**Administrative/Fiscal/Facilities Management **
+- Ensure campus coordination of all required state testing administrations.- Work closely with Technology and Curriculum/Instruction to sure the implementation of an appropriate technology structure and plan for learning.- Implement and administer District and campus policies and procedures that are in compliance with all federal, state, and local regulations.- Develop, implement, and monitor the campus operating budget; oversee the use of campus resources; operate within the budget.- Continually monitor the effectiveness of campus programs in achieving established goals and objectives.- Assure that emergency and crisis plans are developed, communicated, implemented, and practiced; manage school facilities and equipment effectively to ensure a safe, clean, and orderly building with maximization of space; works closely with District personnel and contractors regarding completion of any necessary repairs or renovations of the building.- Provide reports, data, and all required information promptly and accurately, ensuring the proper maintenance of student records.- Coordinate with district teams to develop and monitor plans for meeting State accountability measures.
+**Team Management **
+- Lead the recruitment, hiring, and placement of qualified staff, whose professional objectives align with district and campus goals, and assure that each employee’s performance is appropriately supervised and evaluated.- Oversee onboarding for new team members and periodic training that prepares them to meet their responsibilities professionally and effectively.- Follow staffing allocations closely to ensure effective and efficient staffing of the campus; work closely with the HR Department to assure that all timelines and staffing requirements are met; work closely with HR to assure that all professional employees meet and continue to meet certification requirements as required by SBEC; develop and maintain appropriate documentation for employee contract and continued employment recommendations.- Review the Employee Handbook and District policies and procedures to assure compliance with employee[1]related items; work with Human Resources to take corrective action on employees as needed; follow Educator Code of Conduct & all policies, procedures, laws and State/Federal regulations; perform other duties as assigned.- Cultivate leadership in others, develop pathways for advancement within The Excel Center organization, and ensure a succession of strong campus and district leaders aligned with the organization’s mission and beliefs.
+** **
+**Other Duties & Responsibilities**
+- Organize team members to meet annually identified goals, objectives, and metrics assigned to this position.- Assist school teams with outreach efforts and community integration events throughout the school year (periodically at nights and on weekends).- Depending on campus size, this position may maintain a partial caseload to support life coaching team efforts or teach classes to support campus instructional offerings.- Perform other related duties as assigned.
+**Supervisory Responsibilities**
+This position has supervisory responsibilities over all instruction, support, and administrative staff at the assigned campus.
+**Required Qualifications**
+- Master’s degree from an accredited college or university.- Texas Teaching Certification.- Texas Principal Certification (or commitment to obtain within 1 year of hire – must provide proof of program enrollment prior to start date).- Certified Texas Teacher (T-TESS) Evaluation & Support System appraiser (or commitment to obtain within 90 days of hire).- Three years’ experience as a classroom teacher.- Knowledge of appropriate public education leadership principles and techniques.- Familiarity with Texas educational requirements and practices, including curriculum, assessment, instructional coaching, and the state accountability system.- Familiarity with the Effective Schools Framework.- Ability to oversee, coordinate, and influence team members and processes in a proactive and strength[1]focused manner and evoke mission-focused change.- Strong sense of professionalism, administrative ability, systemic understanding of student dynamics and socioemotional approaches, and effective communication and interpersonal skills.- Superior leadership, supervisory, organizational, verbal and written communication skills, and the ability to handle multiple tasks or crisis situations effectively.- Experience working with high school age students in urban, non-traditional, and/or adult education setting; Possess understanding of marginalization and how it impacts those Goodwill serves and employs; Exhibit respect for diversity of thought and have experience to advance it in teams/organization.
+**Preferred Qualifications**
+- Dual or multiple subject certifications.- Five years’ experience as a classroom teacher.- Prior experience as an instructional coach, lead teacher, or department chair.- Demonstrated leadership ability to develop a rigorous curriculum, scope and sequence, unit and lesson plans.
+**Compensation & Schedule**
+- Based on experience and qualifications.- This is a year-round position.
+**What We Offer**
+**Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.
+**Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.
+**Teacher Retirement System & 403b Participation**
+**Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.
+**Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses & tuition/certification support.
+**Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and free mental health support.
+**Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.
+**Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
+Equal Employment Opportunity Statement:
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+Background Check Requirement:
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Campus Director
+
+- **Location:** Excel Connally Campus, Kenedy, TX, US
+- **Type:** Full Time
+- **Salary:** $82,976.00 - $105,476.00
+- **Posted:** Jun 29, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581443)**
+
+#### Job Description
+
+For more than six decades, Goodwill Central Texas has been relentlessly focused on empowering thousands of people to work. We transform revenue from over 37 retail locations into a combination of education, career training, job placement, career coaching and support, and more. Every time you shop or support Goodwill, you are helping fund our greater mission to serve our community. Goodwill’s vision extends far beyond our retail stores and your generous donations: We envision a Central Texas where everyone has the opportunity to thrive.
+The Goodwill Excel Center for Adults opened in 2014 as an open-enrollment public charter high school for adults ages 18 to 50. The Excel Center Adult High School transforms lives in a supportive and holistic learning environment where all students are empowered to achieve. 
+For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org
+Commitment to Excellence
+At The Excel Center, we are building a high-performing organization focused on transforming lives through the power of education and work and becoming the model of excellence for adult education across Texas. Our team members contribute to a culture grounded in our values of caring, innovation, and accountability and focused on strong graduate outcomes.
+All Excel team members:
+● Deliver Excellence - Uphold high standards of professionalism, execution, and service to students
+● Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.
+● Work as One Team - Collaborate and contribute positively to a solutions-oriented culture
+● Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities
+● Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
+All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
+The Goodwill Excel Center Adult High School is currently recruiting for a Campus Director for our **Connally Campus** located at **899 FM 632, Kenedy, TX 78119**. 
+The Campus Director (CD) is the Principal leader for the assigned campus and is responsible for organizing and fostering a positive, safe environment that is conducive to meeting the needs of all students and staff. The CD is responsible for leading operations, activities, and processes of the Campus team. 
+Essential functions include providing appropriate supervision and leadership of the instructional and student support staff day to day, overseeing compliance with district policies and procedures, and ensuring the success of campus programs. The CD is responsible for achieving operational, instructional, and student support areas. The CD receives strategic direction and technical support from District Teams. They will also provide leadership by carrying out program monitoring and quality assurance measures to ensure program efficacy and excellence to positively impact student outcomes. 
+**Role and Responsibilities:**
+**Instructional Leadership **
+- Establish a clear, compelling, and shared vision; design, implement, supervise, and evaluate instructional programs for the campus; demonstrate knowledge of curriculum and instructional strategies to accomplish success with student academic achievement; develop, implement, and monitor a campus strategic plan aligned with needs of the campus and District goals, leading to continuous improvement.- Develop and monitor a collaborative process for the design of the campus master schedule, assuring that is focused on the needs of students; work closely with the student supports team to assure that students are appropriately scheduled into classes aligned with student demand and identified postsecondary pathways.- Ensure the appropriate application of technology as an instructional and administrative tool throughout the campus.- Strategize with District-level departments to assist with a strong instructional and support program that leads to student academic achievement and growth.- Promote high expectations for all staff and students; regularly (minimum of once per term) observe employee performance, record observations, and conduct support/evaluation conferences with actionable feedback using T-TESS and other identified evaluations; organize and lead campus faculty and staff meetings; provide and arrange for campus professional development as necessary; provide instructional resources and materials to support teachers in accomplishing instructional goals; participate in ARD, 504, LPAC, and other meetings as necessary; assist staff in planning and implementing professional development that increases their effectiveness and improves campus performance; participate in professional development that provides personal growth and leads to increased effectiveness and improved campus performance.- Oversee activities related to compliance and documentation of campus-level data and activities including, but not limited to, teacher attendance and gradebook monitoring, discipline documentation, compliance reporting, and safety drills.- Utilize available assessment data to assist with instructional planning and for remedial activities that lead to campus improvement.- Ensure that campus and district staff receive accurate and timely information and oversee its analysis for data-driven decisions.- Supervise and ensure that the administration of District, state, and federal testing is in compliance with local, state, and federal guidelines.
+**School Relations & Organizational Morale **
+- Create a safe, orderly, and purposeful campus climate hospitable to education.- Communicate expectations for high-levels of performance to students and staff; provide and nurture effective communication between the school and the community; respond in a timely manner to staff, student, and community communication; promote student and community involvement in the school, including site-based committees, student/teacher/staff organizations, booster clubs, and other opportunities.- Encourage active involvement in the decision-making process by fostering collegiality and team building with employees; implement activities to recognize employees’ efforts and accomplishments.- Effectively communicate and represent the mission to stakeholders and external audiences and oversee recruitment of students to sustain and expand the school.- Ensure collaborative partnerships with all entities supporting the campus, including Goodwill, GCTA, Exploration Center, Windham School District and MTC.
+**Student Management **
+- Provide leadership for staff on solving behavioral issues that may arise and ensures that staff have a clear grasp on how to best resolve issues to promote student academic and career success.- Ensure the Student Code of Conduct and discipline management system are administered consistently to promote equity and to support positive student behavior.- Conduct conferences and meetings with students and staff regarding student and school issues; resolve staff/student concerns in a timely manner.- Implement activities to recognize student and staff effort and accomplishments; facilitate opportunities for students to participate in extra-curricular activities, and assure these activities are monitored and supported.
+**Administrative/Fiscal/Facilities Management **
+- Ensure campus coordination of all required state testing administrations.- Work closely with Technology and Curriculum/Instruction to sure the implementation of an appropriate technology structure and plan for learning.- Implement and administer District and campus policies and procedures that are in compliance with all federal, state, and local regulations.- Develop, implement, and monitor the campus operating budget; oversee the use of campus resources; operate within the budget.- Continually monitor the effectiveness of campus programs in achieving established goals and objectives.- Assure that emergency and crisis plans are developed, communicated, implemented, and practiced; manage school facilities and equipment effectively to ensure a safe, clean, and orderly building with maximization of space; works closely with District personnel and contractors regarding completion of any necessary repairs or renovations of the building.- Provide reports, data, and all required information promptly and accurately, ensuring the proper maintenance of student records.- Coordinate with district teams to develop and monitor plans for meeting State accountability measures.
+**Team Management **
+- Lead the recruitment, hiring, and placement of qualified staff, whose professional objectives align with district and campus goals, and assure that each employee’s performance is appropriately supervised and evaluated.- Oversee onboarding for new team members and periodic training that prepares them to meet their responsibilities professionally and effectively.- Follow staffing allocations closely to ensure effective and efficient staffing of the campus; work closely with the HR Department to assure that all timelines and staffing requirements are met; work closely with HR to assure that all professional employees meet and continue to meet certification requirements as required by SBEC; develop and maintain appropriate documentation for employee contract and continued employment recommendations.- Review the Employee Handbook and District policies and procedures to assure compliance with employee[1]related items; work with Human Resources to take corrective action on employees as needed; follow Educator Code of Conduct & all policies, procedures, laws and State/Federal regulations; perform other duties as assigned.- Cultivate leadership in others, develop pathways for advancement within The Excel Center organization, and ensure a succession of strong campus and district leaders aligned with the organization’s mission and beliefs.
+** **
+**Other Duties & Responsibilities**
+- Organize team members to meet annually identified goals, objectives, and metrics assigned to this position.- Assist school teams with outreach efforts and community integration events throughout the school year (periodically at nights and on weekends).- Depending on campus size, this position may maintain a partial caseload to support life coaching team efforts or teach classes to support campus instructional offerings.- Perform other related duties as assigned.
+**Supervisory Responsibilities**
+This position has supervisory responsibilities over all instruction, support, and administrative staff at the assigned campus.
+**Required Qualifications**
+- Master’s degree from an accredited college or university.- Texas Teaching Certification.- Texas Principal Certification (or commitment to obtain within 1 year of hire – must provide proof of program enrollment prior to start date).- Certified Texas Teacher (T-TESS) Evaluation & Support System appraiser (or commitment to obtain within 90 days of hire).- Three years’ experience as a classroom teacher.- Knowledge of appropriate public education leadership principles and techniques.- Familiarity with Texas educational requirements and practices, including curriculum, assessment, instructional coaching, and the state accountability system.- Familiarity with the Effective Schools Framework.- Ability to oversee, coordinate, and influence team members and processes in a proactive and strength[1]focused manner and evoke mission-focused change.- Strong sense of professionalism, administrative ability, systemic understanding of student dynamics and socioemotional approaches, and effective communication and interpersonal skills.- Superior leadership, supervisory, organizational, verbal and written communication skills, and the ability to handle multiple tasks or crisis situations effectively.- Experience working with high school age students in urban, non-traditional, and/or adult education setting; Possess understanding of marginalization and how it impacts those Goodwill serves and employs; Exhibit respect for diversity of thought and have experience to advance it in teams/organization.
+**Preferred Qualifications**
+- Dual or multiple subject certifications.- Five years’ experience as a classroom teacher.- Prior experience as an instructional coach, lead teacher, or department chair.- Demonstrated leadership ability to develop a rigorous curriculum, scope and sequence, unit and lesson plans.
+**Compensation & Schedule**
+- Based on experience and qualifications.- This is a year-round position.
+**What We Offer**
+**Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.
+**Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.
+**Teacher Retirement System & 403b Participation**
+**Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.
+**Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses & tuition/certification support.
+**Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and free mental health support.
+**Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.
+**Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
+Equal Employment Opportunity Statement:
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+Background Check Requirement:
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Retail Assistant Manager
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Posted:** Jun 29, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581440)**
+
+#### Job Description
+
+**Assistant Store Manager – Lead With Purpose **
+**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
+Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
+**What You’ll Be Doing:**
+- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
+**Who You’ll Supervise:**
+Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
+**What You Bring:**
+- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
+**What You’ll Get:**
+- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
+**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
+**Ready to lead with heart and hustle?**
+Apply today and help us turn donations into opportunities!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Retail General Manager
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Posted:** Jun 29, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581441)**
+
+#### Job Description
+
+**Retail General Manager – Lead With Purpose **
+**Quarterly Bonus Potential: Retail General Managers have the potential to earn up to a max of 25% of their quarterly salary based on performance in key metrics in their department.**
+Are you a results-driven retail leader who thrives in a dynamic, mission-focused environment? Goodwill is seeking an experienced Retail General Manager (RGM) to lead the operations of one of our many thriving retail locations. This is more than just a store—it's a place where lives change every day. As the RGM, you’ll oversee everything from sales floor operations to production efficiency, creating a culture of excellence, customer satisfaction, and team development. If you’re passionate about retail, leadership, and making a difference in your community, this role is for you.
+**What You’ll Do:**
+- Lead day-to-day operations of a high-performing retail store, from opening to closing.- Manage both the sales floor and back-of-house production teams to ensure a smooth, efficient flow of merchandise.- Monitor inventory, stock levels, and merchandising to maximize revenue and maintain a compelling store presentation.- Recruit, train, schedule, and manage a dynamic team of staff, including Assistant Managers, Supervisors, Processors, and Sales Associates.- Cultivate a customer-first culture—ensuring every shopper and donor receives top-tier service.- Ensure compliance with all safety protocols, state regulations, and loss prevention procedures.- Take full ownership of store P&L and make data-driven decisions to meet performance goals.- Handle payroll, attendance, and scheduling using our internal systems.- Serve as the go-to leader for resolving team or customer concerns.- Maintain strong communication across departments and stores to align goals and performance.
+**Who You Are:**
+- A motivated, hands-on leader with **3–5 years of retail management experience**.- Comfortable managing both **sales operations** and **merchandise production**.- Experienced with **profit & loss statements**, team development, and performance coaching.- Able to lift 35–50 lbs and perform physical tasks as needed (this is a boots-on-the-ground leadership role).- Someone who leads by example, knows how to inspire teams, and isn't afraid to roll up their sleeves.- A pro at balancing multiple priorities in a fast-paced retail environment.- Flexible to work **weekends, evenings, and holidays** based on business needs.
+**Preferred Qualifications:**
+- High school diploma required; Associate’s degree preferred.- Experience in the thrift/resale industry is a big plus.- Strong communication skills, basic math, and computer proficiency.- Valid driver’s license.
+**Why Join Us?**
+At Goodwill, we don’t just offer jobs—we offer meaningful careers. Working with us means contributing to a greater mission: transforming lives through the power of education and work. Enjoy opportunities for growth, ongoing training, and the satisfaction of knowing your efforts directly support your community. 
+**Ready to Lead with Purpose?**
+Apply now and take the next step in your retail leadership career with Goodwill.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Career Case Manager - Project SEARCH
+
+- **Location:** GCC HQ, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $21.28
+- **Posted:** Jun 29, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581436)**
+
+#### Job Description
+
+The Project SEARCH Career Case Manager supports the basic needs and service coordination for Goodwill clients seeking assistance with education, job training, and employment-related services. The Project SEARCH Career Case Manager will work closely with clients in developing service plans including goals for training, education, and employment as well as providing continued programmatic follow-up supports postplacement. The Career Case Manager works closely with other Workforce Advancement professionals in coordinating services provided within and outside of Goodwill. (Kalahari)
+This position will support Project SEARCH participants and other disability employment programs in healthcare and community-based employment settings while maintaining standards established by Project SEARCH and the Texas Workforce Commission – Vocational Rehabilitation.
+**Role and Responsibilities**
+- Maintain client caseloads by supporting client’s development with respect to resume building, job applicants/job searching, interviewing and employment related soft skills. Maintain frequent contact with clients in accordance with agency policy and procedures. - Develop partnership with clients, a strengths-based/solution-focused assessment and individualized career plan that identifies short- and long-term goals and resources that support clients on their path towards their education, training and employment goals. Track and document goal acquisitions and support clients in their transition to the next steps according to their individual career plan. - Apply extensive knowledge of regional labor market needs and trends which will support an evidence-based career path for clients. - Coordinate with appropriate social services professionals in delivering services necessary to support clients in achieving employment stability. - Coordinate and maintain professional relationships with schools, Vocational Rehabilitation counselors, families, instructors, employers, and community partners as applicable to program needs.- Intervene effectively and ethically in crisis, developing applicable interventions and follow-up plans to thoroughly address immediate and future needs while maintaining safety. - Enroll clients in programs, obtain information and complete reports to meet/exceed all performance targets as required by Goodwill and other funding sources. - Maintain complete and accurate records of all clients through CaseWorthy and other required client tracking databases. Strictly adhering to all data entry requirements set forth by Goodwill and other funding sources. Adhere to confidentiality protocols related to electronic and paper files and documents. - Coordinate and work collaboratively with GCT Career Advancement Team to connect clients with career advancement trainings and the Business Solutions team to connect clients with employment opportunities. - Maintain quality and integrity of services in CaseWorthy. Pull reports as needed for department. - Participate in and contribute to community collaborations and inter-agency discussions that further the Goodwill mission and clients’ goals. - Provide on-site support, employment readiness coaching, and follow-along supports to participants in internship and employment settings as needed.- Other duties as assigned.
+**Additional Job Responsibilities for Project SEARCH Career Case Manager**
+- Acts as Intake & Eligibility Specialist for the host business- Screen potential clients and provide an accurate and thorough intake based on individual career or educational goals.- Effectively communicate programs and services provided at Goodwill Central Texas as well as connect clients/potential clients to community resources.- Maintain adherence to scheduling protocols by being physically present at the host business during work hours.- Manage and maintain positive working relationships with agency and staff at partner site locations. Work collaboratively with agency staff for the best interest of Goodwill participants and mission.- Maintain consistent on-site presence at assigned host business locations and support participants throughout internship rotations and employment activities.- Maintain compliance with the Texas Workforce Commission Vocational Rehabilitation policy and requirements
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities
+**Required Skills & Qualifications **
+- Bachelor’s degree (or higher) in education, business, or a social services related field. Associate degree. Minimum of 1 year experience working with clients in employment counseling, placement, education, or human services can substitute for a four-year degree.- Minimum of 1 year experience with socially disadvantaged individuals such as un-housed, ex-offenders, and low literacy, and individuals with disabilities.- Experience working with individuals with disabilities, transition-aged youth, or supported employment programs preferred.- Knowledge of Goodwill services and of community resources and business networking preferred.- Extensive experience with Microsoft Office (Word, Excel, PowerPoint, outlook), and other social media applications.- Valid driver's license, proof of valid insurance and ability to travel on work related business to meet client location/service delivery needs.- Knowledge of client assessment skills, community resources coordination, career planning principles, employability skills, and crisis intervention.- Ability to conduct and/or translate training sessions bilingually preferred.- Ability to meet host site requirements, including healthcare compliance, vaccination, and background screening requirements, if applicable to assigned location.
+**Preferred Requirements**
+- Certification in Job Coaching or Vocational Rehabilitation (e.g., CRC – Certified Rehabilitation Counselor, CPRW – Certified Professional Résumé Writer) is a plus.- Experience working with diverse populations, including individuals with intellectual disabilities, mental health challenges, or physical disabilities.- Knowledge of ADA (Americans with Disabilities Act) and other workplace laws regarding disability inclusion and accommodations.- UNT-WISE credential or a comparable credentialing program. This must be obtained after hire, with annual recertification required. Familiarity with its structure and reporting standards is beneficial.- Experience with documentation and reporting processes tied to vocational or employment support programs is highly valued.
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- Position may require prolonged standing and walking throughout large hospital, business, and community-based environments.- The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
+
+### Retail Assistant Manager
+
+- **Location:** San Marcos Store, San Marcos, TX, US
+- **Type:** Full Time
+- **Salary:** $46,000.00 - $49,999.00
+- **Posted:** Jun 29, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581430)**
+
+#### Job Description
+
+**Assistant Store Manager – Lead With Purpose **
+**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
+Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
+**What You’ll Be Doing:**
+- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
+**Who You’ll Supervise:**
+Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
+**What You Bring:**
+- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
+**What You’ll Get:**
+- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
+**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
+**Ready to lead with heart and hustle?**
+Apply today and help us turn donations into opportunities!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Retail Supervisor
 
@@ -1006,7 +1285,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Retail Assistant Manager
 
-- **Location:**  Austin, TX, US
+- **Location:** Riverside Store, Austin, TX, US
 - **Type:** Full Time
 - **Salary:** $46,000.00 - $49,999.00
 - **Posted:** Jun 02, 2026
@@ -1456,6 +1735,34 @@ Employment is contingent upon the successful completion of a pre-employment back
 - **Salary:** $0.00 - $14.00
 - **Posted:** Jun 28, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581377)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Merchandise Processor
+
+- **Location:** Leander Store, Leander, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jun 28, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581374)**
 
 #### Job Description
 
@@ -3446,7 +3753,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 ### Sales Associate
 
 - **Location:** Cedar Park Store, Cedar Park, TX, US
-- **Type:** Full Time
+- **Type:** Part Time
 - **Salary:** $0.00 - $14.00
 - **Posted:** Jun 28, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581376)**
@@ -3463,34 +3770,6 @@ Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and
 ** **
 **What You’ll Get:**
 - Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
-** **
-**Why It Matters:**
-Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Sales Associate
-
-- **Location:** Leander Store, Leander, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.00
-- **Posted:** Jun 28, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581374)**
-
-#### Job Description
-
-Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
-** **
-**What You’ll Do:**
-- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
-** **
-**What You Bring:**
-- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
-** **
-**What You’ll Get:**
--  Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
 ** **
 **Why It Matters:**
 Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
