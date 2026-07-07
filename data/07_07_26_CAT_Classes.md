@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** July 07, 2026 at 10:26 AM
+**Generated:** July 07, 2026 at 06:07 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 71 | 155 |
-| GCC (North Austin) | 12 | 94 | 207 |
-| **TOTAL** | **23** | **165** | **362** |
+| GCC (North Austin) | 12 | 94 | 206 |
+| **TOTAL** | **23** | **165** | **361** |
 
 ---
 
@@ -172,11 +172,11 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 32 total spots across 9 sessions
+> **✅ Spaces available!** 31 total spots across 9 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-indeed-lab/
 
-**Total Sessions:** 9 | **Available Spaces:** 32
+**Total Sessions:** 9 | **Available Spaces:** 31
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -184,7 +184,7 @@
 | 07/09/2026 | 12:00pm-2:00pm | Adryan | 2 | **Available** |
 | 07/13/2026 | 12:30pm-2:30pm | Cindy | 4 | **Available** |
 | 07/15/2026 | 12:00pm-2:00pm | Adryan | 4 | **Available** |
-| 07/20/2026 | 10:00am-12:00pm | Cindy | 4 | **Available** |
+| 07/20/2026 | 10:00am-12:00pm | Cindy | 3 | **Available** |
 | 07/22/2026 | 9:00am-11:00am | Cindy | 4 | **Available** |
 | 07/24/2026 | 12:00pm-2:00pm | Adryan | 3 | **Available** |
 | 07/29/2026 | 1:00pm-3:00pm | Cindy | 4 | **Available** |
@@ -286,16 +286,16 @@
 
 **Duration:** 3 hours/day (week-long) | **Requirements:** Completed Indeed Lab and signed checklist required.
 
-> **✅ Spaces available!** 4 total spots across 1 sessions
+> **✅ Spaces available!** 5 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/virtual-career-advancement-essentials/
 
-**Total Sessions:** 2 | **Available Spaces:** 4
+**Total Sessions:** 2 | **Available Spaces:** 5
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~May 4th-8th 2026~~ | ~~TBD~~ | Alex | ~~0~~ | Past |
-| July 13-17th 2026 | TBD | Alex | 4 | **Available** |
+| July 13-17th 2026 | TBD | Alex | 5 | **Available** |
 
 ---
 
@@ -546,15 +546,15 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 18 total spots across 18 sessions
+> **✅ Spaces available!** 17 total spots across 17 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-job-preparation-11/
 
-**Total Sessions:** 19 | **Available Spaces:** 18
+**Total Sessions:** 19 | **Available Spaces:** 17
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~07/07/2026~~ | ~~2:00pm-3:00pm~~ | Alex | ~~1~~ | Past |
+| ~~07/07/2026~~ | ~~2:00pm-3:00pm~~ | Alex | ~~0~~ | Past |
 | 07/13/2026 | 2:30pm-3:30pm | Alex | 1 | **Available** |
 | 07/14/2026 | 2:00pm-3:00pm | Doug | 0 | **Full** |
 | 07/15/2026 | 2:00pm-3:00pm | Alex | 1 | **Available** |
