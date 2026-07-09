@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** July 09, 2026 at 10:50 AM
+**Last Updated:** July 09, 2026 at 06:14 PM
 
-**Total Positions:** 190
+**Total Positions:** 188
 
 ---
 
@@ -10,12 +10,12 @@
 
 - [Custodial Services](#custodial-services) (6)
 - [Education & Training](#education-training) (13)
-- [Management & Leadership](#management-leadership) (37)
+- [Management & Leadership](#management-leadership) (36)
 - [Merchandise Processing](#merchandise-processing) (59)
-- [Other Positions](#other-positions) (20)
-- [Sales](#sales) (32)
+- [Other Positions](#other-positions) (18)
+- [Sales](#sales) (34)
 - [Warehouse & Transportation](#warehouse-transportation) (18)
-- [eCommerce](#ecommerce) (5)
+- [eCommerce](#ecommerce) (4)
 
 ---
 
@@ -197,7 +197,7 @@ Must be available to work the assigned evening shift from 5:00 PM to 9:00 PM.
 
 ### Custodian, Blue Solutions
 
-- **Location:** GCC HQ, Austin, TX, US
+- **Location:** Goodwill Commercial Services, Austin, TX, US
 - **Type:** Full Time
 - **Salary:** $17.75
 - **Posted:** Jun 27, 2026
@@ -1785,65 +1785,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 - **Salary:** $145,000.00 - $170,000.00
 - **Posted:** May 19, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579140)**
-
-#### Job Description
-
-The Senior Director of Risk Management is responsible for designing, implementing, and overseeing a comprehensive risk management framework that safeguards the organization’s mission, assets, people, and reputation. This role ensures that strategic, operational, financial, compliance, and reputational risks are proactively identified and managed in alignment with the organization’s goals. 
-The Senior Director of Risk will oversee the organization’s comprehensive commercial insurance and risk management program, assessing risks that could impede reputation, safety, security, or financial success of the organization. 
-**Role & Responsibilities**
-**Enterprise Risk Strategy**
-- Develop and lead an enterprise-wide risk management (ERM) framework - Identify emerging risks related to programs, partnerships, funding streams, and regulatory environments. - Align risk strategy with organizational mission, growth plans, and impact goals. Conduct risk assessments, collecting and analyzing documentation, statistics, reports, loss runs and market trends. Maintain an updated enterprise risk assessment and related mitigation plans. - Establish policies and procedures to identify, evaluate and address risks in the organization’s services and departments. Coordinate with other departments to ensure enterprise risks are appropriately analyzed and addressed.- Review and assess risk management policies and protocols; make recommendations and implement modifications and improvements, while remaining cognizant of the cost/benefit relationship. - Identify opportunities for risk management improvements by reviewing trends, loss runs, best practices, discussions with business unit leaders, and through site visits. - Recommend and implement risk management solutions such as insurance, safety and security policies and related training, business continuity plans or recovery measures.- Primary point of contact and coordination with insurance brokers for commercial insurance programs. Negotiate and manage broker fees as well as services delivered.- Administer the organization’s workers compensation program and ensure the organization is appropriately addressing safety and OSHA compliance. - Draft and present risk reports and proposals to senior staff, executive leadership and periodically to the board of directors.- Work closely with operations to reduce risk through modifications in procedures and practices.- Ensure all contracts, agreements, memoranda of understanding, grants, leases and other documents that obligate the organization are negotiated, reviewed with respect to insurance to ensure the organization is protected, is aware of its liabilities and risks and can meet all requirements.
-**Risk Assessment & Mitigation**
-- Conduct regular risk assessments and scenario analyses across operations, programs, and geographies. - Design and implement mitigation strategies, controls, and monitoring systems. - Oversee business continuity planning, emergency management, and security protocols. - Oversee safety, loss prevention, and security personnel.- Manage vendor relationships related to risk management.
-**Compliance & Governance**
-- Ensure compliance with applicable laws and regulations including OSHA, FMSCA/DOT, life safety code, fire systems, ADA, TCEQ, TDLR, etc.- Partner with legal and finance teams on audits, reporting, and governance processes. - Advise executive leadership and the board on risk exposure and mitigation strategies. 
-**Operational & Program Risk**
-- Work closely with program leaders to identify risks in service delivery, partnerships, and community engagement. - Continually evaluate operational risks and recommend mitigation strategies. 
-**Financial & Funding Risk**
-- Manage the organization’s commercial insurance portfolio.- Collaborate with finance leadership to monitor financial risks, including funding volatility, grant/contract compliance, and resource allocation. 
-**People & Culture**
-- Promote a culture of risk awareness, accountability, and ethical decision-making. - Train staff and leadership on risk identification and mitigation practices. 
-**Crisis Management**
-- Lead response planning for crises, including operational disruptions, public relations issues, or significant safety or security concerns. - Serve as a key advisor during high-risk incidents. 
-**Supervisory Responsibility**
-This position has supervisory responsibilities over the Safety & Security team.
-** **
-**Required Skills & Qualifications **
-- Bachelor’s degree required; advanced degree preferred. - 10+ years of progressive experience in risk management, compliance, occupational safety, insurance or related fields. - Demonstrated experience building or leading enterprise risk management systems. - Strong knowledge of relevant regulatory environments - Valid drivers license and reliable transportation to travel across work sites.
-**Physical Requirements**
-- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus. 
-** **
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-** **
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
-### Career Case Manager
-
-- **Location:** GCC HQ, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $21.28
-- **Posted:** May 19, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579251)**
-
-#### Job Description
-
-The Career Case Manager supports the basic needs and service coordination for Goodwill clients seeking assistance with education, job training, and employment related services. The Career Case Manager will work closely with clients in developing service plans including goals for training, education, and employment as well as providing continued programmatic follow-up supports post-placement. The Career Case Manager works closely with other Workforce Advancement professionals in coordinating services provided within and outside of Goodwill.
-** **
-**Role and Responsibilities**
-- Maintain client caseloads by supporting client’s development with respect to resume building, job applicants/job searching, interviewing and employment related soft skills. Maintain frequent contact with client in accordance with agency policy and procedures. - Develop in partnership with clients, a strengths-based/solution-focused assessment and individualized career plan that identifies short and long term goals and resources that support clients on their path towards their education, training and employment goals. Track and document goal acquisitions and support clients in their transition to next steps according to their individual career plan. - Apply extensive knowledge of regional labor market needs and trends which will support an evidence based carer path for clients. - Coordinate with appropriate social services professionals in delivering services necessary to support clients in achieving employment stability. - Intervene effectively and ethically in crisis situation, developing applicable interventions and follow-up plans to thoroughly address immediate and future needs while maintaining safety. - Enroll clients in programs, obtain information and complete reports to meet/exceed all performance targets as required by Goodwill and other funding sources. - Maintain complete and accurate records of all clients through ECM and other required client tracking databases. Strictly adhering to all data entry requirements set forth by Goodwill and other funding sources. Adhere to confidentiality protocols related to electronic and paper files and documents. - Coordinate and work collaboratively with GCT Career Advancement Team to connect client with career advancement trainings and the Business Solutions team to connect client with employment opportunities. - quality and integrity of Career Advancement Services in ECM. Pull reports as needed for department. - Participate in and contribute to community collaborations and inter-agency discussions that further the Goodwill mission and clients’ goals. - Other duties as assigned.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities
-**Required Skills & Qualifications **
-- Bachelor’s degree (or higher) in education, business, or a social services related field. Associate degree. Minimum of 1 year experience working with clients in employment counseling, placement, education, or human services can substitute for a four-year degree. - Minimum of 1 year experience with socially disadvantaged individuals such as un-housed, ex-offenders, and low literacy, and individuals with disabilities.- Knowledge of Goodwill services and of community resources and business networking preferred.- Extensive experience with Microsoft Office (Word, Excel, PowerPoint, outlook), and other social media applications.- Valid driver's license, proof of valid insurance and ability to travel on work related business to meet client location/service delivery needs.- Knowledge of client assessment skills, community resources coordination, career planning principles, employability skills, and crisis intervention.- Ability to conduct and/or translate training sessions bilingually preferred.
-**Physical Requirements**
-- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Retail Assistant Manager
 
@@ -3498,26 +3439,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 - **Posted:** Apr 07, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=576846)**
 
-#### Job Description
-
-Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
-** **
-**What You’ll Be Doing:**
-- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
-** **
-**What You Bring:**
-- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
-** **
-**What You’ll Get:**
-- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
-** **
-**Why Join Us?**
-At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
 ### Merchandise Processor
 
 - **Location:** Clock Tower Store, Austin, TX, US
@@ -3836,44 +3757,6 @@ This position has no supervisory responsibilities 
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. A pre-employment background check is required to ensure the applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 #IND2
 
-### Business Solutions Placement Specialist
-
-- **Location:** GCC HQ, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $24.00
-- **Posted:** Jun 24, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580878)**
-
-#### Job Description
-
-The Business Solutions Specialist is responsible for developing relationships with employers and securing employment, externship, internship, and apprenticeship opportunities for clients served through Goodwill Central Texas programs. This position serves as a primary liaison between job seekers and businesses, working to understand employers’ workforce needs, promoting Goodwill's services, and connecting qualified candidates with employment that supports long-term career success. Success in this role is measured by employer engagement, opportunities secured, sustainable job wages, and long-term retention outcomes.
-**Role and Responsibilities**
-**Business Development & Outreach:** Proactively identify, cultivate, and maintain relationships with local employers throughout Central Texas to secure job leads, internships, externships, apprenticeships, and other work-based learning opportunities for GCT clients, graduates of GCTA, and The Excel Center.
-**Employer Engagement:** Engage with employers to learn and assess their workforce needs, hiring challenges, and desired candidate qualifications. Present tailored solutions that align employer objectives with the talent pipeline of our participants, serving as a supportive resource throughout the recruitment, interview, and retention process.
-**Networking & Labor Market Awareness:** Build and maintain a strong network of employers and key industry contacts. Attend hiring events, job fairs, networking events, workforce forums, and employer meetings to continuously expand partnerships and maintain an acute awareness of local labor market trends.
-**Advocacy:** Advocate on behalf of Goodwill’s target populations by educating Central Texas employers on the benefits of hiring from diverse, underrepresented groups and promoting equitable employment opportunities.
-**Client-Employer Matching:** Assess participant skills, experience, interests, and job readiness to facilitate optimal, strategic placements that meet the specific needs of both the candidate and the employer.
-**Client Support & Career Coaching:** Guide participants through the job search, application, and interview process. Provide resume support, interview preparation, and employment coaching to enhance success in securing and retaining employment, while monitoring progress for continued career advancement.
-**Cross-Functional Collaboration:** Work closely with internal programs—including Workforce Advancement, Mission Services, The Excel Center, and Goodwill Career and Technical Academy—to reach participant placement goals. Share employer feedback and hiring trends with internal teams to support program improvement.
-**Data Management & Performance Tracking:** Maintain accurate, timely, and compliant records of employers, clients, job leads, interviews, and placements within designated databases. Track and report key performance metrics, ensuring monthly placement targets, success metrics, and program reporting standards are consistently met.
-**Other Duties as Assigned.**
-** **
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities.
-** **
-**Required Skills & Qualifications **
-- Bachelor’s degree in Business, Human Services, Workforce Development, Communications, Marketing, or a related field (or an equivalent combination of education and experience).- Minimum of 1 to 2 years of experience in business development, job placement, workforce development, recruiting, staffing, sales, social services, or a related field.- Demonstrated understanding of how to work collaboratively with individuals from diverse backgrounds.- Strong ability to develop professional business relationships, deliver excellent customer service, and negotiate potential contracts/opportunities.- Proficient in Microsoft Office Suite (Word, Excel, Outlook) and database tracking systems.- Excellent verbal and written communication skills with the ability to effectively engage, influence, and present to external business partners and stakeholders.- Strong time management and organizational skills with a proven ability to manage multiple, competing priorities in a fast-paced environment.- Knowledge of Goodwill services, workforce development resources, and community assets, paired with solid networking skills.- Demonstrated problem-solving skills, attention to detail, and ability to handle moderate levels of stress.
-** **
-**Travel & Schedule Flexibility:**
-- Frequent local travel is required to meet with employers, attend workforce and community events, and support business engagement activities.- Occasional evening and weekend hours may be required to attend networking events, hiring events, employer functions, client graduations, and other business-related activities.- Valid driver’s license and proof of valid insurance are required.
-**Physical Requirements**
-- **Desk & Computer Work:** Prolonged periods of sitting at a desk and working on a computer.- **Physical Mobility:** Frequent walking, standing, balancing, stooping, kneeling, crouching, and communicating with others during community events, job fairs, and employer site visits.- **Lifting:** Must be able to lift up to 15 pounds occasionally.- **Mental Stamina:** Ability to tolerate moderate levels of stress and successfully manage competing priorities in a dynamic environment.- **Vision:** Specific vision abilities required for this role include close vision, distance vision, depth perception, and the ability to adjust focus.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
 ### Bilingual Human Resources Business Partner
 
 - **Location:** GCC HQ, Austin, TX, US
@@ -4178,32 +4061,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 #IND2
 
-### Loss Prevention Investigator
-
-- **Location:** GCC HQ, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $40,000.00 - $50,000.00
-- **Posted:** May 18, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579067)**
-
-#### Job Description
-
-Utilize Loss Prevention & Asset Protection techniques and experience to prevent and recover lost or stolen company assets by conducting high-level investigations and coaching staff on proactive tools needed to detect and prevent misappropriate of company resources
-Role and Responsibilities
-- Assist in the implementation of all loss prevention procedures at all Goodwill Central Texas locations by completing thorough investigations, including gathering evidence, conducting in-person interviews, collecting/writing statements, and preparing written reports.- Maintain activity summaries, incident reports, observation reports.- Serves as an in-house subject matter expert on the CCTV camera system and access control system and utilizes these systems to investigate loss prevention matters, security, and safety incidents.- Assists with the Key Control and Asset Protection programs.- Works closely with Safety/Security to maintain a positive security posture on Goodwill property.- Works with Operations and Facilities on all new buildings and remodels with placement of CCTV cameras, access control and security equipment.- Use of the POS exception reports and other LP tools (Think LP, GPS, Audits, etc.).- Participates in retail inventory counts.- Monitors and reviews POS exception reports and investigates incidents that show evidence of policy violations and/or theft.- Works closely with Retail Managers and their District Managers in addressing specific Loss Prevention issues that pertain to each individual location and/or district.- Attends meetings as a Loss Prevention subject matter expert as requested.- Assists company leaders with all Loss Prevention related requests.- Maintains a positive relationship with internal and external stakeholders including local municipal, State and Federal Law Enforcement.- Ensure departmental equity and compliance with all company policies and procedures.- Demonstrates ethics and comply with Corporate Compliance Program.- Meets mandatory training requirements.- Other duties as assigned.
-Supervisory Responsibility
-This position does not have supervisory responsibilities.
-** **
-**Required Skills & Qualifications **
-- High school diploma or equivalent.- 5+ years loss prevention experience or related experience.- Strong interpersonal, organizational and communication skills- Intermediate skills in POS reporting.- Intermediate skills in Microsoft Office and security camera and access control systems.- Certification in Interviewing and Interrogation Techniques.- Ability to maintain confidential information.- Valid driver's license and reliable transportation.- Flexibility in scheduling to accommodate business needs.
-**Physical Requirements**
-- Must be able to lift up to 30 pounds at times.- Prolonged periods of sitting at a desk and working on a computer.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus- Ability to use hands and fingers to operate a telephone and keyboard.
-Equal Employment Opportunity Statement:
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration. for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-Background Check Requirement:
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
 ### Career Coach
 
 - **Location:** GCC HQ, Austin, TX, US
@@ -4231,6 +4088,62 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Sales
+
+### Sales Associate
+
+- **Location:** Scofield Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 09, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581948)**
+
+#### Job Description
+
+Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
+** **
+**What You’ll Do:**
+- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
+** **
+**What You Bring:**
+- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
+** **
+**What You’ll Get:**
+- Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
+** **
+**Why It Matters:**
+Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Sales Associate
+
+- **Location:**  Marble Falls, TX, US
+- **Type:** Part Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 09, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581943)**
+
+#### Job Description
+
+Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
+** **
+**What You’ll Do:**
+- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
+** **
+**What You Bring:**
+- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
+** **
+**What You’ll Get:**
+- Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
+** **
+**Why It Matters:**
+Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Sales Associate
 
@@ -5113,6 +5026,33 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ## Warehouse & Transportation
 
+### Material Handler
+
+- **Location:** Ecommerce, Austin, TX, US
+- **Type:** N/A
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 09, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581952)**
+
+#### Job Description
+
+**
+Summary of Position** 
+Distinguish between retail goods, salvage, and trash. Properly load, secure, unload and protect store deliveries and donation pickups, raw materials, and manufactured goods. Process, sort, bale, and palletize recyclable materials in a safe and efficient manner.
+**Role and Responsibilities**
+- Operate pallet jack, dock cart, down-stroke and horizontal baling machine, tippers, and other warehouse equipment in a safe manner. - Load baling machines, tippers, and roll-offs safely and expeditiously. - Sort a variety of commodities accurately based on current operations. - Palletize televisions, furniture, and other large items in accordance with company procedure. - Neatly and accurately complete required paperwork. - Perform operator-level maintenance on assigned equipment to include daily checks for fuel, oil, lubricants, water, antifreeze, and overall condition. - Accurately report incidents and accidents to supervisor.- Present neat and professional Goodwill Central Texas image to customers, stores, and the general public.- Ensure work area presents a clean, neat, and professional appearance at all times.- Other duties as assigned.
+**Supervisory Responsibility**
+** **
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
+**Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 30 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the Team Member is frequently exposed to airborne particles.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
 ### ADC Attendant
 
 - **Location:** 1902 - ADC Bookstore Bee Caves, Bee Caves, TX, US
@@ -5134,29 +5074,6 @@ This position does not have supervisory responsibilities. 
 **Physical Requirements**
 - Ability to work in both a climate and non-climate-controlled facility.- Must be able to lift up to 30 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### ADC Attendant
-
-- **Location:** 1902 - Shadow Glen ADC, Manor, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.50
-- **Posted:** Jul 06, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581738)**
-
-#### Job Description
-
-**Summary of Position**
-ADC Attendant is responsible for accepting, pre-sorting and loading donated goods at various Attended Donation Centers while providing exceptional customer service to our Donors. 
-** Role and Responsibilities**
-- Open and close the store location and ensures all doors, money and credit card receipts are secured.- Provide excellent customer service to Donors Accept, presort and place donations in proper containers.-  Maintains stock in store by removing books from shelves as needed *applicable stores only. - Maintain a clean and safe work environment. - Accurately record the donations on the donation count list. - Accurately complete store report and report sales daily. - Verifies accuracy of the truck/trailer seals on doors and equipment manifest.- Other duties as assigned. 
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities. 
-**Required Skills & Qualifications**
-- Proficiency in English and basic math skills. - Ability to lift and carry up to 50 pounds on a regular basis. - Hands on experience with POS transactions.
-**Physical Requirements**
-- Ability to work in both a climate and non-climate-controlled facility.- Must be able to lift up to 30 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-#IND2
 
 ### Material Handler
 
@@ -5683,28 +5600,6 @@ This position does not have supervisory responsibilities.
 **Required Skills & Qualifications**
 - Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
 ** **
-**Physical Requirements**
-- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### eCommerce Lister
-
-- **Location:** Ecommerce, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $15.00
-- **Posted:** Jun 07, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=580149)**
-
-#### Job Description
-
-**Summary of Position**
-The E-commerce Lister creates listings for products sold online to meet department standards and daily production and revenue goals. 
-**Role and Responsibilities**
-- Inspect each item to determine key details and flaws.- Photographs each item to visibly communicate all details about each item to potential bidders/customers.- Writes clear and concise item listings that communicates all critical details about an item to potential bidders/customers.- Researching products prior to listing as needed.- Accurately uses grammar, spelling and punctuation in item listings.- Assigns each product to relevant inventory location.- Meets department production goals for listing items.- Develops personal product base of knowledge to reduce need for detailed research.- Performs research as needed to provide accurate and robust product descriptions.- Adhere to the established standard of quality for item descriptions and item photographs.- Responds promptly to customer service requests as needed.- Cross-trains as necessary in other functions of store operations and assists as needed in other areas of the store.- Works schedule set by supervisor in support of department, including work on weekends and holidays as needed.- Provides exceptional customer service to all our donors and customers.- Maintains a professional demeanor at all times.- Maintains a clean, safe and organized work environment, including production area.- Maintains a professional appearance adhering to established dress code.- Complies with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Other duties as assigned.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities
-**Required Skills & Qualifications**
-- Prior experience working in a warehouse environment preferred.- Must be able to multi-task to meet daily production quotas.- Typing speed of 35 WPM or higher.- Must be able to read, write, understand and follow directions in English.- Ability to develop personal product knowledge base.- Prior eCommerce or online selling experience preferred.- Previous thrift industry experience preferred.- Prior experience with online research for identifying collectibles preferred.- Prior digital photography experience preferred.- Highly skilled with Windows PC and operating system.
 **Physical Requirements**
 - Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
