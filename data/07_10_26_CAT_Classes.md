@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** July 10, 2026 at 10:16 AM
+**Generated:** July 10, 2026 at 05:53 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 56 | 118 |
-| GCC (North Austin) | 12 | 83 | 172 |
-| **TOTAL** | **23** | **139** | **290** |
+| GRC (South Austin) | 11 | 55 | 113 |
+| GCC (North Austin) | 12 | 82 | 168 |
+| **TOTAL** | **23** | **137** | **281** |
 
 ---
 
@@ -27,17 +27,17 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 24 total spots across 6 sessions
+> **✅ Spaces available!** 22 total spots across 6 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-budgeting-basics/
 
-**Total Sessions:** 6 | **Available Spaces:** 24
+**Total Sessions:** 6 | **Available Spaces:** 22
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~07/10/2026~~ | ~~1:00-3:00~~ | Cindy | ~~4~~ | Past |
-| 07/14/2026 | 9:00-11:00 | Cindy | 4 | **Available** |
-| 07/16/2026 | 9:30-11:30 | Cindy | 4 | **Available** |
+| 07/14/2026 | 9:00-11:00 | Cindy | 3 | **Available** |
+| 07/16/2026 | 9:30-11:30 | Cindy | 3 | **Available** |
 | 07/24/2026 | 10:30-12:30 | Cindy | 4 | **Available** |
 | 07/27/2026 | 1:00-3:00 | Cindy | 4 | **Available** |
 | 07/31/2026 | 2:00-3:00 | Cindy | 4 | **Available** |
@@ -167,15 +167,15 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 22 total spots across 6 sessions
+> **✅ Spaces available!** 21 total spots across 6 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-indeed-lab/
 
-**Total Sessions:** 6 | **Available Spaces:** 22
+**Total Sessions:** 6 | **Available Spaces:** 21
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| 07/13/2026 | 12:30pm-2:30pm | Cindy | 4 | **Available** |
+| 07/13/2026 | 12:30pm-2:30pm | Cindy | 3 | **Available** |
 | 07/20/2026 | 10:00am-12:00pm | Cindy | 3 | **Available** |
 | 07/22/2026 | 9:00am-11:00am | Cindy | 4 | **Available** |
 | 07/24/2026 | 12:00pm-2:00pm | Adryan | 3 | **Available** |
@@ -271,16 +271,15 @@
 
 **Duration:** 3 hours/day (week-long) | **Requirements:** Completed Indeed Lab and signed checklist required.
 
-> **✅ Spaces available!** 2 total spots across 1 sessions
+> **📢 All sessions are currently full.** Check back for new openings!
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/virtual-career-advancement-essentials/
 
-**Total Sessions:** 2 | **Available Spaces:** 2
+**Total Sessions:** 1 | **Available Spaces:** 0
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~May 4th-8th 2026~~ | ~~TBD~~ | Alex | ~~0~~ | Past |
-| July 13-17th 2026 | TBD | Alex | 2 | **Available** |
+| July 13-17th 2026 | TBD | Alex | 0 | **Full** |
 
 ---
 
@@ -318,16 +317,16 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 18 total spots across 5 sessions
+> **✅ Spaces available!** 17 total spots across 5 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-budgeting-basics/
 
-**Total Sessions:** 5 | **Available Spaces:** 18
+**Total Sessions:** 5 | **Available Spaces:** 17
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~07/09/2026~~ | ~~10:30am-12:30pm~~ | Doug | ~~4~~ | Past |
-| 07/13/2026 | 2:00pm-4:00pm | Doug | 3 | **Available** |
+| 07/13/2026 | 2:00pm-4:00pm | Doug | 2 | **Available** |
 | 07/14/2026 | 9:00am-11:00am | Doug | 3 | **Available** |
 | 07/27/2026 | 10:00am-12:00pm | Doug | 4 | **Available** |
 | 07/28/2026 | 1:30pm-3:30pm | Doug | 4 | **Available** |
@@ -465,16 +464,16 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 30 total spots across 8 sessions
+> **✅ Spaces available!** 29 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/
 
-**Total Sessions:** 8 | **Available Spaces:** 30
+**Total Sessions:** 8 | **Available Spaces:** 29
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 07/13/2026 | 11:00pm-1:00pm | Alex | 4 | **Available** |
-| 07/14/2026 | 9:00am-11:00am | Adryan | 4 | **Available** |
+| 07/14/2026 | 9:00am-11:00am | Adryan | 3 | **Available** |
 | 07/15/2026 | 11:30pm-1:30pm | Alex | 3 | **Available** |
 | 07/20/2026 | 1:00pm-3:00pm | Alex | 4 | **Available** |
 | 07/21/2026 | 1:00pm-3:00pm | Adryan | 4 | **Available** |
@@ -520,20 +519,19 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 14 total spots across 14 sessions
+> **✅ Spaces available!** 13 total spots across 13 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-job-preparation-11/
 
-**Total Sessions:** 19 | **Available Spaces:** 14
+**Total Sessions:** 18 | **Available Spaces:** 13
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~07/07/2026~~ | ~~2:00pm-3:00pm~~ | Alex | ~~0~~ | Past |
 | 07/13/2026 | 2:30pm-3:30pm | Alex | 0 | **Full** |
 | 07/14/2026 | 2:00pm-3:00pm | Doug | 0 | **Full** |
 | 07/15/2026 | 2:00pm-3:00pm | Alex | 0 | **Full** |
 | 07/16/2026 | 2:00pm-3:00pm | Alex | 0 | **Full** |
-| 07/17/2026 | 1:00pm-2:00pm | Alex | 1 | **Available** |
+| 07/17/2026 | 1:00pm-2:00pm | Alex | 0 | **Full** |
 | 07/20/2026 | 10:30am-11:30am | Alex | 1 | **Available** |
 | 07/21/2026 | 9:00am-10:00am | Alex | 1 | **Available** |
 | 07/21/2026 | 1:30pm-2:30pm | Alex | 1 | **Available** |
@@ -581,17 +579,17 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 27 total spots across 4 sessions
+> **✅ Spaces available!** 26 total spots across 4 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-wonderlic-prep-and-practice/
 
-**Total Sessions:** 4 | **Available Spaces:** 27
+**Total Sessions:** 4 | **Available Spaces:** 26
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~07/01/2026~~ | ~~9:00am-11:00am~~ | Doug | ~~6~~ | Past |
 | ~~07/09/2026~~ | ~~1:00pm-3:00pm~~ | Doug | ~~7~~ | Past |
-| 07/13/2026 | 9:00am-11:00am | Doug | 7 | **Available** |
+| 07/13/2026 | 9:00am-11:00am | Doug | 6 | **Available** |
 | 07/28/2026 | 9:00am-11:00am | Doug | 7 | **Available** |
 
 ---
