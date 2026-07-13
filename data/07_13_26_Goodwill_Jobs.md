@@ -1,20 +1,20 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** July 13, 2026 at 10:27 AM
+**Last Updated:** July 13, 2026 at 05:44 PM
 
-**Total Positions:** 183
+**Total Positions:** 191
 
 ---
 
 ## Quick Navigation
 
 - [Custodial Services](#custodial-services) (6)
-- [Education & Training](#education-training) (13)
-- [Management & Leadership](#management-leadership) (38)
+- [Education & Training](#education-training) (14)
+- [Management & Leadership](#management-leadership) (40)
 - [Merchandise Processing](#merchandise-processing) (52)
-- [Other Positions](#other-positions) (18)
-- [Sales](#sales) (34)
-- [Warehouse & Transportation](#warehouse-transportation) (18)
+- [Other Positions](#other-positions) (20)
+- [Sales](#sales) (36)
+- [Warehouse & Transportation](#warehouse-transportation) (19)
 - [eCommerce](#ecommerce) (4)
 
 ---
@@ -287,6 +287,126 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Education & Training
+
+### Social Studies Teacher
+
+- **Location:** Excel South Austin Campus, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $56,743.00 - $75,917.00
+- **Posted:** Jul 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582134)**
+
+#### Job Description
+
+Company:
+For more than six decades, Goodwill Central Texas has been relentlessly focused on empowering thousands of people to work. We transform revenue from over 37 retail locations into a combination of education, career training, job placement, career coaching and support, and more. Every time you shop or support Goodwill, you are helping fund our greater mission to serve our community. Goodwill’s vision extends far beyond our retail stores and your generous donations: We envision a Central Texas where everyone has the opportunity to thrive.
+The Goodwill Excel Center for Adults opened in 2014 as an open-enrollment public charter high school for adults ages 18 to 50. The Excel Center Adult High School transforms lives in a supportive and holistic learning environment where all students are empowered to achieve. 
+For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org
+Commitment to Excellence
+At The Excel Center, we are building a high-performing organization focused on transforming lives through the power of education and work and becoming the model of excellence for adult education across Texas. Our team members contribute to a culture grounded in our values of caring, innovation, and accountability and focused on strong graduate outcomes.
+All Excel team members:
+● Deliver Excellence - Uphold high standards of professionalism, execution, and service to students
+● Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.
+● Work as One Team - Collaborate and contribute positively to a solutions-oriented culture
+● Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities
+● Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
+All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
+The Goodwill Excel Center Adult High School is currently recruiting for a Social Studies Teacher for our South Austin Campus located at 1901 E. Ben White Blvd., Austin, TX 78741.
+POSITION SUMMARY:
+The Social Studies Teacher is responsible for implementing, developing, and executing instruction of the Goodwill Excel Center vocational curriculum. The Social Studies Teacher will employ a student-centered approach, effectively tailoring the instructional strategies to the individual students’ needs and approaching instruction with creativity and innovation. Strategies may include, but are not limited to direct instruction, one-to-one instruction, seminars, small group learning, self-paced lessons, blended learning and courses, and online learning tools. The Social Studies will work with the instructional team in meeting educational objectives and adhering to the Texas Essential Knowledge & Skills (TEKS) standards.
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+- 
+Provide instruction to students in the area of assigned Social Studies courses that ensures mastery of Texas Essential Knowledge and Skills (TEKS).
+- 
+Develop and revise an approved curriculum that includes lesson plans, projects, and assessments that are aligned with the standards of The Excel Center and TEKS.
+- 
+Assess student progress and learning needs to build and shape instruction around student needs.
+- 
+Utilize attendance, grades, and assessment data to refine lessons and inform instructional practices to achieve learning goals.
+- 
+Implement a clear and consistent classroom management system that aligns to Instructional Team and Campus-wide initiatives while developing students’ character and sense of community in the classroom.
+- 
+Support all students in achieving academic success and character growth.
+- 
+Provide tutorials for students to ensure mastery of material.
+- 
+Document and maintain attendance, grades, and progress records according to District policy.
+- 
+Create a positive classroom environment conducive to learning and educational growth of students, including behavior management that is firm, fair, and consistent.
+- 
+Participate in collaborative curriculum development, grade/ability-level activities, and school-wide functions aimed at improving student retention, productivity, school culture, and new student on-boarding.
+- 
+Attend and participate in all staff, team, and professional development meetings and activities.
+- 
+Participate in all evaluations and self-studies as required by the Texas Education Agency (TEA).
+- 
+Serve on curriculum, instructional, textbooks, and other committees as assigned.
+- 
+Administer diagnostic placement tests, achievement tests, curriculum tests, and other tests as required by the Campus Director.
+OTHER DUTIES AND RESPONSIBILITIES:
+- 
+Demonstrate progress in meeting student performance targets of the district.
+- 
+Demonstrate progress in meeting assigned action plans of the district or campus improvement plans.
+- 
+Develop, use, and evaluate ideas and/or innovative approaches to improve performance.
+- 
+Keep informed of and comply with policies of The Goodwill Excel Center, WSD, and TDCJ.
+- 
+Comply with policies established by federal and state law, including, but not limited to, State Board of Education and local Board policy.
+- 
+Follow all unit procedures in checking out materials, supplies, and equipment and promptly report any defective equipment and/or student abuse of materials, supplies, or equipment.
+- 
+Assist district and campus teams with outreach and engagement events throughout the school year.
+- 
+Perform other related duties as assigned.
+SUPERVISORY RESPONSIBILITY:
+This position does not supervise any Excel Team Members. It does supervise adult incarcerated students in classroom settings, including assigned teacher aids.
+REQUIRED QUALIFICATIONS & EXPERIENCE:
+- 
+Bachelor’s degree from an accredited college or university.
+- 
+Must have a proven record of results that illustrate the teacher’s ability to increase student achievement utilizing subject-specific instructional strategies.
+- 
+Must have a broad knowledge of the principles and practices of current educational trends in curriculum and instruction.
+- 
+Must have working knowledge of computer programs and accessing internet applications such as Student Information Systems, Microsoft Products, Google Applications (Gmail), and Internet Explorer.
+- 
+Excellent oral & written communication skills; ability to convey ideas & instructions clearly & concisely.
+- 
+Skill to interpret and apply rules, regulations, policies, and procedures.
+- 
+Skill in organizing and maintaining accurate records.
+- 
+Must possess the essential mindset that all students can achieve at high levels.
+- 
+Strong interpersonal and communication skills, with the ability to engage and motivate diverse populations.
+- 
+Demonstrated commitment to supporting adult learners in achieving their educational and career goals.
+- 
+Possess understanding of marginalization and how it impacts those Goodwill serves and employs; Exhibit respect for diversity of thought and have experience to advance it in teams/organization.
+- 
+Exhibit respect for diversity of thought and have experience to advance it in teams/organization.
+PREFERRED QUALIFICATIONS & EXPERIENCE:
+- 
+Texas Teaching Certification in Social Studies (HS Grades)
+- 
+Bilingual
+COMPENSATION & SCHEDULE:
+Depending on experience and qualifications.
+**What We Offer**
+**Comprehensive Health Coverage: **We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.
+**Generous Paid Time Off: **Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.
+**Teacher Retirement System & 403b Participation**
+**Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.
+**Professional Development Opportunities:** We believe in continuous growth! Take advantage of our access to workshops and online courses & tuition/certification support.
+**Wellness Programs:** Prioritize your well-being with our wellness initiatives, including gym memberships and free mental health support.
+**Employee Recognition Programs:** We celebrate our team members’ achievements with recognition awards.
+**Diverse and Inclusive Culture:** Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
+**Equal Employment Opportunity**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to a workplace where everyone feels included. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, disability, veteran status, gender identity, sexual orientation, or any other protected characteristic.
+**Background Check**
+Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
 
 ### CDL Instructor
 
@@ -875,6 +995,46 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Management & Leadership
+
+### Retail Supervisor
+
+- **Location:** Cedar Park Store, Cedar Park, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $17.85
+- **Posted:** Jul 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582143)**
+
+#### Job Description
+
+**Summary of Position**
+Retail Supervisors will assist management in the operation of the Goodwill retail store. This includes customer service, record keeping, cash management, facility operation, communications, merchandising, and inventory control.
+**Role and Responsibilities**
+- Assist the store manager with the overall operation of the retail store.- Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Supervise and train retail sales associates.- Monitor sales transactions associated with purchases and ensure proper sales procedures are followed by sales associates.
+**Supervisory Responsibility**
+- This position is responsible for supervising and training the Donation Attendant, Merchandise Processor & Sales Associate positions.- Required Skills & Qualifications - At least 1 year of supervisory experience.- Ability to perform continuous walking, stooping, standing, bending, kneeling, and climbing for prolonged periods of time (up to 7 hours per 8-hour shift.)- Ability to lift 35 pounds frequently.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.
+**Physical Requirements**
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Ability to work in a confined area.- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate
+
+### Retail Supervisor
+
+- **Location:** Oak Hill Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582122)**
+
+#### Job Description
+
+**Summary of Position**
+Retail Supervisors will assist management in the operation of the Goodwill retail store. This includes customer service, record keeping, cash management, facility operation, communications, merchandising, and inventory control.
+**Role and Responsibilities**
+- Assist the store manager with the overall operation of the retail store.- Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Supervise and train retail sales associates.- Monitor sales transactions associated with purchases and ensure proper sales procedures are followed by sales associates.
+**Supervisory Responsibility**
+- This position is responsible for supervising and training the Donation Attendant, Merchandise Processor & Sales Associate positions.- Required Skills & Qualifications - At least 1 year of supervisory experience.- Ability to perform continuous walking, stooping, standing, bending, kneeling, and climbing for prolonged periods of time (up to 7 hours per 8-hour shift.)- Ability to lift 35 pounds frequently.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.
+**Physical Requirements**
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Ability to work in a confined area.- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate
 
 ### Retail Supervisor
 
@@ -2034,6 +2194,34 @@ All qualified applicants will receive consideration for employment without regar
 
 ### Merchandise Processor
 
+- **Location:** San Marcos Store, San Marcos, TX, US
+- **Type:** N/A
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582172)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Merchandise Processor
+
 - **Location:** Balcones Store, Austin, TX, US
 - **Type:** Full Time
 - **Salary:** $0.00 - $14.00
@@ -2151,34 +2339,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 - **Salary:** $0.00 - $14.00
 - **Posted:** Jul 08, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581870)**
-
-#### Job Description
-
-Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
-** **
-**What You’ll Be Doing:**
-- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
-** **
-**What You Bring:**
-- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
-** **
-**What You’ll Get:**
-- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
-** **
-**Why Join Us?**
-At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Merchandise Processor
-
-- **Location:** Wells Branch Store, Pflugerville, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.00
-- **Posted:** Jul 08, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581868)**
 
 #### Job Description
 
@@ -3494,6 +3654,95 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ## Other Positions
 
+### Student Success Coach
+
+- **Location:** Excel South Austin Campus, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $51,266.00 - $66,025.00
+- **Posted:** Jul 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582135)**
+
+#### Job Description
+
+**Company:**
+For more than six decades, Goodwill Central Texas has been relentlessly focused on empowering thousands of people to work. We transform revenue from over 37 retail locations into a combination of education, career training, job placement, career coaching and support, and more. Every time you shop or support Goodwill, you are helping fund our greater mission to serve our community. Goodwill’s vision extends far beyond our retail stores and your generous donations: We envision a Central Texas where everyone has the opportunity to thrive.
+The Goodwill Excel Center for Adults opened in 2014 as an open-enrollment public charter high school for adults ages 18 to 50. The Excel Center Adult High School transforms lives in a supportive and holistic learning environment where all students are empowered to achieve. 
+For more information on the Goodwill Excel Center Adult High School, visit **https://excelcenterhighschool.org**
+**Commitment to Excellence**
+At The Excel Center, we are building a high-performing organization focused on transforming lives through the power of education and work and becoming the model of excellence for adult education across Texas. Our team members contribute to a culture grounded in our values of caring, innovation, and accountability and focused on strong graduate outcomes.
+All Excel team members:
+- **Deliver Excellence** - Uphold high standards of professionalism, execution, and service to students- **Own the Outcome** - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.- **Work as One Team** - Collaborate and contribute positively to a solutions-oriented culture- **Lead with Purpose** - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities- **Strengthen the System** - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
+All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
+The Goodwill Excel Center Adult High School is currently seeking a Student Success Coach for our **South Austin Campus**, located at 1901 E. Ben White Blvd., Austin, TX 78741.
+The Student Success Coach (SSC) is responsible for promoting continued student engagement, serve as a student advocate, support student learning, and provide resources to ensure students are progressing toward graduation. The SSC helps to alleviate barriers that may impede educational and socio-emotional progress. The SSC builds empowering relationships with each student, holding coaching & advising sessions, setting goals, and implementing strength-based strategies to facilitate ways in which students can overcome barriers and continue progress towards their diploma and career pathway. The SSC works closely with other campus and district teams to ensure students make successful transitions and receive wraparound support from point of entry through exit into a meaningful post-secondary avenue. The SSC supports the scheduling process by assisting with designing the master schedule and serving as an expert in graduation plan progression and credit attainment. 
+**Role and Responsibilities**
+- Guide students toward academic success through managing and monitoring student information (i.e. credits, tracking state testing, Language Credit by Exam process, etc.), developing class schedule, and assisting students in planning for graduation.- Advise students regarding educational decisions and disseminate program information. - Document all guidance interventions and scheduling actions in an electronic database in a proactive, timely, and ethical manner that meets quality and quantity standards.- Facilitate students’ learning experiences through individual and/or group coaching meetings to ensure student engagement with academic progression via course sequence and accomplishment of personal, academic, and career goals.- Coach students from a systemic, trauma-informed model that is strength-focused, student-driven, supportive and motivating, and that focuses on setting tangible, realistic, and measurable goals.   - Work collaboratively with students to develop detailed and regularly updated Personal Graduation and Career Plans to identify career goals and action steps.- Support and implement attendance and retention strategies by implementing proactive advising interventions that facilitate student connection to persistence in goals throughout the Excel Center student journey.- Intervene proactively and in a positive manner to address student behavioral needs that arise through early-identification of potential risk factors, collaboration with staff, facilitation of restorative meetings, monitoring of behavioral planning, and encouragement of pro-social and career-ready student behavioral.- Develop and implement student incentives and creative engagement strategies that recognize key educational/career/personal milestones to increase student buy-in and academic success.- Collaborate with instructors to develop student individual learning plans based on intake and ongoing benchmark assessments.- Provide support, work closely, and maintain open communication with staff and students to support student success.- Collaborate with Campus teams to ensure the successful transition of applicants to fully enrolled students and integration of students into the Excel Center environment via accurate and career-focused scheduling.- Coordinate with key community support persons for students (i.e. family members, friends, mentors, etc.) to build and sustain a network that will reinforce student progress.- Facilitate transitions with students by moving them efficiently and thoroughly toward graduation via their individualized pathway and coordinating with other school staff to ensure the continuum of support pre- and post-graduation.- Assist with the design a Master Schedule that meets the needs of students, TEA requirements, and strategic district objectives.- Maintain a suitable number of students per class by scheduling students appropriately. - Use personal vehicle to conduct home visits to students/family members in community, coordinate and document in-person referrals for wraparound care, and periodically transport students according to policy guidelines.  
+** **
+**Other Duties and Responsibilities**
+- Assist school team with outreach efforts and community integration events throughout the school year (periodically nights and weekends).- Provide assistance, proctoring, and support for annual state testing administration.- Work collaboratively on Student Success Coaching District Team which may involve providing in person or remote support to or carrying caseloads from other campuses (South & North Austin & Justice Education Campuses).- Attend all team and professional meetings.
+**Supervisory Responsibilities**
+This position does not have supervisory responsibilities.  
+**Required Skills and Qualifications**
+- Associate degree or two years’ experience working with marginalized populations in an educational setting. - Valid Driver’s License, up to date auto insurance and good driving record.- Must be able to understand work instructions in English.- Must have a framework for understanding socioemotional, behavioral, and educational trends related to providing key student supports in an adult-academic setting.- Must have working knowledge of computer programs and accessing internet applications such as Student Information Systems, Microsoft Office Products, Google Applications (Gmail), Excel, Microsoft Word, and Internet Explorer.- Knowledge of community resources.- Must possess superior verbal and written communication skills.- Must be self-motivated willing to be a team player.- Must be adaptable to shifting priorities while maintaining a positive learning environment.- Strong socioemotional and behavioral intervention skills.- Must have the ability to embrace change positively and manage their workload independently.  - Ability to gather and analyze data for informed decision making.  - Ability to develop relationships and to relate to a diverse population.- Must possess the essential mindset that all students can achieve at high levels.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- Must demonstrate a maturity of practice using the 7 pillars and principles of servant leadership.- Must be able to successfully pass a background check and complete fingerprinting.  
+**Preferred Qualifications**
+- Bachelor’s Degree in Social Work, Education, Adult Education, School Counseling or related area of study. - Experience working with high school age students in urban, non-traditional, and/or adult education setting.- Experience working with adult learners.- Bilingual in Spanish or Arabic and English.  
+- Perform other related duties as assigned.
+Compensation & Schedule
+- Based on experience and qualifications.- This is a year-round position.
+**What We Offer**
+**Comprehensive Health Coverage:** We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.
+**Generous Paid Time Off:** Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.
+**Teacher Retirement System & 403b Participation**
+**Paid Parental Leave: **We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.
+**Professional Development Opportunities:** We believe in continuous growth! Take advantage of our access to workshops and online courses & tuition/certification support.
+**Wellness Programs:** Prioritize your well-being with our wellness initiatives, including gym memberships and free mental health support.
+**Employee Recognition Programs: **We celebrate our team members’ achievements with recognition awards.
+**Diverse and Inclusive Culture: **Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
+**Equal Employment Opportunity**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to a workplace where everyone feels included. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, disability, veteran status, gender identity, sexual orientation, or any other protected characteristic.
+**Background Check**
+Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
+
+### Paraprofessional
+
+- **Location:**  Austin, TX, US
+- **Type:** Part Time
+- **Salary:** $20.38 - $21.96
+- **Posted:** Jul 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581934)**
+
+#### Job Description
+
+Company:
+For more than six decades, Goodwill Central Texas has been relentlessly focused on empowering thousands of people to work. We transform revenue from over 37 retail locations into a combination of education, career training, job placement, career coaching and support, and more. Every time you shop or support Goodwill, you are helping fund our greater mission to serve our community. Goodwill’s vision extends far beyond our retail stores and your generous donations: We envision a Central Texas where everyone has the opportunity to thrive.
+The Goodwill Excel Center for Adults opened in 2014 as an open-enrollment public charter high school for adults ages 18 to 50. The Excel Center Adult High School transforms lives in a supportive and holistic learning environment where all students are empowered to achieve. 
+For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org
+Commitment to Excellence
+At The Excel Center, we are building a high-performing organization focused on transforming lives through the power of education and work and becoming the model of excellence for adult education across Texas. Our team members contribute to a culture grounded in our values of caring, innovation, and accountability and focused on strong graduate outcomes.
+All Excel team members:
+● Deliver Excellence - Uphold high standards of professionalism, execution, and service to students
+● Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.
+● Work as One Team - Collaborate and contribute positively to a solutions-oriented culture
+● Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities
+● Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
+All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
+The Goodwill Excel Center Adult High School is currently recruiting for a Paraprofessional for our South Austin Campus located at **1901 E. Ben White Blvd., Austin, TX 78741**. 
+The primary role of the Special Programs Paraprofessional is to provide general and specialized assistance to students who receive services within Special Programs. Incumbent must exercise judgment in handling student disciplinary issues and in assessing students’ skill levels. Additionally, the approach will support the Goodwill of Central Texas mission and vision.
+**Role and Responsibilities**
+- Work with individual or small groups of students to reinforce learning of materials or skills initially introduced and outlined by teaching staff.- Ability to work with students with physical, emotional, and/or intellectual disabilities.- Strong academic skills in the four core content areas and a passion for education.- Administer and score appropriate screenings and assessments required by the program.- Assist with social strategies implementation as needed for individual students.- Assists as directed by certified staff in the effort to successfully maintain students with special needs in an integrated setting, as determined by the Special Education/Section 504/ESL Teams.- Communicate regularly with classroom teachers, special programs director, and other school staff regarding students’ needs and progress.- Knowledge of all applicable federal, state, and local laws, guidelines, and procedures.- Support classroom instruction, in a secondary and supportive role, as needed in creating a fluid and continuous supportive culture of learning.- Provide assistance to teachers in preparing instructional materials to be used in the program.- Aid in data collection, analysis, and recordkeeping as pertains to identified students and their academic and social needs.- Other duties as assigned.
+**Other Duties and Responsibilities**
+- Assist the school team with outreach efforts and community integration events throughout the school year (periodically nights and weekends).- Collaborate with instructional teams to address student success.
+**Supervisory Responsibilities**
+This position does not have supervisory responsibilities.  
+**Required Skills and Qualifications**
+- Minimum of 48 hours of college credit with some emphasis on child growth development or related subject areas.- Completion of a Paraprofessional Program (can obtain upon hire).- Experience working with high school-age students in urban, non-traditional, and/or adult education settings.- Working knowledge of computer programs and accessing internet applications.- Demonstrated problem-solving skills by developing and implementing innovative solutions to identified or potential problems.- Ability to cope effectively with job pressures and stress. - Ability to embrace change positively and manage assigned workload.- Desire to assist students with special or additional needs in a learning environment. - Self-motivated and willing to be a team player. - Must be adaptable to shifting priorities while maintaining a positive learning environment.- Must be able to successfully pass a background check.
+**Preferred Qualifications**
+- Associates Degree.- Bilingual in Spanish or Arabic and English.
+Equal Employment Opportunity
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to a workplace where everyone feels included. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, disability, veteran status, gender identity, sexual orientation, or any other protected characteristic.
+Background Check
+Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
+
 ### Forklift Operator
 
 - **Location:** GRC Outlet Recyc Transp, Austin, TX, US
@@ -3972,6 +4221,62 @@ All qualified applicants will receive consideration for employment without regar
 
 ## Sales
 
+### Sales Associate
+
+- **Location:** Anderson Lane Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582171)**
+
+#### Job Description
+
+Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
+** **
+**What You’ll Do:**
+- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
+** **
+**What You Bring:**
+- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
+** **
+**What You’ll Get:**
+- Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
+** **
+**Why It Matters:**
+Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Sales Associate
+
+- **Location:** Terra Vista Store, Round Rock, TX, US
+- **Type:** Part Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582133)**
+
+#### Job Description
+
+Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
+** **
+**What You’ll Do:**
+- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
+** **
+**What You Bring:**
+- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
+** **
+**What You’ll Get:**
+- Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
+** **
+**Why It Matters:**
+Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
 ### Outlet Sales Associate
 
 - **Location:**  Austin, TX, US
@@ -4025,11 +4330,11 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Sales Associate
 
-- **Location:**  Marble Falls, TX, US
-- **Type:** Part Time
+- **Location:** Wells Branch Store, Pflugerville, TX, US
+- **Type:** Full Time
 - **Salary:** $0.00 - $14.00
-- **Posted:** Jul 09, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581943)**
+- **Posted:** Jul 08, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581868)**
 
 #### Job Description
 
@@ -4042,7 +4347,7 @@ Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and
 - A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
 ** **
 **What You’ll Get:**
-- Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
+-  Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
 ** **
 **Why It Matters:**
 Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
@@ -4902,6 +5207,28 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Warehouse & Transportation
+
+### ADC Attendant
+
+- **Location:** 1902 - Shadow Glen ADC, Manor, TX, US
+- **Type:** Part Time
+- **Salary:** $0.00 - $14.50
+- **Posted:** Jul 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582116)**
+
+#### Job Description
+
+**Summary of Position**
+ADC Attendant is responsible for accepting, pre-sorting and loading donated goods at various Attended Donation Centers while providing exceptional customer service to our Donors. 
+** Role and Responsibilities**
+- Open and close the store location and ensures all doors, money and credit card receipts are secured.- Provide excellent customer service to Donors Accept, presort and place donations in proper containers.-  Maintains stock in store by removing books from shelves as needed *applicable stores only. - Maintain a clean and safe work environment. - Accurately record the donations on the donation count list. - Accurately complete store report and report sales daily. - Verifies accuracy of the truck/trailer seals on doors and equipment manifest.- Other duties as assigned. 
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities. 
+**Required Skills & Qualifications**
+- Proficiency in English and basic math skills. - Ability to lift and carry up to 50 pounds on a regular basis. - Hands on experience with POS transactions.
+**Physical Requirements**
+- Ability to work in both a climate and non-climate-controlled facility.- Must be able to lift up to 30 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### ADC Attendant
 
