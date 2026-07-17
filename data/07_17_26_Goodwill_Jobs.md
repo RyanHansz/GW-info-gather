@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** July 17, 2026 at 09:21 AM
+**Last Updated:** July 17, 2026 at 05:41 PM
 
-**Total Positions:** 189
+**Total Positions:** 192
 
 ---
 
@@ -10,13 +10,13 @@
 
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (7)
-- [Education & Training](#education-training) (18)
+- [Education & Training](#education-training) (19)
 - [Management & Leadership](#management-leadership) (42)
 - [Merchandise Processing](#merchandise-processing) (51)
-- [Other Positions](#other-positions) (19)
-- [Sales](#sales) (33)
-- [Warehouse & Transportation](#warehouse-transportation) (16)
-- [eCommerce](#ecommerce) (2)
+- [Other Positions](#other-positions) (20)
+- [Sales](#sales) (32)
+- [Warehouse & Transportation](#warehouse-transportation) (17)
+- [eCommerce](#ecommerce) (3)
 
 ---
 
@@ -397,6 +397,29 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Education & Training
+
+### Logistics Coordinator 
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $19.00
+- **Posted:** Jul 17, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582542)**
+
+#### Job Description
+
+Coordinates the day-to-day transportation operations for Goodwill Central Texas by planning efficient delivery and donation routes, monitoring fleet activity through Samsara telematics, communicating with drivers and internal stakeholders, and resolving operational issues in real time. This position serves as the central communication hub between drivers, retail operations, distribution centers, and customers to ensure safe, timely, and efficient service.
+**Role and Responsibilities**
+- Plan, build, and optimize daily delivery, donation, and transfer routes using Samsara Routing and other transportation software.- Monitor vehicle locations, route progress, and driver activity through Samsara telematics.- Communicate proactively with drivers regarding route changes, delays, customer issues, traffic conditions, and operational priorities.- Make real-time routing decisions to maximize fleet utilization and customer service while minimizing unnecessary mileage and downtime.- Coordinate equipment availability, vehicle assignments, and driver schedules in partnership with Logistics leadership.- Serve as the primary point of contact for stores, distribution centers, donation sites, vendors, and internal departments regarding transportation requests.- Respond professionally to customer concerns, delivery inquiries, missed pickups, and service disruptions.- Provide accurate delivery status updates and estimated arrival times using Samsara GPS visibility.- Build positive working relationships with both internal and external customers.- Maintain continuous communication with drivers throughout the day to support safe and efficient operations.- Assist drivers in resolving delivery issues, access problems, routing conflicts, and customer concerns.- Escalate safety concerns, vehicle breakdowns, accidents, or service interruptions to management as appropriate.- Prepare daily dispatch schedules and manifests.- Maintain transportation records, driver documentation, and fleet information.- Enter and maintain routing information within company systems.- Assist with fleet maintenance scheduling and service tracking.- Generate transportation reports and operational metrics.- Identify opportunities to improve routing efficiency, fleet utilization, and customer service.- Recommend process improvements that reduce transportation costs and improve operational performance.- Participate in implementation of new transportation technology and operational initiatives.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications **
+- High school diploma or GED.- 1+ years of dispatching, transportation coordination, logistics, or customer service experience.- Experience using transportation management software, routing software, GPS, or telematics systems (Samsara preferred).- Strong computer skills including Microsoft Office and data entry.- Excellent verbal and written communication skills.- Strong organizational and time management skills.- Ability to prioritize multiple tasks in a fast-paced environment.- Demonstrated problem-solving and decision-making abilities.- Ability to maintain professionalism under pressure.- Strong attention to detail.
+** **
+**Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift up to 30 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus- While performing the duties of this job, the employee is frequently exposed to airborne particles.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. A pre-employment background check is required to ensure the applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
+#IND2
 
 ### Social Studies Teacher
 
@@ -4024,6 +4047,53 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ## Other Positions
 
+### E-Books Team Member
+
+- **Location:** Ecommerce, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 17, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582550)**
+
+#### Job Description
+
+**Summary of Position**
+The E-Books Team Member is responsible for sorting, evaluating, and listing books and media for sale online using an automated inventory management system. This position shelves books and media, retrieves and quality checks sold items, packs orders and ships packages.
+**Job Description**
+**Role and Responsibilities**
+- Sort, evaluates, and scans books and media for online sales using an automated inventory management system.- Retrieves ordered items from warehouse and accurately matches pick sheet to SKU and title.- Packs books and media utilizing size and type of envelope for each item.- Utilizes shipping application software to generate shipping labels and resolves address issues.- Meets daily production goals for item scanned and shipped.- Lists accepted books and media for sale online.- Accurately assigns and shelves product.- Maintains clean and safe work area.- Assists with regular purging of unsold inventory.- Transfers totes, pallets and large gaylord boxes of books and media in staging area and workspace as needed.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
+** Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
+
+### Forklift Operator
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 17, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582511)**
+
+#### Job Description
+
+Operate heavy machinery in a warehouse setting. Properly load, secure, unload and protect deliveries and donation, raw materials, and manufactured goods.  Distinguish between labeled containers to transport to designated areas.
+** **
+**Role and Responsibilities**
+- Achieve and maintain current forklift certification.- Operate forklift and pallet jacks within warehouse and dock area when required.- Neatly and accurately complete required paperwork to include manifest, donation count sheets, and truck seals.- Accurately and immediately report incidents and accidents to the supervisor.- Perform operator-level maintenance on assigned equipment to include daily pre and post trip safety checks including but not limited to, fuel, oil, lubricants, water, antifreeze, and condition.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Must be a minimum of 18 years of age.- Must have adequate eyesight, hearing, and hand-eye coordination.- Must be able to follow directions well.- Must be able to communicate effectively in English.
+**Physical Requirements**
+- Ability to work in a non-climate-controlled environment. - Must be able to lift up to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
+**What We Offer**
+- **Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.- **Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.- **Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.- **Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses.- **Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and mental health support.- **Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.- **Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
+
 ### Business Solutions Placement Specialist
 
 - **Location:**  Austin, TX, US
@@ -4511,35 +4581,6 @@ This role does not have direct reports and does not perform employee relations f
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Purchasing Team Lead
-
-- **Location:** New Goods, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $17.00 - $18.00
-- **Posted:** May 22, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=579501)**
-
-#### Job Description
-
-The Purchasing Team Lead is responsible for supervising daily operations of the Purchased Goods Warehouse. This includes warehouse production, internal customer service, vendor management, inventory control, receiving products, and shipments to retail locations. The Purchasing Team Lead executes processes to ensure efficiency and maximization as well as creates best practices for inventory control and is responsible for supervising their direct reports. The New Goods Supervisor will hold each accountable by setting specific performance expectations, providing necessary training, personally following up, and giving consistent and candid feedback.
-**Role and Responsibilities**
-- Supervise Purchased Goods Warehouse operations, including receiving product, inventory and allocations. - Supervises receipt of new product, inventory, and documentation. - Ensures accuracy in inventory and allocation of product, including necessary documentation. - Communicates with Purchasing Manager on warehouse stock and anticipated needs for future order fulfillment. - Collaborates with Transportation leadership to schedule shipments from new Goods Warehouse to retail stores. - Ensures UPCs are accurately labeled, identified and entered into system prior to distribution to retail stores. - Ensure all policies and procedures for accounting, inventory and reporting are followed within New Goods department. - Maintain effective email, phone and face to face communication with all internal departments. - Use feedback to adjust processes to enable a smooth retail process from receipt to sale to inventory count process. - Maintain a safe, clean, organized and professional facility. - Comply with safety and security practices including reporting safety hazards and injuries.- Other duties as assigned.
-** **
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities.
-** **
-**Required Skills & Qualifications **
-- Must be able to understand work instructions in English.
-- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- Minimum 1-year experience in logistics, inventory control, order fulfillment, or similar field with supervisory responsibilities. - Must have a valid Texas Drivers License. - Must have Microsoft Office & Excel experience. - Must have excellent analytical, creative and flexible problem solving and decision making skills. 
-**Physical Requirements**
-- Must be able to lift up to 50 pounds at times. - Prolonged periods of sitting at a desk and working on a computer. - While performing the duties of this job, the employee is frequently required to walk, balance, stoop, kneel, crouch, talk and hear. - Ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus. - Ability to use hands and fingers to operate a telephone and keyboard. - While performing the duties of this job, the employee is frequently exposed to airborne particles.
-** **
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
 
 ### Career Coach
 
@@ -5200,34 +5241,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Sales Associate
 
-- **Location:** Liberty Hill, Liberty Hill, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.00
-- **Posted:** Jun 22, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581046)**
-
-#### Job Description
-
-Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
-** **
-**What You’ll Do:**
-- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
-** **
-**What You Bring:**
-- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
-** **
-**What You’ll Get:**
-- Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
-** **
-**Why It Matters:**
-Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Sales Associate
-
 - **Location:** Taylor, Taylor, TX, US
 - **Type:** Part Time
 - **Salary:** $0.00 - $14.00
@@ -5476,6 +5489,34 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Warehouse & Transportation
+
+### Material Handler
+
+- **Location:** Ecommerce, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 17, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582549)**
+
+#### Job Description
+
+**
+Summary of Position** 
+Distinguish between retail goods, salvage, and trash. Properly load, secure, unload and protect store deliveries and donation pickups, raw materials, and manufactured goods. Process, sort, bale, and palletize recyclable materials in a safe and efficient manner.
+**Role and Responsibilities**
+- Operate pallet jack, dock cart, down-stroke and horizontal baling machine, tippers, and other warehouse equipment in a safe manner. - Load baling machines, tippers, and roll-offs safely and expeditiously. - Sort a variety of commodities accurately based on current operations. - Palletize televisions, furniture, and other large items in accordance with company procedure. - Neatly and accurately complete required paperwork. - Perform operator-level maintenance on assigned equipment to include daily checks for fuel, oil, lubricants, water, antifreeze, and overall condition. - Accurately report incidents and accidents to supervisor.- Present neat and professional Goodwill Central Texas image to customers, stores, and the general public.- Ensure work area presents a clean, neat, and professional appearance at all times.- Other duties as assigned.
+**Supervisory Responsibility**
+** **
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
+**Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 30 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the Team Member is frequently exposed to airborne particles.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Material Handler
 
@@ -5908,6 +5949,29 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## eCommerce
+
+### E-Commerce Team Member
+
+- **Location:** Ecommerce, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 17, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582556)**
+
+#### Job Description
+
+**Summary of Position**
+The E-commerce Team Member works in a fast-paced environment performing a variety of critical operational and online tasks. Including but not limited to reviewing donations for authenticity and value, online research, tracking and processing of donations, creating accurate online item listings to advertise and sell high value donations, packaging and shipping of sold merchandise and providing excellent customer service at all times.
+**Job Description**
+**Role and Responsibilities**
+- Moves material within the E-commerce warehouse or office as needed using rolling carts, dollies or pallet jacks as needed.- Sorts and processes a wide variety of merchandise accordingly to department standards.- Tracks, labels, and records all processed merchandise using online tracking system.- Sorts jewelry and separates into precious metals, designer brands, costume jewelry, scrap jewelry or bulk lots according to department standards.- Tests precious metals and gemstones using assigned equipment accordingly to safety guidelines.- Photographs each item to visibly identify all critical details about each item to potential bidders/customers.- Writes clear and concise item listings that communicates all critical details about an item to potential bidders/customers.- Accurately uses grammar, spelling and punctuation in item listings.- Pulls sold orders from inventory shelves and stages in the correct area for packing or pick up.- Conducts inventory purges as needed.- Packages and ships each item in the most cost-effective manner to the correct customer.- Meets hourly and daily production goals of any assigned task.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
+** Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### E-Commerce Team Member
 
