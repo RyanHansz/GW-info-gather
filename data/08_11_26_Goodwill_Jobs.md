@@ -1,89 +1,21 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** August 11, 2026 at 08:56 AM
+**Last Updated:** August 11, 2026 at 05:36 PM
 
-**Total Positions:** 196
+**Total Positions:** 199
 
 ---
 
 ## Quick Navigation
 
-- [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (5)
 - [Education & Training](#education-training) (16)
-- [Management & Leadership](#management-leadership) (36)
-- [Merchandise Processing](#merchandise-processing) (57)
-- [Other Positions](#other-positions) (23)
+- [Management & Leadership](#management-leadership) (37)
+- [Merchandise Processing](#merchandise-processing) (61)
+- [Other Positions](#other-positions) (22)
 - [Sales](#sales) (39)
 - [Warehouse & Transportation](#warehouse-transportation) (18)
 - [eCommerce](#ecommerce) (1)
-
----
-
-## Child Development
-
-### Child Development Specialist
-
-- **Location:** Excel Exploration Center, Austin, TX, US
-- **Type:** Part Time
-- **Salary:** $20.00 - $21.00
-- **Posted:** Jul 15, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582348)**
-
-#### Job Description
-
-**Company:**
-For more than six decades, Goodwill Central Texas has been relentlessly focused on empowering thousands of people to work. We transform revenue from over 37 retail locations into a combination of education, career training, job placement, career coaching and support, and more. Every time you shop or support Goodwill, you are helping fund our greater mission to serve our community. Goodwill’s vision extends far beyond our retail stores and your generous donations: We envision a Central Texas where everyone has the opportunity to thrive.
-The Goodwill Excel Center for Adults opened in 2014 as an open-enrollment public charter high school for adults ages 18 to 50. The Excel Center Adult High School transforms lives in a supportive and holistic learning environment where all students are empowered to achieve. 
-For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org
-**Commitment to Excellence**
-At The Excel Center, we are building a high-performing organization focused on transforming lives through the power of education and work and becoming the model of excellence for adult education across Texas. Our team members contribute to a culture grounded in our values of caring, innovation, and accountability and focused on strong graduate outcomes.
-All Excel team members:
-- Deliver Excellence - Uphold high standards of professionalism, execution, and service to students- Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.- Work as One Team - Collaborate and contribute positively to a solutions-oriented culture- Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities- Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
-All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
-The Goodwill Excel Center Adult High School is currently recruiting for a **Child Development Specialist** for our Norwood Campus located at 1015 Norwood Park Blvd Austin, TX 78753. 
-**POSITION SUMMARY: **
-The main responsibility of the Child Development Specialist is to provide exceptional, high-quality care and education to children in the Exploration Center. This role is accountable for ensuring the overall well-being of the children in the center and is committed to supporting the growth and development of each child.
-**ESSENTIAL DUTIES AND RESPONSIBILITIES: **
-1. Deliver high-quality early care and education to young children by planning and implementing developmentally appropriate activities across social-emotional, physical, language, cognitive, literacy, mathematics, science and technology, social studies, and the arts domains. 
-2. Provide a safe and healthy environment. 
-3. Maintain compliance with all Child Care Regulations (CCR), National Association of the Education of Young Children (NAEYC), and Texas Rising Star (TRS) Standards. 
-4. Oversee and demonstrate appropriate practices.
-5. Observe and record children's developmental milestones, create portfolios for each child, and maintain both formal and informal assessment records. 
-6. Provide optimal coordination of home and Center in terms of research-based teaching and parenting; schedule and conduct parent/teacher conferences. 
-7. Complete departmental forms such as attendance records, anecdotal records, accident reports, health and safety checks, lesson plans, etc. 
-8. Fulfill mandatory training requirements, including Pediatric First Aid/CPR, Child Abuse Training, Pres Service Training, and Annual Training, with a minimum of 30 hours each year. 
-9. Convey information in a positive and professional manner, adhering to NAEYC Professional Code of Ethical Conduct. 
-**OTHER DUTIES AND RESPONSIBILITIES: **
-1. Maintain a clean and safe physical environment for children (cleaning, sanitizing, and organizing areas). 2. Ensures there are ample materials to allow children to make choices and explore a variety of interests. 3. Assist parents with stages of development. 
-4. Communicate the center policy to staff and parents. 
-**SUPERVISORY RESPONSIBILITY: **
-This position does not have supervisory responsibilities. 
-**REQUIRED QUALIFICATIONS: **
-1. Child Development Associate (CDA) or one-year certificate in Early Childhood Education or Child Care Administrator Certificate; or twelve higher education credits from an accredited institution in early childhood education child development, elementary education, and/or early childhood special education. 
-2. Accredited, in-person Pediatric CPR/First Aid certification (must be obtained within 30 days of hire). 3. Two years of experience working with infants, toddlers, and/or preschoolers in a regulated child-care center/educational facility serving children from birth through kindergarten. 
-4. Must be able to understand work instructions in English. 
-5. Must have a working knowledge of computer programs and accessing internet applications such as Microsoft Products, Google Applications (Gmail), Excel, Microsoft Word, and Internet Explorer. 6. Communication skills to be able to work on a team as well as professionally interact with parents. 7. Ability to respond to a child’s needs promptly and courteously. 
-8. Ability to safely lift children throughout the day. 
-9. Ability to perform continuous walking, stooping, standing, and bending for the majority of the shift. 10. Exhibit respect for diversity of thought and have the experience to advance it in teams/organizations. 
-**PREFERRED QUALIFICATIONS: **
-1. Associate’s Degree in Early Childhood Education or Child Development. 
-2. Bilingual in Spanish, Arabic, Pashto, French, and English. 
-**Compensation & Schedule**
-- Based on experience and qualifications.
-**What We Offer**
-**Comprehensive Health Coverage:** We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.
-**Generous Paid Time Off:** Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.
-**Teacher Retirement System & 403b Participation**
-**Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.
-**Professional Development Opportunities:** We believe in continuous growth! Take advantage of our access to workshops and online courses & tuition/certification support.
-**Wellness Programs:** Prioritize your well-being with our wellness initiatives, including gym memberships and free mental health support.
-**Employee Recognition Programs:** We celebrate our team members’ achievements with recognition awards.
-**Diverse and Inclusive Culture:** Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
-**Equal Employment Opportunity**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to a workplace where everyone feels included. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, disability, veteran status, gender identity, sexual orientation, or any other protected characteristic.
-**Background Check**
-Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
 
 ---
 
@@ -309,6 +241,40 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Education & Training
+
+### Programs & Student Services Coordinator
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $21.00 - $23.00
+- **Posted:** Aug 07, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=583722)**
+
+#### Job Description
+
+The Program & Student Services Coordinator plays a key role in creating an exceptional student experience from enrollment through employment. This position supports the daily operations of the Goodwill Career & Technical Academy, helping ensure programs run efficiently, students receive high-quality support, and the Academy achieves its goals for completion, certification, and career placement.
+Role and Responsibilities
+- **Support Academy Operations**
+Help keep the Goodwill Career & Technical Academy running smoothly by coordinating day-to-day classroom operations, supporting program activities, and ensuring processes align with organizational goals. Identify opportunities to improve efficiency and contribute ideas that strengthen the student experience.
+- **Manage Student Data & Reporting**
+Maintain accurate student records from enrollment through employment, including attendance and certifications. Ensure data is entered into Goodwill's case management system with a high level of accuracy and integrity. Assist in preparing reports for internal and external stakeholders.
+- **Champion Student Success and Career Readiness**
+Partner with instructors, internal staff and employer partners to help students successfully complete training and prepare for employment. Monitor attendance, academic progress, and engagement, proactively identifying and addressing barriers that could impact student success. Reinforce expectations around professionalism, employability, and career readiness while helping students progress toward meaningful employment. Collaborate with internal teams to track placement outcomes and contribute to strategies that improve employment success.
+- **Coordinate Administrative & Operational Activities**
+Provide essential administrative support that keeps programs moving forward. Manage supplies and inventory, track key deadlines, maintain reporting tools, and assist with special projects
+- **Contribute to Projects & Continuous Improvement**
+Play an active role in projects that improve how the Academy operates. Help streamline processes, support cross-functional initiatives, and contribute ideas that enhance efficiency, collaboration, and service to students.- Other duties as assigned.
+Supervisory Responsibility
+This position is responsible for the activities for eCommerce team members in absence of the eCommerce Manager and eCommerce Assistant Manager
+Required Skills & Qualifications 
+- Skilled with Windows PC and operating system, Microsoft Excel, and Internet. - Experienced in customer focused sales and support environments. - Must be able to multi-task, and work both rapidly and efficiently. - Ability to communicate effectively in English.- Must be able to understand and follow directions well. - Ability to stand for eight hours. - Ability to bend and twist. - Ability to lift and carry 50 pounds with or without reasonable accommodation.- Ability to figure percentages and perform simple math computations. - Sufficient eyesight and manual dexterity to differentiate between and classify items. - Must be able to multi-task to meet daily production quotas.
+Physical Requirements
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 50 pounds with or without reasonable accommodation.- Moderate noise (i.e., business offices with computers, phone, and printers, light traffic).- Ability to work in a confined area.- While performing the duties of this job, the employee is regularly required to stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Social Studies Teacher (Night)
 
@@ -582,38 +548,48 @@ All Excel team members:
 - Deliver Excellence - Uphold high standards of professionalism, execution, and service to students- Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.- Work as One Team - Collaborate and contribute positively to a solutions-oriented culture- Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities- Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
 All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
 The Goodwill Excel Center Adult High School is currently recruiting for a **Early Childhood Teacher** for our Norwood Campus located at 1015 Norwood Park Blvd Austin, TX 78753. 
-**POSITION SUMMARY: **
-The primary role of the Early Childhood Teacher is to implement high-quality exceptional care and education to children in the Exploration Center. This position will be responsible for the overall well-being of children in the center and will be dedicated to the growth and development of each of our children. This position will be responsible for the design/layout of appropriate environments, plan for classroom instruction, and model interactions with children. 
-**ESSENTIAL DUTIES AND RESPONSIBILITIES: **
-1. Maintain compliance with all DHHS Minimum Standards for Licensing, Texas Rising Star, and aid Center in pursuing national accreditation. 
-2. Organizes educational planning and delivery of instruction for quality early childhood education to stimulate exploration, discovery, and conceptual learning for children. 
-3. Provide quality early care and education to young children by planning and implementing developmentally appropriate experiences and curricula across each of the developmental domains. 
-4. Maintain open and cooperative communication with parents and families encouraging their involvement in the program through parent-teacher partnerships and coordination of center-home child-rearing practices. 
-5. Develops and implements daily schedules, lesson plans, and classroom management techniques using program curriculum for whole group/small group of children and individualized child. 
-6. Assess progress for children informally (collecting relevant work samples over an extended period, develop portfolios and records of developmental growth) and formally. 
-7. Conducts ongoing program evaluation in cooperation with Director; uses current research in implementing classroom changes for updating methods of practices. 
-8. Participates in program evaluation efforts and in developing action plans for program improvement. 9. Describes and identifies basic patterns of development associated with age groups. Uses knowledge of child development to meet the needs of individual children during group activities. 10. Utilize appropriate direct and indirect guidance strategies to guide behavior. 
-11. Attend and participate in staff meetings and mandatory training requirements (Pediatric First Aid/CPR, Child Abuse Training, Pre-Service Training, and Annual Training) a minimum of 30 hours annually. 12. Communicate in a positive, professional manner following the NAEYC Professional Code of Ethical Conduct. 
-**OTHER DUTIES AND RESPONSIBILITIES: **
-1. Maintain a clean and safe physical environment for children (cleaning, sanitizing, and organizing the areas). 
-2. Assist in preparing food for children and serve meals and refreshments to children and regulate rest periods. 
-3. Ensure that curriculum lesson plans, daily schedules provide ample opportunities for both child-initiated and adult-guided play based on children’s interests. 
-4. Communicate the center policy to staff and parents. 
-**SUPERVISORY RESPONSIBILITY: **
-This position does not have supervisory responsibilities. 
-**REQUIRED QUALIFICATIONS: **
-1. Bachelor’s Degree in any discipline with a minimum of 36 college credits in early childhood education, child development, elementary education, or early childhood special; and professional practices and development, including relevant experience. 
-2. Accredited, in-person Pediatric CPR/First Aid certification (must obtain within 30 days of hire). 3. Three years of experience as a classroom teacher of young children in a child development center or other educational facility working with children from birth to kindergarten age. 
-4. Must be able to understand work instructions in English. 
-5. Must have a working knowledge of computer programs and accessing internet applications such as Microsoft Products, Google Applications (Gmail), Excel, Microsoft Word, and Internet Explorer. 6. Communication skills to be able to work on a team as well as interact with parents in a professional manner. 
-7. Ability to multi-task in a fast-paced environment, including taking care of multiple children at a time. 8. Ability to respond to a child’s needs promptly and courteously. 
-9. Ability to safely lift children throughout the day. 
-10. Ability to perform continuous walking, stooping, standing, and bending for most of the shift. 11. Must possess an understanding of marginalization and how it impacts those Goodwill serves and employs. 
-12. Exhibit respect for diversity of thought and have the experience to advance it in teams/organizations. 
-**PREFERRED QUALIFICATIONS: **
-1. Bachelor’s degree in Early Childhood Education, Child Development, Interdisciplinary Studies, or Child and Family. 
-2. Texas Teacher Certification for EC-6 or Spec ED EC-12. 
-3. Bilingual in Spanish or Arabic and English. 
+POSITION SUMMARY:
+The Early Childhood Teacher is responsible for developing and implementing a high-quality, developmentally appropriate program for children from birth to age five within the Exploration Center. Guided by NAEYC Professional Standards, Texas Rising Star requirements, and program policies, this position creates a safe, nurturing, and inclusive learning environment that supports each child's physical, social-emotional, cognitive, and language development. The Early Childhood Teacher provides exceptional care and education while ensuring the overall well-being of all children in the classroom. This role is responsible for designing engaging learning environments, planning and delivering intentional instruction, assessing children's progress, and modeling positive, responsive interactions that foster curiosity, confidence, and lifelong learning. Through collaboration with families and colleagues, the Early Childhood Teacher promotes the growth and development of every child and advances the center's mission of excellence in early childhood education.
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+1. Develop, implement, and evaluate developmentally appropriate curriculum and lesson plans aligned with NAEYC Developmentally Appropriate Practice (DAP) principles, early learning standards, and program goals.
+2. Provide high-quality learning experiences that support the holistic development of children across cognitive, language, literacy, social-emotional, physical, and creative domains.
+3. Incorporate play-based learning, emergent curriculum approaches, and individualized teaching strategies to meet the unique needs, interests, and abilities of each child.
+4. Use intentional teaching practices, including open-ended questioning, guided exploration, and instructional scaffolding, to promote critical thinking, problem-solving, and deeper learning.
+5. Monitor children's developmental progress, identify milestones and potential concerns, and collaborate with families, specialists, and the teaching team to support early intervention efforts when appropriate.
+6. Establish and maintain consistent classroom routines and environments that promote safety, security, independence, and positive learning experiences.
+7. Implement positive behavior guidance strategies that foster self-regulation, social competence, conflict resolution, and emotional well-being.
+8. Build strong partnerships with families by encouraging participation in classroom activities, family events, conferences, and home-school learning connections.
+9. Ensure compliance with all applicable licensing, accreditation, and quality standards, including NAEYC, Texas Rising Star (TRS), Texas School Ready (TSR), Texas Healthy Building Blocks (THBB), and Child Care Regulation (CCR) requirements.
+10. Uphold the NAEYC Code of Ethical Conduct by demonstrating professionalism, integrity, respect, confidentiality, and ethical decision-making in all interactions.
+11. Design and maintain engaging, developmentally appropriate learning environments that encourage exploration, discovery, creativity, and conceptual understanding.
+12. Support continuous quality improvement initiatives and inclusive practices that enhance program effectiveness and child outcomes.
+13. Foster open, respectful, and collaborative communication with families to support children's learning, development, and consistency between home and school environments.
+14. Conduct regular family conferences and maintain ongoing communication regarding children's progress, developmental milestones, and classroom experiences.
+15. Utilize formal and informal assessment methods to monitor children's growth and development, maintain accurate documentation, collect work samples, and develop individualized portfolios.
+16. Participate in ongoing program evaluation and collaborate with the Coordinator to implement current research, best practices, and continuous improvement strategies within the classroom.
+17. Communicate effectively and professionally with children, families, colleagues, and community partners while maintaining a positive and supportive learning environment.
+OTHER DUTIES AND RESPONSIBILITIES
+1. Maintain a clean, safe, healthy, and organized classroom environment through routine cleaning, sanitizing, and organization of materials and learning spaces.
+2. Collaborate as an active member of the teaching team by sharing ideas, providing feedback,
+and contributing to program planning and improvement efforts.
+3. Provide guidance, mentoring, and support to Teacher Aides/Floaters, Child Development Specialists, Assistant Teachers, substitutes, and other classroom support staff by modeling effective teaching and caregiving practices.
+4. Ensure curriculum plans, classroom schedules, and learning experiences provide a balanced mix of child-initiated exploration and adult-guided instruction that reflects children's interests and developmental needs.
+5. Communicate center policies, procedures, and program expectations to staff and families in a clear, respectful, and professional manner.
+6. Perform additional duties as assigned to support the overall success, quality, and mission of the Exploration Center.
+SUPERVISORY RESPONSIBILITY:
+This position may supervise Assistant Teachers, Child Development Specialist, Aides/Floaters, volunteers, substitutes and/or practicum students.
+REQUIRED QUALIFICATIONS:
+1. Bachelor’s Degree in any discipline with a minimum of 36 college credits in a related field. (Related field is considered early childhood education, early childhood special education, elementary education, or child development OR anything that includes at least 36 early childhood related credits.)
+1. Accredited, in-person Pediatric CPR/First Aid certification (must obtain within 30 days of hire).
+2. Three years of experience as a classroom teacher of young children in a child development center or other educational facility working with children from birth to kindergarten age.
+3. Must be able to understand work instructions in English.
+4. Must have a working knowledge of computer programs and accessing internet applications such as Microsoft Products, Google Applications (Gmail), Excel, Microsoft Word, and Internet Explorer.
+5. Communication skills to be able to work on a team as well as interact with parents in a professional manner.
+6. Ability to work cooperatively within a multidisciplinary team.
+7. Ability to engage in physical activity with children (bending, lifting up to 40 lbs., standing for extended periods).
+8. Must possess an understanding of marginalization and how it impacts those Goodwill serves and employs.
+PREFERRED QUALIFICATIONS:
+Bilingual in English and Spanish, Arabic, Pashto, American Sign Language (ASL)
 **Compensation & Schedule:**
 - Based on experience and qualifications.
 **What We Offer**
@@ -650,38 +626,48 @@ All Excel team members:
 - Deliver Excellence - Uphold high standards of professionalism, execution, and service to students- Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.- Work as One Team - Collaborate and contribute positively to a solutions-oriented culture- Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities- Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
 All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
 The Goodwill Excel Center Adult High School is currently recruiting for a Early Childhood Teacher for our Norwood Campus located at 1015 Norwood Park Blvd Austin, TX 78753. 
-**POSITION SUMMARY: **
-The primary role of the Early Childhood Teacher is to implement high-quality exceptional care and education to children in the Exploration Center. This position will be responsible for the overall well-being of children in the center and will be dedicated to the growth and development of each of our children. This position will be responsible for the design/layout of appropriate environments, plan for classroom instruction, and model interactions with children. 
-**ESSENTIAL DUTIES AND RESPONSIBILITIES: **
-1. Maintain compliance with all DHHS Minimum Standards for Licensing, Texas Rising Star, and aid Center in pursuing national accreditation. 
-2. Organizes educational planning and delivery of instruction for quality early childhood education to stimulate exploration, discovery, and conceptual learning for children. 
-3. Provide quality early care and education to young children by planning and implementing developmentally appropriate experiences and curricula across each of the developmental domains. 
-4. Maintain open and cooperative communication with parents and families encouraging their involvement in the program through parent-teacher partnerships and coordination of center-home child-rearing practices. 
-5. Develops and implements daily schedules, lesson plans, and classroom management techniques using program curriculum for whole group/small group of children and individualized child. 
-6. Assess progress for children informally (collecting relevant work samples over an extended period, develop portfolios and records of developmental growth) and formally. 
-7. Conducts ongoing program evaluation in cooperation with Director; uses current research in implementing classroom changes for updating methods of practices. 
-8. Participates in program evaluation efforts and in developing action plans for program improvement. 9. Describes and identifies basic patterns of development associated with age groups. Uses knowledge of child development to meet the needs of individual children during group activities. 10. Utilize appropriate direct and indirect guidance strategies to guide behavior. 
-11. Attend and participate in staff meetings and mandatory training requirements (Pediatric First Aid/CPR, Child Abuse Training, Pre-Service Training, and Annual Training) a minimum of 30 hours annually. 12. Communicate in a positive, professional manner following the NAEYC Professional Code of Ethical Conduct. 
-**OTHER DUTIES AND RESPONSIBILITIES: **
-1. Maintain a clean and safe physical environment for children (cleaning, sanitizing, and organizing the areas). 
-2. Assist in preparing food for children and serve meals and refreshments to children and regulate rest periods. 
-3. Ensure that curriculum lesson plans, daily schedules provide ample opportunities for both child-initiated and adult-guided play based on children’s interests. 
-4. Communicate the center policy to staff and parents. 
-**SUPERVISORY RESPONSIBILITY: **
-This position does not have supervisory responsibilities. 
-**REQUIRED QUALIFICATIONS: **
-1. Bachelor’s Degree in any discipline with a minimum of 36 college credits in early childhood education, child development, elementary education, or early childhood special; and professional practices and development, including relevant experience. 
-2. Accredited, in-person Pediatric CPR/First Aid certification (must obtain within 30 days of hire). 3. Three years of experience as a classroom teacher of young children in a child development center or other educational facility working with children from birth to kindergarten age. 
-4. Must be able to understand work instructions in English. 
-5. Must have a working knowledge of computer programs and accessing internet applications such as Microsoft Products, Google Applications (Gmail), Excel, Microsoft Word, and Internet Explorer. 6. Communication skills to be able to work on a team as well as interact with parents in a professional manner. 
-7. Ability to multi-task in a fast-paced environment, including taking care of multiple children at a time. 8. Ability to respond to a child’s needs promptly and courteously. 
-9. Ability to safely lift children throughout the day. 
-10. Ability to perform continuous walking, stooping, standing, and bending for most of the shift. 11. Must possess an understanding of marginalization and how it impacts those Goodwill serves and employs. 
-12. Exhibit respect for diversity of thought and have the experience to advance it in teams/organizations. 
-**PREFERRED QUALIFICATIONS: **
-1. Bachelor’s degree in Early Childhood Education, Child Development, Interdisciplinary Studies, or Child and Family. 
-2. Texas Teacher Certification for EC-6 or Spec ED EC-12. 
-3. Bilingual in Spanish or Arabic and English. 
+**POSITION SUMMARY**:
+The Early Childhood Teacher is responsible for developing and implementing a high-quality, developmentally appropriate program for children from birth to age five within the Exploration Center. Guided by NAEYC Professional Standards, Texas Rising Star requirements, and program policies, this position creates a safe, nurturing, and inclusive learning environment that supports each child's physical, social-emotional, cognitive, and language development. The Early Childhood Teacher provides exceptional care and education while ensuring the overall well-being of all children in the classroom. This role is responsible for designing engaging learning environments, planning and delivering intentional instruction, assessing children's progress, and modeling positive, responsive interactions that foster curiosity, confidence, and lifelong learning. Through collaboration with families and colleagues, the Early Childhood Teacher promotes the growth and development of every child and advances the center's mission of excellence in early childhood education.
+**ESSENTIAL DUTIES AND RESPONSIBILITIES**:
+1. Develop, implement, and evaluate developmentally appropriate curriculum and lesson plans aligned with NAEYC Developmentally Appropriate Practice (DAP) principles, early learning standards, and program goals.
+2. Provide high-quality learning experiences that support the holistic development of children across cognitive, language, literacy, social-emotional, physical, and creative domains.
+3. Incorporate play-based learning, emergent curriculum approaches, and individualized teaching strategies to meet the unique needs, interests, and abilities of each child.
+4. Use intentional teaching practices, including open-ended questioning, guided exploration, and instructional scaffolding, to promote critical thinking, problem-solving, and deeper learning.
+5. Monitor children's developmental progress, identify milestones and potential concerns, and collaborate with families, specialists, and the teaching team to support early intervention efforts when appropriate.
+6. Establish and maintain consistent classroom routines and environments that promote safety, security, independence, and positive learning experiences.
+7. Implement positive behavior guidance strategies that foster self-regulation, social competence, conflict resolution, and emotional well-being.
+8. Build strong partnerships with families by encouraging participation in classroom activities, family events, conferences, and home-school learning connections.
+9. Ensure compliance with all applicable licensing, accreditation, and quality standards, including NAEYC, Texas Rising Star (TRS), Texas School Ready (TSR), Texas Healthy Building Blocks (THBB), and Child Care Regulation (CCR) requirements.
+10. Uphold the NAEYC Code of Ethical Conduct by demonstrating professionalism, integrity, respect, confidentiality, and ethical decision-making in all interactions.
+11. Design and maintain engaging, developmentally appropriate learning environments that encourage exploration, discovery, creativity, and conceptual understanding.
+12. Support continuous quality improvement initiatives and inclusive practices that enhance program effectiveness and child outcomes.
+13. Foster open, respectful, and collaborative communication with families to support children's learning, development, and consistency between home and school environments.
+14. Conduct regular family conferences and maintain ongoing communication regarding children's progress, developmental milestones, and classroom experiences.
+15. Utilize formal and informal assessment methods to monitor children's growth and development, maintain accurate documentation, collect work samples, and develop individualized portfolios.
+16. Participate in ongoing program evaluation and collaborate with the Coordinator to implement current research, best practices, and continuous improvement strategies within the classroom.
+17. Communicate effectively and professionally with children, families, colleagues, and community partners while maintaining a positive and supportive learning environment.
+**OTHER DUTIES AND RESPONSIBILITIES**
+1. Maintain a clean, safe, healthy, and organized classroom environment through routine cleaning, sanitizing, and organization of materials and learning spaces.
+2. Collaborate as an active member of the teaching team by sharing ideas, providing feedback,
+and contributing to program planning and improvement efforts.
+3. Provide guidance, mentoring, and support to Teacher Aides/Floaters, Child Development Specialists, Assistant Teachers, substitutes, and other classroom support staff by modeling effective teaching and caregiving practices.
+4. Ensure curriculum plans, classroom schedules, and learning experiences provide a balanced mix of child-initiated exploration and adult-guided instruction that reflects children's interests and developmental needs.
+5. Communicate center policies, procedures, and program expectations to staff and families in a clear, respectful, and professional manner.
+6. Perform additional duties as assigned to support the overall success, quality, and mission of the Exploration Center.
+**SUPERVISORY RESPONSIBILITY**:
+This position may supervise Assistant Teachers, Child Development Specialist, Aides/Floaters, volunteers, substitutes and/or practicum students.
+**REQUIRED QUALIFICATIONS**:
+1. Bachelor’s Degree in any discipline with a minimum of 36 college credits in a related field. (Related field is considered early childhood education, early childhood special education, elementary education, or child development OR anything that includes at least 36 early childhood related credits.)
+1. Accredited, in-person Pediatric CPR/First Aid certification (must obtain within 30 days of hire).
+2. Three years of experience as a classroom teacher of young children in a child development center or other educational facility working with children from birth to kindergarten age.
+3. Must be able to understand work instructions in English.
+4. Must have a working knowledge of computer programs and accessing internet applications such as Microsoft Products, Google Applications (Gmail), Excel, Microsoft Word, and Internet Explorer.
+5. Communication skills to be able to work on a team as well as interact with parents in a professional manner.
+6. Ability to work cooperatively within a multidisciplinary team.
+7. Ability to engage in physical activity with children (bending, lifting up to 40 lbs., standing for extended periods).
+8. Must possess an understanding of marginalization and how it impacts those Goodwill serves and employs.
+**PREFERRED QUALIFICATIONS**:
+Bilingual in English and Spanish, Arabic, Pashto, American Sign Language (ASL)
 **Compensation & Schedule:**
 - Based on experience and qualifications.
 **What We Offer**
@@ -1134,39 +1120,59 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. A post-offer background check is required to ensure the applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
-### Substitute Teacher
-
-- **Location:** Excel Diboll Campus, Diboll, TX, US
-- **Type:** Part Time
-- **Posted:** Oct 06, 2025
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=566844)**
-
-#### Job Description
-
-The Goodwill Excel Center Adult High School is currently seeking a Substitute Teacher for our Diboll Campus, located at 1604 S. 1st St, Diboll, TX 75941. 
-The Goodwill Excel Center is the first free, public charter high school in Texas that provides adults ages 18-50 the opportunity to earn their high school diploma, complete an in-demand professional certification, and begin postsecondary education. There are seven campuses within the charter district. Two campuses are in Austin: one at the Goodwill Community Center and one in South Austin in partnership with American YouthWorks. The other five campuses are located within correctional facilities across the state. For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org/. 
-The Substitute High School Teacher for a Correctional Facility Campus is responsible for providing and implementing the daily lesson plans in the assigned courses according to the district’s requirements. The Substitute High School Teacher will manage the classroom environment, provide activities, materials, and promote student learning in the absence of the regular classroom teacher. 
-Please note that this Substitute position is for a campus located within a Correctional Facility. In addition to passing the background check and completing fingerprinting for The Excel Center, the applicant will be required to pass the background check and additional training required by MTC and TDCJ. 
-REQUIRED QUALIFICATIONS:
-- A minimum of 60+ college credit hours, Bachelor’s or higher degree from an accredited university is required. 
-- All substitute teacher applicants must submit proof of an official accredited college transcript (showing the degree conferred or the minimum of 60+ college hours) OR a valid Texas Teacher Certificate from the Texas Education Agency (TEA)
-- General knowledge of possible assigned subject areas. - Strong organizational, communication, and interpersonal skills. - General knowledge of curriculum and instruction. - Ability to instruct students and manage their behavior in a correctional facility setting. - Ability to follow oral and written directions. - Ability to maintain effective classroom management strategies. - Must be able to understand work instructions in English.- Must possess the essential mindset that all students can achieve at high levels.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Must be able to successfully pass a background check and complete fingerprinting requirement.
-PREFERRED QUALIFICATIONS:
-- Current Texas Teaching Certification. - 1+ years of experience providing instruction to adults.
-Compensation:
-Compensation for this position is a daily rate of:
-Full Days - $160 (4 or more hours)
-Half Days - $75 (Less than 4 hours)
-Long Term - $170*
-Excess Hours - $30/hour**
-Equal Employment Opportunity Statement:
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-Background Check Requirement:
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
 ---
 
 ## Management & Leadership
+
+### Retail Supervisor
+
+- **Location:** Hutto Store, Hutto, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $17.85
+- **Posted:** Aug 11, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=584206)**
+
+#### Job Description
+
+**Summary of Position**
+Retail Supervisors will assist management in the operation of the Goodwill retail store. This includes customer service, record keeping, cash management, facility operation, communications, merchandising, and inventory control.
+**Role and Responsibilities**
+- Assist the store manager with the overall operation of the retail store.- Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Supervise and train retail sales associates.- Monitor sales transactions associated with purchases and ensure proper sales procedures are followed by sales associates.
+**Supervisory Responsibility**
+- This position is responsible for supervising and training the Donation Attendant, Merchandise Processor & Sales Associate positions.- Required Skills & Qualifications - At least 1 year of supervisory experience.- Ability to perform continuous walking, stooping, standing, bending, kneeling, and climbing for prolonged periods of time (up to 7 hours per 8-hour shift.)- Ability to lift 35 pounds frequently.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.
+**Physical Requirements**
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Ability to work in a confined area.- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate
+
+### Retail Assistant Manager
+
+- **Location:** Dripping Springs Store, Dripping Springs, TX, US
+- **Type:** Full Time
+- **Salary:** $42,000.00 - $45,999.00
+- **Posted:** Aug 11, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=584198)**
+
+#### Job Description
+
+**Assistant Store Manager – Lead With Purpose **
+**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
+Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
+**What You’ll Be Doing:**
+- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
+**Who You’ll Supervise:**
+Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
+**What You Bring:**
+- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
+**What You’ll Get:**
+- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
+**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
+**Ready to lead with heart and hustle?**
+Apply today and help us turn donations into opportunities!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Retail Assistant Manager
 
@@ -1480,36 +1486,6 @@ Sales Associates, Merchandise Processors and Retail Supervisors. Your leadershi
 **Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
 **Ready to lead with heart and hustle?**
 Apply today and help us turn donations into opportunities!
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
-### Retail General Manager
-
-- **Location:** Lakeway Store, Lakeway, TX, US
-- **Type:** Full Time
-- **Salary:** $64,000.00 - $69,999.00
-- **Posted:** Jul 21, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582841)**
-
-#### Job Description
-
-**Retail General Manager – Lead With Purpose **
-**Quarterly Bonus Potential: Retail General Managers have the potential to earn up to a max of 25% of their quarterly salary based on performance in key metrics in their department.**
-Start strong and get rewarded. When you join our team, you’ll earn a **$1,000 bonus** (ask your recruiter for details). It’s our way of saying welcome aboard and thanks for bringing your best.
-Are you a results-driven retail leader who thrives in a dynamic, mission-focused environment? Goodwill is seeking an experienced Retail General Manager (RGM) to lead the operations of one of our many thriving retail locations. This is more than just a store—it's a place where lives change every day. As the RGM, you’ll oversee everything from sales floor operations to production efficiency, creating a culture of excellence, customer satisfaction, and team development. If you’re passionate about retail, leadership, and making a difference in your community, this role is for you.
-**What You’ll Do:**
-- Lead day-to-day operations of a high-performing retail store, from opening to closing.- Manage both the sales floor and back-of-house production teams to ensure a smooth, efficient flow of merchandise.- Monitor inventory, stock levels, and merchandising to maximize revenue and maintain a compelling store presentation.- Recruit, train, schedule, and manage a dynamic team of staff, including Assistant Managers, Supervisors, Processors, and Sales Associates.- Cultivate a customer-first culture—ensuring every shopper and donor receives top-tier service.- Ensure compliance with all safety protocols, state regulations, and loss prevention procedures.- Take full ownership of store P&L and make data-driven decisions to meet performance goals.- Handle payroll, attendance, and scheduling using our internal systems.- Serve as the go-to leader for resolving team or customer concerns.- Maintain strong communication across departments and stores to align goals and performance.
-**Who You Are:**
-- A motivated, hands-on leader with **3–5 years of retail management experience**.- Comfortable managing both **sales operations** and **merchandise production**.- Experienced with **profit & loss statements**, team development, and performance coaching.- Able to lift 35–50 lbs and perform physical tasks as needed (this is a boots-on-the-ground leadership role).- Someone who leads by example, knows how to inspire teams, and isn't afraid to roll up their sleeves.- A pro at balancing multiple priorities in a fast-paced retail environment.- Flexible to work **weekends, evenings, and holidays** based on business needs.
-**Preferred Qualifications:**
-- High school diploma required; Associate’s degree preferred.- Experience in the thrift/resale industry is a big plus.- Strong communication skills, basic math, and computer proficiency.- Valid driver’s license.
-**Why Join Us?**
-At Goodwill, we don’t just offer jobs—we offer meaningful careers. Working with us means contributing to a greater mission: transforming lives through the power of education and work. Enjoy opportunities for growth, ongoing training, and the satisfaction of knowing your efforts directly support your community. 
-**Ready to Lead with Purpose?**
-Apply now and take the next step in your retail leadership career with Goodwill.
 **Equal Employment Opportunity Statement:**
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
@@ -2280,6 +2256,90 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Merchandise Processing
+
+### Merchandise Processor
+
+- **Location:** Balcones Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Aug 11, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=584177)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Merchandise Processor
+
+- **Location:** Lake Creek Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Aug 11, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=584166)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Merchandise Processor
+
+- **Location:** Riverside Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Aug 11, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=584159)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Merchandise Processor
 
@@ -3544,6 +3604,34 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Merchandise Processor
 
+- **Location:** Hutto Store, Hutto, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Jul 15, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582353)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Merchandise Processor
+
 - **Location:**  Pflugerville, TX, US
 - **Type:** Full Time
 - **Salary:** $0.00 - $14.00
@@ -3881,6 +3969,34 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Other Positions
+
+### HVAC Tecnician II
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $24.00 - $29.00
+- **Posted:** Aug 11, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=584162)**
+
+#### Job Description
+
+The HVAC Maintenance Technician II is a skilled technician responsible for independently performing preventive maintenance, troubleshooting, repair, and installation of commercial HVAC and refrigeration equipment. This position serves as a technical resource within the Facilities Department and is expected to diagnose equipment issues, complete repairs with minimal supervision. This role works under the guidance of the senior technician and management to ensure equipment operates safely, efficiently, and reliably. 
+**Role and Responsibilities**
+- Perform preventive maintenance, inspections, troubleshooting, and repairs on commercial HVAC/R equipment. - Diagnose mechanical, electrical, and control-related issues on rooftop units, split systems, package units, exhaust fans, make-up air units, and refrigeration systems. - Repair or replace motors, contactors, capacitors, belts, thermostats, sensors, relays, compressors, and other HVAC components. - Perform basic electrical diagnostics using meters and testing equipment. - Maintain proper refrigerant handling procedures in accordance with EPA regulations. - Respond to emergency HVAC service calls and prioritize repairs based on operational impact. - Complete work orders accurately and document findings, repairs, labor, and materials used- Assist with equipment startups, shutdowns, and seasonal maintenance activities. - Coordinate with vendors and contractors when specialized repairs are required. - Identify opportunities to improve equipment reliability, efficiency, and lifecycle performance. - Support building maintenance activities as needed. - Assist with training and mentoring HVAC Maintenance Technician I personnel. - Ensure compliance with all OSHA, environmental, and company safety standards. 
+** **
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+** **
+**Required Skills & Qualifications **
+- High school diploma or GED required. - 3–5 years of commercial HVAC maintenance and repair experience. - EPA Section 608 Universal Certification required. - Valid driver’s license with acceptable driving record. - Ability to independently troubleshoot and repair HVAC systems. - Knowledge of electrical, mechanical, and refrigeration principles. - Ability to read wiring diagrams, schematics, and equipment manuals. - Strong customer service and communication skills. - Required Skills & Qualifications - HVAC Trade School or Technical Certification. - Experience with Building Automation Systems (BAS) or Energy Management Systems (EMS). - OSHA 10 Certification. - Experience working in retail, warehouse, distribution, or multi-site facilities environments. 
+**Physical Requirements**
+- Ability to lift up to 75 pounds. - Ability to climb ladders, access rooftops, and work at heights. - Ability to work indoors and outdoors in varying weather conditions. - Ability to stand, walk, kneel, crawl, and bend for extended periods. - Ability to safely operate hand tools, power tools, testing equipment, and ladders. 
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Operations Team Lead
 
@@ -4237,32 +4353,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
-### Business Solutions Placement Specialist
-
-- **Location:**  Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $24.00
-- **Posted:** Jul 14, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582330)**
-
-#### Job Description
-
-The Business Solutions Specialist is responsible for developing relationships with employers and securing employment, externship, internship, and apprenticeship opportunities for clients served through Goodwill Central Texas programs. This position serves as a primary liaison between job seekers and businesses, working to understand employers’ workforce needs, promoting Goodwill's services, and connecting qualified candidates with employment that supports long-term career success. Success in this role is measured by employer engagement, opportunities secured, sustainable job wages, and long-term retention outcomes.
-**Role and Responsibilities**
-- **Business Development & Outreach:** Proactively identify, cultivate, and maintain relationships with local employers throughout Central Texas to secure job leads, internships, externships, apprenticeships, and other work-based learning opportunities for GCT clients, graduates of GCTA, and The Excel Center.- **Employer Engagement:** Engage with employers to learn and assess their workforce needs, hiring challenges, and desired candidate qualifications. Present tailored solutions that align employer objectives with the talent pipeline of our participants, serving as a supportive resource throughout the recruitment, interview, and retention process.- **Networking & Labor Market Awareness:** Build and maintain a strong network of employers and key industry contacts. Attend hiring events, job fairs, networking events, workforce forums, and employer meetings to continuously expand partnerships and understand local labor market trends.- **Advocacy:** Advocate on behalf of Goodwill’s target populations by educating Central Texas employers on the benefits of hiring from diverse, underrepresented groups and promoting equitable employment opportunities.- **Client-Employer Matching:** Assess participant skills, experience, interests, and job readiness to facilitate optimal, strategic placements that meet the specific needs of both the candidate and the employer.- **Client Support & Career Coaching:** Guide participants through the job search, application, and interview process. Ensure client receives resume support, interview preparation, and employment coaching to enhance success in securing and retaining employment.- **Cross-Functional Collaboration:** Work closely with internal programs—including Workforce Advancement, Mission Services, The Excel Center, and Goodwill Career and Technical Academy—to reach participant placement goals. Share employer feedback and hiring trends with internal teams to support program improvement.- **Data Management & Performance Tracking:** Maintain accurate, timely, and compliant records of employers, clients, job leads, interviews, and placements within designated databases. Track and report key performance metrics, ensuring monthly placement targets, success metrics, and program reporting standards are consistently met.- **Other Duties as Assigned.**
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities.
-**Required Skills & Qualifications **
-- High School Diploma- Minimum of 1 to 2 years of experience in business development, job placement, workforce development, recruiting, staffing, sales, social services, or a related field.- Demonstrated understanding of how to work collaboratively with individuals from diverse backgrounds.- Strong ability to develop professional business relationships, deliver excellent customer service, and negotiate potential contracts/opportunities.- Proficient in Microsoft Office Suite (Word, Excel, Outlook) and database tracking systems.- Excellent verbal and written communication skills with the ability to effectively engage, influence, and present to external business partners and stakeholders.- Strong time management and organizational skills with a proven ability to manage multiple, competing priorities in a fast-paced environment.- Demonstrated problem-solving skills, attention to detail, and ability to handle moderate levels of stress.- **Travel & Schedule Flexibility:**
-- Reliable Transportation: Frequent local travel is required to meet with employers, attend workforce and community events, and support business engagement activities.- Occasional evening and weekend hours may be required to attend networking events, hiring events, employer functions, client graduations, and other business-related activities.- Valid driver’s license and proof of valid insurance are required.
-**Physical Requirements**
-- **Desk & Computer Work:** Prolonged periods of sitting at a desk and working on a computer.- **Physical Mobility:** Frequent walking, standing, balancing, stooping, kneeling, crouching, and communicating with others during community events, job fairs, and employer site visits.- **Lifting:** Must be able to lift up to 15 pounds occasionally.- **Mental Stamina:** Ability to tolerate moderate levels of stress and successfully manage competing priorities in a dynamic environment.- **Vision:** Specific vision abilities required for this role include close vision, distance vision, depth perception, and the ability to adjust focus.
-** **
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
 ### Student Success Coach
 
 - **Location:** Excel South Austin Campus, Austin, TX, US
@@ -4390,34 +4480,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
-### HVAC Tecnician II
-
-- **Location:**  Austin, TX, US
-- **Type:** N/A
-- **Salary:** $24.00 - $29.00
-- **Posted:** Jul 01, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581551)**
-
-#### Job Description
-
-The HVAC Maintenance Technician II is a skilled technician responsible for independently performing preventive maintenance, troubleshooting, repair, and installation of commercial HVAC and refrigeration equipment. This position serves as a technical resource within the Facilities Department and is expected to diagnose equipment issues, complete repairs with minimal supervision. This role works under the guidance of the senior technician and management to ensure equipment operates safely, efficiently, and reliably. 
-**Role and Responsibilities**
-- Perform preventive maintenance, inspections, troubleshooting, and repairs on commercial HVAC/R equipment. - Diagnose mechanical, electrical, and control-related issues on rooftop units, split systems, package units, exhaust fans, make-up air units, and refrigeration systems. - Repair or replace motors, contactors, capacitors, belts, thermostats, sensors, relays, compressors, and other HVAC components. - Perform basic electrical diagnostics using meters and testing equipment. - Maintain proper refrigerant handling procedures in accordance with EPA regulations. - Respond to emergency HVAC service calls and prioritize repairs based on operational impact. - Complete work orders accurately and document findings, repairs, labor, and materials used- Assist with equipment startups, shutdowns, and seasonal maintenance activities. - Coordinate with vendors and contractors when specialized repairs are required. - Identify opportunities to improve equipment reliability, efficiency, and lifecycle performance. - Support building maintenance activities as needed. - Assist with training and mentoring HVAC Maintenance Technician I personnel. - Ensure compliance with all OSHA, environmental, and company safety standards. 
-** **
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities.
-** **
-**Required Skills & Qualifications **
-- High school diploma or GED required. - 3–5 years of commercial HVAC maintenance and repair experience. - EPA Section 608 Universal Certification required. - Valid driver’s license with acceptable driving record. - Ability to independently troubleshoot and repair HVAC systems. - Knowledge of electrical, mechanical, and refrigeration principles. - Ability to read wiring diagrams, schematics, and equipment manuals. - Strong customer service and communication skills. - Required Skills & Qualifications - HVAC Trade School or Technical Certification. - Experience with Building Automation Systems (BAS) or Energy Management Systems (EMS). - OSHA 10 Certification. - Experience working in retail, warehouse, distribution, or multi-site facilities environments. 
-**Physical Requirements**
-- Ability to lift up to 75 pounds. - Ability to climb ladders, access rooftops, and work at heights. - Ability to work indoors and outdoors in varying weather conditions. - Ability to stand, walk, kneel, crawl, and bend for extended periods. - Ability to safely operate hand tools, power tools, testing equipment, and ladders. 
-** **
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
 ### Executive Assistant I
 
 - **Location:** GCC HQ, Austin, TX, US
@@ -4534,6 +4596,34 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Sales
+
+### Sales Associate
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Aug 11, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=584168)**
+
+#### Job Description
+
+Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
+** **
+**What You’ll Do:**
+- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
+** **
+**What You Bring:**
+- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
+** **
+**What You’ll Get:**
+- Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
+** **
+**Why It Matters:**
+Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Sales Associate
 
@@ -5337,34 +5427,6 @@ Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and
 ** **
 **What You’ll Get:**
 - Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
-** **
-**Why It Matters:**
-Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Sales Associate
-
-- **Location:** Hutto Store, Hutto, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.00
-- **Posted:** Jul 15, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582353)**
-
-#### Job Description
-
-Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
-** **
-**What You’ll Do:**
-- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
-** **
-**What You Bring:**
-- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
-** **
-**What You’ll Get:**
--  Raise after 60 days of employment!- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
 ** **
 **Why It Matters:**
 Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
