@@ -1,9 +1,9 @@
 {
-  "scraped_at": "2026-08-31T20:13:20.977016",
+  "scraped_at": "2026-09-01T12:02:59.143010",
   "source": "Goodwill Central Texas - Career Advancement Training Wufoo Forms",
   "total_classes": 23,
   "total_sessions": 224,
-  "available_sessions": 159,
+  "available_sessions": 151,
   "classes": [
     {
       "class_name": "Budgeting Basics",
@@ -144,7 +144,7 @@
           "raw_text": "09/29/2026, 10:00-12:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:03.693557",
+      "last_updated": "2026-09-01T12:01:41.872292",
       "total_sessions": 10,
       "available_sessions": 10
     },
@@ -167,7 +167,7 @@
           "raw_text": "Select from Dropdown\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
-          "date": "2025-09-21",
+          "date": "2026-09-21",
           "date_display": "September 21-25, 9:00am-Noon",
           "time_start": null,
           "time_end": null,
@@ -175,13 +175,13 @@
           "instructor": "Cindy",
           "spots_remaining": 6,
           "is_full": false,
-          "is_past": true,
+          "is_past": false,
           "raw_text": "September 21-25, 9:00am-Noon, Cindy\n\t\t\t\t\t\t\t\t\t -- 6 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:07.152580",
+      "last_updated": "2026-09-01T12:01:45.363249",
       "total_sessions": 1,
-      "available_sessions": 0
+      "available_sessions": 1
     },
     {
       "class_name": "Computer Basics/Keyboarding",
@@ -210,7 +210,7 @@
           "instructor": "Adryan",
           "spots_remaining": 4,
           "is_full": false,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/2026, 10:00-11:00 AM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         },
         {
@@ -220,10 +220,10 @@
           "time_end": "12:30",
           "time_display": "11:30AM-12:30PM",
           "instructor": "Adryan",
-          "spots_remaining": 3,
+          "spots_remaining": 2,
           "is_full": false,
           "is_past": false,
-          "raw_text": "09/11/2026, 11:30 AM-12:30 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
+          "raw_text": "09/11/2026, 11:30 AM-12:30 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 2 remaining"
         },
         {
           "date": "2026-09-18",
@@ -250,9 +250,9 @@
           "raw_text": "09/23/2026, 09:00-11:30 AM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:10.623738",
+      "last_updated": "2026-09-01T12:01:48.859355",
       "total_sessions": 4,
-      "available_sessions": 4
+      "available_sessions": 3
     },
     {
       "class_name": "Credit Basics",
@@ -309,7 +309,7 @@
           "raw_text": "06/25/26, 1:00-3:00 pm; Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:14.080116",
+      "last_updated": "2026-09-01T12:01:52.340527",
       "total_sessions": 3,
       "available_sessions": 0
     },
@@ -416,7 +416,7 @@
           "raw_text": "09/21/2026, 02:30-03:30 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:17.583035",
+      "last_updated": "2026-09-01T12:01:55.799545",
       "total_sessions": 7,
       "available_sessions": 3
     },
@@ -447,7 +447,7 @@
           "instructor": "Cindy",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 3:00-4:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -457,10 +457,10 @@
           "time_end": "10:00",
           "time_display": "9:00-10:00",
           "instructor": "Cindy",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "09/03/26, 9:00-10:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "09/03/26, 9:00-10:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-09-04",
@@ -643,9 +643,9 @@
           "raw_text": "10/02/26, 3:00-4:00; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:21.032999",
+      "last_updated": "2026-09-01T12:01:59.294857",
       "total_sessions": 17,
-      "available_sessions": 13
+      "available_sessions": 12
     },
     {
       "class_name": "Indeed Lab",
@@ -686,7 +686,7 @@
           "instructor": "Cindy",
           "spots_remaining": 2,
           "is_full": false,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/2026, 11:00am-1:00pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 2 remaining"
         },
         {
@@ -696,10 +696,10 @@
           "time_end": "11:00",
           "time_display": "09:00AM-11:00AM",
           "instructor": "Cindy",
-          "spots_remaining": 2,
+          "spots_remaining": 1,
           "is_full": false,
           "is_past": false,
-          "raw_text": "09/02/2026, 09:00-11:00 AM; Cindy\n\t\t\t\t\t\t\t\t\t -- 2 remaining"
+          "raw_text": "09/02/2026, 09:00-11:00 AM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         },
         {
           "date": "2026-09-08",
@@ -720,10 +720,10 @@
           "time_end": "12:00",
           "time_display": "10:00AM-12:00PM",
           "instructor": "Cindy",
-          "spots_remaining": 4,
+          "spots_remaining": 3,
           "is_full": false,
           "is_past": false,
-          "raw_text": "09/14/2026, 10:00 AM-12:00 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+          "raw_text": "09/14/2026, 10:00 AM-12:00 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
         },
         {
           "date": "2026-09-16",
@@ -786,9 +786,9 @@
           "raw_text": "10/02/2026, 12:30-2:30pm; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:24.497920",
+      "last_updated": "2026-09-01T12:02:02.704630",
       "total_sessions": 10,
-      "available_sessions": 9
+      "available_sessions": 8
     },
     {
       "class_name": "Interview Preparation & Practice",
@@ -817,7 +817,7 @@
           "instructor": "Cindy",
           "spots_remaining": 4,
           "is_full": false,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 9:00am–11:00am, Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         },
         {
@@ -893,9 +893,9 @@
           "raw_text": "10/01/26, 9:00am–11:00am, Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:27.948626",
+      "last_updated": "2026-09-01T12:02:06.201047",
       "total_sessions": 7,
-      "available_sessions": 7
+      "available_sessions": 6
     },
     {
       "class_name": "Job Preparation 1:1",
@@ -948,7 +948,7 @@
           "instructor": "Cindy",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 2:00–3:00, Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -1018,10 +1018,10 @@
           "time_end": "12:00",
           "time_display": "11:00-12:00",
           "instructor": "Cindy",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "09/08/26, 11:00–12:00, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "09/08/26, 11:00–12:00, Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-09-08",
@@ -1204,9 +1204,9 @@
           "raw_text": "10/02/26, 11:00–12:00, Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:31.402055",
+      "last_updated": "2026-09-01T12:02:09.754120",
       "total_sessions": 24,
-      "available_sessions": 14
+      "available_sessions": 13
     },
     {
       "class_name": "Online Safety",
@@ -1287,7 +1287,7 @@
           "raw_text": "09/21/2026, 09:30-11:00 AM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:34.832394",
+      "last_updated": "2026-09-01T12:02:13.209795",
       "total_sessions": 5,
       "available_sessions": 2
     },
@@ -1298,7 +1298,7 @@
       "form_url": "https://gwcareeradvancement.wufoo.com/forms/virtual-career-advancement-essentials/",
       "sessions": [
         {
-          "date": "2025-09-14",
+          "date": "2026-09-14",
           "date_display": "September 14th - 18th",
           "time_start": null,
           "time_end": null,
@@ -1306,13 +1306,13 @@
           "instructor": "Alex",
           "spots_remaining": 8,
           "is_full": false,
-          "is_past": true,
+          "is_past": false,
           "raw_text": "September 14th - 18th, Alex\n\t\t\t\t\t\t\t\t\t -- 8 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:38.283608",
+      "last_updated": "2026-09-01T12:02:16.644069",
       "total_sessions": 1,
-      "available_sessions": 0
+      "available_sessions": 1
     },
     {
       "class_name": "Budgeting Basics",
@@ -1435,10 +1435,10 @@
           "time_end": null,
           "time_display": null,
           "instructor": "Doug",
-          "spots_remaining": 4,
+          "spots_remaining": 2,
           "is_full": false,
           "is_past": false,
-          "raw_text": "09/23/26, 9–11 AM; Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+          "raw_text": "09/23/26, 9–11 AM; Doug\n\t\t\t\t\t\t\t\t\t -- 2 remaining"
         },
         {
           "date": "2026-10-01",
@@ -1453,7 +1453,7 @@
           "raw_text": "10/01/26, 11 AM–1 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:41.721903",
+      "last_updated": "2026-09-01T12:02:20.095782",
       "total_sessions": 10,
       "available_sessions": 8
     },
@@ -1464,7 +1464,7 @@
       "form_url": "https://gwcareeradvancement.wufoo.com/forms/gcc-career-advancement-essentials/",
       "sessions": [
         {
-          "date": "2025-09-28",
+          "date": "2026-09-28",
           "date_display": "September 28 - October 2",
           "time_start": "09:00",
           "time_end": "12:00",
@@ -1472,13 +1472,13 @@
           "instructor": "Alex",
           "spots_remaining": 6,
           "is_full": false,
-          "is_past": true,
+          "is_past": false,
           "raw_text": "September 28 - October 2, 9:00am-12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 6 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:45.170229",
+      "last_updated": "2026-09-01T12:02:23.518862",
       "total_sessions": 1,
-      "available_sessions": 0
+      "available_sessions": 1
     },
     {
       "class_name": "Computer Basics/Keyboarding",
@@ -1517,10 +1517,10 @@
           "time_end": "12:00",
           "time_display": "11:00AM-12:00PM",
           "instructor": "Adryan",
-          "spots_remaining": 4,
+          "spots_remaining": 3,
           "is_full": false,
           "is_past": false,
-          "raw_text": "09/15/2026, 11:00 AM-12:00 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+          "raw_text": "09/15/2026, 11:00 AM-12:00 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
         },
         {
           "date": "2026-09-25",
@@ -1535,7 +1535,7 @@
           "raw_text": "09/25/2026, 10:00-11:00 AM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:48.644987",
+      "last_updated": "2026-09-01T12:02:26.983307",
       "total_sessions": 3,
       "available_sessions": 3
     },
@@ -1558,7 +1558,7 @@
           "raw_text": "-- 0 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:52.061074",
+      "last_updated": "2026-09-01T12:02:30.426669",
       "total_sessions": 0,
       "available_sessions": 0
     },
@@ -1635,10 +1635,10 @@
           "time_end": "15:00",
           "time_display": "02:00PM-03:00PM",
           "instructor": "Adryan",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "09/21/2026, 02:00-03:00 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "09/21/2026, 02:00-03:00 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-09-29",
@@ -1661,7 +1661,7 @@
           "instructor": "Alex",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 12:00-1:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -1673,7 +1673,7 @@
           "instructor": "Alex",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 3:00-4:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -1845,9 +1845,9 @@
           "raw_text": "10/01/26, 3:00-4:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:55.551008",
+      "last_updated": "2026-09-01T12:02:33.937333",
       "total_sessions": 22,
-      "available_sessions": 10
+      "available_sessions": 9
     },
     {
       "class_name": "Financial Empowerment Training",
@@ -1924,7 +1924,7 @@
           "instructor": "Doug",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 10:30–11:30 AM; Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -1936,7 +1936,7 @@
           "instructor": "Doug",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 1–2 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -2180,7 +2180,7 @@
           "raw_text": "10/02/26, 9–10 AM; Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:12:59.093786",
+      "last_updated": "2026-09-01T12:02:37.440349",
       "total_sessions": 26,
       "available_sessions": 14
     },
@@ -2245,10 +2245,10 @@
           "time_end": "14:00",
           "time_display": "12:00pm-2:00pm",
           "instructor": "Alex",
-          "spots_remaining": 2,
+          "spots_remaining": 3,
           "is_full": false,
           "is_past": false,
-          "raw_text": "09/03/26, 12:00-2:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 2 remaining"
+          "raw_text": "09/03/26, 12:00-2:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
         },
         {
           "date": "2026-09-04",
@@ -2277,14 +2277,14 @@
         {
           "date": "2026-09-09",
           "date_display": "09/09/2026",
-          "time_start": "13:00",
-          "time_end": "15:00",
-          "time_display": "1:00pm-3:00pm",
+          "time_start": "12:30",
+          "time_end": "14:30",
+          "time_display": "12:30pm-2:30pm",
           "instructor": "Alex",
           "spots_remaining": 4,
           "is_full": false,
           "is_past": false,
-          "raw_text": "09/09/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+          "raw_text": "09/09/26, 12:30-2:30pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         },
         {
           "date": "2026-09-10",
@@ -2341,10 +2341,10 @@
           "time_end": "12:00",
           "time_display": "10:00am-12:00pm",
           "instructor": "Alex",
-          "spots_remaining": 4,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "09/23/26, 10:00am-12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+          "raw_text": "09/23/26, 10:00am-12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-09-24",
@@ -2395,9 +2395,9 @@
           "raw_text": "10/02/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:13:02.573576",
+      "last_updated": "2026-09-01T12:02:40.858931",
       "total_sessions": 17,
-      "available_sessions": 17
+      "available_sessions": 16
     },
     {
       "class_name": "Interview Preparation & Practice",
@@ -2486,7 +2486,7 @@
           "instructor": "Alex",
           "spots_remaining": 4,
           "is_full": false,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 9:00-11:00am; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         },
         {
@@ -2550,9 +2550,9 @@
           "raw_text": "09/22/26, 11:00am-1:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:13:06.115522",
+      "last_updated": "2026-09-01T12:02:44.310905",
       "total_sessions": 11,
-      "available_sessions": 11
+      "available_sessions": 10
     },
     {
       "class_name": "Job Preparation 1:1",
@@ -2581,7 +2581,7 @@
           "instructor": "Doug",
           "spots_remaining": 0,
           "is_full": true,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 9–10 AM; Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
@@ -2677,7 +2677,7 @@
           "instructor": "Alex",
           "spots_remaining": 1,
           "is_full": false,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 1:30-2:30pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         },
         {
@@ -2807,10 +2807,10 @@
           "time_end": "10:30",
           "time_display": "9:30am-10:30am",
           "instructor": "Alex",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "09/21/26, 9:30-10:30am; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "09/21/26, 9:30-10:30am; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-09-21",
@@ -2863,14 +2863,14 @@
         {
           "date": "2026-09-25",
           "date_display": "09/25/2026",
-          "time_start": "11:00",
-          "time_end": "12:00",
-          "time_display": "11:00am-12:00pm",
+          "time_start": "11:30",
+          "time_end": "12:30",
+          "time_display": "11:30am-12:30pm",
           "instructor": "Alex",
           "spots_remaining": 1,
           "is_full": false,
           "is_past": false,
-          "raw_text": "09/25/26, 11:00am-12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "09/25/26, 11:30am-12:30pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         },
         {
           "date": "2026-10-01",
@@ -2897,9 +2897,9 @@
           "raw_text": "10/02/26, 3:00-4:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:13:09.608568",
+      "last_updated": "2026-09-01T12:02:47.780338",
       "total_sessions": 27,
-      "available_sessions": 20
+      "available_sessions": 18
     },
     {
       "class_name": "Wonderlic Prep & Practice",
@@ -2952,7 +2952,7 @@
           "instructor": "Doug",
           "spots_remaining": 6,
           "is_full": false,
-          "is_past": false,
+          "is_past": true,
           "raw_text": "09/01/26, 2–4 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 6 remaining"
         },
         {
@@ -3016,9 +3016,9 @@
           "raw_text": "10/02/26, 12–2 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 7 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:13:13.077212",
+      "last_updated": "2026-09-01T12:02:51.231597",
       "total_sessions": 8,
-      "available_sessions": 6
+      "available_sessions": 5
     },
     {
       "class_name": "AI Basics",
@@ -3099,7 +3099,7 @@
           "raw_text": "09/28/2026, 09:30-11:00 AM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:13:16.517830",
+      "last_updated": "2026-09-01T12:02:54.650829",
       "total_sessions": 5,
       "available_sessions": 5
     },
@@ -3182,7 +3182,7 @@
           "raw_text": "09/25/2026, 01:00-02:30 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-08-31T20:13:19.930060",
+      "last_updated": "2026-09-01T12:02:58.095554",
       "total_sessions": 5,
       "available_sessions": 3
     }
