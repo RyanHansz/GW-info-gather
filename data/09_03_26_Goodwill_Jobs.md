@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** September 03, 2026 at 11:44 AM
+**Last Updated:** September 03, 2026 at 06:54 PM
 
-**Total Positions:** 194
+**Total Positions:** 195
 
 ---
 
@@ -16,7 +16,7 @@
 - [Other Positions](#other-positions) (22)
 - [Sales](#sales) (34)
 - [Warehouse & Transportation](#warehouse-transportation) (15)
-- [eCommerce](#ecommerce) (2)
+- [eCommerce](#ecommerce) (3)
 
 ---
 
@@ -6153,6 +6153,29 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## eCommerce
+
+### E-Commerce Team Member
+
+- **Location:** Ecommerce, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $15.00
+- **Posted:** Sep 03, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586656)**
+
+#### Job Description
+
+**Summary of Position**
+The E-commerce Team Member works in a fast-paced environment performing a variety of critical operational and online tasks. Including but not limited to reviewing donations for authenticity and value, online research, tracking and processing of donations, creating accurate online item listings to advertise and sell high value donations, packaging and shipping of sold merchandise and providing excellent customer service at all times.
+**Job Description**
+**Role and Responsibilities**
+- Moves material within the E-commerce warehouse or office as needed using rolling carts, dollies or pallet jacks as needed.- Sorts and processes a wide variety of merchandise accordingly to department standards.- Tracks, labels, and records all processed merchandise using online tracking system.- Sorts jewelry and separates into precious metals, designer brands, costume jewelry, scrap jewelry or bulk lots according to department standards.- Tests precious metals and gemstones using assigned equipment accordingly to safety guidelines.- Photographs each item to visibly identify all critical details about each item to potential bidders/customers.- Writes clear and concise item listings that communicates all critical details about an item to potential bidders/customers.- Accurately uses grammar, spelling and punctuation in item listings.- Pulls sold orders from inventory shelves and stages in the correct area for packing or pick up.- Conducts inventory purges as needed.- Packages and ships each item in the most cost-effective manner to the correct customer.- Meets hourly and daily production goals of any assigned task.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
+** Physical Requirements**
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### E-Commerce Team Member
 
