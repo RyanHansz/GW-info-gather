@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** September 15, 2026 at 12:12 PM
+**Generated:** September 15, 2026 at 07:19 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 51 | 105 |
-| GCC (North Austin) | 12 | 106 | 172 |
-| **TOTAL** | **23** | **157** | **277** |
+| GRC (South Austin) | 11 | 51 | 104 |
+| GCC (North Austin) | 12 | 106 | 167 |
+| **TOTAL** | **23** | **157** | **271** |
 
 ---
 
@@ -166,16 +166,16 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 16 total spots across 4 sessions
+> **✅ Spaces available!** 15 total spots across 4 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-indeed-lab/
 
-**Total Sessions:** 5 | **Available Spaces:** 16
+**Total Sessions:** 5 | **Available Spaces:** 15
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 09/16/2026 | 09:00AM-11:00AM | Cindy | 0 | **Full** |
-| 09/23/2026 | 1:00pm-3:00pm | Cindy | 4 | **Available** |
+| 09/23/2026 | 1:00pm-3:00pm | Cindy | 3 | **Available** |
 | 09/24/2026 | 1:00pm-3:00pm | Cindy | 4 | **Available** |
 | 09/28/2026 | 10:00AM-12:00PM | Cindy | 4 | **Available** |
 | 10/02/2026 | 12:30pm-2:30pm | Cindy | 4 | **Available** |
@@ -291,17 +291,17 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 18 total spots across 5 sessions
+> **✅ Spaces available!** 17 total spots across 5 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/zjgi3bu0u7t757/
 
-**Total Sessions:** 5 | **Available Spaces:** 18
+**Total Sessions:** 5 | **Available Spaces:** 17
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~09/02/2026~~ | ~~10:30AM-12:00PM~~ | Adryan | ~~3~~ | Past |
 | ~~09/14/2026~~ | ~~09:30AM-11:00AM~~ | Adryan | ~~3~~ | Past |
-| 09/17/2026 | 02:00PM-03:30PM | Adryan | 4 | **Available** |
+| 09/17/2026 | 02:00PM-03:30PM | Adryan | 3 | **Available** |
 | 09/21/2026 | 12:00PM-01:30PM | Adryan | 4 | **Available** |
 | 09/28/2026 | 09:30AM-11:00AM | Adryan | 4 | **Available** |
 
@@ -481,23 +481,23 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 29 total spots across 8 sessions
+> **✅ Spaces available!** 27 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/
 
-**Total Sessions:** 10 | **Available Spaces:** 29
+**Total Sessions:** 10 | **Available Spaces:** 27
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~09/14/2026~~ | ~~01:00PM-03:00PM~~ | Adryan | ~~4~~ | Past |
 | 09/16/2026 | 11:00am-1:00pm | Alex | 4 | **Available** |
-| 09/21/2026 | 09:00AM-11:00AM | Adryan | 3 | **Available** |
+| 09/21/2026 | 09:00AM-11:00AM | Adryan | 2 | **Available** |
 | 09/22/2026 | 9:00am-11:00am | Alex | 0 | **Full** |
 | 09/23/2026 | 10:00am-12:00pm | Alex | 0 | **Full** |
 | 09/24/2026 | 10:00am-12:00pm | Alex | 3 | **Available** |
 | 09/28/2026 | 1:00pm-3:00pm | Alex | 4 | **Available** |
 | 09/29/2026 | 11:00AM-01:00PM | Adryan | 3 | **Available** |
-| 09/30/2026 | 1:30pm-3:30pm | Alex | 4 | **Available** |
+| 09/30/2026 | 1:30pm-3:30pm | Alex | 3 | **Available** |
 | 10/02/2026 | 1:00pm-3:00pm | Alex | 4 | **Available** |
 
 ---
@@ -510,17 +510,17 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 16 total spots across 6 sessions
+> **✅ Spaces available!** 14 total spots across 5 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-interview-preparation-and-practice/
 
-**Total Sessions:** 6 | **Available Spaces:** 16
+**Total Sessions:** 6 | **Available Spaces:** 14
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~09/14/2026~~ | ~~TBD~~ | Doug | ~~3~~ | Past |
-| 09/16/2026 | TBD | Doug | 2 | **Available** |
-| 09/21/2026 | 11:00am-1:00pm | Alex | 1 | **Available** |
+| 09/16/2026 | TBD | Doug | 1 | **Available** |
+| 09/21/2026 | 11:00am-1:00pm | Alex | 0 | **Full** |
 | 09/22/2026 | 11:00am-1:00pm | Alex | 4 | **Available** |
 | 09/23/2026 | TBD | Doug | 2 | **Available** |
 | 09/28/2026 | TBD | Doug | 4 | **Available** |
@@ -545,10 +545,10 @@
 |------|------|------------|--------|--------|
 | ~~09/15/2026~~ | ~~2:30pm-3:30pm~~ | Alex | ~~0~~ | Past |
 | 09/16/2026 | 9:00am-10:00am | Alex | 0 | **Full** |
-| 09/17/2026 | 10:30AM-11:30AM | Doug | 0 | **Full** |
+| 09/17/2026 | 10:30AM-11:30AM | Doug | 1 | **Available** |
 | 09/17/2026 | 9:00am-10:00am | Alex | 1 | **Available** |
 | 09/17/2026 | 10:30am-11:30am | Alex | 1 | **Available** |
-| 09/17/2026 | 1:00pm-2:00pm | Alex | 1 | **Available** |
+| 09/17/2026 | 1:00pm-2:00pm | Alex | 0 | **Full** |
 | 09/18/2026 | 2:00pm-3:00pm | Alex | 0 | **Full** |
 | 09/21/2026 | 9:30am-10:30am | Alex | 0 | **Full** |
 | 09/21/2026 | 3:00pm-4:00pm | Alex | 0 | **Full** |
