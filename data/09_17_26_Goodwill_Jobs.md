@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** September 17, 2026 at 12:10 PM
+**Last Updated:** September 17, 2026 at 07:14 PM
 
-**Total Positions:** 203
+**Total Positions:** 205
 
 ---
 
@@ -11,7 +11,7 @@
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (10)
 - [Education & Training](#education-training) (17)
-- [Management & Leadership](#management-leadership) (36)
+- [Management & Leadership](#management-leadership) (38)
 - [Merchandise Processing](#merchandise-processing) (56)
 - [Other Positions](#other-positions) (28)
 - [Sales](#sales) (33)
@@ -1433,6 +1433,132 @@ Goodwill Excel Center is a public school and pre-employment background check and
 
 ## Management & Leadership
 
+### Senior Manager, Marketing Technology
+
+- **Location:** GCC HQ, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $75,000.00 - $81,000.00
+- **Posted:** Sep 17, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587312)**
+
+#### Job Description
+
+The Goodwill Central Texas Marketing team supports a diverse and complex organization, serving internal stakeholders and community members across Retail, Commercial Services, Goodwill Staffing Group, GCTA Technical College, Excel Center Adult High School, Business and Community Engagement, Workforce Advancement Programs, and Development. 
+The **Senior Manager, Marketing Technology** serves as the primary link between the Marketing organization and IT, ensuring Marketing has the technology, systems, data infrastructure, and technical capabilities necessary to operate effectively and efficiently. This role owns the administration, governance, integration, data quality, and optimization of marketing technology platforms and provides technology training and support to the Marketing organization. The role partners closely with marketing leaders and creative/content teams to enable campaign *execution* but does not own creative development, content development, or overall campaign strategy.
+**Role and Responsibilities**
+**HubSpot & Marketing Automation**
+•    Serves as the primary administrator and subject-matter expert for HubSpot, partnering with IT and stakeholders across all business units to develop and implement platform solutions that support organizational goals. 
+•    Translates business unit requirements into HubSpot workflows, automations, contact properties, forms, lifecycle stages, and other platform functionality. 
+•    Develops and maintains user journeys for prospects, leads, and existing contacts based on established audience personas.
+•    Builds and maintains automated workflows and drip campaigns that support cross-departmental and cross-audience marketing initiatives. 
+•    Establishes and maintains standards for contact management, segmentation, naming conventions, and other HubSpot data structures to ensure consistency and scalability. 
+•    Oversees HubSpot integrations with other organizational systems and platforms, partnering with IT and external vendors to troubleshoot issues and optimize system performance. 
+•    Monitors database health and implements processes to improve data accuracy, completeness, consistency, and usability. 
+•    Manages users, permissions, subscriptions, and seats in accordance with organizational needs, established governance standards. 
+**Marketing Technology & Systems**
+•    Oversees the day-to-day administration, optimization, and adoption of the full mar-tech ecosystem, ensuring systems are properly configured, maintained, and utilized. 
+•    Partners with IT and organizational stakeholders to continuously evaluate, implement, and optimize marketing technology platforms.  
+•    Serves as the primary marketing point of contact for technology vendors and platform providers, coordinating product updates, renewals, issue resolution, and escalations.
+•    Establishes user access, permissions, naming conventions, platform usage and documentation.
+•    Manages subscriptions, licenses, seats, and user permissions to ensure appropriate access and cost-effective utilization. 
+•    Identifies opportunities to automate manual processes and improve efficiency through technology, workflow automation, and system integrations. 
+•    Stays current on emerging AI capabilities and evaluates opportunities to incorporate AI into marketing workflows.
+•    Designs and implements AI-enabled workflows that improve efficiency, consistency, and scalability while adhering to organizational policies and standards. 
+•    Provides ongoing training, resources, and support to improve marketing team proficiency and adoption of technology platforms and AI tools. 
+**Channel & Data Management**
+**Email Marketing**
+•    Owns the functional implementation and administration of email marketing platform (HubSpot) for all business units, including campaign setup, audience management, segmentation, scheduling, deployment, and reporting. 
+•    Manages contact lists, data structures, subscription preferences, segmentation, and data hygiene within HubSpot. 
+•    Conducts functional QA of email campaigns prior to deployment, including audience selection, links, tracking, personalization, and other technical elements. 
+•    Monitors channel health and performance and provides data-informed recommendations for optimization. 
+•    Does not develop email layouts, graphics, copy, or other creative content. 
+**Digital Advertising**
+•    Owns the functional implementation and administration of digital advertising platforms, including PMAX (Google Performance Max), Meta, LinkedIn, YouTube, and other applicable platforms. 
+•    Implements and maintains campaign configurations, audiences, conversion events, tracking parameters, pixels, tags, and other technical components of digital advertising campaigns. 
+•    Conducts technical QA and ongoing monitoring of digital advertising campaigns to ensure accurate implementation, tracking, and data capture. 
+•    Monitors digital advertising channel health and performance and provides data-informed recommendations for optimization. 
+•    Does not develop advertising creative, copy, or other campaign content. 
+**Data & File Management**
+•    Manages the marketing team's internal file system and digital asset organization within SharePoint, ensuring files and assets are organized, accessible, current, and appropriately archived. 
+•    Monitors marketing databases for data-quality issues, and implements processes to address them. 
+•    Establishes file-management standards, naming conventions, permissions, and archival practices to improve accessibility and functionality. 
+**Analytics, Reporting & Optimization**
+•    Develops reports and dashboards on the performance of marketing channels and key initiatives, translating complex data into clear insights and recommendations for marketing leadership and business unit stakeholders. 
+•    Monitors channel and platform performance, identifies trends and anomalies, and provides actionable, data-informed recommendations for improvement. 
+•    Conducts regular audits of marketing systems and channels and ensures they are configured to capture accurate and actionable performance data. 
+•    Leverages industry trends, competitive intelligence, audience insights, and performance data to identify opportunities for marketing optimization. 
+**Training, Adoption & Change Management**
+•    Leads technology adoption and change-management initiatives across the marketing organization, ensuring team members understand and effectively use required platforms and processes. 
+•    Develops and delivers training for marketing team members on marketing technology platforms, AI tools, workflows, and established standards. 
+•    Creates user guides, process documentation, training materials, and other resources to support consistent platform adoption. 
+**Supervisory Responsibility**
+This role does not have direct reports.
+**Required Skills & Qualifications **
+•    Bachelor’s degree required
+•    5-8+ years of experience with enterprise technology solutions, systems management, tech-enables process optimization, building workflows, change management, data hygiene and reporting.
+•    HubSpot experience required
+•    Experience with workflow management platforms required
+•    Experience with Microsoft Office required
+•    Experience with email marketing platform administration required 
+•    Experience with digital advertising platform administration required 
+•    Experience working in, or closely interfacing with, a marketing organization strongly preferred
+•    Experience with agentic and generative AI tools, Adobe Creative Cloud, and other mar tech stack tools required
+•    Experience with a large, multi-brand organization strongly preferred
+•    Demonstrated ability to lead process improvements and organizational change 
+•    Exceptional judgment, professionalism, adaptability, and problem-solving skills, with the confidence to make sound, data-informed recommendations.
+•    Exceptional organizational and time-management skills, with the ability to prioritize competing demands, manage multiple projects simultaneously, and maintain a high level of accuracy in a fast-paced environment.
+•    Initiative to independently identify issues and develop effective solutions.
+**Physical Requirements**
+•    Prolonged periods of sitting at a desk and working on a computer.
+•    Must be able to lift to 15 pounds at times.
+•    While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. 
+•    The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus. 
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
+
+### Senior Manager, Marketing Operations
+
+- **Location:** GCC HQ, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $75,000.00 - $81,000.00
+- **Posted:** Sep 17, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587309)**
+
+#### Job Description
+
+The Goodwill Central Texas Marketing team supports a diverse and complex organization, serving internal stakeholders and community members across Retail, Commercial Services, Goodwill Staffing Group, GCTA Technical College, Excel Center Adult High School, Business and Community Engagement, Workforce Advancement Programs, and Development.
+The **Senior Manager, Marketing Operations** serves as Chief of Staff for the Goodwill Central Texas Marketing organization and is a key liaison between the marketing team, organizational stakeholders, and external clients.
+**Role and Responsibilities**
+**Marketing Operations and Project Management**
+- Oversees the marketing team's project portfolio, ensuring projects are appropriately prioritized, staffed, scheduled, resourced, and delivered on time and within budget. - Serves as a primary liaison between the marketing organization, internal clients, and external stakeholders, facilitating communication, managing expectations, resolving issues, and removing project blockers. - Develops, documents, implements, and continuously improves marketing processes, policies, and SOPs to increase efficiency, consistency, accountability, and scalability. - Leads operational onboarding for new marketing team members, coordinates ongoing training related to marketing processes, systems, tools, policies, and best practices.
+** **
+**Performance, Planning, and Accountability**
+- Monitors marketing team performance against quarterly and annual goals, providing ongoing reporting, accountability, and escalation to ensure long term objectives are achieved.- In partnership with VP Marketing and organizational stakeholders, coordinates annual and quarterly marketing planning, goal setting, and biannual performance reviews- Manages marketing budgets and financial operations, including budget tracking, forecasting, invoice approvals, purchasing, and reconciliation; partners with Finance and Accounting to monitor spending, ensure compliance, and identify variances.
+** **
+**Systems, Documentation, & Administration**
+- Owns the day-to-day operational infrastructure of the marketing organization, including documentation, records management, scheduling, contract administration, purchasing, and other administrative processes.- Owns the Marketing Team’s EOS (Enterprise Operating System) implementation
+**Vendor and Production Management**
+- Manages relationships with marketing vendors, agencies, partners, creators, and other external parties; directs inquiries, oversees vendor contract negotiations, deliverables, and timelines- Coordinates production and delivery of printed and digital marketing materials and assets, ensuring quality, accuracy, timely delivery, and brand compliance.- Coordinates marketing graphics, signage, and installation projects for retail locations, working with internal teams and external vendors to ensure timely and accurate execution.
+**Other Duties**
+- Provides operational and logistical support for organizational and marketing events, including vendor and venue coordination, materials, staffing, timelines, and on-site execution as needed.- Other duties as assigned.
+**Supervisory Responsibility**
+This role does not have direct reports but is responsible for assigning, coordinating, and prioritizing work across the full marketing team and providing functional leadership to team members.
+** **
+**Required Skills & Qualifications **
+This role requires a confident and capable project manager and cross-functional leader who is comfortable triaging complex workflows, coordinating cross-functional teams, interfacing with a variety of stakeholders, and making confident, sound decisions in a fast-paced environment.
+- Bachelor’s degree required- 5-8+ years of project management and team leadership experience in a marketing or communications setting, either agency or in-house.- Experience with workflow management and project management platforms required- Experience with Microsoft Office required- Experience managing budgets, vendor contracts, invoices, and financial reporting required- Experience with Hubspot strongly preferred- Experience with a large, multi-brand organization strongly preferred- Familiarity with AI tools, Adobe Creative Cloud, and other mar tech stack tools strongly preferred- Demonstrated ability to lead process improvements and organizational change- Exceptional interpersonal, written, verbal, and presentation skills, with the ability to communicate effectively with audiences at all levels of the organization- Demonstrated ability to build and maintain strong relationships with internal clients, external partners, and cross-functional stakeholders while providing a high level of service- Exceptional judgment, professionalism, adaptability, and problem-solving skills.- Exceptional organizational and time-management skills, with the ability to prioritize competing demands, manage multiple projects simultaneously, and maintain a high level of accuracy in a fast-paced environment.- Initiative to independently identify issues and develop effective solutions.
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
+
 ### Retail Assistant Manager
 
 - **Location:**  Taylor, TX, US
@@ -1461,6 +1587,46 @@ Apply today and help us turn donations into opportunities!
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
+
+### Assistant Site Manager
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $50,000.00 - $55,000.00
+- **Posted:** Sep 15, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=583597)**
+
+#### Job Description
+
+The Assistant Site Manager supports their manager with all Post Retail Outlet and Operations in their assigned building. The Assistant Site Manager supervises all employees assigned to the Operations and Outlet team to include all day-to-day operations and administrative functions.
+**Role and Responsibilities**
+- Assists in managing all aspects of outlet, recycling, and dock operations.- Assists in managing equipment status, repairs, maintenance, and safety within Post Retail.- Recruit, select, develop, evaluate and counsel assigned employee(s). Terminate employees in accordance with Goodwill policies and in coordination with the Human Resources department.- Manage and supervise staff activities to ensure departmental goals, budgets and objectives are met.- Manage all personnel in accordance with applicable company local, state, and federal policies including ensuring compliance with all applicable OSHA requirements.- Attend meetings with other GCT departments, outside agencies, or other organizations as required.- Maintain a professional work environment and appropriate standards of safety, cleanliness and organization of both fleet and warehouse operations.- Ensures monthly revenue and expenses are in line with budget and adjust operations as necessary to meet goals.- Provide leadership, guidance, and professional development for assigned team and model expected behavior for staff. Maintain a positive relationship with management, peers, and subordinates; encourage interactions between all departments. Promote the Mission of Goodwill.- Provide excellent customer service to all Display the highest ethical standards when making decisions related to our people and business.- Other duties as assigned.
+**Supervisory Responsibility**
+This position has supervisory responsibilities over all hourly Post-Retail team members.
+**Required Skills & Qualifications **
+- Minimum 5 years’ experience in logistics, recycling, or similar field with supervisory responsibilities of 50+ employees.- Must have excellent communication skills. Bilingual preferred.- Must have excellent analytical, creative, and flexible problem-solving and decision-making skills.- Must demonstrate a maturity of practice using the 5 pillars and principles of servant leadership.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- High School Diploma or equivalent.- Must have a valid Texas Driver’s License.- Physical Requirements- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
+#IND2
+
+### Assistant Site Manager
+
+- **Location:** North Outlet, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $50,000.00 - $55,000.00
+- **Posted:** Sep 15, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=585723)**
+
+#### Job Description
+
+The Assistant Site Manager supports their manager with all Post Retail Outlet and Operations in their assigned building. The Assistant Site Manager supervises all employees assigned to the Operations and Outlet team to include all day-to-day operations and administrative functions.
+**Role and Responsibilities**
+- Assists in managing all aspects of outlet, recycling, and dock operations.- Assists in managing equipment status, repairs, maintenance, and safety within Post Retail.- Recruit, select, develop, evaluate and counsel assigned employee(s). Terminate employees in accordance with Goodwill policies and in coordination with the Human Resources department.- Manage and supervise staff activities to ensure departmental goals, budgets and objectives are met.- Manage all personnel in accordance with applicable company local, state, and federal policies including ensuring compliance with all applicable OSHA requirements.- Attend meetings with other GCT departments, outside agencies, or other organizations as required.- Maintain a professional work environment and appropriate standards of safety, cleanliness and organization of both fleet and warehouse operations.- Ensures monthly revenue and expenses are in line with budget and adjust operations as necessary to meet goals.- Provide leadership, guidance, and professional development for assigned team and model expected behavior for staff. Maintain a positive relationship with management, peers, and subordinates; encourage interactions between all departments. Promote the Mission of Goodwill.- Provide excellent customer service to all Display the highest ethical standards when making decisions related to our people and business.- Other duties as assigned.
+**Supervisory Responsibility**
+This position has supervisory responsibilities over all hourly Post-Retail team members.
+**Required Skills & Qualifications **
+- Minimum 5 years’ experience in logistics, recycling, or similar field with supervisory responsibilities of 50+ employees.- Must have excellent communication skills. Bilingual preferred.- Must have excellent analytical, creative, and flexible problem-solving and decision-making skills.- Must demonstrate a maturity of practice using the 5 pillars and principles of servant leadership.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- High School Diploma or equivalent.- Must have a valid Texas Driver’s License.- Physical Requirements- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 #IND2
 
 ### Career Case Manager
@@ -1824,7 +1990,7 @@ All qualified applicants will receive consideration for employment without regar
 
 #### Job Description
 
-Goodwill Central Texas’ **General Manager in Training (GMIT)- North **position is designed to prepare individuals for leadership roles within their retail operations. This training program emphasizes hands-on experience, team development, and alignment with Goodwill's mission to transform lives through the power of education and work.
+Goodwill Central Texas’ **General Manager in Training (GMIT)- North **position is designed to prepare individuals for leadership roles within their retail operations. This training program emphasizes hands-on experience, team development, and alignment with Goodwill's mission to transform lives through the power of education and work.
 **Key Responsibilities**
 **Retail Operations & Store Management**
 - Responsible for the overall operation of the retail store, including opening, closing, and daily execution of all store functions.- Oversee all production levels and ensure the quality of merchandise processed to the sales floor meets revenue and quality standards.- Manage inventory levels across all merchandise lines, ensuring proper flow of goods to and from the store.- Monitor and ensure effective donation processing that complies with security, safety, and state regulatory standards.- Maintain a clean, organized, and well-stocked store environment aligned with brand standards and budgetary goals.
@@ -1861,26 +2027,6 @@ Valid driver’s license and access to reliable transportation.
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
-### Assistant Site Manager
-
-- **Location:** North Outlet, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $50,000.00
-- **Posted:** Aug 18, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=585723)**
-
-#### Job Description
-
-The Assistant Site Manager supports their manager with all Post Retail Outlet and Operations in their assigned building. The Assistant Site Manager supervises all employees assigned to the Operations and Outlet team to include all day-to-day operations and administrative functions.
-**Role and Responsibilities**
-- Assists in managing all aspects of outlet, recycling, and dock operations.- Assists in managing equipment status, repairs, maintenance, and safety within Post Retail.- Recruit, select, develop, evaluate and counsel assigned employee(s). Terminate employees in accordance with Goodwill policies and in coordination with the Human Resources department.- Manage and supervise staff activities to ensure departmental goals, budgets and objectives are met.- Manage all personnel in accordance with applicable company local, state, and federal policies including ensuring compliance with all applicable OSHA requirements.- Attend meetings with other GCT departments, outside agencies, or other organizations as required.- Maintain a professional work environment and appropriate standards of safety, cleanliness and organization of both fleet and warehouse operations.- Ensures monthly revenue and expenses are in line with budget and adjust operations as necessary to meet goals.- Provide leadership, guidance, and professional development for assigned team and model expected behavior for staff. Maintain a positive relationship with management, peers, and subordinates; encourage interactions between all departments. Promote the Mission of Goodwill.- Provide excellent customer service to all Display the highest ethical standards when making decisions related to our people and business.- Other duties as assigned.
-**Supervisory Responsibility**
-This position has supervisory responsibilities over all hourly Post-Retail team members.
-**Required Skills & Qualifications **
-- Minimum 5 years’ experience in logistics, recycling, or similar field with supervisory responsibilities of 50+ employees.- Must have excellent communication skills. Bilingual preferred.- Must have excellent analytical, creative, and flexible problem-solving and decision-making skills.- Must demonstrate a maturity of practice using the 5 pillars and principles of servant leadership.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- High School Diploma or equivalent.- Must have a valid Texas Driver’s License.- Physical Requirements- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 #IND2
 
 ### Retail Assistant Manager
@@ -2182,26 +2328,6 @@ Background Check
 Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
 #IND1
 
-### Assistant Site Manager
-
-- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $50,000.00
-- **Posted:** Aug 03, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=583597)**
-
-#### Job Description
-
-The Assistant Site Manager supports their manager with all Post Retail Outlet and Operations in their assigned building. The Assistant Site Manager supervises all employees assigned to the Operations and Outlet team to include all day-to-day operations and administrative functions.
-**Role and Responsibilities**
-- Assists in managing all aspects of outlet, recycling, and dock operations.- Assists in managing equipment status, repairs, maintenance, and safety within Post Retail.- Recruit, select, develop, evaluate and counsel assigned employee(s). Terminate employees in accordance with Goodwill policies and in coordination with the Human Resources department.- Manage and supervise staff activities to ensure departmental goals, budgets and objectives are met.- Manage all personnel in accordance with applicable company local, state, and federal policies including ensuring compliance with all applicable OSHA requirements.- Attend meetings with other GCT departments, outside agencies, or other organizations as required.- Maintain a professional work environment and appropriate standards of safety, cleanliness and organization of both fleet and warehouse operations.- Ensures monthly revenue and expenses are in line with budget and adjust operations as necessary to meet goals.- Provide leadership, guidance, and professional development for assigned team and model expected behavior for staff. Maintain a positive relationship with management, peers, and subordinates; encourage interactions between all departments. Promote the Mission of Goodwill.- Provide excellent customer service to all Display the highest ethical standards when making decisions related to our people and business.- Other duties as assigned.
-**Supervisory Responsibility**
-This position has supervisory responsibilities over all hourly Post-Retail team members.
-**Required Skills & Qualifications **
-- Minimum 5 years’ experience in logistics, recycling, or similar field with supervisory responsibilities of 50+ employees.- Must have excellent communication skills. Bilingual preferred.- Must have excellent analytical, creative, and flexible problem-solving and decision-making skills.- Must demonstrate a maturity of practice using the 5 pillars and principles of servant leadership.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- High School Diploma or equivalent.- Must have a valid Texas Driver’s License.- Physical Requirements- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-#IND2
-
 ### Retail General Manager
 
 - **Location:** Georgetown Store, Georgetown, TX, US
@@ -2214,7 +2340,7 @@ All qualified applicants will receive consideration for employment without regar
 
 **Retail General Manager – Lead With Purpose **
 **Quarterly Bonus Potential: Retail General Managers have the potential to earn up to a max of 25% of their quarterly salary based on performance in key metrics in their department.**
-** After 30 days of employment, you will also receive a $1,000 bonus as a way of saying thank you for joining Goodwill.**
+** After 30 days of employment, you will also receive a $1,000 bonus as a way of saying thank you for joining Goodwill.**
 Are you a results-driven retail leader who thrives in a dynamic, mission-focused environment? Goodwill is seeking an experienced Retail General Manager (RGM) to lead the operations of one of our many thriving retail locations. This is more than just a store—it's a place where lives change every day. As the RGM, you’ll oversee everything from sales floor operations to production efficiency, creating a culture of excellence, customer satisfaction, and team development. If you’re passionate about retail, leadership, and making a difference in your community, this role is for you.
 **What You’ll Do:**
 - Lead day-to-day operations of a high-performing retail store, from opening to closing.- Manage both the sales floor and back-of-house production teams to ensure a smooth, efficient flow of merchandise.- Monitor inventory, stock levels, and merchandising to maximize revenue and maintain a compelling store presentation.- Recruit, train, schedule, and manage a dynamic team of staff, including Assistant Managers, Supervisors, Processors, and Sales Associates.- Cultivate a customer-first culture—ensuring every shopper and donor receives top-tier service.- Ensure compliance with all safety protocols, state regulations, and loss prevention procedures.- Take full ownership of store P&L and make data-driven decisions to meet performance goals.- Handle payroll, attendance, and scheduling using our internal systems.- Serve as the go-to leader for resolving team or customer concerns.- Maintain strong communication across departments and stores to align goals and performance.
@@ -4170,6 +4296,31 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ## Other Positions
 
+### Facilities Maintenance Technician
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $22.00 - $25.00
+- **Posted:** Sep 17, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587284)**
+
+#### Job Description
+
+The Facilities Maintenance Technician supports the mission of Goodwill Central Texas by performing routine, preventive, and corrective maintenance across retail stores, the Goodwill Community Center, warehouses, and program facilities. This role ensures all buildings, equipment, and systems remain safe, operational, and in good condition. Responsibilities include troubleshooting and repairing HVAC, electrical, plumbing, lighting, and general building components; completing work orders in a timely manner; supporting emergency repairs; and assisting with vendor coordination. The Facilities Maintenance Technician helps maintain a clean, safe environment for employees, students, and customers while upholding Goodwill’s standards of service, safety, and professionalism.
+**Role and Responsibilities:**
+- Perform routine, preventive, and corrective maintenance across all Goodwill Central Texas facilities, retail stores, and program sites.- Troubleshoot and repair building systems including HVAC, electrical, plumbing, lighting, carpentry, and general facility components.- Complete work orders within established priority timelines and document all repairs accurately in the CMMS/work order system.- Assist with quarterly and annual preventive maintenance schedules on HVAC units, equipment, and safety systems.- Conduct facility inspections to identify safety hazards, building/equipment issues, and maintenance needs.- Respond to emergency calls, after-hours situations, and weather-related building issues as needed.- Support vendor access, escorting, and coordination during scheduled repairs and service calls.- Ensure compliance with OSHA, safety protocols, lockout/tagout procedures, and Goodwill operational standards.- Maintain tools, equipment, and work areas in clean, safe, and functional condition.- Assist with minor construction, painting, carpentry, and installation projects.- Communicate effectively with the Facilities Manager and store leadership on repair status and operational impacts.- Provide excellent customer service to internal stakeholders, maintaining a helpful and professional demeanor.
+**Physical Requirements**
+- Ability to lift up to 50 lbs.- Ability to stand, walk, bend, kneel, and climb ladders for extended periods- Ability to work in varying warehouse conditions (heat, cold, dust, noise)
+**Required Skills & Qualifications **
+- One to three months previous related experience. Approved training programs may substitute for experience.- Ability to pass a criminal background check (subject to requirements of assigned site client).- Demonstrated skill in repair and maintenance of household appliances, plumbing, and lighting fixtures.- Demonstrated skill in heating and air conditioning unit repair and maintenance.- Ability to operate a variety of maintenance tools and equipment.- Ability to multitask.- Valid driver’s license, personal auto and liability insurance, and good driving record.
+**Physical Requirements **
+- Ability to work in a non-climate-controlled environment. - Must be able to lift up to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
+
 ### Retail Team Lead
 
 - **Location:** Hutto Store, Hutto, TX, US
@@ -4456,30 +4607,6 @@ This position is responsible for coaching and training the AI Merchandise Pricer
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Maintenance Technician
-
-- **Location:**  Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $22.00 - $25.00
-- **Posted:** Aug 31, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586470)**
-
-#### Job Description
-
-The Maintenance Technician supports the mission of Goodwill Central Texas by performing routine, preventive, and corrective maintenance across retail stores, the Goodwill Community Center, warehouses, and program facilities. This role ensures all buildings, equipment, and systems remain safe, operational, and in good condition. Responsibilities include troubleshooting and repairing HVAC, electrical, plumbing, lighting, and general building components; completing work orders in a timely manner; supporting emergency repairs; and assisting with vendor coordination. The technician helps maintain a clean, safe environment for employees, students, and customers while upholding Goodwill’s standards of service, safety, and professionalism.
-**Role and Responsibilities:**
-- Perform routine, preventive, and corrective maintenance across all Goodwill Central Texas facilities, retail stores, and program sites.- Troubleshoot and repair building systems including HVAC, electrical, plumbing, lighting, carpentry, and general facility components.- Complete work orders within established priority timelines and document all repairs accurately in the CMMS/work order system.- Assist with quarterly and annual preventive maintenance schedules on HVAC units, equipment, and safety systems.- Conduct facility inspections to identify safety hazards, building/equipment issues, and maintenance needs.- Respond to emergency calls, after-hours situations, and weather-related building issues as needed.- Support vendor access, escorting, and coordination during scheduled repairs and service calls.- Ensure compliance with OSHA, safety protocols, lockout/tagout procedures, and Goodwill operational standards.- Maintain tools, equipment, and work areas in clean, safe, and functional condition.- Assist with minor construction, painting, carpentry, and installation projects.- Communicate effectively with the Facilities Manager and store leadership on repair status and operational impacts.- Provide excellent customer service to internal stakeholders, maintaining a helpful and professional demeanor.
-**Physical Requirements**
-- Ability to lift up to 50 lbs.- Ability to stand, walk, bend, kneel, and climb ladders for extended periods- Ability to work in varying warehouse conditions (heat, cold, dust, noise)
-- Required Skills & Qualifications - One to three months previous related experience. Approved training programs may substitute for experience.- Ability to pass a criminal background check (subject to requirements of assigned site client).- Demonstrated skill in repair and maintenance of household appliances, plumbing, and lighting fixtures.- Demonstrated skill in heating and air conditioning unit repair and maintenance.- Ability to operate a variety of maintenance tools and equipment.- Ability to multitask.- Valid driver’s license, personal auto and liability insurance, and good driving record.
-**Physical Requirements **
-- Ability to work in a non-climate-controlled environment. - Must be able to lift up to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
 
 ### Retail Team Lead
 
