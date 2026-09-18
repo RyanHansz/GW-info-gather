@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** September 18, 2026 at 11:47 AM
+**Generated:** September 18, 2026 at 06:56 PM
 
 ---
 
@@ -9,8 +9,8 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 44 | 89 |
-| GCC (North Austin) | 12 | 92 | 143 |
+| GRC (South Austin) | 11 | 44 | 90 |
+| GCC (North Austin) | 12 | 92 | 142 |
 | **TOTAL** | **23** | **136** | **232** |
 
 ---
@@ -49,15 +49,15 @@
 
 **Duration:** 3 hours/day (week-long) | **Requirements:** Completed Indeed Lab and signed checklist required.
 
-> **✅ Spaces available!** 4 total spots across 1 sessions
+> **✅ Spaces available!** 5 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-career-advancement-essentials/
 
-**Total Sessions:** 1 | **Available Spaces:** 4
+**Total Sessions:** 1 | **Available Spaces:** 5
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| September 21-25, 9:00am-Noon | TBD | Cindy | 4 | **Available** |
+| September 21-25, 9:00am-Noon | TBD | Cindy | 5 | **Available** |
 
 ---
 
@@ -337,15 +337,15 @@
 
 **Duration:** 3 hours/day (week-long) | **Requirements:** Completed Indeed Lab and signed checklist required.
 
-> **✅ Spaces available!** 3 total spots across 1 sessions
+> **✅ Spaces available!** 2 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-career-advancement-essentials/
 
-**Total Sessions:** 1 | **Available Spaces:** 3
+**Total Sessions:** 1 | **Available Spaces:** 2
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| September 28 - October 2 | 9:00am-12:00pm | Alex | 3 | **Available** |
+| September 28 - October 2 | 9:00am-12:00pm | Alex | 2 | **Available** |
 
 ---
 
