@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** September 21, 2026 at 01:48 PM
+**Last Updated:** September 21, 2026 at 07:45 PM
 
-**Total Positions:** 208
+**Total Positions:** 210
 
 ---
 
@@ -13,8 +13,8 @@
 - [Education & Training](#education-training) (17)
 - [Management & Leadership](#management-leadership) (39)
 - [Merchandise Processing](#merchandise-processing) (58)
-- [Other Positions](#other-positions) (28)
-- [Sales](#sales) (33)
+- [Other Positions](#other-positions) (29)
+- [Sales](#sales) (34)
 - [Warehouse & Transportation](#warehouse-transportation) (19)
 - [eCommerce](#ecommerce) (3)
 
@@ -2753,10 +2753,10 @@ Employment is contingent upon the successful completion of a pre-employment back
 ### Merchandise Processor
 
 - **Location:** Dripping Springs Store, Dripping Springs, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $15.00
+- **Type:** Part Time
+- **Salary:** $14.00 - $15.00
 - **Posted:** Sep 21, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=582704)**
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587445)**
 
 #### Job Description
 
@@ -4383,6 +4383,30 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Retail Team Lead
 
+- **Location:** Chimney Corners Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $17.85
+- **Posted:** Sep 21, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587442)**
+
+#### Job Description
+
+The Retail Team Lead will assist management in the operation of the Goodwill retail store. This includes customer service, recordkeeping, cash management, facility operation, communications, merchandising, production, and inventory control. They will have a primary team they are responsible to work with when not assisting management with store operations (the retail sales floor team, or the back-room production team) as assigned by the Retail General Manager.
+**Role and Responsibilities**
+- Assist the store management team with the overall operation of the retail store when scheduled or assigned. - Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Coach and train associates on their assigned team (sales floor or production) as a subject matter expert. 
+**Supervisory Responsibility**
+This position is responsible for coaching and training the AI Merchandise Pricer, Merchandise Processor, and Sales Associate positions on their assigned team.  This position does not have any direct reports.  
+**Required Skills & Qualifications **
+- At least 1 year of supervisory, leading a team, or equivalent experience.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.- Keyholder responsibilities for open/closing securing the store as scheduled. 
+**Physical Requirements**
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Must be big joe certified to load and unload trailers- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Retail Team Lead
+
 - **Location:** Balcones Store, Austin, TX, US
 - **Type:** Full Time
 - **Salary:** $17.00 - $19.00
@@ -5094,6 +5118,34 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Sales
+
+### Sales Associate
+
+- **Location:** Chimney Corners Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Sep 21, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587453)**
+
+#### Job Description
+
+Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
+** **
+**What You’ll Do:**
+- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
+** **
+**What You Bring:**
+- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
+** **
+**What You’ll Get:**
+- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
+** **
+**Why It Matters:**
+Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Sales Associate
 
