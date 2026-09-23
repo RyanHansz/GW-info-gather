@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** September 23, 2026 at 12:02 PM
+**Last Updated:** September 23, 2026 at 07:19 PM
 
-**Total Positions:** 207
+**Total Positions:** 206
 
 ---
 
@@ -15,7 +15,7 @@
 - [Merchandise Processing](#merchandise-processing) (57)
 - [Other Positions](#other-positions) (29)
 - [Sales](#sales) (34)
-- [Warehouse & Transportation](#warehouse-transportation) (20)
+- [Warehouse & Transportation](#warehouse-transportation) (19)
 - [eCommerce](#ecommerce) (2)
 
 ---
@@ -3607,7 +3607,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 ### Merchandise Processor
 
 - **Location:** Hutto Store, Hutto, TX, US
-- **Type:** Full Time
+- **Type:** Part Time
 - **Salary:** $0.00 - $14.00
 - **Posted:** Aug 28, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586384)**
@@ -6026,26 +6026,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 - **Salary:** $0.00 - $14.50
 - **Posted:** Sep 15, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587171)**
-
-#### Job Description
-
-The Material Handler I performs a variety of warehouse, recycling, and material handling duties in support of Distribution Center operations. This position safely processes donations and merchandise while maintaining productivity, quality, and safety standards.
-**Role and Responsibilities**
-- Sort donations and merchandise into designated commodity streams in accordance with current operating procedures. - Process, stack, palletize, and prepare merchandise and recyclable materials for storage, shipment, or sale. - Safely operate: - Manual pallet jacks - Tippers - Trash compactors - Vertical balers - Max-Pak horizontal balers - Load tippers, balers, and compactors safely and efficiently. - Maintain clean, organized, and safe work areas. - Inspect assigned equipment prior to use and report maintenance or safety concerns. - Follow all Goodwill Central Texas safety policies and Standard Operating Procedures. - Accurately report accidents, incidents, hazards, or damaged equipment. - Work collaboratively with leadership and peers to support daily production goals. - Maintain a professional image when interacting with customers, donors, and team members. - Other duties as assigned. 
-**Required Skills & Qualifications**
-- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Material Handler I
-
-- **Location:** Ecommerce, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.00
-- **Posted:** Sep 14, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587115)**
 
 #### Job Description
 
