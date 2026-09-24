@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** September 24, 2026 at 12:26 PM
+**Last Updated:** September 24, 2026 at 07:39 PM
 
-**Total Positions:** 205
+**Total Positions:** 206
 
 ---
 
@@ -13,7 +13,7 @@
 - [Education & Training](#education-training) (17)
 - [Management & Leadership](#management-leadership) (37)
 - [Merchandise Processing](#merchandise-processing) (57)
-- [Other Positions](#other-positions) (29)
+- [Other Positions](#other-positions) (30)
 - [Sales](#sales) (34)
 - [Warehouse & Transportation](#warehouse-transportation) (19)
 - [eCommerce](#ecommerce) (2)
@@ -2984,6 +2984,7 @@ At Goodwill, your work has purpose. Every donation you process helps fund job tr
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Merchandise Processor
 
@@ -4250,6 +4251,31 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Other Positions
+
+### IT End User Services
+
+- **Location:** GCC HQ, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $20.00 - $23.00
+- **Posted:** Sep 24, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587303)**
+
+#### Job Description
+
+The IT End User Services provides support through phone calls and face-to-face interactions.  The position resolves level 1 tickets and travels to worksites as necessary.  
+**Role and Responsibilities**
+- Resolves or escalates Tier 1 help desk tickets.- Follows-up on outstanding tickets to ensure timely resolution.- Creates accounts and configures hardware including installation of software, imaging computers, upgrading and replacing hardware and software. - Supports audio and video equipment in conference rooms.- Maintains internal assets to ensure accurate inventory records.- Communicates both verbally and in writing in a professional and respectful manner.- Collaborates with others.- Delivers exceptional customer service.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities
+**Required Skills & Qualifications **
+- Experience in Windows 10, Mac OS X and Office 365. - Experience in Active Directory maintenance, PC hardware, printers, scanners, computer peripherals, mobile devices (iOS, Android).- Experience in Client PC connectivity – ethernet, TCP/IP and VPN, RDP. - Experience with antivirus security products.- A+ Certification preferred.- Excellent oral and written communication skills. - Ability to work evenings and weekends as needed.- Texas Driver’s License, liability insurance, vehicle in good working condition and clean driving record.  
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer.- Ability to work in both a climate, and non-climate-controlled facility.- Must be able to lift up to 30 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - Ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus. 
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
 
 ### Retail Team Lead
 
