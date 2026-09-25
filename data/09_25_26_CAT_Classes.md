@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** September 25, 2026 at 12:28 PM
+**Generated:** September 25, 2026 at 07:43 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 31 | 62 |
-| GCC (North Austin) | 12 | 70 | 113 |
-| **TOTAL** | **23** | **101** | **175** |
+| GCC (North Austin) | 12 | 70 | 111 |
+| **TOTAL** | **23** | **101** | **173** |
 
 ---
 
@@ -271,11 +271,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 16 total spots across 5 sessions
+> **✅ Spaces available!** 15 total spots across 5 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/zjgi3bu0u7t757/
 
-**Total Sessions:** 5 | **Available Spaces:** 16
+**Total Sessions:** 5 | **Available Spaces:** 15
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -283,7 +283,7 @@
 | ~~09/14/2026~~ | ~~09:30AM-11:00AM~~ | Adryan | ~~3~~ | Past |
 | ~~09/17/2026~~ | ~~02:00PM-03:30PM~~ | Adryan | ~~3~~ | Past |
 | ~~09/21/2026~~ | ~~12:00PM-01:30PM~~ | Adryan | ~~4~~ | Past |
-| 09/28/2026 | 09:30AM-11:00AM | Adryan | 3 | **Available** |
+| 09/28/2026 | 09:30AM-11:00AM | Adryan | 2 | **Available** |
 
 ---
 
@@ -448,15 +448,15 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 9 total spots across 4 sessions
+> **✅ Spaces available!** 8 total spots across 4 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/
 
-**Total Sessions:** 4 | **Available Spaces:** 9
+**Total Sessions:** 4 | **Available Spaces:** 8
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| 09/28/2026 | 1:00pm-3:00pm | Alex | 3 | **Available** |
+| 09/28/2026 | 1:00pm-3:00pm | Alex | 2 | **Available** |
 | 09/29/2026 | 11:00AM-01:00PM | Adryan | 2 | **Available** |
 | 09/30/2026 | 1:30pm-3:30pm | Alex | 1 | **Available** |
 | 10/02/2026 | 1:00pm-3:00pm | Alex | 3 | **Available** |
