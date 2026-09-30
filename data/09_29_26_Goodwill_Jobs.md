@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** September 29, 2026 at 01:34 PM
+**Last Updated:** September 29, 2026 at 08:01 PM
 
-**Total Positions:** 206
+**Total Positions:** 204
 
 ---
 
@@ -11,8 +11,8 @@
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (9)
 - [Education & Training](#education-training) (17)
-- [Management & Leadership](#management-leadership) (34)
-- [Merchandise Processing](#merchandise-processing) (59)
+- [Management & Leadership](#management-leadership) (31)
+- [Merchandise Processing](#merchandise-processing) (60)
 - [Other Positions](#other-positions) (28)
 - [Sales](#sales) (37)
 - [Warehouse & Transportation](#warehouse-transportation) (19)
@@ -1569,36 +1569,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Retail Assistant Manager
 
-- **Location:** Riverside Store, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $46,000.00 - $49,999.00
-- **Posted:** Sep 21, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587430)**
-
-#### Job Description
-
-**Assistant Store Manager – Lead With Purpose **
-**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
-Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
-**What You’ll Be Doing:**
-- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
-**Who You’ll Supervise:**
-Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
-**What You Bring:**
-- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
-**What You’ll Get:**
-- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
-**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
-**Ready to lead with heart and hustle?**
-Apply today and help us turn donations into opportunities!
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
-### Retail Assistant Manager
-
 - **Location:**  Lakeway, TX, US
 - **Type:** Full Time
 - **Salary:** $46,000.00 - $49,999.00
@@ -1971,35 +1941,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 #IND2
 
-### Retail Assistant Manager
-
-- **Location:** Georgetown Store, Georgetown, TX, US
-- **Type:** Full Time
-- **Salary:** $46,000.00 - $50,000.00
-- **Posted:** Aug 31, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586455)**
-
-#### Job Description
-
-**Assistant Store Manager – Lead With Purpose **
-**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
-Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
-**What You’ll Be Doing:**
-- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
-**Who You’ll Supervise:**
-Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
-**What You Bring:**
-- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
-**What You’ll Get:**
-- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
-**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
-**Ready to lead with heart and hustle?**
-Apply today and help us turn donations into opportunities!
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
 ### Floor Care Supervisor
 
 - **Location:**  Austin, TX, US
@@ -2351,73 +2292,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check**
 Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
 
-### Director of Student Pathways
-
-- **Location:** Excel Norwood Campus, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $74,508.00 - $88,908.00
-- **Posted:** Jul 01, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581560)**
-
-#### Job Description
-
-Company:
-For more than six decades, **Goodwill Central Texas** has been relentlessly focused on empowering thousands of people to work. We transform revenue from over 37 retail locations into a combination of education, career training, job placement, career coaching and support, and more. Every time you shop or support Goodwill, you are helping fund our greater mission to serve our community. Goodwill’s vision extends far beyond our retail stores and your generous donations: We envision a Central Texas where everyone has the opportunity to thrive.
-The **Goodwill Excel Center for Adults** opened in 2014 as an open-enrollment public charter high school for adults ages 18 to 50. The Excel Center Adult High School transforms lives in a supportive and holistic learning environment where all students are empowered to achieve. 
-For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org
-Commitment to Excellence
-At The Excel Center, we are building a high-performing organization focused on transforming lives through the power of education and work and becoming the model of excellence for adult education across Texas. Our team members contribute to a culture grounded in our values of caring, innovation, and accountability and focused on strong graduate outcomes.
-All Excel team members:
-- Deliver Excellence - Uphold high standards of professionalism, execution, and service to students- Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.- Work as One Team - Collaborate and contribute positively to a solutions-oriented culture- Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities- Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
-All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
-Important Retirement Information
-The Goodwill Excel Center for Adults is a **Texas public charter school district**. Employees in TRS-eligible positions participate in the **Teacher Retirement System of Texas (TRS)**.
-Eligible employees are required to contribute a portion of their salary to TRS retirement and TRS-Care through automatic payroll deductions. TRS is a defined-benefit retirement system, and employees generally become vested after earning **five years of TRS service credit**.
-Candidates should consider these required retirement contributions when evaluating compensation and long-term employment with the district. Additional information about TRS eligibility, contributions, vesting, and retirement benefits is available through the Teacher Retirement System of Texas.
-**POSITION SUMMARY:**
-The Director of Student Pathways (DSP) provides district-level leadership and operational oversight of student pathway systems that support student progression from enrollment and onboarding through persistence, coaching and advising, credential attainment, workforce readiness, post-secondary transition, and alumni engagement across all campuses. The Excel Center student pathway encompasses the full student journey and is designed to support students in achieving academic, workforce, and post-secondary success.
-This position leads the development, implementation, alignment, and continuous improvement of operational systems related to admissions and recruitment, coaching and advising, college and career readiness, workforce pathways, transition planning, and post-secondary outcomes. The DSP collaborates closely with campus leadership and district departments to ensure pathway systems are implemented consistently through effective tools, resources, training, and data-informed practices while maintaining responsiveness to campus-specific needs. As a district systems leader, the DSP is responsible for cross-functional coordination, partnership development, operational alignment, and student outcome monitoring to strengthen pathway effectiveness and support successful transitions from enrollment through post-secondary education, employment, credential attainment, and career advancement.
-This position does not directly supervise campus personnel. The DSP provides district wide leadership, implementation support, and continuous improvement for pathway-related functions.
-**ESSENTIAL DUTIES AND RESPONSIBILITIES:**
-District Student Pathways Leadership
-- Lead the development, implementation, alignment, and continuous improvement of districtwide student pathway systems that support student progression from enrollment and onboarding through coaching and advising, credential attainment, workforce readiness, post-secondary transition, and alumni engagement. - Collaborate with district and campus leadership to ensure consistent implementation of pathway systems while supporting campus-specific needs and organizational priorities.- Monitor implementation fidelity and utilize data, feedback, and continuous improvement practices to strengthen and scale pathway systems across existing and future campuses.
-Post-secondary Pathway Systems- Community Schools
-- Lead district wide coordination and support for campus implementation of post-secondary and workforce pathway opportunities, including certifications, dual credit, workforce training, internships, apprenticeships, and transition initiatives. - Utilize labor market, workforce, and post-secondary trend data to support pathway planning, alignment, and continuous improvement.- Collaborate with campus leadership to provide recommendations regarding master schedule development, course offerings, and pathway sequencing that support student access to credential attainment, workforce readiness, and post-secondary opportunities.- Develop and maintain operational processes supporting post-secondary transition tracking, alumni engagement coordination, and longitudinal student outcome monitoring. 
-Coaching & Advising Operational Alignment
-- Support campus implementation of evidence-based coaching and advising systems through development of workflows, expectations, tools, resources, and training aligned with student persistence, academic progress, and pathway attainment goals. - Collaborate with campus and district teams to identify barriers to persistence and pathway completion and develop student-centered responsive solutions.
-Admissions & Recruitment Alignment
-- Develop and support campus-based systems that ensure seamless transitions from admissions and onboarding through pathway selection and participation to postsecondary transition. - Analyze admissions, persistence, and retention trends to identify opportunities for improved student engagement, retention, and success.
-- Collaborate with campus leadership to develop and maintain onboarding processes, tools, assessments, and resources that support pathway awareness and student engagement.
-Partnerships & Community Engagement
-- Develop and maintain district-level partnerships while supporting community campuses in their activation and coordination of partnerships that promote workforce development, post-secondary access, and student pathway opportunities. - Represent The Excel Center in workforce development, post-secondary access, and community partnership initiatives.- Collaborate with internal teams and the greater organization to promote student success stories, pathway opportunities, and post-secondary outcomes.- Assist with grant development and partnership opportunities related to workforce development, transition services, credential attainment, and post-secondary readiness.
-Data, Evaluation, & Continuous Improvement
-- Develop and monitor pathway metrics, accountability structures, and outcome reporting systems to evaluate student persistence, credential attainment, post-secondary transition, employment, wage outcomes and other longitudinal trend data. - Analyze quantitative and qualitative data to identify trends, inform strategic planning and drive continuous improvement efforts. - Support campus teams in using data to improve pathway participation and student outcomes.
-Training & Campus Support
-- Provide and coordinate implementation support, professional development, and systems training related to admissions, coaching and advising, and career readiness initiatives.- Support campus leadership staff in implementing district initiatives and operational expectations.- Facilitate cross-campus collaboration and develop tools, resources, and implementation guides that promote operational consistency and best practices. 
-**OTHER DUTIES AND RESPONSIBILITIES:**
-- Foster collegiality and collaboration among district and campus teams.- Promote positive and effective communication to enhance student services, program implementation, and organizational alignment.- Encourage collaborative problem-solving and continuous improvement among teams.- Assist district and campus teams with outreach and engagement events throughout the school year, including occasional evenings and weekends.- Comply with policies established by federal and state law, including State Board of Education and local Board policy.- Uphold the highest standards of professional ethics and compliance.- Maintain a consistent onsite presence aligned with assigned district schedule and operational needs.- Perform other duties as assigned.
-**SUPERVISORY RESPONSIBILITY:**
-This position provides district operational leadership and implementation support to campus-based pathway team members yet does not directly supervise campus-based staff.
-**REQUIRED QUALIFICATIONS:**
-- Master’s degree from an accredited college or university in Education, Educational Leadership, Adult Education, Student Affairs, School Counseling, Public Administration, Social Work, Workforce Development or a related field.- Minimum three years of leadership or administrative experience.- Experience in college and career readiness, workforce development, student support services, pathway development, coaching systems, admissions operations, or related educational leadership fields.- Experience leading cross-functional initiatives and operational implementation across multiple teams or campuses.- Knowledge of workforce development systems, post-secondary pathways, adult education, and student persistence models.- Strong systems-thinking, organizational leadership, and operational planning skills.- Ability to influence, coordinate, and support teams without direct supervisory authority.- Strong interpersonal, verbal, and written communication skills.- Ability to analyze data and utilize findings to support strategic and operational decision-making.- Demonstrated commitment to supporting adult learners and diverse student populations.- Possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Exhibit respect for diversity of thought and experience.- Ability to manage multiple priorities and complex operational initiatives effectively.- Valid Texas Driver’s license required.- Ability to travel periodically between district and campus locations. This position may require periodic travel to campus locations across Texas.
-**PREFERRED QUALIFICATIONS:**
-- Experience in multi-campus educational systems.- Experience in adult education, charter schools, workforce development, or post-secondary transition planning.
-**WORK SCHEDULE AND CAMPUS EXPECTATIONS: **
-The Director of Student Pathways Operations is part of the District Office Team and expected to work onsite Monday through Friday in accordance with assigned operating hours. Occasional evening hours may be required based on district or campus needs.
-**What We Offer**
-**Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.
-**Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.
-**Teacher Retirement System & 403b Participation**
-**Paid Parental Leave**: We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.
-**Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses & tuition/certification support.
-**Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and free mental health support.
-**Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.
-**Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
-**Equal Employment Opportunity**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to a workplace where everyone feels included. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, disability, veteran status, gender identity, sexual orientation, or any other protected characteristic.
-**Background Check**
-Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
-
 ### Business Development Manager
 
 - **Location:**  Austin, TX, US
@@ -2506,6 +2380,34 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Merchandise Processing
+
+### Merchandise Processor
+
+- **Location:** Georgetown Store, Georgetown, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Sep 29, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587841)**
+
+#### Job Description
+
+Now Hiring: Merchandise Processor | Earn a Raise After 60 Days!Enjoy hands-on work and staying active in a fast-paced retail environment? Bring your attention to detail and strong work ethic to a place where every item processed supports a meaningful mission. As a Merchandise Processor, you’ll play a vital behind-the-scenes role preparing products for the sales floor—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a job; it’s an opportunity to build valuable skills, grow your career, and make a real impact every day.
+** **
+**What You’ll Be Doing:**
+- Sort, hang, price, and prep donated merchandise for the sales floor- Identify boutique, brand-name, and vintage items—become a resale expert!- Meet daily processing goals while keeping your area clean and organized- Transport merchandise to the sales floor and stock by category- Deliver friendly customer service and assist with donation intake when needed- Cross-train in other store areas to support wherever help is needed- Be part of a team that’s driven by purpose and fueled by positivity
+** **
+**What You Bring:**
+- A great attitude and team spirit- Ability to work in a fast-paced, physical environment (lifting up to 30 lbs, standing for long periods)- Willingness to work weekends and holidays- Ability to communicate clearly and follow directions in English- 6+ months of prior work, retail, or volunteer experience is a plus- Reliability and pride in a job well done
+** **
+**What You’ll Get:**
+- Raise after 60 days – We reward hard work and commitment!- Health Coverage – Medical, dental, and vision insurance- Generous Paid Time Off – Vacation, holidays, and personal days- Paid Parental Leave – Support when your family grows- Career Growth – Training, development, and promotion opportunities- Wellness Benefits – Gym discounts and mental health support- Recognition Programs – We love celebrating wins- Inclusive Culture – Be part of a supportive, welcoming, and diverse team
+** **
+**Why Join Us?**
+At Goodwill, your work has purpose. Every donation you process helps fund job training, education, and support services for people in your community. When you join our team, you’re not just earning a paycheck—you’re changing lives. Ready to work hard, learn fast, and level up your pay in 60 days? Apply today and start your journey with Goodwill!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Merchandise Processor
 
