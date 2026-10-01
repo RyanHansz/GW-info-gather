@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** September 30, 2026 at 01:34 PM
+**Generated:** September 30, 2026 at 08:17 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 69 | 165 |
-| GCC (North Austin) | 12 | 130 | 321 |
-| **TOTAL** | **23** | **199** | **486** |
+| GRC (South Austin) | 11 | 69 | 163 |
+| GCC (North Austin) | 12 | 130 | 306 |
+| **TOTAL** | **23** | **199** | **469** |
 
 ---
 
@@ -230,18 +230,18 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 10 total spots across 10 sessions
+> **✅ Spaces available!** 8 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-job-preparation-11/
 
-**Total Sessions:** 12 | **Available Spaces:** 10
+**Total Sessions:** 12 | **Available Spaces:** 8
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 10/01/2026 | 2:00-3:00 | Cindy | 1 | **Available** |
 | 10/02/2026 | 11:00-12:00 | Cindy | 0 | **Full** |
-| 10/05/2026 | 1:00-2:00 | Cindy | 1 | **Available** |
-| 10/06/2026 | 11:30-12:30 | Cindy | 1 | **Available** |
+| 10/05/2026 | 1:00-2:00 | Cindy | 0 | **Full** |
+| 10/06/2026 | 11:30-12:30 | Cindy | 0 | **Full** |
 | 10/12/2026 | 12:30-1:30 | Cindy | 1 | **Available** |
 | 10/14/2026 | 12:30-1:30 | Cindy | 0 | **Full** |
 | 10/19/2026 | 3:00-4:00 | Cindy | 1 | **Available** |
@@ -332,19 +332,19 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 67 total spots across 18 sessions
+> **✅ Spaces available!** 62 total spots across 17 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-budgeting-basics/
 
-**Total Sessions:** 18 | **Available Spaces:** 67
+**Total Sessions:** 18 | **Available Spaces:** 62
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~09/23/2026~~ | ~~TBD~~ | Doug | ~~2~~ | Past |
 | 10/01/2026 | TBD | Doug | 1 | **Available** |
+| 10/05/2026 | TBD | Doug | 3 | **Available** |
 | 10/05/2026 | TBD | Doug | 4 | **Available** |
-| 10/05/2026 | TBD | Doug | 4 | **Available** |
-| 10/06/2026 | TBD | Doug | 4 | **Available** |
+| 10/06/2026 | TBD | Doug | 0 | **Full** |
 | 10/07/2026 | TBD | Doug | 4 | **Available** |
 | 10/09/2026 | TBD | Doug | 4 | **Available** |
 | 10/12/2026 | TBD | Doug | 4 | **Available** |
@@ -390,18 +390,18 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 34 total spots across 9 sessions
+> **✅ Spaces available!** 33 total spots across 9 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-computer-basics/
 
-**Total Sessions:** 10 | **Available Spaces:** 34
+**Total Sessions:** 10 | **Available Spaces:** 33
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~09/02/2026~~ | ~~09:00AM-10:00AM~~ | Adryan | ~~3~~ | Past |
 | ~~09/15/2026~~ | ~~11:00AM-12:00PM~~ | Adryan | ~~3~~ | Past |
 | ~~09/25/2026~~ | ~~10:00AM-11:00AM~~ | Adryan | ~~0~~ | Past |
-| 10/14/2026 | 11:00AM-12:00PM | Adryan | 4 | **Available** |
+| 10/14/2026 | 11:00AM-12:00PM | Adryan | 3 | **Available** |
 | 10/19/2026 | 09:00AM-10:00AM | Adryan | 4 | **Available** |
 | 10/20/2026 | 11:00AM-12:00PM | Adryan | 4 | **Available** |
 | 10/23/2026 | 10:00AM-11:00AM | Adryan | 4 | **Available** |
@@ -435,11 +435,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 14 total spots across 14 sessions
+> **✅ Spaces available!** 12 total spots across 12 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-digital-skills-11/
 
-**Total Sessions:** 19 | **Available Spaces:** 14
+**Total Sessions:** 19 | **Available Spaces:** 12
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -448,8 +448,8 @@
 | 10/05/2026 | 11:30am-12:30pm | Alex | 0 | **Full** |
 | 10/06/2026 | 3:00pm-4:00pm | Alex | 0 | **Full** |
 | 10/07/2026 | 11:30am-12:30pm | Alex | 0 | **Full** |
-| 10/09/2026 | 9:00am-10:00am | Alex | 1 | **Available** |
-| 10/12/2026 | 11:00am-12:00pm | Alex | 1 | **Available** |
+| 10/09/2026 | 9:00am-10:00am | Alex | 0 | **Full** |
+| 10/12/2026 | 11:00am-12:00pm | Alex | 0 | **Full** |
 | 10/13/2026 | 11:30am-12:30pm | Alex | 1 | **Available** |
 | 10/14/2026 | 02:30PM-03:30PM | Adryan | 1 | **Available** |
 | 10/15/2026 | 11:00am-12:00pm | Alex | 1 | **Available** |
@@ -473,11 +473,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 12 total spots across 12 sessions
+> **✅ Spaces available!** 11 total spots across 11 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 17 | **Available Spaces:** 12
+**Total Sessions:** 17 | **Available Spaces:** 11
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -486,7 +486,7 @@
 | 10/01/2026 | TBD | Doug | 0 | **Full** |
 | 10/02/2026 | TBD | Doug | 0 | **Full** |
 | 10/05/2026 | 11:30AM-12:30PM | Doug | 0 | **Full** |
-| 10/06/2026 | 11:30AM-12:30PM | Doug | 1 | **Available** |
+| 10/06/2026 | 11:30AM-12:30PM | Doug | 0 | **Full** |
 | 10/07/2026 | 11:30AM-12:30PM | Doug | 1 | **Available** |
 | 10/12/2026 | 11:30AM-12:30PM | Doug | 1 | **Available** |
 | 10/13/2026 | TBD | Doug | 1 | **Available** |
@@ -544,15 +544,15 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 30 total spots across 8 sessions
+> **✅ Spaces available!** 29 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-interview-preparation-and-practice/
 
-**Total Sessions:** 10 | **Available Spaces:** 30
+**Total Sessions:** 10 | **Available Spaces:** 29
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| 10/05/2026 | 1:00pm-3:00pm | Alex | 2 | **Available** |
+| 10/05/2026 | 1:00pm-3:00pm | Alex | 1 | **Available** |
 | 10/06/2026 | 9:00am-11:00am | Alex | 0 | **Full** |
 | 10/07/2026 | 1:00pm-3:00pm | Alex | 0 | **Full** |
 | 10/09/2026 | TBD | Doug | 4 | **Available** |
@@ -573,11 +573,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 18 total spots across 18 sessions
+> **✅ Spaces available!** 17 total spots across 17 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-job-preparation-11/
 
-**Total Sessions:** 21 | **Available Spaces:** 18
+**Total Sessions:** 21 | **Available Spaces:** 17
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -585,7 +585,7 @@
 | 10/01/2026 | 1:00pm-2:00pm | Alex | 0 | **Full** |
 | 10/02/2026 | 3:00pm-4:00pm | Alex | 0 | **Full** |
 | 10/05/2026 | 3:00pm-4:00pm | Alex | 1 | **Available** |
-| 10/06/2026 | 11:00am-12:00pm | Alex | 1 | **Available** |
+| 10/06/2026 | 11:00am-12:00pm | Alex | 0 | **Full** |
 | 10/07/2026 | 3:00pm-4:00pm | Alex | 1 | **Available** |
 | 10/09/2026 | 10:30am-11:30am | Alex | 1 | **Available** |
 | 10/09/2026 | 3:00pm-4:00pm | Alex | 1 | **Available** |
@@ -635,22 +635,22 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 63 total spots across 9 sessions
+> **✅ Spaces available!** 59 total spots across 9 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-wonderlic-prep-and-practice/
 
-**Total Sessions:** 10 | **Available Spaces:** 63
+**Total Sessions:** 10 | **Available Spaces:** 59
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~09/29/2026~~ | ~~TBD~~ | Doug | ~~0~~ | Past |
-| 10/02/2026 | TBD | Doug | 7 | **Available** |
+| 10/02/2026 | TBD | Doug | 4 | **Available** |
 | 10/06/2026 | TBD | Doug | 7 | **Available** |
 | 10/13/2026 | TBD | Doug | 7 | **Available** |
 | 10/15/2026 | TBD | Doug | 7 | **Available** |
 | 10/19/2026 | TBD | Doug | 7 | **Available** |
 | 10/20/2026 | TBD | Doug | 7 | **Available** |
-| 10/26/2026 | 1:30PM-3:30PM | Doug | 7 | **Available** |
+| 10/26/2026 | 1:30PM-3:30PM | Doug | 6 | **Available** |
 | 10/29/2026 | TBD | Doug | 7 | **Available** |
 | 10/30/2026 | TBD | Doug | 7 | **Available** |
 
