@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** October 01, 2026 at 01:58 PM
+**Last Updated:** October 01, 2026 at 08:19 PM
 
-**Total Positions:** 195
+**Total Positions:** 198
 
 ---
 
@@ -11,10 +11,10 @@
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (9)
 - [Education & Training](#education-training) (17)
-- [Management & Leadership](#management-leadership) (29)
+- [Management & Leadership](#management-leadership) (30)
 - [Merchandise Processing](#merchandise-processing) (53)
 - [Other Positions](#other-positions) (28)
-- [Sales](#sales) (36)
+- [Sales](#sales) (38)
 - [Warehouse & Transportation](#warehouse-transportation) (19)
 - [eCommerce](#ecommerce) (3)
 
@@ -1388,11 +1388,36 @@ Goodwill Excel Center is a public school and pre-employment background check and
 
 ## Management & Leadership
 
+### Retail Regional Director
+
+- **Location:** GCC HQ, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $120,000.00 - $130,000.00
+- **Posted:** Oct 01, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588015)**
+
+#### Job Description
+
+**Summary of Position**
+The Regional Director is the key liaison between Goodwill’s strategy, mission, and vision and their assigned region. They ensure operational excellence, achieve budget and sales goals, and recruit, hire, train, and retain strong teams. Regional Directors are expected to ensure that company policies and procedures are understood at all their assigned stores. The goal of the Regional Director is to motivate and direct the activities of the General Managers who run the (8-12) stores they are responsible for. They are accountable for all phases of assigned retail operations. They are responsible for protecting the brand and ensuring that organizational culture and values are extended to retail stores and throughout their area of influence and responsibility.
+**Role and Responsibilities**
+- Develop and implement strategies, action plans, staffing, and procedures to optimize processing of donations and maximize sales.- Responsible for delivering key performance indicators at assigned stores: customer service, production, controllable contributions, store sales, ecommerce sales and retention.- Coaches and develops store leaders through effective mentoring.- Drives employee morale through rewards and recognition.- Inspire the team and hold accountable for store operations, scheduling, store visual presentation and inventory levels to meet retail sales goals.- Ensures a safe, accident-free environment for all customers and employees and maintains compliance with established procedures and protocols.- Develops and maintains a safety culture through awareness and observation, trains and educates employees on safety requirements, and reports all potential hazards and accidents.- Develop a talent bench within their respective district.- Develop effective working partnerships with all support partners including but not limited to Human Resources, Loss Prevention and Finance.- Analyzes reports, conducts site visits, reviews customer/donor input to develop sales plans that maximize stores performance.- Collaborates with senior leaders in strategic planning to develop annual budgets.- Monitors all expenses to ensure adherence to the allocated budget.- Ensure proper merchandising and organization by adhering to all merchandising standards.- Assists in creating standard operating procedures that govern the retail/donation environment and effectively delegates and follows up on implementation of those procedures.- Ensure production disciplines are in place and productivity expectations are met to maximize revenue by optimizing productivity.- Collaborate with senior leaders to establish standards for organization and visual appearance, design store layout, maintain inventory, fixtures, and displays. Maximizes the number of products on the floor to achieve budget expectations.- Serves as the main point of contact for customer service issues in the region. Responds promptly and effectively to all customer inquiries. - Establishes a network and develops relationships in surrounding communities and participates in events to increase awareness and drive donations. - Other duties as assigned.
+**Supervisory Responsibility **
+This position has supervisory responsibilities over all retail members in assigned region
+**Required Skills & Qualifications **
+- Bachelor’s Degree preferred. - At least five years’ multi-unit retail management experience with full profit and loss responsibility. - Self-starter who is highly engaged, organized, goal focused and strategic in planning their daily, weekly, monthly and annual priorities. - Understanding both front and back of house operations. - Excellent communication skills. - Valid driver’s license, good driving record, liability insurance, vehicle in good working condition to travel on work related business. - Expected to physically visit stores 3-5 days a week including on holidays, nights, and weekends. - Intermediate proficiency with MS applications (Outlook, Excel, Word, PowerPoint) and other computer software (Internet, POS Systems, etc.). - Demonstrated success in developing successful top performers, store leaders and teams. - Excellent customer service and employee relations skills. - Ability to work with staff at all levels. - Ability to adapt to change and assume added responsibilities. - At least two years of experience developing and managing budgets.
+**Physical Requirements **
+- Prolonged periods of sitting at a desk and working on a computer. - While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.- Ability to use hands and fingers to operate a telephone and keyboard. - Must be able to lift and carry up to 15 pounds on a regular basis with or without reasonable accommodation.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
 ### Retail General Manager
 
 - **Location:**  Kyle, TX, US
 - **Type:** Full Time
-- **Salary:** $70,000.00 - $74,999.00
+- **Salary:** $75,000.00 - $85,000.00
 - **Posted:** Sep 28, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587786)**
 
@@ -1421,7 +1446,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 - **Location:**  Pflugerville, TX, US
 - **Type:** Full Time
-- **Salary:** $42,000.00 - $45,999.00
+- **Salary:** $45,000.00 - $50,000.00
 - **Posted:** Sep 28, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587780)**
 
@@ -1541,7 +1566,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 - **Location:** San Marcos Store, San Marcos, TX, US
 - **Type:** Full Time
-- **Salary:** $70,000.00 - $74,999.00
+- **Salary:** $75,000.00 - $85,000.00
 - **Posted:** Sep 21, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=584399)**
 
@@ -1602,7 +1627,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 - **Location:** San Marcos Store, San Marcos, TX, US
 - **Type:** Full Time
-- **Salary:** $50,000.00 - $55,000.00
+- **Salary:** $55,000.00 - $65,000.00
 - **Posted:** Sep 21, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=581430)**
 
@@ -1633,7 +1658,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 - **Location:** Brodie Lane Store, Austin, TX, US
 - **Type:** Full Time
-- **Salary:** $64,000.00 - $69,999.00
+- **Salary:** $65,000.00 - $75,000.00
 - **Posted:** Sep 21, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=584485)**
 
@@ -1663,7 +1688,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 - **Location:** Georgetown Store, Georgetown, TX, US
 - **Type:** Full Time
-- **Salary:** $64,000.00 - $69,999.00
+- **Salary:** $65,000.00 - $75,000.00
 - **Posted:** Sep 21, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=583036)**
 
@@ -1885,7 +1910,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 - **Location:** San Marcos Store, San Marcos, TX, US
 - **Type:** Full Time
-- **Salary:** $46,000.00 - $50,000.00
+- **Salary:** $55,000.00 - $65,000.00
 - **Posted:** Sep 04, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586730)**
 
@@ -1944,7 +1969,7 @@ Monday-Friday: Night: 10:00pm-6:00am
 
 - **Location:** Shadow Glen Store
 - **Type:** Full Time
-- **Salary:** $58,000.00 - $63,999.00
+- **Salary:** $60,000.00 - $65,000.00
 - **Posted:** Aug 25, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586164)**
 
@@ -1973,7 +1998,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 - **Location:** Lockhart, Lockhart, TX, US
 - **Type:** Full Time
-- **Salary:** $42,000.00 - $46,000.00
+- **Salary:** $45,000.00 - $50,000.00
 - **Posted:** Aug 25, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586155)**
 
@@ -4534,6 +4559,62 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Sales
+
+### Sales Associate
+
+- **Location:** Fredericksburg Store, Fredericksburg, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Oct 01, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588040)**
+
+#### Job Description
+
+Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
+** **
+**What You’ll Do:**
+- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
+** **
+**What You Bring:**
+- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
+** **
+**What You’ll Get:**
+- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
+** **
+**Why It Matters:**
+Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Sales Associate
+
+- **Location:** Fredericksburg Store, Fredericksburg, TX, US
+- **Type:** Part Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Oct 01, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588039)**
+
+#### Job Description
+
+Now Hiring: Sales Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
+** **
+**What You’ll Do:**
+- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
+** **
+**What You Bring:**
+- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
+** **
+**What You’ll Get:**
+- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
+** **
+**Why It Matters:**
+Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Sales Associate
 

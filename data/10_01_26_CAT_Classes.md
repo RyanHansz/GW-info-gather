@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** October 01, 2026 at 01:59 PM
+**Generated:** October 01, 2026 at 08:20 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 69 | 163 |
+| GRC (South Austin) | 11 | 69 | 162 |
 | GCC (North Austin) | 12 | 127 | 305 |
-| **TOTAL** | **23** | **196** | **468** |
+| **TOTAL** | **23** | **196** | **467** |
 
 ---
 
@@ -120,11 +120,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 2 total spots across 2 sessions
+> **✅ Spaces available!** 1 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-digital-skills-11/
 
-**Total Sessions:** 6 | **Available Spaces:** 2
+**Total Sessions:** 6 | **Available Spaces:** 1
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -132,7 +132,7 @@
 | 10/07/2026 | 02:30PM-03:30PM | Adryan | 0 | **Full** |
 | 10/12/2026 | 12:00PM-01:00PM | Adryan | 0 | **Full** |
 | 10/15/2026 | 02:30PM-03:30PM | Adryan | 0 | **Full** |
-| 10/28/2026 | 02:30PM-03:30PM | Cindy | 1 | **Available** |
+| 10/28/2026 | 02:30PM-03:30PM | Cindy | 0 | **Full** |
 | 10/30/2026 | 03:00PM-04:00PM | Adryan | 1 | **Available** |
 
 ---
@@ -369,16 +369,16 @@
 
 **Duration:** 3 hours/day (week-long) | **Requirements:** Completed Indeed Lab and signed checklist required.
 
-> **✅ Spaces available!** 9 total spots across 1 sessions
+> **✅ Spaces available!** 10 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-career-advancement-essentials/
 
-**Total Sessions:** 2 | **Available Spaces:** 9
+**Total Sessions:** 2 | **Available Spaces:** 10
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~September 28 - October 2~~ | ~~9:00am-12:00pm~~ | Alex | ~~0~~ | Past |
-| October 19 - 23 | 9:00am-12:00pm | Alex | 9 | **Available** |
+| October 19 - 23 | 9:00am-12:00pm | Alex | 10 | **Available** |
 
 ---
 
@@ -632,16 +632,16 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 59 total spots across 9 sessions
+> **✅ Spaces available!** 58 total spots across 9 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-wonderlic-prep-and-practice/
 
-**Total Sessions:** 10 | **Available Spaces:** 59
+**Total Sessions:** 10 | **Available Spaces:** 58
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~09/29/2026~~ | ~~TBD~~ | Doug | ~~0~~ | Past |
-| 10/02/2026 | TBD | Doug | 4 | **Available** |
+| 10/02/2026 | TBD | Doug | 3 | **Available** |
 | 10/06/2026 | TBD | Doug | 7 | **Available** |
 | 10/13/2026 | TBD | Doug | 7 | **Available** |
 | 10/15/2026 | TBD | Doug | 7 | **Available** |
