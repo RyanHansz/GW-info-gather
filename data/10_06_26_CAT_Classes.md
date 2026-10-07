@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** October 06, 2026 at 01:54 PM
+**Generated:** October 06, 2026 at 08:16 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 56 | 141 |
-| GCC (North Austin) | 12 | 115 | 264 |
-| **TOTAL** | **23** | **171** | **405** |
+| GRC (South Austin) | 11 | 56 | 140 |
+| GCC (North Austin) | 12 | 115 | 261 |
+| **TOTAL** | **23** | **171** | **401** |
 
 ---
 
@@ -248,16 +248,16 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 19 total spots across 5 sessions
+> **✅ Spaces available!** 18 total spots across 5 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-online-safety/
 
-**Total Sessions:** 5 | **Available Spaces:** 19
+**Total Sessions:** 5 | **Available Spaces:** 18
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 10/07/2026 | 01:00PM-02:00PM | Adryan | 4 | **Available** |
-| 10/09/2026 | 11:30AM-01:00PM | Adryan | 3 | **Available** |
+| 10/09/2026 | 11:30AM-01:00PM | Adryan | 2 | **Available** |
 | 10/12/2026 | 10:00AM-11:30AM | Adryan | 4 | **Available** |
 | 10/15/2026 | 01:00PM-02:00PM | Adryan | 4 | **Available** |
 | 10/26/2026 | 12:00PM-01:30PM | Adryan | 4 | **Available** |
@@ -319,11 +319,11 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 44 total spots across 13 sessions
+> **✅ Spaces available!** 43 total spots across 13 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-budgeting-basics/
 
-**Total Sessions:** 18 | **Available Spaces:** 44
+**Total Sessions:** 18 | **Available Spaces:** 43
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -332,7 +332,7 @@
 | ~~10/05/2026~~ | ~~TBD~~ | Doug | ~~2~~ | Past |
 | ~~10/05/2026~~ | ~~TBD~~ | Doug | ~~4~~ | Past |
 | ~~10/06/2026~~ | ~~TBD~~ | Doug | ~~0~~ | Past |
-| 10/07/2026 | TBD | Doug | 4 | **Available** |
+| 10/07/2026 | TBD | Doug | 3 | **Available** |
 | 10/09/2026 | TBD | Doug | 0 | **Full** |
 | 10/12/2026 | TBD | Doug | 0 | **Full** |
 | 10/12/2026 | TBD | Doug | 0 | **Full** |
@@ -456,11 +456,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 9 total spots across 9 sessions
+> **✅ Spaces available!** 8 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 17 | **Available Spaces:** 9
+**Total Sessions:** 17 | **Available Spaces:** 8
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -470,7 +470,7 @@
 | ~~10/02/2026~~ | ~~TBD~~ | Doug | ~~0~~ | Past |
 | ~~10/05/2026~~ | ~~11:30AM-12:30PM~~ | Doug | ~~0~~ | Past |
 | ~~10/06/2026~~ | ~~11:30AM-12:30PM~~ | Doug | ~~0~~ | Past |
-| 10/07/2026 | 11:30AM-12:30PM | Doug | 1 | **Available** |
+| 10/07/2026 | 11:30AM-12:30PM | Doug | 0 | **Full** |
 | 10/12/2026 | 11:30AM-12:30PM | Doug | 0 | **Full** |
 | 10/13/2026 | TBD | Doug | 0 | **Full** |
 | 10/15/2026 | 12:30PM-1:30PM | Doug | 1 | **Available** |
@@ -607,11 +607,11 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 51 total spots across 8 sessions
+> **✅ Spaces available!** 50 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-wonderlic-prep-and-practice/
 
-**Total Sessions:** 10 | **Available Spaces:** 51
+**Total Sessions:** 10 | **Available Spaces:** 50
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -619,7 +619,7 @@
 | ~~10/02/2026~~ | ~~TBD~~ | Doug | ~~3~~ | Past |
 | ~~10/06/2026~~ | ~~TBD~~ | Doug | ~~7~~ | Past |
 | 10/13/2026 | TBD | Doug | 0 | **Full** |
-| 10/15/2026 | TBD | Doug | 7 | **Available** |
+| 10/15/2026 | TBD | Doug | 6 | **Available** |
 | 10/19/2026 | TBD | Doug | 7 | **Available** |
 | 10/20/2026 | TBD | Doug | 7 | **Available** |
 | 10/26/2026 | 1:30PM-3:30PM | Doug | 6 | **Available** |
