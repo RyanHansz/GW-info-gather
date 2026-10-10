@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** October 09, 2026 at 01:57 PM
+**Generated:** October 09, 2026 at 08:25 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 55 | 122 |
-| GCC (North Austin) | 12 | 97 | 226 |
-| **TOTAL** | **23** | **152** | **348** |
+| GRC (South Austin) | 11 | 55 | 120 |
+| GCC (North Austin) | 12 | 97 | 225 |
+| **TOTAL** | **23** | **152** | **345** |
 
 ---
 
@@ -142,16 +142,16 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 6 total spots across 6 sessions
+> **✅ Spaces available!** 5 total spots across 5 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 7 | **Available Spaces:** 6
+**Total Sessions:** 7 | **Available Spaces:** 5
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 10/13/2026 | 3:00-4:00 | Cindy | 0 | **Full** |
-| 10/15/2026 | 12:30-1:30 | Cindy | 1 | **Available** |
+| 10/15/2026 | 12:30-1:30 | Cindy | 0 | **Full** |
 | 10/19/2026 | 11:30-12:30 | Cindy | 1 | **Available** |
 | 10/26/2026 | 11:30-12:30 | Cindy | 1 | **Available** |
 | 10/27/2026 | 1:00-2:00 | Cindy | 1 | **Available** |
@@ -168,16 +168,16 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 25 total spots across 7 sessions
+> **✅ Spaces available!** 24 total spots across 7 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-indeed-lab/
 
-**Total Sessions:** 7 | **Available Spaces:** 25
+**Total Sessions:** 7 | **Available Spaces:** 24
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 10/12/2026 | 9:30-10:30 | Cindy | 4 | **Available** |
-| 10/13/2026 | 1:00pm-3:00pm | Cindy | 2 | **Available** |
+| 10/13/2026 | 1:00pm-3:00pm | Cindy | 1 | **Available** |
 | 10/19/2026 | 9:00am-11:00am | Cindy | 3 | **Available** |
 | 10/21/2026 | 9:00am-11:00am | Cindy | 4 | **Available** |
 | 10/26/2026 | 1:00pm-3:00pm | Cindy | 4 | **Available** |
@@ -532,18 +532,18 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 11 total spots across 11 sessions
+> **✅ Spaces available!** 10 total spots across 10 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-job-preparation-11/
 
-**Total Sessions:** 15 | **Available Spaces:** 11
+**Total Sessions:** 15 | **Available Spaces:** 10
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~10/09/2026~~ | ~~10:30am-11:30am~~ | Alex | ~~0~~ | Past |
 | ~~10/09/2026~~ | ~~3:00pm-4:00pm~~ | Alex | ~~0~~ | Past |
 | 10/12/2026 | 9:00am-10:00am | Alex | 0 | **Full** |
-| 10/12/2026 | 1:00pm-2:00pm | Alex | 1 | **Available** |
+| 10/12/2026 | 1:00pm-2:00pm | Alex | 0 | **Full** |
 | 10/12/2026 | 2:30pm-3:30pm | Alex | 1 | **Available** |
 | 10/14/2026 | 1:00pm-2:00pm | Alex | 0 | **Full** |
 | 10/15/2026 | 3:00pm-4:00pm | Alex | 1 | **Available** |
