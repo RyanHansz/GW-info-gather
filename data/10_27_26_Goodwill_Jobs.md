@@ -1,19 +1,19 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** October 27, 2026 at 01:33 PM
+**Last Updated:** October 27, 2026 at 08:08 PM
 
-**Total Positions:** 157
+**Total Positions:** 161
 
 ---
 
 ## Quick Navigation
 
 - [Child Development](#child-development) (1)
-- [Custodial Services](#custodial-services) (5)
+- [Custodial Services](#custodial-services) (4)
 - [Education & Training](#education-training) (18)
-- [Management & Leadership](#management-leadership) (25)
+- [Management & Leadership](#management-leadership) (27)
 - [Merchandise Processing](#merchandise-processing) (1)
-- [Other Positions](#other-positions) (89)
+- [Other Positions](#other-positions) (92)
 - [Sales](#sales) (1)
 - [Warehouse & Transportation](#warehouse-transportation) (14)
 - [eCommerce](#ecommerce) (3)
@@ -124,42 +124,6 @@ This position does not have supervisory responsibilities 
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 #IND2
 Monday-Fridays: Evening Schedule: 8:00pm-4:30am
-
-### Daytime Custodian — IRS Site, Blue Solutions
-
-- **Location:**  Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $17.75 - $22.84
-- **Posted:** Oct 14, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588730)**
-
-#### Job Description
-
-**Schedule:** Day Shift | 5 days/week, 8.5 hours per day
-**About the Role**
-Goodwill Central Texas Commercial Services provides janitorial and related contract services while creating meaningful employment opportunities through purpose-driven workforce programs.
-As a Daytime Custodian, you will help maintain a clean, safe, and welcoming environment at an IRS facility. This role requires someone who can work independently and take pride in their work. Floor-care machinery is not operated during the day shift.
-Reports To: Custodial Team Lead / Supervisor
-**Important Program Eligibility Requirement**
-This position is part of a federal AbilityOne Program contract. The program provides employment opportunities for individuals who meet specific eligibility requirements, including individuals with a documented medical condition.
-During the recruiter screening process, candidates will be asked to disclose details of the medical condition relevant to AbilityOne eligibility and provide medical documentation to verify program eligibility.
-If you do not meet the AbilityOne eligibility requirement, please explore other career opportunities with Goodwill Central Texas that are not designated AbilityOne positions.
-**Role & Responsibilities**
-- Clean and maintain restrooms, fixtures, floors, and other assigned areas using approved products and procedures.- Sweep and mop floors daily.- Complete assigned floor-care tasks that do not require machinery.- Spot-clean doors, walls, windows, and other surfaces.- Restock cleaning and restroom supplies as needed.- Empty trash and transport waste to designated disposal areas.- Safely mix, handle, and use cleaning chemicals according to established safety procedures.- Maintain assigned areas in accordance with contract standards and Blue Solutions expectations.- Adhere to the assigned daytime schedule and maintain reliable and predictable attendance.- Complete required training and follow all applicable safety, security, and facility procedures.- Represent Goodwill Central Texas professionally while working at the customer facility.
-**Required Qualifications**
-- Ability to lift up to 50 pounds and regularly push, pull, bend, reach, and move throughout the facility during the shift.- Ability to work the assigned daytime schedule with reliable and predictable attendance.- Ability to pass a contract-required background check.- Valid government-issued photo identification and a secondary I-9 document with a matching name.- Selective Service registration or applicable exemption.- AbilityOne Program eligibility based on a documented medical condition. During the recruiter screening process, candidates will be asked to disclose details of their medical condition and provide medical documentation to verify eligibility.
-**Preferred Qualifications**
-- High school diploma or GED.- At least one year of commercial or federal-contract custodial experience.- Experience working independently while maintaining established cleaning and quality standards.
-**Compensation & Benefits**
-Goodwill Central Texas offers a competitive hourly wage, along with a Health & Wellness Benefit.
-Eligible employees may also have access to:
-- 403(b) retirement plan with employer match- Medical, dental, and vision insurance- Company-paid life insurance- Vacation and sick time- Six weeks of paid parental leave- Tuition support- Free mental health counseling- Employee discounts
-**Equal Employment Opportunity**
-Goodwill Central Texas is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive workplace where all employees are respected and valued. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability, protected veteran status, gender identity, sexual orientation, or any other status protected by applicable law.
-**Background Check**
-Employment is contingent upon the successful completion of a pre-employment background check, which may include verification of employment history, education, criminal history, and other information relevant to the position.
-#IND2
-7:00am-3:30pm
 
 ### IRS Overnight Custodian
 
@@ -1241,6 +1205,110 @@ Goodwill Excel Center is a public school and pre-employment background check and
 
 ## Management & Leadership
 
+### Director, Technical Program Management
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Posted:** Oct 28, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589288)**
+
+#### Job Description
+
+Goodwill Central Texas is seeking a Director, Technical Program Management to lead and develop a team of Technical Program Managers who manage the technology scope of projects and programs across the organization. The team supports initiatives with a material technology component, including broader business initiatives in which business owners retain accountability for nontechnical work. The Manager will also directly lead technology delivery for assigned business clients while assigning team members to portfolios and balancing priorities and capacity. 
+The Director will establish consistent technology delivery practices using Jira and Confluence, coach the team, and oversee roadmaps, backlogs, dependencies, risks, and delivery outcomes across the portfolio. As the team grows, the Manager will remain responsible for delivering their own assigned technology work as well as leading the team. 
+This position is open to direct applicants only. Third-party recruiters, agencies, and staffing firms will not be considered. Visa sponsorship is not available for this role. 
+**Function and People Leadership**
+- Establish the Technical Program Management function, define its responsibilities and service model, and grow its capabilities in step with Technology team needs. - Initially lead assigned technology programs directly while building the TPM team and delivering its hiring plan. - Lead, coach, and develop Technical Program Managers and, as the team grows, managers; set expectations for performance, professional growth, accountability, and collaboration. - Lead workforce planning, including headcount planning, hiring, onboarding, succession, and talent development for the TPM function. - As the team grows, delegate portfolio and program ownership to TPMs and managers, clarify decision authority, and hold team members accountable for results. - Build a culture of clear commitments, transparent status, timely escalation, and learning from delivery outcomes. 
+** **
+**Technology Portfolio Strategy**
+- Initially manage the technology delivery portfolio for one or more assigned business areas, maintaining visibility into initiatives, demand, roadmaps, dependencies, constraints, and delivery health. - As the TPM team grows, coordinate technology priorities and capacity across the business areas it supports, giving Technology leaders a connected view of demand and delivery. - Partner with Technology and business leaders to assess requests and align technology work with agreed priorities and available capacity. - Recommend sequencing and delivery tradeoffs when demand exceeds capacity, including work to staff internally, deliver with partners, defer, or stop. - Establish planning and review practices that connect business needs to Technology capacity, delivery forecasts, and agreed outcomes. - Identify dependencies and risks across supported technology programs, resolve issues within delegated authority, and raise material decisions to the appropriate leader. 
+**Operating Model, Governance and Performance**
+- Define standards for intake, discovery, prioritization, program governance, risk management, executive reporting, and post-launch review. - Set expectations for roadmaps, backlogs, decision records, delivery forecasts, and portfolio dashboards using Jira and Confluence. - Establish clear ownership and escalation paths among TPMs, business owners, technical leaders, vendors, and executive sponsors. - Define portfolio and function measures that show delivery health, predictability, capacity, risk, and progress toward approved outcomes. - Review results across the portfolio and direct improvements when plans, controls, or delivery practices do not meet organizational needs. 
+**Executive and Cross-Functional Partnership**
+- Advise the Senior Vice President, Technology and executive peers on portfolio health, delivery capacity, material risks, investment options, and decisions required. - Communicate complex technology delivery constraints and tradeoffs in clear business terms, with recommendations and decision impacts. - Partner with business executives and owners to clarify desired outcomes, decision rights, organizational readiness, and nontechnical dependencies. - Align Technology leaders, business functions, Finance, vendors, implementation partners, and consultants around portfolio commitments and governance. - Oversee the TPM function’s coordination of vendor and partner commitments; escalate material performance, scope, transition, and dependency concerns to contract or service owners. 
+**Strategic Program Sponsorship**
+- Sponsor or guide select enterprise programs when executive alignment, cross-portfolio decisions, or exceptional organizational complexity require director-level involvement. - Ensure assigned managers have clear authority, resources, escalation routes, and executive support to lead their programs. - Intervene in delivery when material portfolio outcomes are at risk, resolve executive-level barriers, and transition day-to-day ownership to the appropriate manager when practical. - Perform other duties as assigned, consistent with training and qualifications. 
+**Supervisory Responsibility**
+This position supervises the Senior Technical Program Manager & Technical Program Manager roles.
+** **
+**Required Skills & Qualifications **
+- Bachelor's degree or an equivalent combination of education and practical experience. - Ten or more years of experience leading technology portfolios or programs. - Demonstrated experience leading managers or senior program leaders and building effective delivery teams. - Experience setting portfolio priorities, resolving capacity conflicts, and advising senior executives on delivery, risk, and investment tradeoffs. - Demonstrated ability to establish program governance, operating practices, decision rights, escalation paths, and portfolio reporting. - Strong understanding of technology delivery, including software and systems lifecycles, integrations, data flows, vendors, and implementation partners. - Experience using Jira, Confluence, or comparable tools to support portfolio visibility, governance, and delivery management. - Ability to interpret delivery and capacity information and use it to support planning, prioritization, and executive decisions. - Strong strategic planning, judgment, communication, facilitation, negotiation, and organizational change skills. - Ability to translate complex technical, operational, and financial considerations into clear choices for executive and business audiences. - Preferred Qualifications- Experience establishing a TPM or program-management function in a growing Technology team. - Experience coordinating technology work across business areas such as Finance, Human Resources, Workforce Services, Retail, Marketing, Staffing, Data, and IT Operations. - Experience with enterprise systems and platforms such as ADP, Microsoft Dynamics 365, CaseWorthy, HubSpot, Microsoft Azure, SharePoint, or comparable systems. - Experience with portfolio financial planning, vendor investment decisions, statements of work, or technology sourcing. - Experience leading organizational change and executive governance for complex technology initiatives. - Portfolio, program, project-management, or Agile certification such as PgMP, PMP, SAFe, PMI-ACP, or an equivalent credential. 
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer. - Must be able to lift up to 15 pounds at times. - While performing the duties of this position, the employee may frequently be required to walk, balance, stoop, kneel, crouch, talk, or hear. - The position requires the ability to manage moderate levels of workplace stress. - Specific vision abilities required include close vision, distance vision, depth perception, and the ability to adjust focus. 
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Senior Technical Program Manager
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Posted:** Oct 28, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589289)**
+
+#### Job Description
+
+Goodwill Central Texas is seeking an experienced Senior Technical Program Manager to lead complex digital and technology initiatives from discovery through launch. This role connects business stakeholders, technical teams, leadership, and external delivery partners to translate strategic priorities into actionable plans and measurable outcomes. 
+Goodwill Central Texas expects to hire multiple Technical Program Managers who may be aligned with business portfolios such as Finance and Human Resources, Workforce Advancement, Marketing and Staffing, or internal Technology. Assignments will be based on organizational needs and relevant experience. In every assignment, the role is responsible for managing roadmaps, backlogs, priorities, dependencies, risks, and delivery reporting using Jira and Confluence. 
+This position is open to direct applicants only. Third-party recruiters, agencies, and staffing firms will not be considered. Visa sponsorship is not available for this role. 
+**Potential Portfolio Alignments **
+- Finance and Human Resources: ADP and Microsoft Dynamics 365 Finance and Operations (F&O) - Workforce Advancement: CaseWorthy and related departmental platforms - Marketing and Staffing: HubSpot CRM, marketing automation, and related platforms - Internal Technology: Cybersecurity, data warehousing, SharePoint, infrastructure, and enterprise integrations 
+** **
+**Program and Project Leadership **
+- Lead complex technology initiatives from intake and discovery through launch and post-launch evaluation. - Translate business strategies, product priorities, and technology roadmaps into actionable delivery plans with clear scope, milestones, dependencies, resource needs, release schedules, and measures of success. - Own and maintain portfolio roadmaps, program backlogs, delivery priorities, dependencies, and release plans in Jira. - Partner with business owners, product owners, and technology leaders to prioritize work based on business value, urgency, risk, capacity, and technical dependencies. - Manage multiple concurrent initiatives, resolving resource and stakeholder conflicts while ensuring delivery expectations for schedule, scope, budget, quality, and business outcomes are met. 
+** **
+**Cross-Functional and Vendor Collaboration**
+- Coordinate technology delivery across internal technical teams, business units, vendor-provided engineers, implementation partners, and other external resources. - Own the technology scope, delivery plan, schedule, dependencies, and risks for initiatives with a material technology component. - Partner with business owners to coordinate business decisions, operational readiness, and other nontechnical deliverables that affect technology delivery, while accountability for those activities remains with the appropriate business owner. - Integrate vendor commitments and deliverables into the overall roadmap, backlog, schedule, and status reporting, monitoring performance and escalating concerns when needed. - Provide stakeholders and leadership with clear updates on delivery progress, risks, dependencies, decisions, and issues requiring resolution. 
+**Technical Coordination and Decision Support**
+- Develop sufficient understanding of the systems, integrations, data flows, and technical constraints involved in each initiative to coordinate delivery effectively. - Engage the appropriate technical and business subject-matter experts to identify options, evaluate risks and constraints, and understand potential operational and business impacts. - Facilitate technical discussions and ensure recommendations, tradeoffs, decisions, and follow-up actions are clearly documented and communicated to relevant stakeholders. - Partner with technical teams to translate complex solutions into manageable workstreams, milestones, dependencies, and deliverables. 
+** **
+**Risk, Governance, and Communication**
+- Proactively identify, assess, and communicate program risks, blockers, dependencies, resource conflicts, and scope changes; develop mitigation plans and facilitate timely escalation, decisions, and issue resolution. - Identify and manage risks associated with vendor capacity, technical dependencies, delivery commitments, access requirements, knowledge transfer, and transition planning. - Establish governance, reporting, and escalation practices appropriate to each initiative, maintaining decision logs, delivery reports, dashboards, and other documentation needed to provide visibility into program health. 
+**Agile Delivery and Continuous Improvement**
+- Apply Agile, Scrum, Kanban, hybrid, or other delivery approaches appropriate to the initiative, facilitating core activities such as planning, backlog refinement, stand-ups, reviews, retrospectives, and release planning. - Use Jira to manage backlogs, workflows, delivery status, dependencies, releases, and reporting, and use Confluence to maintain requirements, decisions, governance materials, and shared program knowledge. - Define and monitor measures of delivery performance, including program health, capacity, predictability, quality, and progress toward business outcomes. - Use delivery data, retrospectives, and post-launch reviews to identify root causes, capture lessons learned, and implement improvements to team workflows and delivery practices. - Perform other duties as assigned, consistent with training and qualifications. 
+** **
+**Supervisory Responsibility**
+This position will supervise the Technical Program Manager position(s).
+** **
+**Required Skills & Qualifications **
+- Bachelor's degree in Computer Science, Engineering, Information Systems, Business, Project Management, or a related field, or an equivalent combination of education and relevant experience. - 10+ years of experience working on technology projects in a cross-functional environment. - Demonstrated experience leading complex technology initiatives through planning, execution, launch, and post-launch evaluation. - Experience working in Agile environments and facilitating planning, backlog refinement, prioritization, reviews, retrospectives, and release activities. - Hands-on experience using Jira and Confluence to manage roadmaps, backlogs, priorities, schedules, dependencies, risks, documentation, and delivery reporting. - Ability to connect business objectives and requirements with actionable plans for technical teams, facilitating decisions and communication between technical and nontechnical stakeholders. - Strong organizational, analytical, and problem-solving skills, with the ability to manage multiple initiatives, competing priorities, dependencies, and ambiguity. - Experience coordinating internal teams, business stakeholders, and external delivery partners while maintaining clear accountability for commitments and outcomes. 
+**Preferred Qualifications**
+- Experience supporting a business function or technology portfolio such as Finance, Human Resources, Payroll, Benefits, Workforce Services, Marketing, Staffing, or internal Technology. - Experience with one or more relevant platforms, such as ADP, Microsoft Dynamics 365 Finance and Operations, CaseWorthy, HubSpot, Microsoft SharePoint, enterprise data platforms, cybersecurity platforms, or comparable systems. - Experience planning and coordinating system implementations, enhancements, integrations, migrations, or process improvements across business and technology teams. - Experience working with implementation partners, consultants, or other external resources, including coordinating deliverables, releases, and vendor performance. - Project-management or Agile certification, such as PMP, Certified ScrumMaster, SAFe, PMI-ACP, PgMP, or an equivalent credential. 
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer. - Must be able to lift up to 15 pounds at times. - While performing the duties of this position, the employee may frequently be required to walk, balance, stoop, kneel, crouch, talk, or hear. - The position requires the ability to manage moderate levels of workplace stress. - Specific vision abilities required include close vision, distance vision, depth perception, and the ability to adjust focus. 
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Custodial Supervisor- Disability Determination Services 
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $23.00
+- **Posted:** Oct 28, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589366)**
+
+#### Job Description
+
+To provide mail processing and switchboard service to Disability Determination Services. Responsible for transforming data by indexing and scanning documents. Ensure the appropriate information from the documents is input into the IRON DATA system. Also responsible for quality control of each document.
+**Role and Responsibilities**
+- Ensures that the custodial team completes work at assigned contract sites within established deadlines and scope of work - Fulfills all custodial duties to ensure daily completion of the scope of work.  - Achieves daily service goals and contractual compliance through active supervision, hands-on audits and inspections at assigned worksites.- Assists management in developing policies, processes, and workflow procedures for the custodial team.- Communicates effectively and professionally, both verbally and in writing, with building managers and employees.- Reports custodian operational issues to leadership as necessary.- Addresses and resolves employee performance and quality control issues.- Executes continuous improvement strategies, work practices, procedures and quality control plans for assigned worksites.- Maintains processes and procedures ensuring the safety of our employees.- Reports safety hazards and ensures the custodial team adheres to safety procedures.- Coaches, trains, mentors, and provides support to all custodial team members.- Manages time and attendance entry and edits, payroll hours worked to budget and achieves metrics.- Submits supply orders and manages custodial supply inventory levels at assigned worksites.- Maintains and reports all equipment and fleet requirements including maintenance and repairs.- Adheres to established departmental dress code.- Adheres to assigned work schedule- Delivers exceptional customer service.- Represents the organization in the community in a positive manner.- Other duties as assigned. 
+**Supervisory Responsibility**
+This position has supervisory responsibilities over custodial team members
+**Required Skills & Qualifications **
+- High School Diploma or equivalent1 year supervisory experience.- 2 years experience in a mail processing center.- Bilingual in Spanish and/or American Sign Language preferred.- Proficiency in setting and managing schedules for team members. - Ability to communicate effectively in English, both orally and in writing. - Basic math and computer skills. - Strong interpersonal, organizational and communication skills. - Hands-on experience with word processing and spreadsheet programs. - Creative and flexible problem solving skills.- Experience with disabled or disadvantaged populations.- Knowledge of methods, materials, and equipment used in custodial work, including safety practices.- Valid driver’s license with approved driving record, liability insurance, vehicle in good working condition to travel for work related business. - Approved background check per site requirements.
+** **
+**Physical Requirements **
+- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
+#IND2
+Monday-Friday
+11:00am-9:00pm
+
 ### Retail Assistant Manager
 
 - **Location:** Dripping Springs Store, Dripping Springs, TX, US
@@ -1527,36 +1595,6 @@ Sales Associates, Merchandise Processors and Retail Supervisors. Your leadershi
 **Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
 **Ready to lead with heart and hustle?**
 Apply today and help us turn donations into opportunities!
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
-### Retail General Manager
-
-- **Location:** Brodie Lane Store, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $65,000.00 - $75,000.00
-- **Posted:** Sep 21, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=584485)**
-
-#### Job Description
-
-**Retail General Manager – Lead With Purpose **
-**Quarterly Bonus Potential: Retail General Managers have the potential to earn up to a max of 25% of their quarterly salary based on performance in key metrics in their department.**
-**Start strong and get rewarded. When you join our team, you’ll earn a $1,000 bonus** (ask your recruiter for details). It’s our way of saying welcome aboard and thanks for bringing your best.
-Are you a results-driven retail leader who thrives in a dynamic, mission-focused environment? Goodwill is seeking an experienced Retail General Manager (RGM) to lead the operations of one of our many thriving retail locations. This is more than just a store—it's a place where lives change every day. As the RGM, you’ll oversee everything from sales floor operations to production efficiency, creating a culture of excellence, customer satisfaction, and team development. If you’re passionate about retail, leadership, and making a difference in your community, this role is for you.
-**What You’ll Do:**
-- Lead day-to-day operations of a high-performing retail store, from opening to closing.- Manage both the sales floor and back-of-house production teams to ensure a smooth, efficient flow of merchandise.- Monitor inventory, stock levels, and merchandising to maximize revenue and maintain a compelling store presentation.- Recruit, train, schedule, and manage a dynamic team of staff, including Assistant Managers, Supervisors, Processors, and Sales Associates.- Cultivate a customer-first culture—ensuring every shopper and donor receives top-tier service.- Ensure compliance with all safety protocols, state regulations, and loss prevention procedures.- Take full ownership of store P&L and make data-driven decisions to meet performance goals.- Handle payroll, attendance, and scheduling using our internal systems.- Serve as the go-to leader for resolving team or customer concerns.- Maintain strong communication across departments and stores to align goals and performance.
-**Who You Are:**
-- A motivated, hands-on leader with **3–5 years of retail management experience**.- Comfortable managing both **sales operations** and **merchandise production**.- Experienced with **profit & loss statements**, team development, and performance coaching.- Able to lift 35–50 lbs and perform physical tasks as needed (this is a boots-on-the-ground leadership role).- Someone who leads by example, knows how to inspire teams, and isn't afraid to roll up their sleeves.- A pro at balancing multiple priorities in a fast-paced retail environment.- Flexible to work **weekends, evenings, and holidays** based on business needs.
-**Preferred Qualifications:**
-- High school diploma required; Associate’s degree preferred.- Experience in the thrift/resale industry is a big plus.- Strong communication skills, basic math, and computer proficiency.- Valid driver’s license.
-**Why Join Us?**
-At Goodwill, we don’t just offer jobs—we offer meaningful careers. Working with us means contributing to a greater mission: transforming lives through the power of education and work. Enjoy opportunities for growth, ongoing training, and the satisfaction of knowing your efforts directly support your community. 
-**Ready to Lead with Purpose?**
-Apply now and take the next step in your retail leadership career with Goodwill.
 **Equal Employment Opportunity Statement:**
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
@@ -2079,6 +2117,165 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Other Positions
+
+### Customer Service Associate
+
+- **Location:** Terra Vista Store, Round Rock, TX, US
+- **Type:** Part Time
+- **Salary:** $14.00 - $15.00
+- **Posted:** Oct 28, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589378)**
+
+#### Job Description
+
+This position is responsible for fast, friendly, and accurate transactions at the point of sale. Responsible for providing positive customer experience to Goodwill customers. Responsible for stocking and maintaining merchandising standards on the sales floor while maintaining a clean and safe environment. Promotes and adheres to Goodwill Central Texas mission and values.
+**Customer Service**
+- Creates a high level of customer service throughout the store ensuring all customers experience a welcoming atmosphere.- Communicates current and upcoming sales promotions and events- Provides excellent customer service by greeting, assisting, and thanking customers while meeting customer’s needs in a timely manner; ensures customer concerns and complaints are handled to the customer’s satisfaction- Projects a favorable image of Goodwill Central Texas at all times- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate
+**Store Operations**
+- Follows policies and procedures and executes directives in a timely manner.- Processes all forms of payments, refunds, and promotional discounts according to procedure- Maintain workstation in a clean and organized manner- May be asked to assist in the training process for new customer service associates and other staff cross-trained to use the point of sale system- Responsible for executing merchandising standards- Follows pricing and price check guidelines- Responsible for executing salvaging standards
+**Safety & Risk**
+- Follows and adheres to safety and risk procedures and initiatives.- Uses and maintains personal protective equipment- Participates in weekly safety huddles, monthly safety meetings and drills- Works to reduce worker’s compensation incidents and customer accidents- Uses proper lifting techniques- Uses power equipment responsibly and with appropriate certification- Identifies recall products and properly removes them from processing
+**Services & Programs**
+- Provides a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants- Works respectfully and effectively across cultures- Understands and actively supports the organization’s diversity and inclusion efforts- Acts as a good role model
+**Other Duties**
+- Responsible for being familiar with Team Member Handbook, and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
+**Knowledge & Skills**
+- Ability to read, write, and speak English sufficiently to communicate effectively with supervisors, employees, and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills, ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human-services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done- Knowledge/expertise in working with persons with disadvantages and/or disabilities and barriers
+**Prior Years Experience**
+- 0-3 years of relevant experience- High school diploma or equivalent preferred
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Donations Processor
+
+- **Location:** Terra Vista Store, Round Rock, TX, US
+- **Type:** Full Time
+- **Salary:** $14.00 - $16.00
+- **Posted:** Oct 28, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589377)**
+
+#### Job Description
+
+**                                                                                               New Hire Bonus**
+Earn up to $350 in new hire bonuses! $250 after 60 days of employment + $100 after 90 days
+This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
+** **
+**Store Operations**
+- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
+** **
+**Customer Service**
+- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
+** **
+**Safety & Risk**
+- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
+** **
+**Services & Programs**
+- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
+** **
+**Other Duties**
+- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
+** **
+**Knowledge & Skills**
+- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
+** **
+**Prior Years Experience**
+- 0-3 years of relevant experience- High school diploma or equivalent preferred
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Retail Team Lead
+
+- **Location:** Terra Vista Store, Round Rock, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $19.00
+- **Posted:** Oct 28, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589376)**
+
+#### Job Description
+
+**                                                                                                   New Hire Bonus**
+Earn up to $350 in new hire bonuses! $250 after 60 days of employment + $100 after 90 days
+The Retail Team Lead will assist management in the operation of the Goodwill retail store. This includes customer service, recordkeeping, cash management, facility operation, communications, merchandising, production, and inventory control. They will have a primary team they are responsible to work with when not assisting management with store operations (the retail sales floor team, or the back-room production team) as assigned by the Retail General Manager.
+**Role and Responsibilities**
+- Assist the store management team with the overall operation of the retail store when scheduled or assigned. - Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Coach and train associates on their assigned team (sales floor or production) as a subject matter expert. 
+**Supervisory Responsibility**
+This position is responsible for coaching and training the AI Merchandise Pricer, Merchandise Processor, and Sales Associate positions on their assigned team.  This position does not have any direct reports.  
+**Required Skills & Qualifications **
+- At least 1 year of supervisory, leading a team, or equivalent experience.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.- Keyholder responsibilities for open/closing securing the store as scheduled. 
+**Physical Requirements**
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Must be big joe certified to load and unload trailers- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Principal Architect
+
+- **Location:** GCC HQ, Austin, TX, US
+- **Type:** Full Time
+- **Posted:** Oct 28, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589287)**
+
+#### Job Description
+
+Goodwill Central Texas is seeking a hands-on Principal Architect to set technical direction and lead the design and delivery of applications, integrations, and data solutions. This role defines system and solution architecture, selects appropriate frameworks and patterns, and guides implementation so that technology is secure, reliable, maintainable, and aligned with organizational needs. 
+The role's priorities will evolve as the team and its data capabilities grow. Early work will emphasize connecting enterprise systems and staging data reliably for the data engineering and data visualization teams. As that foundation matures, the role will increasingly lead custom applications and internal tools that improve staff workflows and organizational services. A Principal Architect partners with business owners to gather requirements and manage prioritization; this role contributes technical discovery, architecture, estimates, dependencies, and risk analysis. 
+This position is open to direct applicants only. Third-party recruiters, agencies, and staffing firms will not be considered. Visa sponsorship is not available for this role. 
+**System Architecture and Technical Direction**
+- Define and maintain target architectures and technical roadmaps for applications, integrations, data flows, and internal tools. - Establish system boundaries, integration patterns, API approaches, and reusable frameworks that help teams build consistent solutions. - Evaluate frameworks, platforms, and tools against business needs, security, fit with existing systems, cost, team capability, and long-term support requirements; recommend when to adopt, extend, or retire technologies. - Document significant architecture decisions, assumptions, tradeoffs, dependencies, and exceptions so teams can implement and support solutions consistently. - Plan for security, privacy, reliability, performance, maintainability, observability, supportability, and technical debt throughout the solution lifecycle. - Coordinate architecture decisions with infrastructure, security, application owners, data specialists, and other Technology teams. 
+** **
+**Near -Term Integration and Data Delivery**
+- Lead the design and development of custom applications and internal tools as organizational priorities and the data foundation mature. - Translate approved business needs into application architecture, technical designs, and implementation plans in partnership with the Technical Program Manager, business owners, and developers. - Select practical frameworks and patterns for application development, balancing delivery speed with security, usability, reliability, and long-term maintenance. - Guide application work from discovery and prototyping through testing, deployment, support handoff, and ongoing improvement. - Identify opportunities to replace manual or fragmented workflows with maintainable software and automation solutions. 
+**Application Development and Long-Term Capability**
+- Personally lead assigned initiatives with a material technology component from intake and discovery through launch and post-launch review, owning the technology scope, delivery plan, schedule, dependencies, risks, and status. - Translate business priorities and technology roadmaps into workstreams, milestones, backlogs, resource needs, release plans, and measures of success. - Develop sufficient understanding of systems, integrations, data flows, and constraints to engage the appropriate technical and business experts, evaluate options and impacts, and facilitate decisions. - Document recommendations, tradeoffs, decisions, and follow-up actions in Confluence, then translate approved decisions into deliverables for internal and external teams. 
+**Engineering Standards and Delivery**
+- Establish and maintain standards for source control, code review, testing, build and deployment pipelines, configuration, documentation, monitoring, and production support. - Coach developers through architecture and implementation decisions; review complex or high-impact designs and code. - Remain hands-on in architecture, technical problem-solving, and selected implementation work, particularly during early team growth or complex delivery. - Manage technical dependencies, delivery risks, quality, and operational readiness across engineering work. - Use AI-assisted development tools where appropriate to improve engineering work, applying sound review, security, and quality practices. 
+**Team Leadership and Cross-Functional Partnerships**
+- Hire, coach, develop, and evaluate software development, data engineering, and data visualization team members as the team grows. - Set clear expectations for technical quality, delivery, documentation, collaboration, and professional development. - Partner with the Technical Program Manager, who owns business requirements gathering and prioritization, by providing technical discovery, options, estimates, dependencies, and risk analysis. - Coordinate with the data engineer on data pipelines and platform implementation, and with data visualization staff on reporting and visualization needs; this role provides architecture and engineering direction without owning their specialized day-to-day implementation. - Work with business owners, Technology peers, vendors, and implementation partners to resolve technical questions and transfer knowledge into ongoing support. - Communicate architecture options, decisions, risks, and progress clearly to technical and nontechnical stakeholders.- Perform other duties as assigned, consistent with training and qualifications. 
+**Supervisory Responsibility**
+This position supervises the Data Engineer, Data Analyst & Software Developer positions.
+** **
+**Required Skills & Qualifications **
+- Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a related field, or an equivalent combination of education and relevant experience. - 10 or more years of experience in software development, systems architecture, application engineering, or related technical delivery, including substantial experience designing and building production solutions. - Experience leading and developing technical professionals, with the ability to review work, coach others, and establish engineering standards. - Strong software development background, including application design, APIs or other integration methods, testing, code review, deployment, and production support. - Experience designing systems and integrations across multiple applications while considering security, reliability, maintainability, and operational support. - Experience defining technical architecture, evaluating frameworks or platforms, and documenting design decisions and tradeoffs. - Experience establishing source control, automated testing, and deployment practices for software teams. - Ability to translate technical constraints and options into clear recommendations for business and technical stakeholders. - Strong planning, problem-solving, and collaboration skills across concurrent initiatives and teams. 
+** **
+**Preferred Qualifications**
+- Experience building or leading a software development, application engineering, or platform team. - Experience with Microsoft Azure and enterprise platforms such as Microsoft Dynamics 365, HubSpot, ADP, or comparable systems and their integrations. - Experience working alongside data engineering and data visualization teams, including familiarity with modern data platforms such as Microsoft Fabric. - Experience establishing architecture practices, reusable frameworks, and development and deployment standards. - Experience working with vendors or implementation partners and transferring solutions into internal support. - Experience using AI-assisted development tools in a secure and responsible software development process. - Experience in retail, workforce services, distributed operations, or nonprofit environments. 
+** **
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer. - Must be able to lift up to 15 pounds at times. - While performing the duties of this position, the employee may frequently be required to walk, balance, stoop, kneel, crouch, talk, or hear. - The position requires the ability to manage moderate levels of workplace stress. - Specific vision abilities required include close vision, distance vision, depth perception, and the ability to adjust focus. 
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Career Coach
+
+- **Location:** GCC HQ, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $21.28
+- **Posted:** Oct 28, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589292)**
+
+#### Job Description
+
+**Summary of Position**
+The Career Coach is responsible for supporting individuals employed within Goodwill Central Texas. Their primary role is to promote continued employee engagement at Goodwill. Each coach is responsible for a number of employees, typically ranging from 65-100. The Career Coach will identify long-term goals that support employees on their path towards their education, training, and employment goals. Coaches build relationships with each employee and provide internal and external resources to remove barriers to the employee’s professional growth and development. Effective coaches understand how to prioritize and manage their core responsibilities while also being responsive to employee crises as they arise. Through problem-solving sessions, the Coach will facilitate ways in which each employee can overcome barriers and continue progress towards his or her career pathway. The Career Coach is focused on supporting the employee as he or she moves between all Goodwill divisions while working towards the identified long-term goals.
+**Job Description**
+**Role and Responsibilities**
+- Establish a trusting relationship with employees. Maintain frequent and consistent communication and monitor for successful indicators that the employee is on track to retain employment.- Coordinate and work collaboratively within GCT to connect clients with trainings and services applicable for career growth and development.- Become part of a reliable alliance with business line management to ensure business success and employee engagement.- Observe and evaluate worksite behaviors in which employees may be engaged that could decrease employees’ likelihood of retention and provide coaching and guidance as necessary to correct and address these behaviors.- Support employees in assessing and identifying services needed to support their participation in and achievement of individualized goals.- As part of each individual career plan, identify short and long-term goals that support employees on their path towards their education, training, and employment goals. Track and document goal acquisitions and support employees in their transition to next steps according to their individual career plan.- Coordinate with appropriate internal and external resources in delivering services necessary to support employees in maintaining employment stability.- Intervene effectively and ethically in crisis situations, developing applicable interventions and follow-up plans to thoroughly address immediate and future needs while maintaining safety.- Provide coaching in finance areas as needed, which may include: saving and long-term planning techniques, budgeting, banking options/opportunities, credit checks and repair, and problem solving/decision making skills.- Maintain complete and accurate records of all employees through ECM and other required client tracking databases. Strictly adhere to all data entry requirements set forth by Goodwill. Adhere to confidentiality protocols related to electronic and paper files and documents.- Complete screening and intake for clients.- Synchronize with the organizational needs for all Goodwill divisions by providing insight and knowledge acquired and obtained in the field.- Highlight organizational growth opportunities or missed areas of support and development for future initiatives within the Employee Services Program.- The position will be housed out of GCC or GRC but will require traveling to several locations across Austin and will require working some nights every month.- Other duties as assigned.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications**
+- Bachelor’s degree in Social Work, Psychology, Sociology, Vocational Rehabilitation, Education, Human Services, Counseling, or similar/related field required.- Exceptional oral and written communication skills; proficient in Windows-based computer applications.- Knowledge of client assessment skills, community resource coordination, career planning principles, employability skills, and crisis intervention.- Knowledge of best practices in serving marginalized populations (e.g., homelessness, re-entry, opportunity youth, disability, etc.).- Minimum of one year of experience providing case management services to underserved populations.- Ability to conduct and/or translate training sessions bilingually preferred. - Master’s Degree in Social Work, Psychology, Counseling, Sociology, Vocational Rehabilitation, Education, or Human Services preferred.- Professional licensure issued at conclusion of Master’s degree program listed above (e.g., LMSW, CRC, LPC, LMFT, etc.) preferred.- Bilingual (Spanish, ASL, Arabic, Farsi) preferred.- Texas Driver’s License, good driving record, liability insurance, vehicle in good working condition to travel on work-related business in order to meet client location/service delivery needs preferred.- Employment is contingent upon the successful completion of a federal background investigation and the ability to obtain and maintain a favorable suitability determination. This includes fingerprinting, tax compliance verification, and a review of criminal, credit, and employment history.
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.-  The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception, and ability to adjust focus.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. A post-offer background check is required to ensure the applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
+#IND2
 
 ### Retail Team Lead
 
@@ -4696,34 +4893,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 #IND2
 Onsite: Monday-Friday: 8:00am-5:00pm
 
-### Mailroom Team Leader
-
-- **Location:**  Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $18.50
-- **Posted:** Sep 10, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586954)**
-
-#### Job Description
-
-**INCLUSIVE EMPLOYMENT COMMITMENT & SECURITY REQUIREMENTS**
-Team members play a vital role across various settings. As integral members of the team, they work closely with to ensure high-quality service and a well-maintained environment for clients.
-Through the **Works Wonders program**, **75% of labor hours** within our contracts are designated for individuals with documented significant disabilities. This initiative provides meaningful employment opportunities, empowering individuals to achieve greater independence, reduce reliance on government assistance, and actively contribute to their communities. We strongly encourage applications from qualified candidates with documented disabilities who seek stable and rewarding employment in a supportive work environment.
-**Please note that this position is within a ****secure facility and requires a Homeland security background check conducted at the federal level.**
-**Summary of Position**
-To provide mail processing and distribution service to DDS. Responsible for transforming data by indexing and scanning documents. Ensure the appropriate information from the documents is input into the IRON DATA system. Also responsible for quality control of each document.
-**Job Description**
-**Role and Responsibilities**
-- Direct and coordinate staff activities to ensure contract goals and objectives are accomplished in the mailroom and scanning unit.- Assist with develops training programs for employees. Conduct cross-training designed to enhance performance and professional development.- Interact with internal and external customers in a professional manner.   Promote the mission of Goodwill.- Prepare reports and documentation for maintaining postal and DDS records.- Understands all phases of the DDS mailroom, scanning unit and switchboard. Reconciles quality concerns with the staff and mailroom manager when necessary. Makes corrections as needed.- Assist with payroll and personnel documentation.- Ensures that employees are performing job duties properly and using all equipment safely.- Support mailroom manager in maintaining a level of 75% disability for TIBH standards in accordance with contract specifications.- Order, stock, and distribute supplies needed for day-to-day operations. Ensure equipment is cleaned and properly maintained.- Other duties as assigned.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities.
-**Required Skills & Qualifications**
-- High school/GED.- Computer knowledge.- Two years’ experience in a mail processing center.- Good communication skills for dealing with internal and external customers.- Knowledge of US Postal regulations.- Ability to handle high stress situations.- Knowledge of Goodwill services and of community resources and business networking.- Texas Driver’s License, liability insurance, vehicle in good working condition, and good driving record.- Strong interpersonal, organizational and communication skills.- Hands-on experience with word processing and spreadsheet programs.- Creative and flexible problem solving.- Desire to work with employment and training services consumers, employees, and the public.
-**Physical Requirements**
-- Must be able to lift up to 15 pounds at times.- Prolonged periods of sitting at a desk and working on a computer.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.- Ability to use hands and fingers to operate a telephone and keyboard.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-Monday-Friday: 8am-5:00pm
-
 ### Retail Team Lead
 
 - **Location:** Anderson Lane Store, Austin, TX, US
@@ -4776,32 +4945,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 #IND2
-
-### Retail Team Lead
-
-- **Location:** Terra Vista Store, Round Rock, TX, US
-- **Type:** Full Time
-- **Salary:** $17.00 - $19.00
-- **Posted:** Aug 31, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586464)**
-
-#### Job Description
-
-**                                                                                            New Hire Bonus**
-Earn up to $350 in new hire bonuses! $250 after 60 days of employment + $100 after 90 days
-The Retail Team Lead will assist management in the operation of the Goodwill retail store. This includes customer service, recordkeeping, cash management, facility operation, communications, merchandising, production, and inventory control. They will have a primary team they are responsible to work with when not assisting management with store operations (the retail sales floor team, or the back-room production team) as assigned by the Retail General Manager.
-**Role and Responsibilities**
-- Assist the store management team with the overall operation of the retail store when scheduled or assigned. - Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Coach and train associates on their assigned team (sales floor or production) as a subject matter expert. 
-**Supervisory Responsibility**
-This position is responsible for coaching and training the AI Merchandise Pricer, Merchandise Processor, and Sales Associate positions on their assigned team.  This position does not have any direct reports.  
-**Required Skills & Qualifications **
-- At least 1 year of supervisory, leading a team, or equivalent experience.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.- Keyholder responsibilities for open/closing securing the store as scheduled. 
-**Physical Requirements**
-- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Must be big joe certified to load and unload trailers- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Floor Care Tech
 
