@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** October 29, 2026 at 02:01 PM
+**Generated:** October 29, 2026 at 08:32 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 63 | 165 |
+| GRC (South Austin) | 11 | 63 | 164 |
 | GCC (North Austin) | 12 | 122 | 294 |
-| **TOTAL** | **23** | **185** | **459** |
+| **TOTAL** | **23** | **185** | **458** |
 
 ---
 
@@ -27,15 +27,15 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 30 total spots across 8 sessions
+> **✅ Spaces available!** 29 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-budgeting-basics/
 
-**Total Sessions:** 8 | **Available Spaces:** 30
+**Total Sessions:** 8 | **Available Spaces:** 29
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| 11/02/2026 | TBD | Cindy | 3 | **Available** |
+| 11/02/2026 | TBD | Cindy | 2 | **Available** |
 | 11/03/2026 | 2:30PM-4:30PM | Cindy | 3 | **Available** |
 | 11/09/2026 | TBD | Cindy | 4 | **Available** |
 | 11/12/2026 | 2:30PM-4:30PM | Cindy | 4 | **Available** |
