@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** October 30, 2026 at 01:41 PM
+**Last Updated:** October 30, 2026 at 08:14 PM
 
-**Total Positions:** 150
+**Total Positions:** 148
 
 ---
 
@@ -10,9 +10,9 @@
 
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (4)
-- [Education & Training](#education-training) (19)
+- [Education & Training](#education-training) (18)
 - [Management & Leadership](#management-leadership) (25)
-- [Other Positions](#other-positions) (86)
+- [Other Positions](#other-positions) (85)
 - [Sales](#sales) (1)
 - [Warehouse & Transportation](#warehouse-transportation) (13)
 - [eCommerce](#ecommerce) (1)
@@ -395,95 +395,6 @@ This position does not have supervisory responsibilities.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. A pre-employment background check is required to ensure the applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 #IND2
 5 days per week: 6:00am-2:30pm
-
-### Social Studies Teacher (Night)
-
-- **Location:** Excel Norwood Campus, Austin, TX, US
-- **Type:** Part Time
-- **Salary:** $22,667.00 - $30,327.00
-- **Posted:** Aug 22, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=585958)**
-
-#### Job Description
-
-Company:
-For more than six decades, Goodwill Central Texas has been relentlessly focused on empowering thousands of people to work. We transform revenue from over 37 retail locations into a combination of education, career training, job placement, career coaching and support, and more. Every time you shop or support Goodwill, you are helping fund our greater mission to serve our community. Goodwill’s vision extends far beyond our retail stores and your generous donations: We envision a Central Texas where everyone has the opportunity to thrive.
-The Goodwill Excel Center for Adults opened in 2014 as an open-enrollment public charter high school for adults ages 18 to 50. The Excel Center Adult High School transforms lives in a supportive and holistic learning environment where all students are empowered to achieve. 
-For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org
-Commitment to Excellence
-At The Excel Center, we are building a high-performing organization focused on transforming lives through the power of education and work and becoming the model of excellence for adult education across Texas. Our team members contribute to a culture grounded in our values of caring, innovation, and accountability and focused on strong graduate outcomes.
-All Excel team members:
-● Deliver Excellence - Uphold high standards of professionalism, execution, and service to students
-● Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.
-● Work as One Team - Collaborate and contribute positively to a solutions-oriented culture
-● Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities
-● Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
-All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
-Important Retirement Information
-The Goodwill Excel Center for Adults is a Texas public charter school district. Employees in TRS-eligible positions participate in the Teacher Retirement System of Texas (TRS).
-Eligible employees are required to contribute a portion of their salary to TRS retirement and TRS-Care through automatic payroll deductions. TRS is a defined-benefit retirement system, and employees generally become vested after earning five years of TRS service credit.
-Candidates should consider these required retirement contributions when evaluating compensation and long-term employment with the district. Additional information about TRS eligibility, contributions, vesting, and retirement benefits is available through the Teacher Retirement System of Texas.
-The Goodwill Excel Center Adult High School is currently recruiting for a Social Studies Teacher for our **Norwood Campus** located at **1015 Norwood Park Blvd, Austin, Tx 78753**.
-POSITION SUMMARY:
-The Social Studies Teacher is responsible for implementing, developing, and executing instruction of the Goodwill Excel Center vocational curriculum. The Social Studies Teacher will employ a student-centered approach, effectively tailoring the instructional strategies to the individual students’ needs and approaching instruction with creativity and innovation. Strategies may include, but are not limited to direct instruction, one-to-one instruction, seminars, small group learning, self-paced lessons, blended learning and courses, and online learning tools. The Social Studies will work with the instructional team in meeting educational objectives and adhering to the Texas Essential Knowledge & Skills (TEKS) standards.
-ESSENTIAL DUTIES AND RESPONSIBILITIES:
-- 
-Provide instruction to students in the area of assigned Social Studies courses that ensures mastery of Texas Essential Knowledge and Skills (TEKS).
-- 
-Develop and revise an approved curriculum that includes lesson plans, projects, and assessments that are aligned with the standards of The Excel Center and TEKS.
-- 
-Assess student progress and learning needs to build and shape instruction around student needs.
-- 
-Utilize attendance, grades, and assessment data to refine lessons and inform instructional practices to achieve learning goals.
-- 
-Implement a clear and consistent classroom management system that aligns to Instructional Team and Campus-wide initiatives while developing students’ character and sense of community in the classroom.
-- 
-Support all students in achieving academic success and character growth.
-- 
-Provide tutorials for students to ensure mastery of material.
-- 
-Document and maintain attendance, grades, and progress records according to District policy.
-- 
-Create a positive classroom environment conducive to learning and educational growth of students, including behavior management that is firm, fair, and consistent.
-- 
-Participate in collaborative curriculum development, grade/ability-level activities, and school-wide functions aimed at improving student retention, productivity, school culture, and new student on-boarding.
-- 
-Attend and participate in all staff, team, and professional development meetings and activities.
-- 
-Participate in all evaluations and self-studies as required by the Texas Education Agency (TEA).
-- 
-Serve on curriculum, instructional, textbooks, and other committees as assigned.
-- 
-Administer diagnostic placement tests, achievement tests, curriculum tests, and other tests as required by the Campus Director.
-OTHER DUTIES AND RESPONSIBILITIES:
-- 
-Demonstrate progress in meeting student performance targets of the district.
-- 
-Demonstrate progress in meeting assigned action plans of the district or campus improvement plans.
-- 
-Develop, use, and evaluate ideas and/or innovative approaches to improve performance.
-- 
-Keep informed of and comply with policies of The Goodwill Excel Center, WSD, and TDCJ.
-- 
-Comply with policies established by federal and state law, including, but not limited to, State Board of Education and local Board policy.
-- 
-Follow all unit procedures in checking out materials, supplies, and equipment and promptly report any defective equipment and/or student abuse of materials, supplies, or equipment.
-- 
-Assist district and campus teams with outreach and engagement events throughout the school year.
-- 
-Perform other related duties as assigned.
-SUPERVISORY RESPONSIBILITY:
-This position does not supervise any Excel Team Members. It does supervise adult incarcerated students in classroom settings, including assigned teacher aids.
-REQUIRED QUALIFICATIONS & EXPERIENCE:
-- Bachelor’s degree from an accredited college or university.- Current Texas Teaching Certification in Social Studies (HS Grades)- Must have a proven record of results that illustrate the teacher’s ability to increase student achievement utilizing subject-specific instructional strategies.- Must have a broad knowledge of the principles and practices of current educational trends in curriculum and instruction.- Must have working knowledge of computer programs and accessing internet applications such as Student Information Systems, Microsoft Products, Google Applications (Gmail), and Internet Explorer.- Excellent oral & written communication skills; ability to convey ideas & instructions clearly & concisely.- Skill to interpret and apply rules, regulations, policies, and procedures.- Skill in organizing and maintaining accurate records.- Must possess the essential mindset that all students can achieve at high levels.- Strong interpersonal and communication skills, with the ability to engage and motivate diverse populations.- Demonstrated commitment to supporting adult learners in achieving their educational and career goals.- Possess understanding of marginalization and how it impacts those Goodwill serves and employs; Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.
-PREFERRED QUALIFICATIONS & EXPERIENCE:
-- Master’s in History or other related field.- 1+ years of experience providing instruction to or working with adults.- Experience working with high school age students in urban, non-traditional, and/or adult education setting- Bilingual
-COMPENSATION & SCHEDULE:
-Depending on experience and qualifications.
-Equal Employment Opportunity
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to a workplace where everyone feels included. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, disability, veteran status, gender identity, sexual orientation, or any other protected characteristic.
-Background Check
-Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
 
 ### Strategic Projects Coordinator
 
@@ -2726,43 +2637,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 - **Salary:** $14.00 - $15.00
 - **Posted:** Oct 23, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589193)**
-
-#### Job Description
-
-This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
-** **
-**Store Operations**
-- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
-** **
-**Customer Service**
-- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
-** **
-**Safety & Risk**
-- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
-** **
-**Services & Programs**
-- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
-** **
-**Other Duties**
-- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
-** **
-**Knowledge & Skills**
-- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
-** **
-**Prior Years Experience**
-- 0-3 years of relevant experience- High school diploma or equivalent preferred
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Donations Processor
-
-- **Location:** North Lamar Store, Austin, TX, US
-- **Type:** Part Time
-- **Salary:** $0.00 - $15.00
-- **Posted:** Oct 22, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589123)**
 
 #### Job Description
 
