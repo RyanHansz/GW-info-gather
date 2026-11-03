@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 02, 2026 at 04:22 PM
+**Last Updated:** November 02, 2026 at 09:43 PM
 
-**Total Positions:** 150
+**Total Positions:** 146
 
 ---
 
@@ -10,9 +10,9 @@
 
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (4)
-- [Education & Training](#education-training) (18)
-- [Management & Leadership](#management-leadership) (25)
-- [Other Positions](#other-positions) (87)
+- [Education & Training](#education-training) (17)
+- [Management & Leadership](#management-leadership) (23)
+- [Other Positions](#other-positions) (86)
 - [Sales](#sales) (1)
 - [Warehouse & Transportation](#warehouse-transportation) (13)
 - [eCommerce](#ecommerce) (1)
@@ -371,30 +371,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 Background Check
 Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
 #IND1
-
-### Logistics Coordinator 
-
-- **Location:**  Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $17.00 - $19.00
-- **Posted:** Aug 31, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586469)**
-
-#### Job Description
-
-Coordinates the day-to-day transportation operations for Goodwill Central Texas by planning efficient delivery and donation routes, monitoring fleet activity through Samsara telematics, communicating with drivers and internal stakeholders, and resolving operational issues in real time. This position serves as the central communication hub between drivers, retail operations, distribution centers, and customers to ensure safe, timely, and efficient service.
-**Role and Responsibilities**
-- Plan, build, and optimize daily delivery, donation, and transfer routes using Samsara Routing and other transportation software.- Monitor vehicle locations, route progress, and driver activity through Samsara telematics.- Communicate proactively with drivers regarding route changes, delays, customer issues, traffic conditions, and operational priorities.- Make real-time routing decisions to maximize fleet utilization and customer service while minimizing unnecessary mileage and downtime.- Coordinate equipment availability, vehicle assignments, and driver schedules in partnership with Logistics leadership.- Serve as the primary point of contact for stores, distribution centers, donation sites, vendors, and internal departments regarding transportation requests.- Respond professionally to customer concerns, delivery inquiries, missed pickups, and service disruptions.- Provide accurate delivery status updates and estimated arrival times using Samsara GPS visibility.- Build positive working relationships with both internal and external customers.- Maintain continuous communication with drivers throughout the day to support safe and efficient operations.- Assist drivers in resolving delivery issues, access problems, routing conflicts, and customer concerns.- Escalate safety concerns, vehicle breakdowns, accidents, or service interruptions to management as appropriate.- Prepare daily dispatch schedules and manifests.- Maintain transportation records, driver documentation, and fleet information.- Enter and maintain routing information within company systems.- Assist with fleet maintenance scheduling and service tracking.- Generate transportation reports and operational metrics.- Identify opportunities to improve routing efficiency, fleet utilization, and customer service.- Recommend process improvements that reduce transportation costs and improve operational performance.- Participate in implementation of new transportation technology and operational initiatives.- Other duties as assigned.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities.
-**Required Skills & Qualifications **
-- High school diploma or GED.- 1+ years of dispatching, transportation coordination, logistics, or customer service experience.- Experience using transportation management software, routing software, GPS, or telematics systems (Samsara preferred).- Strong computer skills including Microsoft Office and data entry.- Excellent verbal and written communication skills.- Strong organizational and time management skills.- Ability to prioritize multiple tasks in a fast-paced environment.- Demonstrated problem-solving and decision-making abilities.- Ability to maintain professionalism under pressure.- Strong attention to detail.
-** **
-**Physical Requirements**
-- Ability to work in a non-climate-controlled environment.- Must be able to lift up to 30 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus- While performing the duties of this job, the employee is frequently exposed to airborne particles.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. A pre-employment background check is required to ensure the applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-#IND2
-5 days per week: 6:00am-2:30pm
 
 ### Strategic Projects Coordinator
 
@@ -1376,29 +1352,6 @@ This position has supervisory responsibilities over all hourly Post-Retail team 
 - Minimum 5 years’ experience in logistics, recycling, or similar field with supervisory responsibilities of 50+ employees.- Must have excellent communication skills. Bilingual preferred.- Must have excellent analytical, creative, and flexible problem-solving and decision-making skills.- Must demonstrate a maturity of practice using the 5 pillars and principles of servant leadership.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- High School Diploma or equivalent.- Must have a valid Texas Driver’s License.- Physical Requirements- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
-### Late Night Custodial Supervisor
-
-- **Location:**  Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $28.12 - $32.70
-- **Posted:** Oct 13, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588591)**
-
-#### Job Description
-
-**Summary of Position**
-The Custodial Supervisor (CS) for Blue Solutions is responsible for managing day-to-day planning and implementation of all custodial activities. The CS ensures that the custodial team achieves daily service goals and contractual compliance through active supervision, hands-on audits and inspections at assigned worksites. The CS supervises a diverse workforce, including individuals with disabilities. The CS is a working supervisor position, completing all custodial duties as necessary to meet daily expectations.
-**Role and Responsibilities**
-- Ensures that the custodial team completes work at assigned contract sites within established deadlines and scope of work - Fulfills all custodial duties to ensure daily completion of the scope of work.  - Achieves daily service goals and contractual compliance through active supervision, hands-on audits and inspections at assigned worksites.- Assists management in developing policies, processes, and workflow procedures for the custodial team.- Communicates effectively and professionally, both verbally and in writing, with building managers and employees.- Reports custodian operational issues to leadership as necessary.- Addresses and resolves employee performance and quality control issues.- Executes continuous improvement strategies, work practices, procedures and quality control plans for assigned worksites.- Maintains processes and procedures ensuring the safety of our employees.- Reports safety hazards and ensures the custodial team adheres to safety procedures.- Coaches, trains, mentors, and provides support to all custodial team members.- Manages time and attendance entry and edits, payroll hours worked to budget and achieves metrics.- Submits supply orders and manages custodial supply inventory levels at assigned worksites.- Maintains and reports all equipment and fleet requirements including maintenance and repairs.- Adheres to established departmental dress code.- Adheres to assigned work schedule- Delivers exceptional customer service.- Represents the organization in the community in a positive manner.- Other duties as assigned. 
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities
-**Required Skills & Qualifications **
-- High School Diploma or equivalent- 1 year supervisory experience.- 2 years experience in commercial custodial services.- Bilingual in Spanish and/or American Sign Language preferred.- Experience with disabled or disadvantaged populations.- Knowledge of methods, materials, and equipment used in custodial work, including safety practices.- Valid driver’s license with approved driving record with vehicle in good working condition to travel for work related business. - Approved background check per site requirements.
-**Physical Requirements**
-- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-9:00pm-5:30am
-
 ### Retail Assistant Manager
 
 - **Location:** Whitestone Store, Cedar Park, TX, US
@@ -1454,43 +1407,6 @@ Are you a results-driven retail leader who thrives in a dynamic, mission-focused
 At Goodwill, we don’t just offer jobs—we offer meaningful careers. Working with us means contributing to a greater mission: transforming lives through the power of education and work. Enjoy opportunities for growth, ongoing training, and the satisfaction of knowing your efforts directly support your community. 
 **Ready to Lead with Purpose?**
 Apply now and take the next step in your retail leadership career with Goodwill.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Retail Assistant Manager
-
-- **Location:** Wolf Crossing Store, Georgetown, TX, US
-- **Type:** Full Time
-- **Salary:** $50,000.00 - $55,000.00
-- **Posted:** Oct 06, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588353)**
-
-#### Job Description
-
-**Assistant Store Manager – Lead With Purpose **
-**Start strong and get rewarded. When you join our team, you’ll earn a $750 bonus** after your first 30 days of employment. It’s our way of saying welcome aboard and thanks for bringing your best.
-**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
-Compensation is based on the store's annual revenue classification, with salary ranges varying by position and store revenue band. The approximate annual salary ranges are outlined below:
-Store Revenue Band
-Annual Store Revenue
-Assistant Store Manager
-Band 2
-$2.0M-$2.99M
-$50,000-$55,000
-Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
-**What You’ll Be Doing:**
-- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
-**Who You’ll Supervise:**
-Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
-**What You Bring:**
-- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
-**What You’ll Get:**
-- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
-**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
-**Ready to lead with heart and hustle?**
-Apply today and help us turn donations into opportunities!
 **Equal Employment Opportunity Statement:**
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
@@ -3270,36 +3186,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 - **Salary:** $14.00 - $15.00
 - **Posted:** Oct 15, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588827)**
-
-#### Job Description
-
-This position is responsible for fast, friendly, and accurate transactions at the point of sale. Responsible for providing positive customer experience to Goodwill customers. Responsible for stocking and maintaining merchandising standards on the sales floor while maintaining a clean and safe environment. Promotes and adheres to Goodwill Central Texas mission and values.
-**Customer Service**
-- Creates a high level of customer service throughout the store ensuring all customers experience a welcoming atmosphere.- Communicates current and upcoming sales promotions and events- Provides excellent customer service by greeting, assisting, and thanking customers while meeting customer’s needs in a timely manner; ensures customer concerns and complaints are handled to the customer’s satisfaction- Projects a favorable image of Goodwill Central Texas at all times- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate
-**Store Operations**
-- Follows policies and procedures and executes directives in a timely manner.- Processes all forms of payments, refunds, and promotional discounts according to procedure- Maintain workstation in a clean and organized manner- May be asked to assist in the training process for new customer service associates and other staff cross-trained to use the point of sale system- Responsible for executing merchandising standards- Follows pricing and price check guidelines- Responsible for executing salvaging standards
-**Safety & Risk**
-- Follows and adheres to safety and risk procedures and initiatives.- Uses and maintains personal protective equipment- Participates in weekly safety huddles, monthly safety meetings and drills- Works to reduce worker’s compensation incidents and customer accidents- Uses proper lifting techniques- Uses power equipment responsibly and with appropriate certification- Identifies recall products and properly removes them from processing
-**Services & Programs**
-- Provides a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants- Works respectfully and effectively across cultures- Understands and actively supports the organization’s diversity and inclusion efforts- Acts as a good role model
-**Other Duties**
-- Responsible for being familiar with Team Member Handbook, and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
-**Knowledge & Skills**
-- Ability to read, write, and speak English sufficiently to communicate effectively with supervisors, employees, and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills, ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human-services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done- Knowledge/expertise in working with persons with disadvantages and/or disabilities and barriers
-**Prior Years Experience**
-- 0-3 years of relevant experience- High school diploma or equivalent preferred
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Customer Service Associate
-
-- **Location:** Riverside Store, Austin, TX, US
-- **Type:** Part Time
-- **Salary:** $14.00 - $15.00
-- **Posted:** Oct 15, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588793)**
 
 #### Job Description
 

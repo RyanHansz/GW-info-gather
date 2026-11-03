@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** November 02, 2026 at 04:23 PM
+**Generated:** November 02, 2026 at 09:45 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 57 | 159 |
-| GCC (North Austin) | 12 | 108 | 261 |
-| **TOTAL** | **23** | **165** | **420** |
+| GCC (North Austin) | 12 | 108 | 260 |
+| **TOTAL** | **23** | **165** | **419** |
 
 ---
 
@@ -497,17 +497,17 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 15 total spots across 5 sessions
+> **✅ Spaces available!** 14 total spots across 5 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/
 
-**Total Sessions:** 6 | **Available Spaces:** 15
+**Total Sessions:** 6 | **Available Spaces:** 14
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 11/03/2026 | 1:00pm-3:00pm | Alex | 2 | **Available** |
 | 11/05/2026 | 1:00pm-3:00pm | Alex | 2 | **Available** |
-| 11/10/2026 | 1:00pm-3:00pm | Alex | 3 | **Available** |
+| 11/10/2026 | 1:00pm-3:00pm | Alex | 2 | **Available** |
 | 11/11/2026 | 9:00am-11:00am | Alex | 0 | **Full** |
 | 11/16/2026 | 2:00pm-4:00pm | Alex | 4 | **Available** |
 | 11/24/2026 | 9:00am-11:00am | Alex | 4 | **Available** |
