@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** November 04, 2026 at 02:19 PM
+**Generated:** November 04, 2026 at 08:11 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 52 | 137 |
-| GCC (North Austin) | 12 | 101 | 245 |
-| **TOTAL** | **23** | **153** | **382** |
+| GRC (South Austin) | 11 | 52 | 135 |
+| GCC (North Austin) | 12 | 101 | 244 |
+| **TOTAL** | **23** | **153** | **379** |
 
 ---
 
@@ -27,15 +27,15 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 22 total spots across 6 sessions
+> **✅ Spaces available!** 21 total spots across 6 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-budgeting-basics/
 
-**Total Sessions:** 6 | **Available Spaces:** 22
+**Total Sessions:** 6 | **Available Spaces:** 21
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| 11/09/2026 | TBD | Cindy | 4 | **Available** |
+| 11/09/2026 | TBD | Cindy | 3 | **Available** |
 | 11/12/2026 | 2:30PM-4:30PM | Cindy | 3 | **Available** |
 | 11/16/2026 | TBD | Cindy | 4 | **Available** |
 | 11/18/2026 | 2:30PM-4:30PM | Cindy | 3 | **Available** |
@@ -169,15 +169,15 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 19 total spots across 5 sessions
+> **✅ Spaces available!** 18 total spots across 5 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-indeed-lab/
 
-**Total Sessions:** 5 | **Available Spaces:** 19
+**Total Sessions:** 5 | **Available Spaces:** 18
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| 11/05/2026 | TBD | Cindy | 3 | **Available** |
+| 11/05/2026 | TBD | Cindy | 2 | **Available** |
 | 11/10/2026 | TBD | Cindy | 4 | **Available** |
 | 11/16/2026 | TBD | Cindy | 4 | **Available** |
 | 11/19/2026 | TBD | Cindy | 4 | **Available** |
@@ -485,18 +485,18 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 6 total spots across 2 sessions
+> **✅ Spaces available!** 5 total spots across 2 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-indeed-lab/
 
-**Total Sessions:** 5 | **Available Spaces:** 6
+**Total Sessions:** 5 | **Available Spaces:** 5
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 11/05/2026 | 1:00pm-3:00pm | Alex | 0 | **Full** |
 | 11/10/2026 | 1:00pm-3:00pm | Alex | 0 | **Full** |
 | 11/11/2026 | 9:00am-11:00am | Alex | 0 | **Full** |
-| 11/16/2026 | 2:00pm-4:00pm | Alex | 2 | **Available** |
+| 11/16/2026 | 2:00pm-4:00pm | Alex | 1 | **Available** |
 | 11/24/2026 | 9:00am-11:00am | Alex | 4 | **Available** |
 
 ---

@@ -1,20 +1,20 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 04, 2026 at 02:18 PM
+**Last Updated:** November 04, 2026 at 08:10 PM
 
-**Total Positions:** 142
+**Total Positions:** 144
 
 ---
 
 ## Quick Navigation
 
 - [Child Development](#child-development) (1)
-- [Custodial Services](#custodial-services) (3)
+- [Custodial Services](#custodial-services) (4)
 - [Education & Training](#education-training) (17)
 - [Management & Leadership](#management-leadership) (24)
 - [Other Positions](#other-positions) (84)
 - [Sales](#sales) (1)
-- [Warehouse & Transportation](#warehouse-transportation) (11)
+- [Warehouse & Transportation](#warehouse-transportation) (12)
 - [eCommerce](#ecommerce) (1)
 
 ---
@@ -142,6 +142,31 @@ All qualified applicants will receive consideration for employment without regar
 - High School Diploma/GED.- One year of previous custodial experience in a federal contract or commercial cleaning site.- Ability to operate a variety of buffing machines.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 Monday-Fridays: 8:00am-2:00pm
+
+### Mobile Custodian
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $15.00
+- **Posted:** Oct 22, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589159)**
+
+#### Job Description
+
+As a Mobile Custodian, you will be an essential part of our team that travels to various retail stores throughout the week to provide top-notch cleaning services. This role requires a strong work ethic, attention to detail, and a commitment to teamwork.
+**Role and Responsibilities**
+- Perform a variety of cleaning tasks, including sweeping, mopping, vacuuming, dusting, and sanitizing all areas of retail stores. - Clean and disinfect restrooms, breakroom, and other common areas. - Empty trash and recycling receptacles. - Ensure that all surfaces are clean and free of debris. - Clean windows, mirrors, and glass surfaces.- Ensure proper handling and disposal of cleaning chemicals.- Work effectively as part of a team to complete cleaning tasks efficiently. - Collaborate with team members and supervisors to ensure all areas are cleaned to the highest standards. - Communicate effectively with team members and supervisors. - Follow all safety procedures and guidelines. - Use cleaning products and equipment safely and responsibly. - Report any safety hazards to the supervisor immediately. - Be prepared to travel to different retail locations throughout the week. - Adapts to different cleaning environments and tasks as needed. - Maintain a professional appearance and demeanor at all times. - Represent the company in a positive and respectful manner.- Other duties as required.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities 
+**Required Skills & Qualifications **
+- Previous cleaning experience preferred, but not required. - Keen eye for detail and a commitment to maintaining high standards of cleanliness. - Ability to work effectively as part of a team. - Good communication skills to interact with team members and supervisors. - Must be reliable and punctual with a strong work ethic. - Clean driving record and a valid driver license are required. - Ability to travel across multiple locations.
+**Physical Requirements **
+- Ability to work in both a climate controlled and non-climate-controlled environment.- Must be able to lift and carry up to 35 pounds at times.- Ability to perform physical tasks associated with cleaning such as walking, standing, bending, lifting and carrying for duration of shift.- Ability to work with various cleaning tools and equipment.
+**What We Offer**
+- **Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.- **Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and company-wide holidays.- **Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.- **Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses.- **Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and mental health support.- **Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.- **Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
+#IND2
+Monday-Fridays: Evening Schedule: 8:00pm-4:30am
 
 ### IRS Overnight Custodian
 
@@ -1958,6 +1983,80 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Donations Processor
 
+- **Location:** Balcones Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $14.00 - $15.00
+- **Posted:** Nov 05, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589732)**
+
+#### Job Description
+
+This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
+** **
+**Store Operations**
+- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
+** **
+**Customer Service**
+- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
+** **
+**Safety & Risk**
+- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
+** **
+**Services & Programs**
+- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
+** **
+**Other Duties**
+- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
+** **
+**Knowledge & Skills**
+- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
+** **
+**Prior Years Experience**
+- 0-3 years of relevant experience- High school diploma or equivalent preferred
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Donations Processor
+
+- **Location:** Riverside Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $14.00 - $15.00
+- **Posted:** Nov 05, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589717)**
+
+#### Job Description
+
+This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
+** **
+**Store Operations**
+- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
+** **
+**Customer Service**
+- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
+** **
+**Safety & Risk**
+- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
+** **
+**Services & Programs**
+- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
+** **
+**Other Duties**
+- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
+** **
+**Knowledge & Skills**
+- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
+** **
+**Prior Years Experience**
+- 0-3 years of relevant experience- High school diploma or equivalent preferred
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Donations Processor
+
 - **Location:** Wells Branch Store, Pflugerville, TX, US
 - **Type:** Full Time
 - **Salary:** $14.00 - $16.00
@@ -2814,80 +2913,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ### Donations Processor
 
-- **Location:** Wolf Crossing Store, Georgetown, TX, US
-- **Type:** Full Time
-- **Salary:** $14.00 - $15.00
-- **Posted:** Oct 23, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589193)**
-
-#### Job Description
-
-This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
-** **
-**Store Operations**
-- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
-** **
-**Customer Service**
-- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
-** **
-**Safety & Risk**
-- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
-** **
-**Services & Programs**
-- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
-** **
-**Other Duties**
-- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
-** **
-**Knowledge & Skills**
-- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
-** **
-**Prior Years Experience**
-- 0-3 years of relevant experience- High school diploma or equivalent preferred
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Donations Processor
-
-- **Location:** Wolf Crossing Store, Georgetown, TX, US
-- **Type:** Full Time
-- **Salary:** $14.00 - $15.00
-- **Posted:** Oct 22, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589119)**
-
-#### Job Description
-
-This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
-** **
-**Store Operations**
-- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
-** **
-**Customer Service**
-- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
-** **
-**Safety & Risk**
-- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
-** **
-**Services & Programs**
-- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
-** **
-**Other Duties**
-- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
-** **
-**Knowledge & Skills**
-- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
-** **
-**Prior Years Experience**
-- 0-3 years of relevant experience- High school diploma or equivalent preferred
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Donations Processor
-
 - **Location:** Terra Vista Store, Round Rock, TX, US
 - **Type:** Part Time
 - **Salary:** $14.00 - $15.00
@@ -3635,7 +3660,7 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
-### Customer Service Associate
+### Donations Processor
 
 - **Location:** Round Rock Store, Round Rock, TX, US
 - **Type:** Full Time
@@ -3645,22 +3670,26 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 #### Job Description
 
-**     New Hire Bonus**
-Earn up to $350 in new hire bonuses! $250 after 60 days of employment + $100 after 90 days
-**New Hire Bonus**
-This position is responsible for fast, friendly, and accurate transactions at the point of sale. Responsible for providing positive customer experience to Goodwill customers. Responsible for stocking and maintaining merchandising standards on the sales floor while maintaining a clean and safe environment. Promotes and adheres to Goodwill Central Texas mission and values.
-**Customer Service**
-- Creates a high level of customer service throughout the store ensuring all customers experience a welcoming atmosphere.- Communicates current and upcoming sales promotions and events- Provides excellent customer service by greeting, assisting, and thanking customers while meeting customer’s needs in a timely manner; ensures customer concerns and complaints are handled to the customer’s satisfaction- Projects a favorable image of Goodwill Central Texas at all times- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate
+This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
+** **
 **Store Operations**
-- Follows policies and procedures and executes directives in a timely manner.- Processes all forms of payments, refunds, and promotional discounts according to procedure- Maintain workstation in a clean and organized manner- May be asked to assist in the training process for new customer service associates and other staff cross-trained to use the point of sale system- Responsible for executing merchandising standards- Follows pricing and price check guidelines- Responsible for executing salvaging standards
+- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
+** **
+**Customer Service**
+- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
+** **
 **Safety & Risk**
-- Follows and adheres to safety and risk procedures and initiatives.- Uses and maintains personal protective equipment- Participates in weekly safety huddles, monthly safety meetings and drills- Works to reduce worker’s compensation incidents and customer accidents- Uses proper lifting techniques- Uses power equipment responsibly and with appropriate certification- Identifies recall products and properly removes them from processing
+- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
+** **
 **Services & Programs**
-- Provides a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants- Works respectfully and effectively across cultures- Understands and actively supports the organization’s diversity and inclusion efforts- Acts as a good role model
+- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
+** **
 **Other Duties**
-- Responsible for being familiar with Team Member Handbook, and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
+- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
+** **
 **Knowledge & Skills**
-- Ability to read, write, and speak English sufficiently to communicate effectively with supervisors, employees, and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills, ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human-services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done- Knowledge/expertise in working with persons with disadvantages and/or disabilities and barriers
+- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
+** **
 **Prior Years Experience**
 - 0-3 years of relevant experience- High school diploma or equivalent preferred
 **Equal Employment Opportunity Statement:**
@@ -4768,6 +4797,26 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Warehouse & Transportation
+
+### Material Handler I
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.50
+- **Posted:** Nov 05, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589733)**
+
+#### Job Description
+
+The Material Handler I performs a variety of warehouse, recycling, and material handling duties in support of Distribution Center operations. This position safely processes donations and merchandise while maintaining productivity, quality, and safety standards.
+**Role and Responsibilities**
+- Sort donations and merchandise into designated commodity streams in accordance with current operating procedures. - Process, stack, palletize, and prepare merchandise and recyclable materials for storage, shipment, or sale. - Safely operate: - Manual pallet jacks - Tippers - Trash compactors - Vertical balers - Max-Pak horizontal balers - Load tippers, balers, and compactors safely and efficiently. - Maintain clean, organized, and safe work areas. - Inspect assigned equipment prior to use and report maintenance or safety concerns. - Follow all Goodwill Central Texas safety policies and Standard Operating Procedures. - Accurately report accidents, incidents, hazards, or damaged equipment. - Work collaboratively with leadership and peers to support daily production goals. - Maintain a professional image when interacting with customers, donors, and team members. - Other duties as assigned. 
+**Required Skills & Qualifications**
+- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Driver/Assembly and Fulfillment 
 
