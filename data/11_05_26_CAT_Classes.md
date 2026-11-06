@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** November 05, 2026 at 02:29 PM
+**Generated:** November 05, 2026 at 08:17 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 44 | 124 |
-| GCC (North Austin) | 12 | 101 | 237 |
-| **TOTAL** | **23** | **145** | **361** |
+| GRC (South Austin) | 11 | 42 | 122 |
+| GCC (North Austin) | 12 | 101 | 235 |
+| **TOTAL** | **23** | **143** | **357** |
 
 ---
 
@@ -73,15 +73,14 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 14 total spots across 4 sessions
+> **✅ Spaces available!** 12 total spots across 3 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-computer-basics/
 
-**Total Sessions:** 4 | **Available Spaces:** 14
+**Total Sessions:** 3 | **Available Spaces:** 12
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~11/05/2026~~ | ~~09:30AM-10:30AM~~ | Adryan | ~~2~~ | Past |
 | 11/13/2026 | 10:00AM-11:00AM | Adryan | 4 | **Available** |
 | 11/18/2026 | 10:00AM-11:00AM | Adryan | 4 | **Available** |
 | 11/24/2026 | 10:00AM-11:00AM | Adryan | 4 | **Available** |
@@ -122,11 +121,10 @@
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-digital-skills-11/
 
-**Total Sessions:** 2 | **Available Spaces:** 0
+**Total Sessions:** 1 | **Available Spaces:** 0
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~11/05/2026~~ | ~~02:30PM-03:30PM~~ | Adryan | ~~0~~ | Past |
 | 11/13/2026 | 03:30PM-04:30PM | Adryan | 0 | **Full** |
 
 ---
@@ -584,19 +582,19 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 43 total spots across 7 sessions
+> **✅ Spaces available!** 41 total spots across 7 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-wonderlic-prep-and-practice/
 
-**Total Sessions:** 7 | **Available Spaces:** 43
+**Total Sessions:** 7 | **Available Spaces:** 41
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~10/30/2026~~ | ~~TBD~~ | Doug | ~~6~~ | Past |
 | ~~11/03/2026~~ | ~~9:30AM-11:30AM~~ | Doug | ~~5~~ | Past |
 | 11/09/2026 | TBD | Doug | 6 | **Available** |
-| 11/10/2026 | TBD | Doug | 7 | **Available** |
-| 11/10/2026 | 9:30AM-11:30AM | Doug | 5 | **Available** |
+| 11/10/2026 | TBD | Doug | 6 | **Available** |
+| 11/10/2026 | 9:30AM-11:30AM | Doug | 4 | **Available** |
 | 11/17/2026 | 9:30AM-11:30AM | Doug | 7 | **Available** |
 | 11/24/2026 | 9:30AM-11:30AM | Doug | 7 | **Available** |
 
