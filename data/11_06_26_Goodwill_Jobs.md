@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 06, 2026 at 01:50 PM
+**Last Updated:** November 06, 2026 at 07:30 PM
 
-**Total Positions:** 147
+**Total Positions:** 148
 
 ---
 
@@ -12,7 +12,7 @@
 - [Custodial Services](#custodial-services) (5)
 - [Education & Training](#education-training) (15)
 - [Management & Leadership](#management-leadership) (24)
-- [Other Positions](#other-positions) (88)
+- [Other Positions](#other-positions) (89)
 - [Sales](#sales) (1)
 - [Warehouse & Transportation](#warehouse-transportation) (12)
 - [eCommerce](#ecommerce) (1)
@@ -1880,6 +1880,53 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ## Other Positions
 
+### Logistics Trainer
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $29.00 - $31.00
+- **Posted:** Nov 07, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589968)**
+
+#### Job Description
+
+The Logistics Trainer will assist in road testing driver applicants for both CDL and non-CDL driving positions as well as providing training for current drivers as needed. When not conducting training tasks, the Logistics Trainer will be assigned normal driving duties within the Transportation Department operating a tractor trailer truck, box truck, or light van/pick-up to and from pickup and delivery points in a safe manner.
+**Roles and Responsibilities**
+- Partner with leadership to translate the organization's strategic plan into actionable human capital strategies that support business objectives and organizational success.- Conduct road testing for driver applicants and assist in the onboarding process.- Conduct individual and group training for current drivers as instructed by Logistics Manager.- Collaborate with Safety Team and Logistics Manager to provide regular training and instruction for drivers including post-incident corrective training.- Neatly and accurately complete required paperwork to include manifest, vehicle inspection report, driver logs, donation count sheets, and truck seals.- Accurately report incidents and accidents to supervisor.- Perform operator-level maintenance on assigned equipment to include daily checks for fuel, oil, lubricants, water, antifreeze, and vehicle condition.- Ensure safety of truck and equipment at dock to include chocking of tires.- Present neat and professional Goodwill Central Texas image to customers, stores, and the public.- Attend all scheduled meetings.- Provide excellent customer service.- Meet attendance and punctuality requirements.- Load and unload trailers by-hand/pallet jack.- In between pick up and drop offs, assist in material handling duties in warehouse as needed. This could include emptying boxes, moving pallets, sweeping trailers, docks, or areas around trailers to keep trash clear or other debris that may impact trailers.- Experience and/or familiarity with telematics, fleet routing software, and electronic duty logs.- Experience and/or familiarity with Smith System defensive driver training.- Other duties as assigned. 
+**Supervisory Responsibility**
+- This position does not have supervisory responsibilities.- Required Qualifications- Must be at least 21 years of age.- Must possess a valid Texas Class A Commercial Driver's License (CDL) with an acceptable driving record.- Must possess a valid Department of Transportation (DOT) Medical Examiner's Certificate.- Must be able to pass all applicable DOT physical and drug screening requirements.- Minimum of 2 years of commercial driving experience operating tractor-trailers or equivalent commercial vehicles.- Knowledge of DOT regulations, Hours of Service (HOS) requirements, and driver safety practices.- Ability to effectively communicate, read, write, and understand English.- Ability to accurately complete required reports, driver logs, manifests, and inspection documentation.- Basic computer skills and ability to use electronic logging devices (ELDs), telematics systems, and fleet management software.- Ability to conduct training, coaching, and performance evaluations for new and existing drivers.- Strong interpersonal, customer service, and presentation skills.
+**Preferred Qualifications**
+- Previous driver trainer, mentor, or instructor experience.- Experience conducting road tests and driver evaluations.- Familiarity with Smith System defensive driving principles.- Experience using fleet routing software, telematics platforms, and transportation management systems.- Warehouse, logistics, or distribution center experience.- Forklift or pallet jack experience.- Recommended Physical Requirements- Ability to safely lift, carry, push, and pull up to 50 pounds on a regular basis.- Ability to occasionally lift or move items weighing more than 50 pounds with assistance or appropriate equipment.- Ability to stand, walk, bend, stoop, squat, kneel, reach, and twist throughout the workday.- Ability to climb into and out of commercial vehicles, trailers, and loading docks repeatedly during a shift.- Ability to sit for extended periods while operating commercial vehicles.- Ability to use hands and fingers to operate vehicle controls, mobile devices, and electronic logging equipment.- Ability to safely load and unload freight using manual pallet jacks and other material handling equipment.- Ability to work indoors and outdoors in varying weather conditions and in non-climate-controlled environments.- Ability to safely perform duties in warehouse, dock, yard, and roadway environments.- Ability to meet all DOT physical qualification standards and maintain required certifications.- Ability to visually inspect vehicles, read gauges and instruments, and maintain situational awareness while operating equipment.- Ability to work flexible schedules, including early mornings, evenings, weekends, or overtime as business needs require.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+#IND2
+
+### Retail Team Lead
+
+- **Location:** Clock Tower Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $19.00
+- **Posted:** Nov 07, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589964)**
+
+#### Job Description
+
+The Retail Team Lead will assist management in the operation of the Goodwill retail store. This includes customer service, recordkeeping, cash management, facility operation, communications, merchandising, production, and inventory control. They will have a primary team they are responsible to work with when not assisting management with store operations (the retail sales floor team, or the back-room production team) as assigned by the Retail General Manager.
+**Role and Responsibilities**
+- Assist the store management team with the overall operation of the retail store when scheduled or assigned. - Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Coach and train associates on their assigned team (sales floor or production) as a subject matter expert. 
+**Supervisory Responsibility**
+This position is responsible for coaching and training the AI Merchandise Pricer, Merchandise Processor, and Sales Associate positions on their assigned team.  This position does not have any direct reports.  
+**Required Skills & Qualifications **
+- At least 1 year of supervisory, leading a team, or equivalent experience.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.- Keyholder responsibilities for open/closing securing the store as scheduled. 
+**Physical Requirements**
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Must be big joe certified to load and unload trailers- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
 ### Customer Service Associate
 
 - **Location:** Round Rock Store, Round Rock, TX, US
@@ -3092,43 +3139,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 NEW HIRE BONUS
 Earn up to $350 in new hire bonuses! $250 after 60 days of employment + $100 after 90 days
-This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
-** **
-**Store Operations**
-- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
-** **
-**Customer Service**
-- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
-** **
-**Safety & Risk**
-- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
-** **
-**Services & Programs**
-- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
-** **
-**Other Duties**
-- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
-** **
-**Knowledge & Skills**
-- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
-** **
-**Prior Years Experience**
-- 0-3 years of relevant experience- High school diploma or equivalent preferred
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Donations Processor
-
-- **Location:** Clock Tower Store, Austin, TX, US
-- **Type:** Part Time
-- **Salary:** $14.00 - $15.00
-- **Posted:** Oct 21, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589082)**
-
-#### Job Description
-
 This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
 ** **
 **Store Operations**
