@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 10, 2026 at 02:16 PM
+**Last Updated:** November 10, 2026 at 07:58 PM
 
-**Total Positions:** 145
+**Total Positions:** 144
 
 ---
 
@@ -11,7 +11,7 @@
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (5)
 - [Education & Training](#education-training) (15)
-- [Management & Leadership](#management-leadership) (24)
+- [Management & Leadership](#management-leadership) (23)
 - [Other Positions](#other-positions) (86)
 - [Sales](#sales) (1)
 - [Warehouse & Transportation](#warehouse-transportation) (12)
@@ -1107,49 +1107,6 @@ The Real Estate Store Project Manager is also responsible for the new store prod
 This position does not have supervisory responsibilities.
 **Required Skills & Qualifications **
 - Works in coordination with the Sr Director of Real Estate to establish written project plans that are date specific for each assigned project.- Experience with project management software, scheduling tools (e.g., MS Project), and budgeting software.- Ensure proper level of staffing with coordination with Facilities team to help finalize items that can be done in-house.- Works in conjunction with Executive leadership to establish potential needs for new stores and assists.- Participates when needed and potentially leads in property committee meetings, layout meetings and construction meetings as directed.- Plans the employee needs for each project and arranges for adequate staffing for the period needed to complete the project on time and within expected guidelines while minimizing any disruption to an operating store during a project.- Ensure standards for organization and visual appearance are met. - Creates a high-performance culture during his/her projects by setting clear expectations and targets and holding the team accountable through appropriate and prompt feedback.- Demonstrates ethics and comply with Corporate Compliance Program.- Physical Requirements- Must be able to lift up to 30 pounds at times.- Ability to work in both a climate and non-climate-controlled environment. - Prolonged periods of sitting at a desk and working on a computer.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus- Ability to use hands and fingers to operate a telephone/key board and tools.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Senior Technical Program Manager
-
-- **Location:**  Austin, TX, US
-- **Type:** Full Time
-- **Posted:** Oct 28, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589289)**
-
-#### Job Description
-
-Goodwill Central Texas is seeking an experienced Senior Technical Program Manager to lead complex digital and technology initiatives from discovery through launch. This role connects business stakeholders, technical teams, leadership, and external delivery partners to translate strategic priorities into actionable plans and measurable outcomes. 
-Goodwill Central Texas expects to hire multiple Technical Program Managers who may be aligned with business portfolios such as Finance and Human Resources, Workforce Advancement, Marketing and Staffing, or internal Technology. Assignments will be based on organizational needs and relevant experience. In every assignment, the role is responsible for managing roadmaps, backlogs, priorities, dependencies, risks, and delivery reporting using Jira and Confluence. 
-This position is open to direct applicants only. Third-party recruiters, agencies, and staffing firms will not be considered. Visa sponsorship is not available for this role. 
-**Potential Portfolio Alignments **
-- Finance and Human Resources: ADP and Microsoft Dynamics 365 Finance and Operations (F&O) - Workforce Advancement: CaseWorthy and related departmental platforms - Marketing and Staffing: HubSpot CRM, marketing automation, and related platforms - Internal Technology: Cybersecurity, data warehousing, SharePoint, infrastructure, and enterprise integrations 
-** **
-**Program and Project Leadership **
-- Lead complex technology initiatives from intake and discovery through launch and post-launch evaluation. - Translate business strategies, product priorities, and technology roadmaps into actionable delivery plans with clear scope, milestones, dependencies, resource needs, release schedules, and measures of success. - Own and maintain portfolio roadmaps, program backlogs, delivery priorities, dependencies, and release plans in Jira. - Partner with business owners, product owners, and technology leaders to prioritize work based on business value, urgency, risk, capacity, and technical dependencies. - Manage multiple concurrent initiatives, resolving resource and stakeholder conflicts while ensuring delivery expectations for schedule, scope, budget, quality, and business outcomes are met. 
-** **
-**Cross-Functional and Vendor Collaboration**
-- Coordinate technology delivery across internal technical teams, business units, vendor-provided engineers, implementation partners, and other external resources. - Own the technology scope, delivery plan, schedule, dependencies, and risks for initiatives with a material technology component. - Partner with business owners to coordinate business decisions, operational readiness, and other nontechnical deliverables that affect technology delivery, while accountability for those activities remains with the appropriate business owner. - Integrate vendor commitments and deliverables into the overall roadmap, backlog, schedule, and status reporting, monitoring performance and escalating concerns when needed. - Provide stakeholders and leadership with clear updates on delivery progress, risks, dependencies, decisions, and issues requiring resolution. 
-**Technical Coordination and Decision Support**
-- Develop sufficient understanding of the systems, integrations, data flows, and technical constraints involved in each initiative to coordinate delivery effectively. - Engage the appropriate technical and business subject-matter experts to identify options, evaluate risks and constraints, and understand potential operational and business impacts. - Facilitate technical discussions and ensure recommendations, tradeoffs, decisions, and follow-up actions are clearly documented and communicated to relevant stakeholders. - Partner with technical teams to translate complex solutions into manageable workstreams, milestones, dependencies, and deliverables. 
-** **
-**Risk, Governance, and Communication**
-- Proactively identify, assess, and communicate program risks, blockers, dependencies, resource conflicts, and scope changes; develop mitigation plans and facilitate timely escalation, decisions, and issue resolution. - Identify and manage risks associated with vendor capacity, technical dependencies, delivery commitments, access requirements, knowledge transfer, and transition planning. - Establish governance, reporting, and escalation practices appropriate to each initiative, maintaining decision logs, delivery reports, dashboards, and other documentation needed to provide visibility into program health. 
-**Agile Delivery and Continuous Improvement**
-- Apply Agile, Scrum, Kanban, hybrid, or other delivery approaches appropriate to the initiative, facilitating core activities such as planning, backlog refinement, stand-ups, reviews, retrospectives, and release planning. - Use Jira to manage backlogs, workflows, delivery status, dependencies, releases, and reporting, and use Confluence to maintain requirements, decisions, governance materials, and shared program knowledge. - Define and monitor measures of delivery performance, including program health, capacity, predictability, quality, and progress toward business outcomes. - Use delivery data, retrospectives, and post-launch reviews to identify root causes, capture lessons learned, and implement improvements to team workflows and delivery practices. - Perform other duties as assigned, consistent with training and qualifications. 
-** **
-**Supervisory Responsibility**
-This position will supervise the Technical Program Manager position(s).
-** **
-**Required Skills & Qualifications **
-- Bachelor's degree in Computer Science, Engineering, Information Systems, Business, Project Management, or a related field, or an equivalent combination of education and relevant experience. - 10+ years of experience working on technology projects in a cross-functional environment. - Demonstrated experience leading complex technology initiatives through planning, execution, launch, and post-launch evaluation. - Experience working in Agile environments and facilitating planning, backlog refinement, prioritization, reviews, retrospectives, and release activities. - Hands-on experience using Jira and Confluence to manage roadmaps, backlogs, priorities, schedules, dependencies, risks, documentation, and delivery reporting. - Ability to connect business objectives and requirements with actionable plans for technical teams, facilitating decisions and communication between technical and nontechnical stakeholders. - Strong organizational, analytical, and problem-solving skills, with the ability to manage multiple initiatives, competing priorities, dependencies, and ambiguity. - Experience coordinating internal teams, business stakeholders, and external delivery partners while maintaining clear accountability for commitments and outcomes. 
-**Preferred Qualifications**
-- Experience supporting a business function or technology portfolio such as Finance, Human Resources, Payroll, Benefits, Workforce Services, Marketing, Staffing, or internal Technology. - Experience with one or more relevant platforms, such as ADP, Microsoft Dynamics 365 Finance and Operations, CaseWorthy, HubSpot, Microsoft SharePoint, enterprise data platforms, cybersecurity platforms, or comparable systems. - Experience planning and coordinating system implementations, enhancements, integrations, migrations, or process improvements across business and technology teams. - Experience working with implementation partners, consultants, or other external resources, including coordinating deliverables, releases, and vendor performance. - Project-management or Agile certification, such as PMP, Certified ScrumMaster, SAFe, PMI-ACP, PgMP, or an equivalent credential. 
-**Physical Requirements**
-- Prolonged periods of sitting at a desk and working on a computer. - Must be able to lift up to 15 pounds at times. - While performing the duties of this position, the employee may frequently be required to walk, balance, stoop, kneel, crouch, talk, or hear. - The position requires the ability to manage moderate levels of workplace stress. - Specific vision abilities required include close vision, distance vision, depth perception, and the ability to adjust focus. 
-** **
 **Equal Employment Opportunity Statement:**
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
