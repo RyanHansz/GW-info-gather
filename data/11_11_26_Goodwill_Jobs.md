@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 11, 2026 at 02:13 PM
+**Last Updated:** November 11, 2026 at 09:04 PM
 
-**Total Positions:** 139
+**Total Positions:** 141
 
 ---
 
@@ -10,11 +10,11 @@
 
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (4)
-- [Education & Training](#education-training) (14)
+- [Education & Training](#education-training) (15)
 - [Management & Leadership](#management-leadership) (23)
 - [Other Positions](#other-positions) (82)
 - [Sales](#sales) (1)
-- [Warehouse & Transportation](#warehouse-transportation) (12)
+- [Warehouse & Transportation](#warehouse-transportation) (13)
 - [eCommerce](#ecommerce) (2)
 
 ---
@@ -979,6 +979,49 @@ Background Check
 Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
 #IND1
 
+### Substitute Teacher
+
+- **Location:** Excel Coleman Campus, Lockhart, TX, US
+- **Type:** Part Time
+- **Posted:** Oct 06, 2025
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=566844)**
+
+#### Job Description
+
+Pipeline Notification
+The Goodwill Excel Center is currently seeking passionate educators to join our Substitute Teacher pipeline. This is an evergreen posting designed to identify and engage talented instructors for future openings across our campuses. By applying, you are expressing interest in being considered for upcoming opportunities as they arise.
+Company:
+For more than six decades, Goodwill Central Texas has been relentlessly focused on empowering thousands of people to work. We transform revenue from over 37 retail locations into a combination of education, career training, job placement, career coaching and support, and more. Every time you shop or support Goodwill, you are helping fund our greater mission to serve our community. Goodwill’s vision extends far beyond our retail stores and your generous donations: We envision a Central Texas where everyone has the opportunity to thrive.
+The Goodwill Excel Center for Adults opened in 2014 as an open-enrollment public charter high school for adults ages 18 to 50. The Excel Center Adult High School transforms lives in a supportive and holistic learning environment where all students are empowered to achieve. 
+For more information on the Goodwill Excel Center Adult High School, visit https://excelcenterhighschool.org
+Commitment to Excellence
+At The Excel Center, we are building a high-performing organization focused on transforming lives through the power of education and work and becoming the model of excellence for adult education across Texas. Our team members contribute to a culture grounded in our values of caring, innovation, and accountability and focused on strong graduate outcomes.
+All Excel team members:
+- Deliver Excellence - Uphold high standards of professionalism, execution, and service to students- Own the Outcome - Demonstrate accountability through ownership, reliability, follow-through, and continuous improvement.- Work as One Team - Collaborate and contribute positively to a solutions-oriented culture- Lead with Purpose - Align actions and decisions to the organization’s mission, vision, values, and strategic priorities- Strengthen the System - Support systems, processes, and practices that strengthen organizational effectiveness and student impact
+All team members demonstrate our standards through strong individual performance and a commitment to collective excellence.
+**Important Retirement Information**
+The Goodwill Excel Center for Adults is a **Texas public charter school district**. Employees in TRS-eligible positions participate in the **Teacher Retirement System of Texas (TRS)**.
+Eligible employees are required to contribute a portion of their salary to TRS retirement and TRS-Care through automatic payroll deductions. TRS is a defined-benefit retirement system, and employees generally become vested after earning **five years of TRS service credit**.
+Candidates should consider these required retirement contributions when evaluating compensation and long-term employment with the district. Additional information about TRS eligibility, contributions, vesting, and retirement benefits is available through the Teacher Retirement System of Texas.
+The Substitute High School Teacher for a Correctional Facility Campus is responsible for providing and implementing the daily lesson plans in the assigned courses according to the district’s requirements. The Substitute High School Teacher will manage the classroom environment, provide activities, materials, and promote student learning in the absence of the regular classroom teacher. 
+Please note that this Substitute position is for a campus located within a Correctional Facility. In addition to passing the background check and completing fingerprinting for The Excel Center, the applicant will be required to pass the background check and additional training required by MTC and TDCJ. 
+REQUIRED QUALIFICATIONS:
+- A minimum of 60+ college credit hours, Bachelor’s or higher degree from an accredited university is required. 
+- All substitute teacher applicants must submit proof of an official accredited college transcript (showing the degree conferred or the minimum of 60+ college hours) OR a valid Texas Teacher Certificate from the Texas Education Agency (TEA)
+- General knowledge of possible assigned subject areas. - Strong organizational, communication, and interpersonal skills. - General knowledge of curriculum and instruction. - Ability to instruct students and manage their behavior in a correctional facility setting. - Ability to follow oral and written directions. - Ability to maintain effective classroom management strategies. - Must be able to understand work instructions in English.- Must possess the essential mindset that all students can achieve at high levels.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Must be able to successfully pass a background check and complete fingerprinting requirement.
+PREFERRED QUALIFICATIONS:
+- Current Texas Teaching Certification. - 1+ years of experience providing instruction to adults.
+Compensation:
+Compensation for this position is a daily rate of:
+Full Days - $160 (4 or more hours)
+Half Days - $75 (Less than 4 hours)
+Long Term - $170*
+Excess Hours - $30/hour**
+Equal Employment Opportunity
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to a workplace where everyone feels included. All qualified applicants will receive consideration for employment regardless of race, color, religion, sex, national origin, age, disability, veteran status, gender identity, sexual orientation, or any other protected characteristic.
+Background Check
+Goodwill Excel Center is a public school and pre-employment background check and fingerprinting is required to ensure the applicant meets all eligibility requirements for the position. Additionally, positions that will be entering a campus located within a correctional facility are required to submit to pre-employment drug testing and receive a negative result as a condition of employment.
+
 ---
 
 ## Management & Leadership
@@ -1754,6 +1797,43 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ## Other Positions
 
+### Donations Processor
+
+- **Location:** Round Rock Store, Round Rock, TX, US
+- **Type:** Full Time
+- **Salary:** $14.00 - $15.00
+- **Posted:** Nov 12, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590137)**
+
+#### Job Description
+
+This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
+** **
+**Store Operations**
+- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
+** **
+**Customer Service**
+- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
+** **
+**Safety & Risk**
+- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
+** **
+**Services & Programs**
+- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
+** **
+**Other Duties**
+- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
+** **
+**Knowledge & Skills**
+- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
+** **
+**Prior Years Experience**
+- 0-3 years of relevant experience- High school diploma or equivalent preferred
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
 ### Customer Service Associate
 
 - **Location:** Whitestone Store, Cedar Park, TX, US
@@ -2492,43 +2572,6 @@ Ready to make an impact? Apply today and become part of our HR success story.
 ** **
 **Equal Employment Opportunity Statement:**
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Donations Processor
-
-- **Location:** Town Lake Store, Austin, TX, US
-- **Type:** Part Time
-- **Salary:** $14.00 - $15.00
-- **Posted:** Oct 29, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589426)**
-
-#### Job Description
-
-This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
-** **
-**Store Operations**
-- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
-** **
-**Customer Service**
-- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
-** **
-**Safety & Risk**
-- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
-** **
-**Services & Programs**
-- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
-** **
-**Other Duties**
-- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
-** **
-**Knowledge & Skills**
-- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
-** **
-**Prior Years Experience**
-- 0-3 years of relevant experience- High school diploma or equivalent preferred
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
@@ -4477,6 +4520,26 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Warehouse & Transportation
+
+### Material Handler I
+
+- **Location:** Ecommerce, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.00
+- **Posted:** Nov 12, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590130)**
+
+#### Job Description
+
+The Material Handler I performs a variety of warehouse, recycling, and material handling duties in support of Distribution Center operations. This position safely processes donations and merchandise while maintaining productivity, quality, and safety standards.
+**Role and Responsibilities**
+- Sort donations and merchandise into designated commodity streams in accordance with current operating procedures. - Process, stack, palletize, and prepare merchandise and recyclable materials for storage, shipment, or sale. - Safely operate: - Manual pallet jacks - Tippers - Trash compactors - Vertical balers - Max-Pak horizontal balers - Load tippers, balers, and compactors safely and efficiently. - Maintain clean, organized, and safe work areas. - Inspect assigned equipment prior to use and report maintenance or safety concerns. - Follow all Goodwill Central Texas safety policies and Standard Operating Procedures. - Accurately report accidents, incidents, hazards, or damaged equipment. - Work collaboratively with leadership and peers to support daily production goals. - Maintain a professional image when interacting with customers, donors, and team members. - Other duties as assigned. 
+**Required Skills & Qualifications**
+- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### ADC Attendant
 

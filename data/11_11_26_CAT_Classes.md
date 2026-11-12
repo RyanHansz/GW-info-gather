@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** November 11, 2026 at 02:14 PM
+**Generated:** November 11, 2026 at 09:05 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 38 | 105 |
-| GCC (North Austin) | 12 | 87 | 205 |
-| **TOTAL** | **23** | **125** | **310** |
+| GCC (North Austin) | 12 | 86 | 204 |
+| **TOTAL** | **23** | **124** | **309** |
 
 ---
 
@@ -356,15 +356,15 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 50 total spots across 14 sessions
+> **✅ Spaces available!** 49 total spots across 14 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-computer-basics/
 
-**Total Sessions:** 14 | **Available Spaces:** 50
+**Total Sessions:** 14 | **Available Spaces:** 49
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~10/27/2026~~ | ~~10:00AM-11:00AM~~ | Adryan | ~~2~~ | Past |
+| ~~10/27/2026~~ | ~~10:00AM-11:00AM~~ | Adryan | ~~1~~ | Past |
 | ~~10/28/2026~~ | ~~11:00AM-12:00PM~~ | Adryan | ~~4~~ | Past |
 | ~~10/29/2026~~ | ~~11:00AM-12:00PM~~ | Adryan | ~~4~~ | Past |
 | ~~11/02/2026~~ | ~~10:00AM-11:00AM~~ | Adryan | ~~4~~ | Past |
@@ -409,11 +409,10 @@
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-digital-skills-11/
 
-**Total Sessions:** 8 | **Available Spaces:** 5
+**Total Sessions:** 7 | **Available Spaces:** 5
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~11/11/2026~~ | ~~1:30pm-2:30pm~~ | Alex | ~~0~~ | Past |
 | ~~11/11/2026~~ | ~~02:30PM-03:30PM~~ | Adryan | ~~0~~ | Past |
 | 11/17/2026 | 2:30pm-3:30pm | Alex | 1 | **Available** |
 | 11/19/2026 | 3:00pm-4:00pm | Alex | 1 | **Available** |
