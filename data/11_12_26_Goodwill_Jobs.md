@@ -1,20 +1,20 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 12, 2026 at 02:30 PM
+**Last Updated:** November 12, 2026 at 08:34 PM
 
-**Total Positions:** 139
+**Total Positions:** 138
 
 ---
 
 ## Quick Navigation
 
 - [Child Development](#child-development) (1)
-- [Custodial Services](#custodial-services) (4)
+- [Custodial Services](#custodial-services) (5)
 - [Education & Training](#education-training) (15)
 - [Management & Leadership](#management-leadership) (20)
-- [Other Positions](#other-positions) (83)
+- [Other Positions](#other-positions) (82)
 - [Sales](#sales) (1)
-- [Warehouse & Transportation](#warehouse-transportation) (13)
+- [Warehouse & Transportation](#warehouse-transportation) (12)
 - [eCommerce](#ecommerce) (2)
 
 ---
@@ -210,6 +210,40 @@ This position does not have supervisory responsibilities 
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 #IND2
 Monday-Fridays: Evening Schedule: 8:00pm-4:30am
+
+### IRS Overnight Custodian
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.75 - $22.84
+- **Posted:** Sep 01, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586504)**
+
+#### Job Description
+
+**About the Role**
+Goodwill Central Texas Commercial Services provides janitorial and related contract services while creating meaningful employment opportunities through purpose-driven workforce programs.
+As an Overnight Custodian, you will help maintain a clean, safe, and welcoming environment at an IRS facility. This role requires someone who can work independently, take pride in their work, and has strong hands-on experience with floor care and carpet extraction.
+**Important Program Eligibility Requirement**
+This position is part of a federal AbilityOne Program contract. The program provides employment opportunities for individuals who meet specific eligibility requirements, including individuals with a documented medical condition. 
+During the recruiter screening process, candidates will be asked to disclose details of the medical condition relevant to AbilityOne eligibility and provide medical documentation to verify program eligibility. 
+If you do not meet the AbilityOne eligibility requirement, please explore other career opportunities with Goodwill Central Texas that are not designated AbilityOne positions. 
+**Role & Responsibilities**
+- Clean and maintain restrooms, fixtures, floors, and other assigned areas using approved products and procedures.- Sweep and mop floors daily; strip, wax, and buff floors as required.- Perform independent floor care, including operating floor machines and completing required floor-care tasks.- Vacuum carpets daily and perform carpet shampooing/extraction as required by the contract.- Spot-clean doors, walls, windows, and other surfaces.- Restock cleaning and restroom supplies as needed.- Empty trash and transport waste to designated disposal areas.- Safely mix, handle, and use cleaning chemicals according to established safety procedures.- Maintain assigned areas in accordance with contract standards and Goodwill expectations.- Maintain reliable attendance and consistently report for assigned overnight shifts.- Complete required training and follow all applicable safety, security, and facility procedures.- Represent Goodwill Central Texas professionally while working at the customer facility.
+**Required Qualifications**
+- 1–3 months of custodial experience or completion of an approved custodial training program.- Strong, hands-on experience with floor care and the ability to perform floor-care duties independently.- Ability to operate or learn to operate buffers, floor machines, and carpet extractors.- Ability to lift up to 50 pounds and regularly push, pull, bend, reach, and move throughout the facility during the shift.- Ability to work the assigned overnight schedule with reliable and predictable attendance.- Ability to pass a contract-required background check.- Valid government-issued photo identification.- Selective Service registration or applicable exemption, if required.- AbilityOne Program eligibility based on a documented medical condition. Medical documentation will be required upon hire.
+**Preferred Qualifications**
+- High school diploma or GED.- At least one year of commercial or federal-contract custodial experience.- Previous experience operating buffers, floor machines, and carpet extractors.- Experience working independently while maintaining established cleaning and quality standards.
+**Compensation & Benefits**
+Goodwill Central Texas offers a competitive hourly wage based on experience, along with a Health & Wellness Benefit.
+Eligible employees may also have access to:
+- 403(b) retirement plan with employer match- Medical, dental, and vision insurance- Company-paid life insurance- Paid time off and personal days- Six weeks of paid parental leave- Tuition support- Free mental health counseling- Employee discounts
+**Equal Employment Opportunity**
+Goodwill Central Texas is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive workplace where all employees are respected and valued. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability, protected veteran status, gender identity, sexual orientation, or any other status protected by applicable law.
+**Background Check**
+Employment is contingent upon the successful completion of a pre-employment background check, which may include verification of employment history, education, criminal history, and other information relevant to the position.
+#IND2
+9:00pm-5:30am
 
 ### Custodian
 
@@ -1705,6 +1739,48 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ## Other Positions
 
+### Business Intelligence Analyst
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Posted:** Nov 13, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590200)**
+
+#### Job Description
+
+Goodwill Central Texas is seeking a Business Intelligence Analyst to turn trusted data into clear, useful insights for leaders and teams across the organization. This role will develop Power BI reports and dashboards, create reusable semantic models, and define consistent measures that help people understand performance and make informed decisions.
+The Analyst will work closely with business stakeholders and the Data Engineering team as Goodwill's Microsoft Fabric environment evolves. Success requires strong data visualization and analytical skills, sound judgment about data quality and context, and the ability to explain findings to technical and nontechnical audiences.
+This position is open to direct applicants only. Third-party recruiters, agencies, and staffing firms will not be considered. Visa sponsorship is not available for this role.
+**Power BI Reporting and Data Visualization **
+- Design, build, test, and maintain Power BI reports and dashboards that answer defined business questions and support operational and strategic decisions. - Select appropriate charts, tables, filters, and interactions so users can see trends, comparisons, exceptions, and meaningful detail. - Apply data visualization, accessibility, and usability practices that make reports clear, consistent, and practical for their intended audience. - Validate report results with business partners, refine designs from user feedback, and document definitions and intended use. - Monitor adoption, performance, and recurring questions to improve existing reports and retire duplicative or low-value content. 
+**Semantic Modeling and Measures **
+- Build and maintain governed Power BI semantic models that provide reusable dimensions, relationships, measures, and business definitions. - Develop and validate DAX measures, calculations, and time-based analysis in collaboration with business subject-matter experts. - Translate reporting requirements into clear metric definitions, grain, filters, and assumptions that can be applied consistently across reports. - Optimize model structure and report performance while balancing usability, maintainability, and refresh requirements. - Document model logic, measure definitions, lineage, ownership, and known limitations so others can use the data responsibly. 
+**Microsoft Fabric and Data Collaboration **
+- Use Microsoft Fabric and related Power BI capabilities to develop, publish, and maintain analytics content within Goodwill's evolving data environment. - Partner with Data Engineering to define needed datasets, transformations, refresh schedules, and quality checks for reliable reporting. - Work with data from Fabric lakehouses, warehouses, and other approved sources as the platform and business needs evolve. - Identify source-data gaps or inconsistencies, investigate their impact on reporting, and coordinate resolution with data owners and engineers. - Support sound workspace, deployment, and content-management practices across development, testing, and production. 
+**Data Quality, Governance, and Trust **
+- Reconcile reported metrics to approved sources and investigate unexpected changes, discrepancies, or incomplete data. - Apply access controls, row-level security, privacy requirements, and approved governance practices to reports and semantic models. - Distinguish verified facts from estimates or incomplete data and communicate limitations that affect interpretation. - Maintain consistent naming, definitions, documentation, and ownership for shared analytics assets. - Help establish practical review and publishing standards that strengthen trust in self-service analytics. 
+** **
+**Business Partnership and Enablement **
+- Meet with stakeholders to understand business processes, decisions, reporting needs, and measures of success. - Turn requests into prioritized analytical questions, prototypes, and deliverables with clear acceptance criteria. - Explain findings, patterns, and tradeoffs in plain language and recommend appropriate follow-up analysis. - Train and support report users so they can interpret dashboards, navigate semantic models, and use self-service features effectively. - Collaborate with Data Engineering, application teams, and business owners to align reporting with source-system changes and organizational priorities. 
+**Continuous Improvement and Support **
+- Troubleshoot report, model, refresh, and access issues; identify root causes and implement durable fixes. - Review performance, usage, and user feedback to improve the reliability and value of analytics products. - Stay current with Power BI, Microsoft Fabric, semantic modeling, and data visualization capabilities and recommend practical improvements. - Participate in release planning, testing, production support, and post-launch reviews for analytics solutions. 
+** **
+**Supervisory Responsibility**
+This position supervises the Admission Representative role.
+** **
+**Required Skills & Qualifications **
+- Bachelor's degree in Business Analytics, Information Systems, Data Analytics, Computer Science, or a related field, or an equivalent combination of education and relevant experience. - Three or more years of experience in business intelligence, reporting, data analysis, or a related field. - Hands-on experience developing Power BI reports, dashboards, and semantic models for business users. - Ability to write and validate DAX measures and use Power Query or comparable data preparation tools. - Strong SQL skills and experience querying relational data to investigate and validate reporting results. - Understanding of dimensional modeling, data relationships, metric definitions, and data quality principles. - Ability to choose effective visualizations and communicate analytical findings clearly to technical and nontechnical audiences. - Experience gathering requirements, testing solutions with stakeholders, and documenting business logic and report usage. - Ability to work with data engineers and business partners to resolve source-data issues and develop trusted analytics products. - Preferred Qualifications- Experience with Microsoft Fabric, including Power BI workspaces and data from OneLake, Lakehouse, or Warehouse. - Experience designing shared semantic models and governed self-service analytics in Power BI. - Experience with advanced DAX, performance tuning, incremental refresh, and deployment practices. - Experience applying row-level security, sensitivity labels, and access governance to analytics content. - Experience with data visualization or accessibility standards for dashboards used by varied audiences. - Experience with Azure data services or comparable cloud data platforms. - Experience reporting on enterprise platforms such as Microsoft Dynamics 365, HubSpot, ADP, SharePoint, or comparable systems. - A relevant Microsoft Power BI or Fabric certification, such as PL-300, or a comparable analytics credential. - Experience in retail, workforce services, distributed operations, or nonprofit environments. 
+**Key Attributes**
+- Curious and practical analytical thinker- Clear communicator who explains data in business terms- Attentive to accuracy, context, and visual clarity- Collaborative partner to business and technical teams- Comfortable asking questions and challenging ambiguous metrics- Committed to accessible, useful, and maintainable reporting- Able to balance timely delivery with trustworthy results
+** **
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift up to 15 pounds at times.- While performing the duties of this position, the employee may frequently be required to walk, balance, stoop, kneel, crouch, talk, or hear.- The position requires the ability to manage moderate levels of workplace stress.- Specific vision abilities required include close vision, distance vision, depth perception, and the ability to adjust focus.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
 ### Donations Processor
 
 - **Location:** Anderson Lane Store, Austin, TX, US
@@ -2803,30 +2879,6 @@ This position does not have supervisory responsibilities.
 - Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.-  The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception, and ability to adjust focus.
 All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. A post-offer background check is required to ensure the applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 #IND2
-
-### Retail Team Lead
-
-- **Location:** Riverside Store, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $17.00 - $19.00
-- **Posted:** Oct 27, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589342)**
-
-#### Job Description
-
-The Retail Team Lead will assist management in the operation of the Goodwill retail store. This includes customer service, recordkeeping, cash management, facility operation, communications, merchandising, production, and inventory control. They will have a primary team they are responsible to work with when not assisting management with store operations (the retail sales floor team, or the back-room production team) as assigned by the Retail General Manager.
-**Role and Responsibilities**
-- Assist the store management team with the overall operation of the retail store when scheduled or assigned. - Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Coach and train associates on their assigned team (sales floor or production) as a subject matter expert. 
-**Supervisory Responsibility**
-This position is responsible for coaching and training the AI Merchandise Pricer, Merchandise Processor, and Sales Associate positions on their assigned team.  This position does not have any direct reports.  
-**Required Skills & Qualifications **
-- At least 1 year of supervisory, leading a team, or equivalent experience.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.- Keyholder responsibilities for open/closing securing the store as scheduled. 
-**Physical Requirements**
-- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Must be big joe certified to load and unload trailers- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Donations Processor
 
@@ -4174,32 +4226,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
-### Retail Team Lead
-
-- **Location:** Hutto Store, Hutto, TX, US
-- **Type:** Full Time
-- **Salary:** $17.00 - $19.00
-- **Posted:** Sep 17, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587251)**
-
-#### Job Description
-
-**                                                                                                  New Hire Bonus**
-Earn up to $350 in new hire bonuses! $250 after 60 days of employment + $100 after 90 days
-The Retail Team Lead will assist management in the operation of the Goodwill retail store. This includes customer service, recordkeeping, cash management, facility operation, communications, merchandising, production, and inventory control. They will have a primary team they are responsible to work with when not assisting management with store operations (the retail sales floor team, or the back-room production team) as assigned by the Retail General Manager.
-**Role and Responsibilities**
-- Assist the store management team with the overall operation of the retail store when scheduled or assigned. - Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Coach and train associates on their assigned team (sales floor or production) as a subject matter expert. 
-**Supervisory Responsibility**
-This position is responsible for coaching and training the AI Merchandise Pricer, Merchandise Processor, and Sales Associate positions on their assigned team.  This position does not have any direct reports.  
-**Required Skills & Qualifications **
-- At least 1 year of supervisory, leading a team, or equivalent experience.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.- Keyholder responsibilities for open/closing securing the store as scheduled. 
-**Physical Requirements**
-- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Must be big joe certified to load and unload trailers- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
 ### Organizational Development Consultant
 
 - **Location:** GCC HQ, Austin, TX, US
@@ -4409,7 +4435,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 - **Location:** GRC Outlet Recyc Transp, Austin, TX, US
 - **Type:** Full Time
-- **Salary:** $0.00 - $28.00
+- **Salary:** $29.00 - $31.00
 - **Posted:** Aug 06, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=583750)**
 
@@ -4458,26 +4484,6 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Warehouse & Transportation
-
-### Material Handler I
-
-- **Location:** Ecommerce, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.00
-- **Posted:** Nov 12, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590130)**
-
-#### Job Description
-
-The Material Handler I performs a variety of warehouse, recycling, and material handling duties in support of Distribution Center operations. This position safely processes donations and merchandise while maintaining productivity, quality, and safety standards.
-**Role and Responsibilities**
-- Sort donations and merchandise into designated commodity streams in accordance with current operating procedures. - Process, stack, palletize, and prepare merchandise and recyclable materials for storage, shipment, or sale. - Safely operate: - Manual pallet jacks - Tippers - Trash compactors - Vertical balers - Max-Pak horizontal balers - Load tippers, balers, and compactors safely and efficiently. - Maintain clean, organized, and safe work areas. - Inspect assigned equipment prior to use and report maintenance or safety concerns. - Follow all Goodwill Central Texas safety policies and Standard Operating Procedures. - Accurately report accidents, incidents, hazards, or damaged equipment. - Work collaboratively with leadership and peers to support daily production goals. - Maintain a professional image when interacting with customers, donors, and team members. - Other duties as assigned. 
-**Required Skills & Qualifications**
-- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### ADC Attendant
 

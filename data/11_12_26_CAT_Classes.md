@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** November 12, 2026 at 02:31 PM
+**Generated:** November 12, 2026 at 08:36 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 38 | 105 |
-| GCC (North Austin) | 12 | 84 | 185 |
-| **TOTAL** | **23** | **122** | **290** |
+| GRC (South Austin) | 11 | 35 | 93 |
+| GCC (North Austin) | 12 | 84 | 182 |
+| **TOTAL** | **23** | **119** | **275** |
 
 ---
 
@@ -27,15 +27,14 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 16 total spots across 5 sessions
+> **✅ Spaces available!** 13 total spots across 4 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-budgeting-basics/
 
-**Total Sessions:** 5 | **Available Spaces:** 16
+**Total Sessions:** 4 | **Available Spaces:** 13
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~11/12/2026~~ | ~~2:30PM-4:30PM~~ | Cindy | ~~3~~ | Past |
 | 11/16/2026 | TBD | Cindy | 3 | **Available** |
 | 11/18/2026 | 2:30PM-4:30PM | Cindy | 3 | **Available** |
 | 11/23/2026 | TBD | Cindy | 3 | **Available** |
@@ -51,16 +50,15 @@
 
 **Duration:** 3 hours/day (week-long) | **Requirements:** Completed Indeed Lab and signed checklist required.
 
-> **✅ Spaces available!** 18 total spots across 2 sessions
+> **✅ Spaces available!** 10 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-career-advancement-essentials/
 
-**Total Sessions:** 2 | **Available Spaces:** 18
+**Total Sessions:** 1 | **Available Spaces:** 10
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~December 7-10, 9:00am-Noon~~ | ~~TBD~~ | Cindy | ~~10~~ | Past |
-| ~~November 9-13, 9:00am-Noon~~ | ~~TBD~~ | Cindy | ~~8~~ | Past |
 
 ---
 
@@ -72,16 +70,16 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 10 total spots across 3 sessions
+> **✅ Spaces available!** 9 total spots across 3 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-computer-basics/
 
-**Total Sessions:** 3 | **Available Spaces:** 10
+**Total Sessions:** 3 | **Available Spaces:** 9
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 11/13/2026 | 10:00AM-11:00AM | Adryan | 3 | **Available** |
-| 11/18/2026 | 10:00AM-11:00AM | Adryan | 3 | **Available** |
+| 11/18/2026 | 10:00AM-11:00AM | Adryan | 2 | **Available** |
 | 11/24/2026 | 10:00AM-11:00AM | Adryan | 4 | **Available** |
 
 ---
@@ -208,11 +206,10 @@
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-job-preparation-11/
 
-**Total Sessions:** 7 | **Available Spaces:** 3
+**Total Sessions:** 6 | **Available Spaces:** 3
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~11/12/2026~~ | ~~TBD~~ | Cindy | ~~0~~ | Past |
 | 11/13/2026 | TBD | Cindy | 0 | **Full** |
 | 11/16/2026 | 3:30PM-4:30PM | Cindy | 1 | **Available** |
 | 11/18/2026 | 11:30AM-12:30PM | Cindy | 0 | **Full** |
@@ -304,11 +301,11 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 25 total spots across 8 sessions
+> **✅ Spaces available!** 24 total spots across 8 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-budgeting-basics/
 
-**Total Sessions:** 12 | **Available Spaces:** 25
+**Total Sessions:** 12 | **Available Spaces:** 24
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -318,7 +315,7 @@
 | ~~11/11/2026~~ | ~~2:00PM-4:00PM~~ | Doug | ~~0~~ | Past |
 | ~~11/12/2026~~ | ~~2:30PM-4:30PM~~ | Doug | ~~4~~ | Past |
 | 11/13/2026 | 9:00AM-11:00AM | Doug | 2 | **Available** |
-| 11/16/2026 | 9:30AM-11:30AM | Doug | 3 | **Available** |
+| 11/16/2026 | 9:30AM-11:30AM | Doug | 2 | **Available** |
 | 11/18/2026 | 9:30AM-11:30AM | Doug | 0 | **Full** |
 | 11/18/2026 | 1:00PM-3:00PM | Doug | 0 | **Full** |
 | 11/19/2026 | 1:00PM-3:00PM | Doug | 0 | **Full** |
@@ -405,16 +402,16 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 3 total spots across 3 sessions
+> **✅ Spaces available!** 2 total spots across 2 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-digital-skills-11/
 
-**Total Sessions:** 6 | **Available Spaces:** 3
+**Total Sessions:** 6 | **Available Spaces:** 2
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 11/17/2026 | 2:30pm-3:30pm | Alex | 0 | **Full** |
-| 11/19/2026 | 3:00pm-4:00pm | Alex | 1 | **Available** |
+| 11/19/2026 | 3:00pm-4:00pm | Alex | 0 | **Full** |
 | 11/23/2026 | 2:00pm-3:00pm | Alex | 1 | **Available** |
 | 11/23/2026 | 03:30PM-04:30PM | Adryan | 0 | **Full** |
 | 11/24/2026 | 2:00pm-3:00pm | Alex | 1 | **Available** |
@@ -489,15 +486,15 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 6 total spots across 3 sessions
+> **✅ Spaces available!** 5 total spots across 3 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-interview-preparation-and-practice/
 
-**Total Sessions:** 3 | **Available Spaces:** 6
+**Total Sessions:** 3 | **Available Spaces:** 5
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| 11/16/2026 | 1:00pm-3:00pm | Doug | 3 | **Available** |
+| 11/16/2026 | 1:00pm-3:00pm | Doug | 2 | **Available** |
 | 11/18/2026 | 2:00pm-4:00pm | Alex | 2 | **Available** |
 | 11/24/2026 | 1:00pm-3:00pm | Doug | 1 | **Available** |
 
