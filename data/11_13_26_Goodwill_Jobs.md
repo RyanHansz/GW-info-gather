@@ -1,6 +1,6 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 13, 2026 at 02:10 PM
+**Last Updated:** November 13, 2026 at 08:08 PM
 
 **Total Positions:** 139
 
