@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** November 16, 2026 at 04:37 PM
+**Generated:** November 16, 2026 at 10:19 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 35 | 89 |
-| GCC (North Austin) | 12 | 83 | 163 |
-| **TOTAL** | **23** | **118** | **252** |
+| GCC (North Austin) | 12 | 83 | 162 |
+| **TOTAL** | **23** | **118** | **251** |
 
 ---
 
@@ -557,11 +557,11 @@
 
 **Duration:** 2 hours
 
-> **✅ Spaces available!** 36 total spots across 7 sessions
+> **✅ Spaces available!** 35 total spots across 7 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-wonderlic-prep-and-practice/
 
-**Total Sessions:** 7 | **Available Spaces:** 36
+**Total Sessions:** 7 | **Available Spaces:** 35
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -570,7 +570,7 @@
 | ~~11/09/2026~~ | ~~TBD~~ | Doug | ~~6~~ | Past |
 | ~~11/10/2026~~ | ~~TBD~~ | Doug | ~~6~~ | Past |
 | ~~11/10/2026~~ | ~~9:30AM-11:30AM~~ | Doug | ~~2~~ | Past |
-| 11/17/2026 | 9:30AM-11:30AM | Doug | 5 | **Available** |
+| 11/17/2026 | 9:30AM-11:30AM | Doug | 4 | **Available** |
 | 11/24/2026 | 9:30AM-11:30AM | Doug | 6 | **Available** |
 
 ---
