@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** November 17, 2026 at 03:28 PM
+**Generated:** November 17, 2026 at 09:41 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 35 | 85 |
-| GCC (North Austin) | 12 | 83 | 158 |
-| **TOTAL** | **23** | **118** | **243** |
+| GRC (South Austin) | 11 | 35 | 84 |
+| GCC (North Austin) | 12 | 83 | 157 |
+| **TOTAL** | **23** | **118** | **241** |
 
 ---
 
@@ -202,11 +202,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 1 total spots across 1 sessions
+> **📢 All sessions are currently full.** Check back for new openings!
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-job-preparation-11/
 
-**Total Sessions:** 6 | **Available Spaces:** 1
+**Total Sessions:** 6 | **Available Spaces:** 0
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -215,7 +215,7 @@
 | 11/18/2026 | 11:30AM-12:30PM | Cindy | 0 | **Full** |
 | 11/19/2026 | 3:30PM-4:30PM | Cindy | 0 | **Full** |
 | 11/23/2026 | 3:30PM-4:30PM | Cindy | 0 | **Full** |
-| 11/24/2026 | 11:30AM-12:30PM | Cindy | 1 | **Available** |
+| 11/24/2026 | 11:30AM-12:30PM | Cindy | 0 | **Full** |
 
 ---
 
@@ -332,15 +332,15 @@
 
 **Duration:** 3 hours/day (week-long) | **Requirements:** Completed Indeed Lab and signed checklist required.
 
-> **✅ Spaces available!** 13 total spots across 2 sessions
+> **✅ Spaces available!** 12 total spots across 2 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-career-advancement-essentials/
 
-**Total Sessions:** 2 | **Available Spaces:** 13
+**Total Sessions:** 2 | **Available Spaces:** 12
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~December 14 - 18~~ | ~~9:00am-12:00pm~~ | Alex | ~~10~~ | Past |
+| ~~December 14 - 18~~ | ~~9:00am-12:00pm~~ | Alex | ~~9~~ | Past |
 | ~~November 16 - 20~~ | ~~9:00am-12:00pm~~ | Alex | ~~3~~ | Past |
 
 ---
