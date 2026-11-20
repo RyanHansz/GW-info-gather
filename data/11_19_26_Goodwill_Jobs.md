@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 19, 2026 at 02:56 PM
+**Last Updated:** November 19, 2026 at 08:57 PM
 
-**Total Positions:** 132
+**Total Positions:** 131
 
 ---
 
@@ -12,7 +12,7 @@
 - [Custodial Services](#custodial-services) (6)
 - [Education & Training](#education-training) (13)
 - [Management & Leadership](#management-leadership) (19)
-- [Other Positions](#other-positions) (78)
+- [Other Positions](#other-positions) (77)
 - [Sales](#sales) (1)
 - [Warehouse & Transportation](#warehouse-transportation) (12)
 - [eCommerce](#ecommerce) (2)
@@ -1631,6 +1631,97 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 ## Other Positions
 
+### Retail Team Lead
+
+- **Location:** South Congress Store, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $17.00 - $19.00
+- **Posted:** Nov 20, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590543)**
+
+#### Job Description
+
+The Retail Team Lead will assist management in the operation of the Goodwill retail store. This includes customer service, recordkeeping, cash management, facility operation, communications, merchandising, production, and inventory control. They will have a primary team they are responsible to work with when not assisting management with store operations (the retail sales floor team, or the back-room production team) as assigned by the Retail General Manager.
+**Role and Responsibilities**
+- Assist the store management team with the overall operation of the retail store when scheduled or assigned. - Ensure compliance with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Resolve customer complaints in a fair and impartial manner, referring all unsettled disputes to the store manager.- Coach and train associates on their assigned team (sales floor or production) as a subject matter expert. 
+**Supervisory Responsibility**
+This position is responsible for coaching and training the AI Merchandise Pricer, Merchandise Processor, and Sales Associate positions on their assigned team.  This position does not have any direct reports.  
+**Required Skills & Qualifications **
+- At least 1 year of supervisory, leading a team, or equivalent experience.- Work a flexible schedule in support of the store opening, production and closing operations.- Ability to effectively communicate in English with customers and GCT associates.- Keyholder responsibilities for open/closing securing the store as scheduled. 
+**Physical Requirements**
+- Ability to sit or stand for eight hours.- Ability to bend and twist.- Ability to lift and carry 30 pounds with or without a reasonable accommodation.- Moderate noise (i.e., business office with computers, phone, and printers, light traffic).- Must be big joe certified to load and unload trailers- While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone, keyboard, reach, stoop and kneel.- Specific vision abilities required by this job include close vision requirements due to computer work.- Regular, predictable attendance is required as business demands dictate.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Customer Service Associate
+
+- **Location:** Kyle Store, Kyle, TX, US
+- **Type:** Part Time
+- **Salary:** $14.00 - $15.00
+- **Posted:** Nov 20, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590542)**
+
+#### Job Description
+
+This position is responsible for fast, friendly, and accurate transactions at the point of sale. Responsible for providing positive customer experience to Goodwill customers. Responsible for stocking and maintaining merchandising standards on the sales floor while maintaining a clean and safe environment. Promotes and adheres to Goodwill Central Texas mission and values.
+**Customer Service**
+- Creates a high level of customer service throughout the store ensuring all customers experience a welcoming atmosphere.- Communicates current and upcoming sales promotions and events- Provides excellent customer service by greeting, assisting, and thanking customers while meeting customer’s needs in a timely manner; ensures customer concerns and complaints are handled to the customer’s satisfaction- Projects a favorable image of Goodwill Central Texas at all times- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate
+**Store Operations**
+- Follows policies and procedures and executes directives in a timely manner.- Processes all forms of payments, refunds, and promotional discounts according to procedure- Maintain workstation in a clean and organized manner- May be asked to assist in the training process for new customer service associates and other staff cross-trained to use the point of sale system- Responsible for executing merchandising standards- Follows pricing and price check guidelines- Responsible for executing salvaging standards
+**Safety & Risk**
+- Follows and adheres to safety and risk procedures and initiatives.- Uses and maintains personal protective equipment- Participates in weekly safety huddles, monthly safety meetings and drills- Works to reduce worker’s compensation incidents and customer accidents- Uses proper lifting techniques- Uses power equipment responsibly and with appropriate certification- Identifies recall products and properly removes them from processing
+**Services & Programs**
+- Provides a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants- Works respectfully and effectively across cultures- Understands and actively supports the organization’s diversity and inclusion efforts- Acts as a good role model
+**Other Duties**
+- Responsible for being familiar with Team Member Handbook, and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
+**Knowledge & Skills**
+- Ability to read, write, and speak English sufficiently to communicate effectively with supervisors, employees, and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills, ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human-services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done- Knowledge/expertise in working with persons with disadvantages and/or disabilities and barriers
+**Prior Years Experience**
+- 0-3 years of relevant experience- High school diploma or equivalent preferred
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Donations Processor
+
+- **Location:** Airport Store, Austin, TX, US
+- **Type:** Part Time
+- **Salary:** $14.00 - $15.00
+- **Posted:** Nov 20, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590541)**
+
+#### Job Description
+
+This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
+** **
+**Store Operations**
+- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
+** **
+**Customer Service**
+- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
+** **
+**Safety & Risk**
+- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
+** **
+**Services & Programs**
+- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
+** **
+**Other Duties**
+- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
+** **
+**Knowledge & Skills**
+- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
+** **
+**Prior Years Experience**
+- 0-3 years of relevant experience- High school diploma or equivalent preferred
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
 ### Customer Service Associate
 
 - **Location:** North Lamar Store, Austin, TX, US
@@ -2313,7 +2404,7 @@ Employment is contingent upon the successful completion of a pre-employment back
 
 - **Location:** GRC Outlet Recyc Transp, Austin, TX, US
 - **Type:** Full Time
-- **Salary:** $29.00 - $31.00
+- **Salary:** $29.00 - $33.00
 - **Posted:** Nov 07, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589968)**
 
@@ -3149,36 +3240,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
-### Customer Service Associate
-
-- **Location:** Airport Store, Austin, TX, US
-- **Type:** Part Time
-- **Salary:** $14.00 - $15.00
-- **Posted:** Oct 21, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589097)**
-
-#### Job Description
-
-This position is responsible for fast, friendly, and accurate transactions at the point of sale. Responsible for providing positive customer experience to Goodwill customers. Responsible for stocking and maintaining merchandising standards on the sales floor while maintaining a clean and safe environment. Promotes and adheres to Goodwill Central Texas mission and values.
-**Customer Service**
-- Creates a high level of customer service throughout the store ensuring all customers experience a welcoming atmosphere.- Communicates current and upcoming sales promotions and events- Provides excellent customer service by greeting, assisting, and thanking customers while meeting customer’s needs in a timely manner; ensures customer concerns and complaints are handled to the customer’s satisfaction- Projects a favorable image of Goodwill Central Texas at all times- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate
-**Store Operations**
-- Follows policies and procedures and executes directives in a timely manner.- Processes all forms of payments, refunds, and promotional discounts according to procedure- Maintain workstation in a clean and organized manner- May be asked to assist in the training process for new customer service associates and other staff cross-trained to use the point of sale system- Responsible for executing merchandising standards- Follows pricing and price check guidelines- Responsible for executing salvaging standards
-**Safety & Risk**
-- Follows and adheres to safety and risk procedures and initiatives.- Uses and maintains personal protective equipment- Participates in weekly safety huddles, monthly safety meetings and drills- Works to reduce worker’s compensation incidents and customer accidents- Uses proper lifting techniques- Uses power equipment responsibly and with appropriate certification- Identifies recall products and properly removes them from processing
-**Services & Programs**
-- Provides a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants- Works respectfully and effectively across cultures- Understands and actively supports the organization’s diversity and inclusion efforts- Acts as a good role model
-**Other Duties**
-- Responsible for being familiar with Team Member Handbook, and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
-**Knowledge & Skills**
-- Ability to read, write, and speak English sufficiently to communicate effectively with supervisors, employees, and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills, ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human-services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done- Knowledge/expertise in working with persons with disadvantages and/or disabilities and barriers
-**Prior Years Experience**
-- 0-3 years of relevant experience- High school diploma or equivalent preferred
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
 ### Donations Processor
 
 - **Location:** Chimney Corners Store, Austin, TX, US
@@ -3798,43 +3859,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
-### Donations Processor
-
-- **Location:** Airport Store, Austin, TX, US
-- **Type:** Part Time
-- **Salary:** $14.00 - $15.00
-- **Posted:** Oct 08, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588457)**
-
-#### Job Description
-
-This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
-** **
-**Store Operations**
-- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
-** **
-**Customer Service**
-- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
-** **
-**Safety & Risk**
-- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
-** **
-**Services & Programs**
-- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
-** **
-**Other Duties**
-- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
-** **
-**Knowledge & Skills**
-- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
-** **
-**Prior Years Experience**
-- 0-3 years of relevant experience- High school diploma or equivalent preferred
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
 ### Loss Prevention Investigator
 
 - **Location:**  Austin, TX, US
@@ -3969,34 +3993,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
-### Customer Service Associate
-
-- **Location:** Fredericksburg Store, Fredericksburg, TX, US
-- **Type:** Full Time
-- **Salary:** $14.00 - $15.00
-- **Posted:** Oct 02, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588040)**
-
-#### Job Description
-
-Now Hiring: Customer Service Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
-** **
-**What You’ll Do:**
-- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
-** **
-**What You Bring:**
-- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
-** **
-**What You’ll Get:**
-- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
-** **
-**Why It Matters:**
-Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
 ### Donations Processor
 
 - **Location:** Kyle Store, Kyle, TX, US
@@ -4031,34 +4027,6 @@ This position is responsible for receiving donated goods while providing excelle
 - 0-3 years of relevant experience- High school diploma or equivalent preferred
 **Equal Employment Opportunity Statement:**
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Customer Service Associate
-
-- **Location:** Kyle Store, Kyle, TX, US
-- **Type:** Full Time
-- **Salary:** $14.00 - $15.00
-- **Posted:** Sep 29, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587816)**
-
-#### Job Description
-
-Now Hiring: Customer Service Associate | Earn a Raise After 60 Days!Love helping people and thriving in a fast-paced retail environment? Bring your energy, your smile, and your customer service skills to a workplace where every purchase supports a meaningful mission. As a Sales Associate, you’ll be the welcoming face of our store—and you’ll earn a $0.50/hour raise after just 60 days. This isn’t just a retail job; it’s an opportunity to grow your skills, build your future, and make a real impact.
-** **
-**What You’ll Do:**
-- Greet every customer with warmth and professionalism—inside, outside, or over the phone- Ring up purchases accurately and efficiently at the register- Keep the sales floor clean, organized, and fully stocked- Answer questions and share your product knowledge with shoppers- Assist donors at donation drop-offs and offer receipts- Help maintain fitting rooms and store appearance- Follow store safety and security procedures- Promote our mission at checkout and ask for monetary donations- Jump in wherever needed to keep things running smoothly
-** **
-**What You Bring:**
-- A great attitude and passion for customer service- Strong communication and active listening skills- Ability to work a flexible schedule, including weekends and holidays- Comfort working in a fast-paced, physical environment (lift up to 35 lbs)- Ability to use a register and follow direction clearly- Retail experience is a plus—but a willingness to learn is even better!
-** **
-**What You’ll Get:**
-- Health Benefits – Medical, dental, and vision insurance- Generous PTO – Vacation days, personal days, and holidays- Paid Parental Leave – Support for growing families- Growth Opportunities – Training, workshops, and a clear path forward- Wellness Perks – Gym discounts, mental health support- Employee Recognition – We see and celebrate your hard work- Inclusive Culture – Be part of a team that values you, your voice, and your goals
-** **
-**Why It Matters:**
-Every shift, every sale, every interaction supports Goodwill’s mission of changing lives through education, training, and job placement. You’re not just helping customers—you’re helping communities thrive. Ready to grow, shine, and earn more in just 60 days? Apply now and bring your talents to a team that’s all about purpose, passion, and progress.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
@@ -4225,8 +4193,8 @@ Employment is contingent upon the successful completion of a pre-employment back
 - **Location:** North Outlet, Austin, TX, US
 - **Type:** Full Time
 - **Salary:** $0.00 - $14.50
-- **Posted:** Sep 25, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587699)**
+- **Posted:** Nov 20, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590535)**
 
 #### Job Description
 
@@ -4246,6 +4214,116 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Warehouse & Transportation
+
+### Material Handler I
+
+- **Location:** North Outlet, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $14.50
+- **Posted:** Nov 20, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590540)**
+
+#### Job Description
+
+The Material Handler I performs a variety of warehouse, recycling, and material handling duties in support of Distribution Center operations. This position safely processes donations and merchandise while maintaining productivity, quality, and safety standards.
+**Role and Responsibilities**
+- Sort donations and merchandise into designated commodity streams in accordance with current operating procedures. - Process, stack, palletize, and prepare merchandise and recyclable materials for storage, shipment, or sale. - Safely operate: - Manual pallet jacks - Tippers - Trash compactors - Vertical balers - Max-Pak horizontal balers - Load tippers, balers, and compactors safely and efficiently. - Maintain clean, organized, and safe work areas. - Inspect assigned equipment prior to use and report maintenance or safety concerns. - Follow all Goodwill Central Texas safety policies and Standard Operating Procedures. - Accurately report accidents, incidents, hazards, or damaged equipment. - Work collaboratively with leadership and peers to support daily production goals. - Maintain a professional image when interacting with customers, donors, and team members. - Other duties as assigned. 
+**Required Skills & Qualifications**
+- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Material Handler II
+
+- **Location:** North Outlet, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $15.50
+- **Posted:** Nov 20, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590539)**
+
+#### Job Description
+
+The Material Handler II performs advanced warehouse functions utilizing powered material handling equipment to support efficient product flow throughout the Distribution Center. This position demonstrates strong operational knowledge and the ability to work across multiple functional areas.
+**Role and Responsibilities**
+- Sort donations and merchandise into designated commodity streams in accordance with current operating procedures. - Process, stack, palletize, and prepare merchandise and recyclable materials for storage, shipment, or sale. - Safely operate: - Manual pallet jacks - Tippers - Trash compactors - Vertical balers - Max-Pak horizontal balers - Load tippers, balers, and compactors safely and efficiently. - Maintain clean, organized, and safe work areas. - Inspect assigned equipment prior to use and report maintenance or safety concerns. - Follow all Goodwill Central Texas safety policies and Standard Operating Procedures. - Accurately report accidents, incidents, hazards, or damaged equipment. - Work collaboratively with leadership and peers to support daily production goals. - Maintain a professional image when interacting with customers, donors, and team members.- Safely operate electric walking and riding pallet jacks. - Transport palletized merchandise and recyclable materials throughout the Distribution Center. - Support efficient workflow between warehouse, dock, and outlet operations. - Cross-train in multiple operational functions to maximize workforce flexibility.
+** **
+**Required Skills & Qualifications**
+- Successful completion of Material Handler II training requirements.- Certification to operate electric walking and riding pallet jacks.- Demonstrated ability to work independently while maintaining productivity and safety standards.- Demonstrated safe work performance and satisfactory attendance.- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Material Handler III
+
+- **Location:** North Outlet, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $16.50
+- **Posted:** Nov 20, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590538)**
+
+#### Job Description
+
+The Material Handler III performs advanced warehouse operations utilizing industrial powered equipment to safely move, load, unload, and stage materials throughout the Distribution Center. This position is expected to demonstrate expert equipment operation and strong operational judgment.
+** **
+**Role and Responsibilities**
+- (All MH II responsibilities, plus:)- Safely operate sit-down forklifts. - Safely operate clamp forklifts. - Load and unload trailers. - Stage merchandise and recyclable materials using powered industrial trucks. - Support inventory movement throughout warehouse operations.
+** **
+**Required Skills & Qualifications**
+- Safely operate electric walking and riding pallet jacks.- Transport palletized merchandise and recyclable materials throughout the Distribution Center.- Support efficient workflow between warehouse, dock, and outlet operations.- Cross-train in multiple operational functions to maximize workforce flexibility.
+- Successful completion of Material Handler III training requirements.- Certification to operate sit-down forklifts.- Demonstrated ability to safely operate powered industrial trucks.- Demonstrated ability to work independently while maintaining productivity and safety standards.- Demonstrated safe work performance and satisfactory attendance.- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Material Handler II
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $15.50
+- **Posted:** Nov 20, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590537)**
+
+#### Job Description
+
+The Material Handler II performs advanced warehouse functions utilizing powered material handling equipment to support efficient product flow throughout the Distribution Center. This position demonstrates strong operational knowledge and the ability to work across multiple functional areas.
+**Role and Responsibilities**
+- Sort donations and merchandise into designated commodity streams in accordance with current operating procedures. - Process, stack, palletize, and prepare merchandise and recyclable materials for storage, shipment, or sale. - Safely operate: - Manual pallet jacks - Tippers - Trash compactors - Vertical balers - Max-Pak horizontal balers - Load tippers, balers, and compactors safely and efficiently. - Maintain clean, organized, and safe work areas. - Inspect assigned equipment prior to use and report maintenance or safety concerns. - Follow all Goodwill Central Texas safety policies and Standard Operating Procedures. - Accurately report accidents, incidents, hazards, or damaged equipment. - Work collaboratively with leadership and peers to support daily production goals. - Maintain a professional image when interacting with customers, donors, and team members.- Safely operate electric walking and riding pallet jacks. - Transport palletized merchandise and recyclable materials throughout the Distribution Center. - Support efficient workflow between warehouse, dock, and outlet operations. - Cross-train in multiple operational functions to maximize workforce flexibility.
+** **
+**Required Skills & Qualifications**
+- Successful completion of Material Handler II training requirements.- Certification to operate electric walking and riding pallet jacks.- Demonstrated ability to work independently while maintaining productivity and safety standards.- Demonstrated safe work performance and satisfactory attendance.- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Material Handler III
+
+- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $16.50
+- **Posted:** Nov 20, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590536)**
+
+#### Job Description
+
+The Material Handler III performs advanced warehouse operations utilizing industrial powered equipment to safely move, load, unload, and stage materials throughout the Distribution Center. This position is expected to demonstrate expert equipment operation and strong operational judgment.
+** **
+**Role and Responsibilities**
+- (All MH II responsibilities, plus:)- Safely operate sit-down forklifts. - Safely operate clamp forklifts. - Load and unload trailers. - Stage merchandise and recyclable materials using powered industrial trucks. - Support inventory movement throughout warehouse operations.
+** **
+**Required Skills & Qualifications**
+- Safely operate electric walking and riding pallet jacks.- Transport palletized merchandise and recyclable materials throughout the Distribution Center.- Support efficient workflow between warehouse, dock, and outlet operations.- Cross-train in multiple operational functions to maximize workforce flexibility.
+- Successful completion of Material Handler III training requirements.- Certification to operate sit-down forklifts.- Demonstrated ability to safely operate powered industrial trucks.- Demonstrated ability to work independently while maintaining productivity and safety standards.- Demonstrated safe work performance and satisfactory attendance.- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Material Handler I
 
@@ -4375,116 +4453,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 #IND2
-
-### Material Handler I
-
-- **Location:** North Outlet, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $14.50
-- **Posted:** Sep 15, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587171)**
-
-#### Job Description
-
-The Material Handler I performs a variety of warehouse, recycling, and material handling duties in support of Distribution Center operations. This position safely processes donations and merchandise while maintaining productivity, quality, and safety standards.
-**Role and Responsibilities**
-- Sort donations and merchandise into designated commodity streams in accordance with current operating procedures. - Process, stack, palletize, and prepare merchandise and recyclable materials for storage, shipment, or sale. - Safely operate: - Manual pallet jacks - Tippers - Trash compactors - Vertical balers - Max-Pak horizontal balers - Load tippers, balers, and compactors safely and efficiently. - Maintain clean, organized, and safe work areas. - Inspect assigned equipment prior to use and report maintenance or safety concerns. - Follow all Goodwill Central Texas safety policies and Standard Operating Procedures. - Accurately report accidents, incidents, hazards, or damaged equipment. - Work collaboratively with leadership and peers to support daily production goals. - Maintain a professional image when interacting with customers, donors, and team members. - Other duties as assigned. 
-**Required Skills & Qualifications**
-- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Material Handler III
-
-- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $16.50
-- **Posted:** Sep 12, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587050)**
-
-#### Job Description
-
-The Material Handler III performs advanced warehouse operations utilizing industrial powered equipment to safely move, load, unload, and stage materials throughout the Distribution Center. This position is expected to demonstrate expert equipment operation and strong operational judgment.
-** **
-**Role and Responsibilities**
-- (All MH II responsibilities, plus:)- Safely operate sit-down forklifts. - Safely operate clamp forklifts. - Load and unload trailers. - Stage merchandise and recyclable materials using powered industrial trucks. - Support inventory movement throughout warehouse operations.
-** **
-**Required Skills & Qualifications**
-- Safely operate electric walking and riding pallet jacks.- Transport palletized merchandise and recyclable materials throughout the Distribution Center.- Support efficient workflow between warehouse, dock, and outlet operations.- Cross-train in multiple operational functions to maximize workforce flexibility.
-- Successful completion of Material Handler III training requirements.- Certification to operate sit-down forklifts.- Demonstrated ability to safely operate powered industrial trucks.- Demonstrated ability to work independently while maintaining productivity and safety standards.- Demonstrated safe work performance and satisfactory attendance.- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
-** **
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Material Handler II
-
-- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $15.50
-- **Posted:** Sep 12, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587049)**
-
-#### Job Description
-
-The Material Handler II performs advanced warehouse functions utilizing powered material handling equipment to support efficient product flow throughout the Distribution Center. This position demonstrates strong operational knowledge and the ability to work across multiple functional areas.
-**Role and Responsibilities**
-- Sort donations and merchandise into designated commodity streams in accordance with current operating procedures. - Process, stack, palletize, and prepare merchandise and recyclable materials for storage, shipment, or sale. - Safely operate: - Manual pallet jacks - Tippers - Trash compactors - Vertical balers - Max-Pak horizontal balers - Load tippers, balers, and compactors safely and efficiently. - Maintain clean, organized, and safe work areas. - Inspect assigned equipment prior to use and report maintenance or safety concerns. - Follow all Goodwill Central Texas safety policies and Standard Operating Procedures. - Accurately report accidents, incidents, hazards, or damaged equipment. - Work collaboratively with leadership and peers to support daily production goals. - Maintain a professional image when interacting with customers, donors, and team members.- Safely operate electric walking and riding pallet jacks. - Transport palletized merchandise and recyclable materials throughout the Distribution Center. - Support efficient workflow between warehouse, dock, and outlet operations. - Cross-train in multiple operational functions to maximize workforce flexibility.
-** **
-**Required Skills & Qualifications**
-- Successful completion of Material Handler II training requirements.- Certification to operate electric walking and riding pallet jacks.- Demonstrated ability to work independently while maintaining productivity and safety standards.- Demonstrated safe work performance and satisfactory attendance.- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Material Handler III
-
-- **Location:** North Outlet, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $16.50
-- **Posted:** Sep 12, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587048)**
-
-#### Job Description
-
-The Material Handler III performs advanced warehouse operations utilizing industrial powered equipment to safely move, load, unload, and stage materials throughout the Distribution Center. This position is expected to demonstrate expert equipment operation and strong operational judgment.
-** **
-**Role and Responsibilities**
-- (All MH II responsibilities, plus:)- Safely operate sit-down forklifts. - Safely operate clamp forklifts. - Load and unload trailers. - Stage merchandise and recyclable materials using powered industrial trucks. - Support inventory movement throughout warehouse operations.
-** **
-**Required Skills & Qualifications**
-- Safely operate electric walking and riding pallet jacks.- Transport palletized merchandise and recyclable materials throughout the Distribution Center.- Support efficient workflow between warehouse, dock, and outlet operations.- Cross-train in multiple operational functions to maximize workforce flexibility.
-- Successful completion of Material Handler III training requirements.- Certification to operate sit-down forklifts.- Demonstrated ability to safely operate powered industrial trucks.- Demonstrated ability to work independently while maintaining productivity and safety standards.- Demonstrated safe work performance and satisfactory attendance.- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
-** **
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Material Handler II
-
-- **Location:** North Outlet, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $15.50
-- **Posted:** Sep 12, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=587046)**
-
-#### Job Description
-
-The Material Handler II performs advanced warehouse functions utilizing powered material handling equipment to support efficient product flow throughout the Distribution Center. This position demonstrates strong operational knowledge and the ability to work across multiple functional areas.
-**Role and Responsibilities**
-- Sort donations and merchandise into designated commodity streams in accordance with current operating procedures. - Process, stack, palletize, and prepare merchandise and recyclable materials for storage, shipment, or sale. - Safely operate: - Manual pallet jacks - Tippers - Trash compactors - Vertical balers - Max-Pak horizontal balers - Load tippers, balers, and compactors safely and efficiently. - Maintain clean, organized, and safe work areas. - Inspect assigned equipment prior to use and report maintenance or safety concerns. - Follow all Goodwill Central Texas safety policies and Standard Operating Procedures. - Accurately report accidents, incidents, hazards, or damaged equipment. - Work collaboratively with leadership and peers to support daily production goals. - Maintain a professional image when interacting with customers, donors, and team members.- Safely operate electric walking and riding pallet jacks. - Transport palletized merchandise and recyclable materials throughout the Distribution Center. - Support efficient workflow between warehouse, dock, and outlet operations. - Cross-train in multiple operational functions to maximize workforce flexibility.
-** **
-**Required Skills & Qualifications**
-- Successful completion of Material Handler II training requirements.- Certification to operate electric walking and riding pallet jacks.- Demonstrated ability to work independently while maintaining productivity and safety standards.- Demonstrated safe work performance and satisfactory attendance.- High School diploma or equivalent preferred. - Previous warehouse, manufacturing, recycling, or distribution experience preferred. - Ability to obtain internal equipment certifications within required timeframes. - Ability to accurately follow written and verbal instructions. - Ability to meet production and quality expectations. - Strong attendance and reliability. - Bilingual English/Spanish preferred.- Physical Requirements - Ability to lift 50 lbs as needed and walk warehouse floors and outdoor lots.- Frequent standing, walking, bending, stooping, or crouching in operational areas.- Exposure to dust, heat/cold and outdoor work areas.- Must be able to safely navigate GCT outlet and post-retail facilities.- Key Competencies- Commitment to workplace safety.- Reliability and accountability.- Attention to detail.- Teamwork and collaboration.- Adaptability and willingness to learn.- Time management and productivity.- Quality-focused work habits.- Professionalism and respect.- Commitment to Goodwill Central Texas’ mission and values.
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Box Truck Driver
 

@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** November 19, 2026 at 02:57 PM
+**Generated:** November 19, 2026 at 08:59 PM
 
 ---
 
@@ -10,8 +10,8 @@
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
 | GRC (South Austin) | 11 | 31 | 100 |
-| GCC (North Austin) | 12 | 151 | 302 |
-| **TOTAL** | **23** | **182** | **402** |
+| GCC (North Austin) | 12 | 151 | 301 |
+| **TOTAL** | **23** | **182** | **401** |
 
 ---
 
@@ -137,17 +137,17 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 1 total spots across 1 sessions
+> **✅ Spaces available!** 2 total spots across 2 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 3 | **Available Spaces:** 1
+**Total Sessions:** 3 | **Available Spaces:** 2
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~11/19/2026~~ | ~~11:30AM-12:30PM~~ | Cindy | ~~1~~ | Past |
 | 11/23/2026 | 11:30AM-12:30PM | Cindy | 0 | **Full** |
-| 11/24/2026 | TBD | Cindy | 0 | **Full** |
+| 11/24/2026 | TBD | Cindy | 1 | **Available** |
 
 ---
 
@@ -159,16 +159,16 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 7 total spots across 2 sessions
+> **✅ Spaces available!** 6 total spots across 2 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-indeed-lab/
 
-**Total Sessions:** 2 | **Available Spaces:** 7
+**Total Sessions:** 2 | **Available Spaces:** 6
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~11/19/2026~~ | ~~TBD~~ | Cindy | ~~4~~ | Past |
-| 11/23/2026 | TBD | Cindy | 3 | **Available** |
+| 11/23/2026 | TBD | Cindy | 2 | **Available** |
 
 ---
 
@@ -401,11 +401,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 18 total spots across 18 sessions
+> **✅ Spaces available!** 17 total spots across 17 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-digital-skills-11/
 
-**Total Sessions:** 23 | **Available Spaces:** 18
+**Total Sessions:** 23 | **Available Spaces:** 17
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -414,7 +414,7 @@
 | 11/23/2026 | 03:30PM-04:30PM | Adryan | 0 | **Full** |
 | 11/24/2026 | 2:00pm-3:00pm | Alex | 0 | **Full** |
 | 11/25/2026 | 10:00AM-11:00AM | Adryan | 0 | **Full** |
-| 11/30/2026 | 2:00pm-3:00pm | Alex | 1 | **Available** |
+| 11/30/2026 | 2:00pm-3:00pm | Alex | 0 | **Full** |
 | 11/30/2026 | 03:00PM-04:00PM | Adryan | 1 | **Available** |
 | 12/01/2026 | 2:00pm-3:00pm | Alex | 1 | **Available** |
 | 12/02/2026 | 1:30pm-2:30pm | Alex | 1 | **Available** |
