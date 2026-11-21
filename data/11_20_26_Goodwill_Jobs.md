@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 20, 2026 at 02:34 PM
+**Last Updated:** November 20, 2026 at 08:52 PM
 
-**Total Positions:** 130
+**Total Positions:** 131
 
 ---
 
@@ -11,7 +11,7 @@
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (6)
 - [Education & Training](#education-training) (12)
-- [Management & Leadership](#management-leadership) (19)
+- [Management & Leadership](#management-leadership) (20)
 - [Other Positions](#other-positions) (77)
 - [Sales](#sales) (1)
 - [Warehouse & Transportation](#warehouse-transportation) (12)
@@ -963,6 +963,98 @@ Goodwill Excel Center is a public school and pre-employment background check and
 
 ## Management & Leadership
 
+### Retail Assistant Manager
+
+- **Location:** Leander Store, Leander, TX, US
+- **Type:** Full Time
+- **Salary:** $55,000.00 - $60,000.00
+- **Posted:** Nov 21, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590578)**
+
+#### Job Description
+
+**Assistant Store Manager – Lead With Purpose **
+**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
+Compensation is based on the store's annual revenue classification, with salary ranges varying by position and store revenue band. The approximate annual salary ranges are outlined below:
+Store Revenue Band
+Annual Store Revenue
+Assistant Store Manager
+Band 3
+$3.0M-$3.99M
+$55,000-$60,000
+Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
+**What You’ll Be Doing:**
+- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
+**Who You’ll Supervise:**
+Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
+**What You Bring:**
+- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
+**What You’ll Get:**
+- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
+**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
+**Ready to lead with heart and hustle?**
+Apply today and help us turn donations into opportunities!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### STEP - Career Case Manager
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $0.00 - $21.28
+- **Posted:** Nov 21, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590569)**
+
+#### Job Description
+
+The STEP (Supported Transition Employment Program) Career Case Manager supports the basic needs and service coordination for Goodwill clients with disabilities seeking assistance with education, job training, and employment-related services. The STEP Career Case Manager will work closely with clients in developing service plans including goals for training, education, and employment as well as providing continued programmatic follow-up supports post-placement. The STEP Career Case Manager works closely with other Workforce Advancement professionals in coordinating services provided within and outside of Goodwill. 
+This position will support STEP clients and other disability employment programs.
+**Role and Responsibilities**
+- Maintain client caseloads by supporting client’s development with respect to resume building, job applicants/job searching, interviewing and employment related soft skills. - Maintain frequent contact with clients in accordance with agency policy and procedures. - Develop partnership with clients, a strengths-based/solution-focused assessment and individualized career plan that identifies short- and long-term goals and resources that support clients on their path towards their education, training and employment goals. - Track and document goal acquisitions and support clients in their transition to the next steps according to their individual career plan. - Apply extensive knowledge of regional labor market needs and trends which will support an evidence-based career path for clients. - Coordinate with appropriate social services professionals in delivering services necessary to support clients in achieving employment stability and establishing internship relationships. - Intervene effectively and ethically in crisis, developing applicable interventions and follow-up plans to thoroughly address immediate and future needs while maintaining safety. - Enroll clients in programs, obtain information and complete reports to meet/exceed all performance targets as required by Goodwill and other funding sources. - Maintain complete and accurate records of all clients through CaseWorthy and other required client tracking databases. - Strictly adhering to all data entry requirements set forth by Goodwill and other funding sources. - Adhere to confidentiality protocols related to electronic and paper files and documents. - Coordinate and work collaboratively with GCT Career Advancement Team to connect clients with career advancement trainings and the Business Solutions team to connect clients with employment opportunities. - Maintain quality and integrity of Career Advancement Services in CaseWorthy. Pull reports as needed for department. - Participate in and contribute to community collaborations and inter-agency discussions that further the Goodwill mission and clients’ goals. - Other duties as assigned.
+**Additional Job Responsibilities for STEP Career Case Manager**
+- Effectively communicate programs and services provided at Goodwill Central Texas as well as connect clients/potential clients to community resources. - Maintain adherence to scheduling protocols by being physically present at the host business during work hours when applicable. - Demonstrate knowledge of Disability Services and maintain individualized support to STEP clients.
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities
+**Required Skills & Qualifications **
+- Bachelor’s degree (or higher) in education, business, or a social services related field. Minimum of 1 year experience with individuals with disabilities. - Must possess understanding of marginalization and how it impacts those Goodwill serves and employes. - Knowledge of Goodwill services and of community resources and business networking preferred. - Extensive experience with Microsoft Office (Word, Excel, PowerPoint, outlook), and other Social Medica applications. - Valid drivers license, proof of valid insurance and ability to travel on work related business to meet client location/service delivery needs. - Knowledge of client assessment skills, community resources coordination, career planning principles, employability skills, and crisis intervention. - Ability to conduct and/or translate training sessions bilingually preferred. 
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 15 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Retail Assistant Manager
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $45,000.00 - $50,000.00
+- **Posted:** Nov 21, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590565)**
+
+#### Job Description
+
+**Assistant Store Manager – Lead With Purpose **
+**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
+Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
+**What You’ll Be Doing:**
+- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
+**Who You’ll Supervise:**
+Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
+**What You Bring:**
+- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
+**What You’ll Get:**
+- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
+**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
+**Ready to lead with heart and hustle?**
+Apply today and help us turn donations into opportunities!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
 ### Career Case Manager
 
 - **Location:**  Austin, TX, US
@@ -1194,26 +1286,6 @@ Employment is contingent upon the successful completion of a pre-employment back
 ### Assistant Site Manager
 
 - **Location:** GRC Outlet Recyc Transp, Austin, TX, US
-- **Type:** N/A
-- **Salary:** $55,000.00 - $65,000.00
-- **Posted:** Oct 15, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588877)**
-
-#### Job Description
-
-Start strong and get rewarded. When you join our team, you’ll earn a $750 bonus after your first 30 days of employment. It’s our way of saying welcome aboard and thanks for bringing your best.
-The Assistant Site Manager supports their manager with all Post Retail Outlet and Operations in their assigned building. The Assistant Site Manager supervises all employees assigned to the Operations and Outlet team to include all day-to-day operations and administrative functions.
-**Role and Responsibilities**
-- Assists in managing all aspects of outlet, recycling, and dock operations.- Assists in managing equipment status, repairs, maintenance, and safety within Post Retail.- Recruit, select, develop, evaluate and counsel assigned employee(s). Terminate employees in accordance with Goodwill policies and in coordination with the Human Resources department.- Manage and supervise staff activities to ensure departmental goals, budgets and objectives are met.- Manage all personnel in accordance with applicable company local, state, and federal policies including ensuring compliance with all applicable OSHA requirements.- Attend meetings with other GCT departments, outside agencies, or other organizations as required.- Maintain a professional work environment and appropriate standards of safety, cleanliness and organization of both fleet and warehouse operations.- Ensures monthly revenue and expenses are in line with budget and adjust operations as necessary to meet goals.- Provide leadership, guidance, and professional development for assigned team and model expected behavior for staff. Maintain a positive relationship with management, peers, and subordinates; encourage interactions between all departments. Promote the Mission of Goodwill.- Provide excellent customer service to all Display the highest ethical standards when making decisions related to our people and business.- Other duties as assigned.
-**Supervisory Responsibility**
-This position has supervisory responsibilities over all hourly Post-Retail team members.
-**Required Skills & Qualifications **
-- Minimum 5 years’ experience in logistics, recycling, or similar field with supervisory responsibilities of 50+ employees.- Must have excellent communication skills. Bilingual preferred.- Must have excellent analytical, creative, and flexible problem-solving and decision-making skills.- Must demonstrate a maturity of practice using the 5 pillars and principles of servant leadership.- Must possess understanding of marginalization and how it impacts those Goodwill serves and employs.- Exhibit respect for diversity of thought and have experience to advance it in teams/organization.- High School Diploma or equivalent.- Must have a valid Texas Driver’s License.- Physical Requirements- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift to 50 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### Assistant Site Manager
-
-- **Location:** GRC Outlet Recyc Transp, Austin, TX, US
 - **Type:** Full Time
 - **Salary:** $55,000.00 - $65,000.00
 - **Posted:** Oct 15, 2026
@@ -1408,39 +1480,6 @@ Goodwill Central Texas is an equal opportunity employer. We celebrate diversity 
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 #IND2
 
-### Retail Assistant Manager
-
-- **Location:** Lockhart, Lockhart, TX, US
-- **Type:** Full Time
-- **Salary:** $45,000.00 - $50,000.00
-- **Posted:** Aug 26, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=586155)**
-
-#### Job Description
-
-**Assistant Store Manager – Lead With Purpose **
-Start strong and get rewarded. When you join our team, you’ll earn a **$750 bonus** after your first 30 days of employment. It’s our way of saying welcome aboard and thanks for bringing your best.
-**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
-Compensation is based on the store's annual revenue classification, with salary ranges varying by position and store revenue band. The approximate annual salary ranges are outlined below: 
-Store Revenue BandAnnual Store RevenueAssistant Store ManagerBand 1Under $2.0M$45,000-$50,000
-Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
-**What You’ll Be Doing:**
-- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
-**Who You’ll Supervise:**
-Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
-**What You Bring:**
-- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
-**What You’ll Get:**
-- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
-**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
-**Ready to lead with heart and hustle?**
-Apply today and help us turn donations into opportunities!
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-#IND2
-
 ### Purchasing Assistant Manager
 
 - **Location:**  Austin, TX, US
@@ -1606,6 +1645,32 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Other Positions
+
+### Infrastructure Engineer
+
+- **Location:**  Austin, TX, US
+- **Type:** N/A
+- **Posted:** Nov 21, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590436)**
+
+#### Job Description
+
+The Infrastructure Engineer is responsible for the design, deployment, maintenance, and automation of the organization’s on-premises and cloud infrastructure. This role ensures reliable, secure, and scalable server, storage, and network solutions while supporting business operations and growth. The Infrastructure Engineer serves as a technical escalation point, collaborates closely with internal teams and third-party vendors, and drives infrastructure modernization through automation and best practices.
+**Role and Responsibilities**
+- Deploy, configure, and maintain physical and virtual servers, storage platforms, and core infrastructure systems.- Administer and manage cloud services, with a primary focus on Microsoft Azure, including computer, storage, networking, identity, and security services.- Design, implement, and maintain network solutions to support on-premises and cloud environments, ensuring performance, availability, and security.- Manage server, infrastructure, and device patching processes to ensure systems remain secure and compliant.- Identify, prioritize, and perform vulnerability remediation across infrastructure and cloud environments.- Implement and maintain infrastructure automation using scripting, Infrastructure as Code (IaC), and configuration management tools.- Monitor infrastructure health, performance, and capacity, proactively identifying and resolving issues.- Collaborate with internal IT teams to support application deployments, integrations, and system upgrades.- Serve as a technical liaison with third-party vendors, managed service providers, and cloud partners.- Participate in infrastructure planning, lifecycle management, and continuous improvement initiatives.- Develop and maintain technical documentation, diagrams, standards, and operational procedures.- Assist with disaster recovery planning, backup strategies, and business continuity testing.- Provide escalation support for complex infrastructure and network issues.- Stay current with emerging technologies, security practices, and industry trends.- Other duties as assigned.
+** **
+**Supervisory Responsibility**
+This position does not have supervisory responsibilities.
+**Required Skills & Qualifications **
+- Bachelor’s degree in Information Technology, Computer Science, or a related field, or equivalent experience.- 5+ years of experience in infrastructure, systems engineering, or related roles.- Strong experience managing Windows Server environments and virtualization platforms.- Hands-on experience with Microsoft Azure cloud services and administration.- Basic knowledge of LAN, WAN, VPN, and firewall concepts, with hands-on experience supporting and troubleshooting network-related issues.- Experience with patch management tools and vulnerability remediation processes.- Experience working with third-party vendors and service providers.- Strong troubleshooting, analytical, and problem-solving skills.- Excellent written and verbal communication skills, with the ability to work effectively with technical and non-technical stakeholders.- Ability to manage multiple priorities in a fast-paced environment.- Availability to support after-hours maintenance or incident response as needed.- Familiarity with security frameworks and compliance requirements.- Experience with monitoring and alerting platforms.
+**Preferred Qualifications**
+- Azure certifications (AZ-104, AZ-305, or similar).- Experience with Fortinet network solutions- Experience with hybrid infrastructure environments.- Familiarity with scripting and automation tools such as PowerShell, Azure Automation, ARM/Bicep, Terraform, or similar is preferred.
+**Physical Requirements**
+- Prolonged periods of sitting at a desk and working on a computer.- Must be able to lift up to 30 pounds at times.- While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.- Specific vision abilities required include close vision, distance vision, depth perception, and ability to adjust focus.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### Software Developer
 
@@ -3924,45 +3989,6 @@ This position is responsible for fast, friendly, and accurate transactions at th
 - Responsible for being familiar with Team Member Handbook, and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
 **Knowledge & Skills**
 - Ability to read, write, and speak English sufficiently to communicate effectively with supervisors, employees, and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills, ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human-services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done- Knowledge/expertise in working with persons with disadvantages and/or disabilities and barriers
-**Prior Years Experience**
-- 0-3 years of relevant experience- High school diploma or equivalent preferred
-**Equal Employment Opportunity Statement:**
-Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
-**Background Check Requirement:**
-Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
-### Donations Processor
-
-- **Location:** Marble Falls Store, Marble Falls, TX, US
-- **Type:** Full Time
-- **Salary:** $14.00 - $15.00
-- **Posted:** Oct 05, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=588211)**
-
-#### Job Description
-
-**                                                                                                   New Hire Bonus**
-Earn up to $350 in new hire bonuses! $250 after 60 days of employment + $100 after 90 days
-This position is responsible for receiving donated goods while providing excellent customer service to Goodwill donors. Responsible for sorting donated goods and delivering them to the merchandise pricing and selecting staff to meet daily production standards and goals. Promotes and adheres to Goodwill Central Texas mission and values.
-** **
-**Store Operations**
-- Follows policies and procedures and executes directives in a timely manner.- Quickly and efficiently moves donors through the donation process and asks for assistance when necessary.- Maintains work station in a clean, organized and safe conditions.- Handles donations/products in accordance with donation guidelines.- Provides material handling assistance, as available, to support the merchandise pricing and selection team.- Follows processing guidelines. Accurately receives and sorts donations and purchased goods.- Consistently meets or exceeds production goals
-** **
-**Customer Service**
-- Creates a high level of customer service throughout the store ensuring customers experience a welcoming atmosphere.- Ensures donors follow our unloading donation process while providing excellent customer service.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Maintains a favorable working relationship with other employees to foster and promote a cooperative and inclusive working climate.- Provides excellent customer service by greeting, assisting and thanking customers while meeting customer’s needs in a timely manner.- Ensures customer concerns and complaints are handled to the customers satisfaction.- Projects a favorable image of Goodwill Central Texas at all times.
-** **
-**Safety & Risk**
-- Follows and adheres to loss prevention and safety procedures and initiatives.- Uses and maintains personal protective equipment (PPE).- Participates in weekly safety huddles, monthly safety meetings, and drills.- Works to reduce worker’s compensation incidents and customer accidents.- Uses proper lifting techniques.- Uses power equipment responsibly and with appropriate certification.- Identifies recall products and properly removes them from processing.
-** **
-**Services & Programs**
-- Provide a work environment to train and develop participants in achieving their goals.- Executes job duties in a manner that promotes employment and a quality participant experience; assists in the training and development of participants.- Works respectfully and effectively across cultures.- Understands and actively supports the organization’s diversity and inclusion efforts.- Acts as a good role model.
-** **
-**Other Duties**
-- Responsible for being familiar with Goodwill Central Texas Team Member Handbook and organizational policies, as well as where to find the most up-to-date versions on the intranet- Other duties as assigned
-** **
-**Knowledge & Skills**
-- Ability to read, write and speak English sufficiently to communicate effectively with supervisors, employees and customers- Ability to work independently and coordinate multiple projects simultaneously- Excellent organizational skills; the ability to prioritize- Excellent decision-making skills- Strong attention to details- Ability and desire to provide excellent customer service- Ability to interact with a diverse population in a human services setting- High level of initiative and self-motivation- Perseverance and commitment to getting the job done
-** **
 **Prior Years Experience**
 - 0-3 years of relevant experience- High school diploma or equivalent preferred
 **Equal Employment Opportunity Statement:**

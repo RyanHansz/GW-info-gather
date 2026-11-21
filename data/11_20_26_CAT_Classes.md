@@ -1,7 +1,7 @@
 # Goodwill Central Texas
 # Career Advancement Training (CAT) Classes
 
-**Generated:** November 20, 2026 at 02:35 PM
+**Generated:** November 20, 2026 at 08:54 PM
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Location | Classes | Sessions | Available Spaces |
 |----------|---------|----------|------------------|
-| GRC (South Austin) | 11 | 31 | 97 |
-| GCC (North Austin) | 12 | 151 | 300 |
-| **TOTAL** | **23** | **182** | **397** |
+| GRC (South Austin) | 11 | 44 | 114 |
+| GCC (North Austin) | 12 | 151 | 299 |
+| **TOTAL** | **23** | **195** | **413** |
 
 ---
 
@@ -27,16 +27,18 @@
 
 **Duration:** 1.5 hours
 
-> **✅ Spaces available!** 4 total spots across 1 sessions
+> **✅ Spaces available!** 11 total spots across 3 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-budgeting-basics/
 
-**Total Sessions:** 2 | **Available Spaces:** 4
+**Total Sessions:** 4 | **Available Spaces:** 11
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | 11/23/2026 | TBD | Cindy | 0 | **Full** |
-| 11/24/2026 | 2:30PM-4:30PM | Cindy | 4 | **Available** |
+| 11/24/2026 | 2:30PM-4:30PM | Cindy | 3 | **Available** |
+| 12/01/2026 | TBD | Cindy | 4 | **Available** |
+| 12/22/2026 | TBD | Cindy | 4 | **Available** |
 
 ---
 
@@ -137,17 +139,28 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 2 total spots across 2 sessions
+> **✅ Spaces available!** 13 total spots across 13 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 3 | **Available Spaces:** 2
+**Total Sessions:** 14 | **Available Spaces:** 13
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
-| ~~11/19/2026~~ | ~~11:30AM-12:30PM~~ | Cindy | ~~1~~ | Past |
 | 11/23/2026 | 11:30AM-12:30PM | Cindy | 0 | **Full** |
 | 11/24/2026 | TBD | Cindy | 1 | **Available** |
+| 11/30/2026 | TBD | Cindy | 1 | **Available** |
+| 12/01/2026 | TBD | Cindy | 1 | **Available** |
+| 12/02/2026 | TBD | Cindy | 1 | **Available** |
+| 12/03/2026 | 11:30AM-12:30PM | Cindy | 1 | **Available** |
+| 12/07/2026 | TBD | Cindy | 1 | **Available** |
+| 12/14/2026 | TBD | Cindy | 1 | **Available** |
+| 12/17/2026 | TBD | Cindy | 1 | **Available** |
+| 12/21/2026 | TBD | Cindy | 1 | **Available** |
+| 12/22/2026 | TBD | Cindy | 1 | **Available** |
+| 12/23/2026 | TBD | Cindy | 1 | **Available** |
+| 12/29/2026 | TBD | Cindy | 1 | **Available** |
+| 12/30/2026 | TBD | Cindy | 1 | **Available** |
 
 ---
 
@@ -159,16 +172,16 @@
 
 **Duration:** 2 hours | **Requirements:** Access to Indeed and email account.
 
-> **✅ Spaces available!** 5 total spots across 2 sessions
+> **✅ Spaces available!** 4 total spots across 1 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/grc-indeed-lab/
 
-**Total Sessions:** 2 | **Available Spaces:** 5
+**Total Sessions:** 2 | **Available Spaces:** 4
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
 | ~~11/19/2026~~ | ~~TBD~~ | Cindy | ~~4~~ | Past |
-| 11/23/2026 | TBD | Cindy | 1 | **Available** |
+| 11/23/2026 | TBD | Cindy | 0 | **Full** |
 
 ---
 
@@ -443,11 +456,11 @@
 
 **Duration:** 1 hour
 
-> **✅ Spaces available!** 20 total spots across 20 sessions
+> **✅ Spaces available!** 19 total spots across 19 sessions
 
 **Sign-up URL:** https://gwcareeradvancement.wufoo.com/forms/gcc-11-financial-empowerment-trainings/
 
-**Total Sessions:** 24 | **Available Spaces:** 20
+**Total Sessions:** 24 | **Available Spaces:** 19
 
 | Date | Time | Instructor | Spaces | Status |
 |------|------|------------|--------|--------|
@@ -457,7 +470,7 @@
 | ~~11/20/2026~~ | ~~11:30AM-12:30PM~~ | Doug | ~~0~~ | Past |
 | 11/24/2026 | 11:30AM-12:30PM | Doug | 0 | **Full** |
 | 11/30/2026 | 11:30AM-12:30PM | Doug | 0 | **Full** |
-| 12/01/2026 | 11:30AM-12:30PM | Doug | 1 | **Available** |
+| 12/01/2026 | 11:30AM-12:30PM | Doug | 0 | **Full** |
 | 12/01/2026 | 3:00PM-4:00PM | Doug | 1 | **Available** |
 | 12/02/2026 | 11:30AM-12:30PM | Doug | 1 | **Available** |
 | 12/03/2026 | 11:30AM-12:30PM | Doug | 1 | **Available** |

@@ -1,9 +1,9 @@
 {
-  "scraped_at": "2026-11-20T14:35:51.727164",
+  "scraped_at": "2026-11-20T20:54:17.497935",
   "source": "Goodwill Central Texas - Career Advancement Training Wufoo Forms",
   "total_classes": 23,
-  "total_sessions": 182,
-  "available_sessions": 112,
+  "total_sessions": 195,
+  "available_sessions": 124,
   "classes": [
     {
       "class_name": "Budgeting Basics",
@@ -42,15 +42,39 @@
           "time_end": "16:30",
           "time_display": "2:30PM-4:30PM",
           "instructor": "Cindy",
+          "spots_remaining": 3,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "11/24/26, 2:30–4:30 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
+        },
+        {
+          "date": "2026-12-01",
+          "date_display": "12/01/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
           "spots_remaining": 4,
           "is_full": false,
           "is_past": false,
-          "raw_text": "11/24/26, 2:30–4:30 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+          "raw_text": "12/01/26, 1–3 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
+        },
+        {
+          "date": "2026-12-22",
+          "date_display": "12/22/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 4,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/22/26, 1–3 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:34:37.266507",
-      "total_sessions": 2,
-      "available_sessions": 1
+      "last_updated": "2026-11-20T20:53:01.116034",
+      "total_sessions": 4,
+      "available_sessions": 3
     },
     {
       "class_name": "Career Advancement Essentials",
@@ -83,7 +107,7 @@
           "raw_text": "December 7-10, 9:00am-Noon, Cindy\n\t\t\t\t\t\t\t\t\t -- 9 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:34:40.642160",
+      "last_updated": "2026-11-20T20:53:04.492698",
       "total_sessions": 1,
       "available_sessions": 0
     },
@@ -166,7 +190,7 @@
           "raw_text": "12/28/2026, 09:30-10:30 AM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:34:43.980684",
+      "last_updated": "2026-11-20T20:53:07.922437",
       "total_sessions": 5,
       "available_sessions": 5
     },
@@ -225,7 +249,7 @@
           "raw_text": "06/25/26, 1:00-3:00 pm; Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:34:47.330934",
+      "last_updated": "2026-11-20T20:53:11.386426",
       "total_sessions": 3,
       "available_sessions": 0
     },
@@ -296,7 +320,7 @@
           "raw_text": "12/18/2026, 02:00-03:00 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:34:50.673197",
+      "last_updated": "2026-11-20T20:53:14.855179",
       "total_sessions": 4,
       "available_sessions": 4
     },
@@ -317,18 +341,6 @@
           "is_full": true,
           "is_past": false,
           "raw_text": "Select from Dropdown\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
-        },
-        {
-          "date": "2026-11-19",
-          "date_display": "11/19/2026",
-          "time_start": "11:30",
-          "time_end": "12:30",
-          "time_display": "11:30AM-12:30PM",
-          "instructor": "Cindy",
-          "spots_remaining": 1,
-          "is_full": false,
-          "is_past": true,
-          "raw_text": "11/19/26, 11:30 AM–12:30 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         },
         {
           "date": "2026-11-23",
@@ -353,11 +365,155 @@
           "is_full": false,
           "is_past": false,
           "raw_text": "11/24/26, 1–2 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-11-30",
+          "date_display": "11/30/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "11/30/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-01",
+          "date_display": "12/01/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/01/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-02",
+          "date_display": "12/02/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/02/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-03",
+          "date_display": "12/03/2026",
+          "time_start": "11:30",
+          "time_end": "12:30",
+          "time_display": "11:30AM-12:30PM",
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/03/26, 11:30 AM–12:30 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-07",
+          "date_display": "12/07/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/07/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-14",
+          "date_display": "12/14/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/14/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-17",
+          "date_display": "12/17/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/17/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-21",
+          "date_display": "12/21/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/21/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-22",
+          "date_display": "12/22/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/22/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-23",
+          "date_display": "12/23/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/23/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-29",
+          "date_display": "12/29/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/29/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+        },
+        {
+          "date": "2026-12-30",
+          "date_display": "12/30/2026",
+          "time_start": null,
+          "time_end": null,
+          "time_display": null,
+          "instructor": "Cindy",
+          "spots_remaining": 1,
+          "is_full": false,
+          "is_past": false,
+          "raw_text": "12/30/26, 3–4 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:34:54.024956",
-      "total_sessions": 3,
-      "available_sessions": 1
+      "last_updated": "2026-11-20T20:53:18.307623",
+      "total_sessions": 14,
+      "available_sessions": 13
     },
     {
       "class_name": "Indeed Lab",
@@ -396,15 +552,15 @@
           "time_end": null,
           "time_display": null,
           "instructor": "Cindy",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "11/23/26, 1–3 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "11/23/26, 1–3 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:34:57.337585",
+      "last_updated": "2026-11-20T20:53:21.789470",
       "total_sessions": 2,
-      "available_sessions": 1
+      "available_sessions": 0
     },
     {
       "class_name": "Interview Preparation & Practice",
@@ -449,7 +605,7 @@
           "raw_text": "11/24/26, 9–11 AM; Cindy\n\t\t\t\t\t\t\t\t\t -- 3 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:00.649837",
+      "last_updated": "2026-11-20T20:53:25.233070",
       "total_sessions": 2,
       "available_sessions": 1
     },
@@ -508,7 +664,7 @@
           "raw_text": "11/24/26, 11:30 AM–12:30 PM; Cindy\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:03.968635",
+      "last_updated": "2026-11-20T20:53:28.642223",
       "total_sessions": 3,
       "available_sessions": 0
     },
@@ -591,7 +747,7 @@
           "raw_text": "12/28/2026, 11:00 AM-12:00 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:07.310678",
+      "last_updated": "2026-11-20T20:53:32.045238",
       "total_sessions": 5,
       "available_sessions": 5
     },
@@ -614,7 +770,7 @@
           "raw_text": "November 30 - December 4; Alex\n\t\t\t\t\t\t\t\t\t -- 6 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:10.499357",
+      "last_updated": "2026-11-20T20:53:35.387447",
       "total_sessions": 1,
       "available_sessions": 1
     },
@@ -793,7 +949,7 @@
           "raw_text": "12/18/26, 1:00-3:00 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:13.819443",
+      "last_updated": "2026-11-20T20:53:38.854481",
       "total_sessions": 13,
       "available_sessions": 9
     },
@@ -816,7 +972,7 @@
           "raw_text": "December 14 - 18, 9:00am - 12:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 7 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:17.178998",
+      "last_updated": "2026-11-20T20:53:42.320637",
       "total_sessions": 1,
       "available_sessions": 0
     },
@@ -1019,7 +1175,7 @@
           "raw_text": "12/30/2026, 09:30-10:30 AM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:20.544927",
+      "last_updated": "2026-11-20T20:53:45.853258",
       "total_sessions": 14,
       "available_sessions": 14
     },
@@ -1042,7 +1198,7 @@
           "raw_text": "-- 0 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:23.893303",
+      "last_updated": "2026-11-20T20:53:49.125631",
       "total_sessions": 0,
       "available_sessions": 0
     },
@@ -1341,7 +1497,7 @@
           "raw_text": "12/30/2026, 02:00-03:00 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:27.269115",
+      "last_updated": "2026-11-20T20:53:52.592394",
       "total_sessions": 23,
       "available_sessions": 17
     },
@@ -1442,10 +1598,10 @@
           "time_end": "12:30",
           "time_display": "11:30AM-12:30PM",
           "instructor": "Doug",
-          "spots_remaining": 1,
-          "is_full": false,
+          "spots_remaining": 0,
+          "is_full": true,
           "is_past": false,
-          "raw_text": "12/01/26, 11:30 AM - 12:30 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
+          "raw_text": "12/01/26, 11:30 AM - 12:30 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         },
         {
           "date": "2026-12-01",
@@ -1652,9 +1808,9 @@
           "raw_text": "12/21/26, 3:00 - 4:00 PM; Doug\n\t\t\t\t\t\t\t\t\t -- 1 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:30.661692",
+      "last_updated": "2026-11-20T20:53:56.095598",
       "total_sessions": 24,
-      "available_sessions": 18
+      "available_sessions": 17
     },
     {
       "class_name": "Indeed Lab",
@@ -1747,7 +1903,7 @@
           "raw_text": "12/17/26, 1:00-3:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:33.894204",
+      "last_updated": "2026-11-20T20:53:59.549816",
       "total_sessions": 7,
       "available_sessions": 0
     },
@@ -1866,7 +2022,7 @@
           "raw_text": "12/21/26, 1:00-3:00 pm; Doug\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:37.239449",
+      "last_updated": "2026-11-20T20:54:02.992334",
       "total_sessions": 8,
       "available_sessions": 7
     },
@@ -2249,7 +2405,7 @@
           "raw_text": "12/29/26, 3:00-4:00pm; Alex\n\t\t\t\t\t\t\t\t\t -- 0 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:40.453491",
+      "last_updated": "2026-11-20T20:54:06.366076",
       "total_sessions": 30,
       "available_sessions": 0
     },
@@ -2368,7 +2524,7 @@
           "raw_text": "12/21/26, 9:30–11:30 AM; Doug\n\t\t\t\t\t\t\t\t\t -- 7 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:43.787369",
+      "last_updated": "2026-11-20T20:54:09.781386",
       "total_sessions": 8,
       "available_sessions": 8
     },
@@ -2511,7 +2667,7 @@
           "raw_text": "12/30/2026, 12:30-02:00 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:47.141792",
+      "last_updated": "2026-11-20T20:54:13.042887",
       "total_sessions": 10,
       "available_sessions": 8
     },
@@ -2690,7 +2846,7 @@
           "raw_text": "12/30/2026, 11:00 AM-12:00 PM; Adryan\n\t\t\t\t\t\t\t\t\t -- 4 remaining"
         }
       ],
-      "last_updated": "2026-11-20T14:35:50.682204",
+      "last_updated": "2026-11-20T20:54:16.448883",
       "total_sessions": 13,
       "available_sessions": 12
     }
