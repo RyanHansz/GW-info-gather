@@ -1,6 +1,6 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 24, 2026 at 12:04 AM
+**Last Updated:** November 24, 2026 at 04:54 PM
 
 **Total Positions:** 126
 
@@ -11,11 +11,10 @@
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (6)
 - [Education & Training](#education-training) (12)
-- [Management & Leadership](#management-leadership) (19)
-- [Other Positions](#other-positions) (73)
+- [Management & Leadership](#management-leadership) (20)
+- [Other Positions](#other-positions) (74)
 - [Sales](#sales) (1)
 - [Warehouse & Transportation](#warehouse-transportation) (12)
-- [eCommerce](#ecommerce) (2)
 
 ---
 
@@ -234,7 +233,7 @@ All qualified applicants will receive consideration for employment without regar
 ### Custodian
 
 - **Location:**  Austin, TX, US
-- **Type:** Part Time
+- **Type:** Full Time
 - **Salary:** $0.00 - $17.00
 - **Posted:** Nov 04, 2026
 - **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=589675)**
@@ -965,6 +964,35 @@ Goodwill Excel Center is a public school and pre-employment background check and
 
 ### Retail Assistant Manager
 
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Salary:** $45,000.00 - $50,000.00
+- **Posted:** Nov 25, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590694)**
+
+#### Job Description
+
+**Assistant Store Manager – Lead With Purpose **
+**Quarterly Bonus Potential: Assistant Store Managers have the potential to earn up to a max of 12.5% of their quarterly salary based on performance in key metrics in their department.**
+Looking to grow your retail career *and* earn a bonus while making a real difference in your community? We're hiring an enthusiastic, hands-on **Assistant Store Manager** to help lead our retail team. You’ll partner with the Retail General Manager to oversee daily operations, guide an amazing team, and create outstanding customer experience. When the GM’s away, you step in to keep everything running smoothly. 
+**What You’ll Be Doing:**
+- Support the Retail GM in leading store operations, staffing, merchandising, and customer service.- Supervise and mentor retail, donation, and production staff.- Manage scheduling, inventory control, cash handling, and store opening/closing.- Jump in on the floor when needed—assist donors, sort inventory, and serve customers.- Drive store productivity while maintaining safety, cleanliness, and compliance.- Take the lead on all store operations in the absence of the General Manager.
+**Who You’ll Supervise:**
+Sales Associates, Merchandise Processors and Retail Supervisors. Your leadership will make a real impact on team performance and morale.
+**What You Bring:**
+- High School diploma or equivalent; college a plus- 5+ years of experience in retail or similar roles- 2+ years in a supervisory or management position- Strong organizational, scheduling, and communication skills- A customer-first attitude and team-focused mindset- Ability to lift up to 35 lbs and stay active throughout your shift
+**What You’ll Get:**
+- **Health Benefits** – Medical, dental, and vision coverage- **Generous PTO** – Paid vacation, holidays, and personal days- **Paid Parental Leave** – Support when your family grows- **Career Growth** – Leadership development and training opportunities- **Wellness Support** – Mental health resources and gym memberships- **Recognition Programs** – We celebrate your wins and contributions- **Inclusive Culture** – A welcoming, diverse, and mission-driven team
+**Weekend and holiday availability is a must**—we’re looking for a leader who thrives in a fast-paced retail environment.
+**Ready to lead with heart and hustle?**
+Apply today and help us turn donations into opportunities!
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+
+### Retail Assistant Manager
+
 - **Location:** Leander Store, Leander, TX, US
 - **Type:** Full Time
 - **Salary:** $55,000.00 - $60,000.00
@@ -1619,6 +1647,84 @@ Employment is contingent upon the successful completion of a pre-employment back
 ---
 
 ## Other Positions
+
+### Communications & Events Specialist
+
+- **Location:**  Austin, TX, US
+- **Type:** Full Time
+- **Posted:** Nov 24, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590673)**
+
+#### Job Description
+
+The Goodwill Central Texas Marketing team supports a diverse and complex organization, serving internal stakeholders and community members across Retail, Commercial Services, Goodwill Staffing Group, GCTA Technical College, Excel Center Adult High School, Business and Community Engagement, Workforce Advancement Programs, and Development.
+The Communications and Events Specialist holds primary ownership of all organization-wide events that require marketing support – graduations, job fairs, facility tours, grand openings, fundraising and other hosted events. Coordinates conference, tradeshow, and speaking opportunity participation. Provides collaborative support with content creation and collateral development, supports increased brand awareness, enrollment, and engagement through compelling storytelling and public-facing initiatives.
+**Role and Responsibilities:**
+**Events Strategy, Planning, and Execution**
+•Serves as the primary owner of events for all GWCTX business units, leading planning, coordination, communication, logistics, execution, and budget management.
+•Owns and manages an enterprise-wide event and external engagement calendar with input from division stakeholders, ensuring timely, accurate, and consistent communication, as well as appropriate scheduling and resourcing for all events.
+•Develops event objectives in accordance with the goals outlined in the Strategic Marketing Plan
+•Owns all event-related vendor, partner, and venue management and communication
+•Owns event timelines, budgets, expenses, and logistics
+•Tracks registrations and RSVPs, pre- and post-event communication
+•Manages staffing and volunteer coordination, run-of-show & production schedules
+•Ensures appropriate signage and promotional materials with adequate lead times
+•Coordinates event photography and video (in-house or professional)
+•Conducts post-event analysis, reporting on success metrics and ROI, makes recommendations for improvement.
+**Events include, but are not limited to:**
+- GCTA Academy and Excel Adult High School: open houses, graduations, community and student events and outreach, stakeholder engagement events- Retail: store grand openings, media tours, community engagement events- Social Enterprise, Development, Business and Community Engagement, Workforce Advancement: job fairs, partner events and tours, fundraising and business development events, community outreach events, sponsorships- Regular event attendance is required as part of this role and may occasionally entail evenings and weekends.
+**Content, Collateral, & Storytelling**
+•Designs marketing and communication materials, including flyers, brochures, presentations, digital assets, event materials, and org-wide promotional content (for print and digital).
+•Assists Senior Content Strategist and Content Producer with developing compelling success stories featuring students, alumni, staff, programs, and mission impact
+•Interviews clients, students, alumni, staff, and stakeholders to gather stories with professionalism and empathy.
+•Assists Senior Content Strategist in creating, editing, and socializing written, visual, and digital content for internal and external communication channels including web, email, and social campaigns.
+•Ensures all materials align with appropriate brand standards, mission, values, and approved messaging.
+**Communications and Visibility**
+•Serves as liaison for external visibility and communications efforts such as conference and tradeshow participation, and speaking engagements for leadership team (keynotes, media interviews, podcasts). These opportunities will be identified and vetted by PR team.
+•Develops speaker presentations (external and internal) and coordinates speaker preparation
+•Captures content for repurposing, works with Senior Content Strategist to maximize story telling opportunities
+•Coordinates between media, organizers, PR firm and internal stakeholders to ensure clear communication, sufficient preparation, support materials, scheduling & logistics.
+•Directs media inquiries as appropriate
+•Establishes workflows and SOPs to ensure smooth operations and communications around visibility efforts
+**Supervisory Responsibility**
+This role does not have direct reports.
+**Required Skills & Qualifications**
+•4+ years of experience with event (or other complex workflow) management, external communications, media relations, and content creation
+•Exceptional organizational and time-management skills, with the ability to prioritize competing demands, manage multiple projects simultaneously, and maintain a high level of accuracy in a fast-paced environment.
+•Planning and executing events from concept through post-event evaluation
+•Managing multiple events simultaneously
+•Vendor and stakeholder coordination
+•Event budgets and reporting
+•Executive or speaker support
+•Demonstrated ability to develop visual and written content – strong design, writing and editing skills
+•Experience with Microsoft Office required
+•Experience with Adobe Creative Cloud required (InDesign, Photoshop, Illustrator)
+•Experience with a large, multi-brand organization strongly preferred
+•Exceptional judgment, professionalism, adaptability, and problem-solving skills, with the confidence to make sound, data-informed recommendations.
+•Initiative to independently identify issues and develop effective solutions.
+•Occasional evening/weekend work as needed
+•Local/regional travel in Texas as needed
+•Ability to work onsite for extended periods during events
+•Ability to lift/move event materials
+**Physical Requirements**
+•Prolonged periods of sitting at a desk and working on a computer.
+•Must be able to lift to 15 pounds at times.
+•While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear.
+•The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus.
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
+** **
+**What We Offer**
+**Comprehensive Health Coverage**: We provide top-tier medical, dental, and vision insurance to ensure you and your family stay healthy and happy.
+**Generous Paid Time Off**: Recharge with our generous PTO policy, which includes vacation days, personal days, and 9 holidays.
+**Paid Parental Leave:** We understand the importance of family. We offer a generous parental leave policy to support you during this significant life event.
+**Professional Development Opportunities**: We believe in continuous growth! Take advantage of our access to workshops and online courses.
+**Wellness Programs**: Prioritize your well-being with our wellness initiatives, including gym memberships and mental health support.
+**Employee Recognition Programs**: We celebrate our team members’ achievements with recognition awards.
+**Diverse and Inclusive Culture**: Join a workplace that values diversity and inclusion, with regular team-building activities and events that foster a sense of belonging.
+All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Pre-employment background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ### Donations Processor
 
@@ -4369,54 +4475,5 @@ Ready to drive your career forward with purpose? Apply today and be part of some
 Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
 **Background Check Requirement:**
 Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
-
----
-
-## eCommerce
-
-### eCommerce Lister
-
-- **Location:** Ecommerce, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $15.00
-- **Posted:** Nov 12, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590124)**
-
-#### Job Description
-
-**Summary of Position**
-The E-commerce Lister creates listings for products sold online to meet department standards and daily production and revenue goals. 
-**Role and Responsibilities**
-- Inspect each item to determine key details and flaws.- Photographs each item to visibly communicate all details about each item to potential bidders/customers.- Writes clear and concise item listings that communicates all critical details about an item to potential bidders/customers.- Researching products prior to listing as needed.- Accurately uses grammar, spelling and punctuation in item listings.- Assigns each product to relevant inventory location.- Meets department production goals for listing items.- Develops personal product base of knowledge to reduce need for detailed research.- Performs research as needed to provide accurate and robust product descriptions.- Adhere to the established standard of quality for item descriptions and item photographs.- Responds promptly to customer service requests as needed.- Cross-trains as necessary in other functions of store operations and assists as needed in other areas of the store.- Works schedule set by supervisor in support of department, including work on weekends and holidays as needed.- Provides exceptional customer service to all our donors and customers.- Maintains a professional demeanor at all times.- Maintains a clean, safe and organized work environment, including production area.- Maintains a professional appearance adhering to established dress code.- Complies with all GCT policies, including, but not limited to, reporting theft or misuse of company property or other illegal activities.- Other duties as assigned.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities
-**Required Skills & Qualifications**
-- Prior experience working in a warehouse environment preferred.- Must be able to multi-task to meet daily production quotas.- Typing speed of 35 WPM or higher.- Must be able to read, write, understand and follow directions in English.- Ability to develop personal product knowledge base.- Prior eCommerce or online selling experience preferred.- Previous thrift industry experience preferred.- Prior experience with online research for identifying collectibles preferred.- Prior digital photography experience preferred.- Highly skilled with Windows PC and operating system.
-**Physical Requirements**
-- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
-
-### E-Commerce Team Member
-
-- **Location:** Ecommerce, Austin, TX, US
-- **Type:** Full Time
-- **Salary:** $0.00 - $15.00
-- **Posted:** Nov 12, 2026
-- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590122)**
-
-#### Job Description
-
-**Summary of Position**
-The E-commerce Team Member works in a fast-paced environment performing a variety of critical operational and online tasks. Including but not limited to reviewing donations for authenticity and value, online research, tracking and processing of donations, creating accurate online item listings to advertise and sell high value donations, packaging and shipping of sold merchandise and providing excellent customer service at all times.
-**Job Description**
-**Role and Responsibilities**
-- Moves material within the E-commerce warehouse or office as needed using rolling carts, dollies or pallet jacks as needed.- Sorts and processes a wide variety of merchandise accordingly to department standards.- Tracks, labels, and records all processed merchandise using online tracking system.- Sorts jewelry and separates into precious metals, designer brands, costume jewelry, scrap jewelry or bulk lots according to department standards.- Tests precious metals and gemstones using assigned equipment accordingly to safety guidelines.- Photographs each item to visibly identify all critical details about each item to potential bidders/customers.- Writes clear and concise item listings that communicates all critical details about an item to potential bidders/customers.- Accurately uses grammar, spelling and punctuation in item listings.- Pulls sold orders from inventory shelves and stages in the correct area for packing or pick up.- Conducts inventory purges as needed.- Packages and ships each item in the most cost-effective manner to the correct customer.- Meets hourly and daily production goals of any assigned task.- Other duties as assigned.
-**Supervisory Responsibility**
-This position does not have supervisory responsibilities.
-**Required Skills & Qualifications**
-- Prior experience working in a warehouse environment preferred.- Basic computer skills.- Must be able to multi-task to meet daily production quotas.
-** Physical Requirements**
-- Ability to work in a non-climate-controlled environment.- Must be able to lift and carry up to 50 pounds at times.- Must be able to stand, bend and twist for eight hours.- While performing the duties of this job, the employee is frequently exposed to airborne particles.
-All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status. Post offer background check is required to ensure applicant meets all eligibility requirements for the assigned customer/location. Alternative work locations may be offered as appropriate.
 
 ---
