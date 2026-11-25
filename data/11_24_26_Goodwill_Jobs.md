@@ -1,8 +1,8 @@
 # Goodwill Central Texas Job Listings
 
-**Last Updated:** November 24, 2026 at 04:54 PM
+**Last Updated:** November 24, 2026 at 10:52 PM
 
-**Total Positions:** 126
+**Total Positions:** 127
 
 ---
 
@@ -10,7 +10,7 @@
 
 - [Child Development](#child-development) (1)
 - [Custodial Services](#custodial-services) (6)
-- [Education & Training](#education-training) (12)
+- [Education & Training](#education-training) (13)
 - [Management & Leadership](#management-leadership) (20)
 - [Other Positions](#other-positions) (74)
 - [Sales](#sales) (1)
@@ -354,6 +354,38 @@ All qualified applicants will receive consideration for employment without regar
 ---
 
 ## Education & Training
+
+### Marketing Coordinator
+
+- **Location:**  Austin, TX, US
+- **Type:** Part Time
+- **Salary:** $18.00 - $20.00
+- **Posted:** Nov 25, 2026
+- **[Apply Here](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=590685)**
+
+#### Job Description
+
+The Goodwill Central Texas Marketing team supports a diverse and complex organization, serving internal stakeholders and community members across Retail, Commercial Services, Goodwill Staffing Group, GCTA Technical College, Excel Center Adult High School, Business and Community Engagement, Workforce Advancement Programs, and Development. 
+The Marketing Coordinator supports the marketing team with critical tasks like event coordination, external and internal communications, content capture for social channels, writing and copyediting assistance, data and file management, account administration, and additional tasks as assigned
+**Role and Responsibilities**** **
+**Content Capture **
+- Working from content plans developed by the Digital Marketing Manager, capture video and static content at Goodwill retail stores, as well as other business units such as Social Enterprise, EXCEL adult high school, GCTA, Workforce Advancement, and Goodwill events - Edit content for appropriate social channels using tools like Capcut, Canva, and Adobe Creative Suite 
+**Content and Creative Development**
+- Assists Content Strategist with writing and editing marketing copy for blogs, ads, web - Assists Creative Team with design and production of branded marketing collateral such as flyers, brochures, newsletters, email campaigns, ads, and other visual creative in accordance with brand standards - Assist Creative Team in development of store graphics, environmental and wayfinding graphics, and promotional signage - Assists with mission impact stories including interviews, testimonial development, review and feedback solicitation 
+**Event Support**
+- Assists Events and Communications Specialist with events planning and execution, including communication with attendees, vendor and venue coordination, day-of support - Events include, but are not limited to fundraising, graduations and convocations, community outreach, business development events 
+**Administrative duties**
+- Assists the marketing team with daily administrative duties like file organization and management, supply ordering, printing, sourcing materials for creative campaigns, and other duties as assigned. 
+** **
+**Required Skills & Qualifications **
+- This role requires regular travel to Goodwill Central Texas retail locations and other Goodwill facilities like the Resource Center, Distribution Center, Outlets, education facilities, job sites, and other travel within Central Texas as needed - Basic design acumen, ability to design basic marketing assets based on provided brand standards - Experience with planning, capturing and editing content for social media - Experience with writing and editing marketing copy - Experience with Adobe Creative Cloud, Microsoft Office, Canva, and other creative tools - Organized, detail-oriented, proactive team player - Proficiency in Spanish preferred but not required 
+**Physical Requirements **
+- Prolonged periods of sitting at a desk and working on a computer. - Must be able to lift to 15 pounds at times. - While performing the duties of this job, the employee is frequently required to walk; balance; stoop, kneel, crouch, and talk or hear. - The ability to cope with and tolerate moderate levels of stress is also a necessity. Specific vision abilities required by this job include close vision, distance vision, depth perception and ability to adjust focus. 
+** **
+**Equal Employment Opportunity Statement:**
+Goodwill Central Texas is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all Team Members. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, protected veteran status, gender identity, sexual orientation, or any other characteristic protected by law.
+**Background Check Requirement:**
+Employment is contingent upon the successful completion of a pre-employment background check. This may include verification of employment history, education, criminal background, and other information relevant to the position.
 
 ### ESL Teacher (Night)
 
